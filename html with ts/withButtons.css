@@ -114,3 +114,7 @@ li {
 #myBtn {
   position: absolute;
 } 
+
+#whiteText {
+  color: white;
+}
