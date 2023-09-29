@@ -78,6 +78,15 @@ i {}
   float: left;
 }
 
+.container {
+  display: flex; /* or inline-flex */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
 .rainbow {
   text-align: center;
   text-decoration: underline;
