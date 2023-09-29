@@ -1,0 +1,145 @@
+<html>
+<head>
+    <title >my website</title>
+    <link href="withButtons.css" rel="stylesheet" type="text/css">
+    <script src="withButtons.js"></script>
+</head>
+<body onload="hideTable()" onload="random()" onload="getQuote()">
+    <button type="button" id="myBtn" onclick="Random()">Catch me if you can</button>
+    <h1 class="rainbow rainbow_text_animated">Hello world</h1>
+    <meta charset="UTF-8">
+    <p id="quote"></p>
+    <button type="button" onclick="getQuote()">Kanye me up</button>
+    <br>
+    <!--<button type="button" onclick="getAPOD()">APOD</button>
+    <img id="apod" src="" height="500" </img>
+    <p id="apod_title"></p>
+    <p id="apod_explanation"></p>-->
+    <a href="space.html">Click here to view space stuffs</a>
+    <p>My name is <strong>Nial McCallister</strong></p>
+    <p>I am <strong>18</strong> years old</p>
+    <p>I am a <i>BAE DI apprentice</i> doing software engineering</p>
+    <br>
+    <!--<input type="date" id="date">
+    <button type="button" onclick="getAPODcal()">Submit</button>
+    <br>-->
+    <p>My favourite games are:</p>
+    <div class="container">
+      <div class="shadowBoxFloat">
+          <p>CoD: MW 2 <button type="button" onclick="click2img('mw2')">See artwork</button> <img id="mw2" src="" height="100" </img> </p>
+      </div>
+      <div class="shadowBoxFloat">
+          <p>GTA V <button type="button" onclick="click2img('gta')">See artwork</button> <img id="gta" src="" height="100"</p>
+      </div>
+      <div class="shadowBoxFloat">
+          <p>Valorant <button type="button" onclick="click2img('valorant')">See artwork</button> <img id="valorant" src="" height="100" </img></p>
+      </div>
+      <div class="shadowBoxFloat">
+          <p>CoD: MW 2019 <button type="button" onclick="click2img('mw')">See artwork</button> <img id="mw" src="" height="100"</p>
+      </div>
+      <div class="shadowBoxFloat">
+          <p>CoD: Warzone <i class="rainbow_text_animated">Verdansk > Caldera</i> <button type="button" onclick="click2img('wz')">See artwork</button> <img id="wz" src="" height="100"</p>
+      </div>
+    </div>
+    <p> <br>These are my pc specs: <a href="https://uk.pcpartpicker.com/b/VVCzK8"> here </a></p>
+    <button type="button" onclick="unhideTable()">See table</button>
+    <button type="button" onclick="hideTable()">Hide table</button>
+    <button type="button" onclick="autohideTable()">Show/Hide table</button>
+  <table class="pcpp-part-list" id="pcpp-table">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Item</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="pcpp-part-list-type">CPU</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/qtvqqs/amd-ryzen-7-5800x-38-ghz-8-core-processor-100-100000063wof">AMD Ryzen 7 5800X 3.8 GHz 8-Core Processor</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/qtvqqs/amd-ryzen-7-5800x-38-ghz-8-core-processor-100-100000063wof">£151.00 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">CPU Cooler</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/fLFKHx/cooler-master-masterliquid-ml240l-rgb-v2-6559-cfm-liquid-cpu-cooler-mlw-d24m-a18pc-r2">Cooler Master MASTERLIQUID ML240L RGB V2 65.59 CFM Liquid CPU Cooler</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/fLFKHx/cooler-master-masterliquid-ml240l-rgb-v2-6559-cfm-liquid-cpu-cooler-mlw-d24m-a18pc-r2">£108.26 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Motherboard</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/3Mxbt6/msi-mag-b550-tomahawk-atx-am4-motherboard-mag-b550-tomahawk">MSI MAG B550 TOMAHAWK ATX AM4 Motherboard</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/3Mxbt6/msi-mag-b550-tomahawk-atx-am4-motherboard-mag-b550-tomahawk">£139.96 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Memory</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/khmFf7/corsair-vengeance-rgb-pro-32-gb-2-x-16-gb-ddr4-3600-memory-cmw32gx4m2z3600c18">Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/khmFf7/corsair-vengeance-rgb-pro-32-gb-2-x-16-gb-ddr4-3600-memory-cmw32gx4m2z3600c18">£78.98 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Video Card</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/V4nypg/asus-radeon-rx-6700-xt-12-gb-dual-video-card-dual-rx6700xt-12g">Asus DUAL Radeon RX 6700 XT 12 GB Video Card</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/V4nypg/asus-radeon-rx-6700-xt-12-gb-dual-video-card-dual-rx6700xt-12g">£321.95 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/ByJmP6/lian-li-o11-dynamic-mini-atx-mid-tower-case-o11d-mini-x">Lian Li O11 Dynamic Mini ATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/ByJmP6/lian-li-o11-dynamic-mini-atx-mid-tower-case-o11d-mini-x">£115.00 @ Computer Orbit</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Power Supply</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/GMbRsY/corsair-sf1000l-1000-w-80-gold-certified-fully-modular-sfx-power-supply-cp-9020246-na">Corsair SF1000L 1000 W 80+ Gold Certified Fully Modular SFX Power Supply</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/GMbRsY/corsair-sf1000l-1000-w-80-gold-certified-fully-modular-sfx-power-supply-cp-9020246-na">£179.99 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case Fan</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/HGGnTW/arctic-p12-563-cfm-120-mm-fan-acfan00118a">ARCTIC P12 56.3 CFM 120 mm Fan</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/HGGnTW/arctic-p12-563-cfm-120-mm-fan-acfan00118a">£7.16 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case Fan</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/HGGnTW/arctic-p12-563-cfm-120-mm-fan-acfan00118a">ARCTIC P12 56.3 CFM 120 mm Fan</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/HGGnTW/arctic-p12-563-cfm-120-mm-fan-acfan00118a">£7.16 @ Amazon UK</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="pcpp-part-list-type">Case Fan</td>
+      <td class="pcpp-part-list-item"><a href="https://uk.pcpartpicker.com/product/t7WBD3/arctic-p12-563-cfm-120-mm-fans-5-pack-acfan00135a">ARCTIC P12 56.3 CFM 120 mm Fans 5-Pack</a></td>
+      <td class="pcpp-part-list-price">
+        <a href="https://uk.pcpartpicker.com/product/t7WBD3/arctic-p12-563-cfm-120-mm-fans-5-pack-acfan00135a">£19.99 @ AWD-IT</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Prices include shipping, taxes, rebates, and discounts</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-total">Total</td>
+      <td class="pcpp-part-list-total-price">£1129.45</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="pcpp-part-list-price-note">Generated by <a href="https://pcpartpicker.com">PCPartPicker</a> 2023-09-26 14:56 BST+0100</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+</html>
