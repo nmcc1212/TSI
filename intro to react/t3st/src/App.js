@@ -2,7 +2,7 @@ import './App.css';
 import Example from './notApp.js'
 import buttonResponse from './buttonAlert.js'
 import LogoToggle from './logoToggle.js'
-
+import Counter from './counter.js'
 
 
 function App() {
@@ -11,6 +11,7 @@ function App() {
       <header className="App-header">
         <Example/>
         <LogoToggle/>
+        <Counter/>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
