@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import Example from './notApp.js'
+import {buttonResponse} from './notApp.js'
+
 
 
 function App() {
@@ -12,6 +14,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <button onClick={buttonResponse}>Click Me!</button>
         <a
           className="App-link"
           href="https://reactjs.org"

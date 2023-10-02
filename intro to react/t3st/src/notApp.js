@@ -9,3 +9,7 @@ class Example extends Component {
     }
   }
 export default Example;
+
+export function buttonResponse() {
+    alert('You clicked me!');
+  }
