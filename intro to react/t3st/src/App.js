@@ -1,7 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import Example from './notApp.js'
-import {buttonResponse} from './notApp.js'
+import buttonResponse from './buttonAlert.js'
+import LogoToggle from './logoToggle.js'
 
 
 
@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <Example/>
+        <LogoToggle/>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -23,6 +23,7 @@ function App() {
         >
           Learn React
         </a>
+        
       </header>
     </div>
   );
