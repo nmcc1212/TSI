@@ -15,6 +15,12 @@ const NavBar = () => {
             <li>
                 <Link to="/UKNews">UK News</Link>
             </li>
+            <li>
+                <Link to="/WorldNews">World News</Link>
+            </li>
+            <li>
+                <Link to="/HackerNews">Hacker News</Link>
+            </li>
             </ul>
         </nav>
 
