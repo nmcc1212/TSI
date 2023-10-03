@@ -1,19 +1,33 @@
 import logo from './logo.svg';
-import './App.css';
-import NewsList from './newsList';
-import NewsItem from './NewsItem'
+//import './App.css';
+import ReactDOM from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Outlet, Link } from "react-router-dom";
+import TechNews from './techNews.js';
+import NavBar from './navBar.js';
+import SlavaUkraine from './SlavaUkraine.js';
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <route>
-          <NewsList rssFeedUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" />
-
-        </route>
-
-      </header>
+    <div>
+      <div>
+        <div className="App">
+          <header className="App-header">
+          <BrowserRouter>
+              <Routes>
+                <Route path="/" element={<NavBar />}>
+                  <Route index element={<TechNews />} />
+                  <Route path="/Ukraine" element={<SlavaUkraine />} />
+                </Route>
+              </Routes>
+            </BrowserRouter>
+          </header>
+        </div>
+      </div>
     </div>
+
+    // aaaa
   );
 }
 

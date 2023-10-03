@@ -6,7 +6,7 @@ function NewsList(props) {
 
   useEffect(() => {
     // Replace '<RSS_FEED_URL>' with the actual RSS feed URL
-    fetch(`https://rss-to-json-serverless-api.vercel.app/api?feedURL=${encodeURIComponent(props.rssFeedUrl)}`)
+    fetch(`https://rss-to-json-serverless-api.vercel.app/api?feedURL=${(props.rssFeedUrl)}`)
       .then((response) => {
         if (!response.ok) {
           throw new Error(`Network response was not ok: ${response.status}`);
