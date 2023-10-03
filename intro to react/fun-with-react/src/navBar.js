@@ -13,7 +13,7 @@ const NavBar = () => {
                 <Link to="/Ukraine">Ukraine News</Link>
             </li>
             <li>
-                <Link to="/contact">Contact</Link>
+                <Link to="/UKNews">UK News</Link>
             </li>
             </ul>
         </nav>

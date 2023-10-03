@@ -4,8 +4,8 @@ function SlavaUkraine()
 {
     return(
         <div>
-            <h1>Ukraine News</h1>
-            <NewsList rssFeedUrl="https://www.independent.co.uk/topic/ukraine/rss" />
+            <h1>UK News</h1>
+            <NewsList rssFeedUrl="http://feeds.bbci.co.uk/news/uk/rss.xml" />
         </div>
     );
 }
