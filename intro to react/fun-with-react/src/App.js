@@ -7,7 +7,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <NewsList rssFeedUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" />
+        <route>
+          <NewsList rssFeedUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" />
+
+        </route>
 
       </header>
     </div>
