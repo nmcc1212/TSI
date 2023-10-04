@@ -9,6 +9,8 @@ import SlavaUkraine from './SlavaUkraine.js';
 import UKNews from './UKNews.js';
 import WorldNews from './WorldNews.js';
 import HackerNews from './HackerNews.js';
+import SlashDot from "./SlashDot.js";
+
 
 
 function App() {
@@ -26,6 +28,7 @@ function App() {
                   <Route path="/UKNews" element={<UKNews />} />
                   <Route path="/WorldNews" element={<WorldNews />} />
                   <Route path="/HackerNews" element={<HackerNews />} />
+                  <Route path="/SlashDot" element={<SlashDot />} />
                 </Route>
               </Routes>
             </BrowserRouter>
