@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-//import NewsItem from './NewsItem';
 
 function NewsList(props) {
   const [news, setNews] = useState([]);
@@ -18,7 +17,7 @@ function NewsList(props) {
       .catch((error) => {
         console.error('Error fetching data:', error);
       });
-  }, []); // add empty array as second argument to useEffect
+  }, []); // add empty array as second argument to useEffect so no inf loop
 
   return (
     <div>
