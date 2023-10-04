@@ -18,7 +18,8 @@ function NewsList(props) {
       .catch((error) => {
         console.error('Error fetching data:', error);
       });
-  });
+  }, []); // add empty array as second argument to useEffect
+
   return (
     <div>
       <ul>
