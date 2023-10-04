@@ -4,7 +4,7 @@ function WorldNews()
 {
     return(
         <div>
-            <h1>World News</h1>
+            <h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">World News</h1>
             <NewsList rssFeedUrl="https://www.aljazeera.com/xml/rss/all.xml" />
             <NewsList rssFeedUrl="http://feeds.bbci.co.uk/news/world/rss.xml" />
             <NewsList rssFeedUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" />

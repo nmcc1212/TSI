@@ -49,9 +49,9 @@ const NewsItem = ({ item }) => {
   }
   return (
     <li>
-      <p class="text-gray-900"><a href={link} target="_blank" rel="noopener noreferrer">{title}</a></p>  {/* title */}
-      <p class="ml-4">{desc}</p> {/* description */}
-      <p>Published: {isoDate}</p> {/* date */}
+      <p class="mb-4 text-lg font-normal text-gray-500 dark:text-gray-400"><a href={link} target="_blank" rel="noopener noreferrer">{title}</a></p>  {/* title */}
+      <p class="mb-3 text-gray-500 dark:text-gray-400">{desc}</p> {/* description */}
+      <p class="mb-1 text-gray-500 dark:text-gray-400">Published: {isoDate}</p> {/* date */}
     </li>
   );
 };
