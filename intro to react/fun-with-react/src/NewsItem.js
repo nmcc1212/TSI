@@ -8,7 +8,7 @@ const NewsItem = ({ item }) => {
     const regex = /<[^>]+>/gi;
     desc = description.replace(regex, "");
   }
-
+  console.log(title);
   return (
     <li>
       <h3><a href={link} target="_blank" rel="noopener noreferrer">{title}</a></h3>
