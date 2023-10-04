@@ -4,7 +4,7 @@ function WorldNews()
 {
     return(
         <div>
-            <h1>UK News</h1>
+            <h1>World News</h1>
             <NewsList rssFeedUrl="https://www.aljazeera.com/xml/rss/all.xml" />
             <NewsList rssFeedUrl="http://feeds.bbci.co.uk/news/world/rss.xml" />
             <NewsList rssFeedUrl="hhttps://rss.nytimes.com/services/xml/rss/nyt/World.xml" />
