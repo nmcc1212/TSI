@@ -29,26 +29,12 @@ function NewsList(props) {
   }, []);
 
   return (
-    // {
-    //   Data.filter(post => {
-    //     if (query === '') {
-    //       return post;
-    //     } else if (post.title.toLowerCase().includes(query.toLowerCase())) {
-    //       return post;
-    //     }
-    //   }).map((post, index) => (
-    //     <div className="box" key={index}>
-    //       <p>{post.title}</p>
-    //       <p>{post.author}</p>
-    //     </div>
-    //   ))
-    // }
     <div class="grid grid-cols-3 gap-4">
       {
         news.filter(item => {
           if (props.searchQuery === '') {
             return item;
-          } else if (item.title.toLowerCase().includes(props.searchQuery.toLowerCase())) {
+          } else if (item.title != null && item.title !== undefined && item.title.toLowerCase().includes(props.searchQuery.toLowerCase())) {
             return item;
           }
         }).map((item, index) => (
@@ -56,11 +42,6 @@ function NewsList(props) {
         ))
       }
     </div>
-    // <div class="grid grid-cols-3 gap-4">
-    //     {news.map((item, index) => (
-    //       <NewsItem key={index} item={item} />
-    //     ))}
-    // </div>
   );
 };
 
