@@ -2,10 +2,12 @@ import React, { useEffect, useState } from 'react';
 
 function NewsList(props) {
   const [news, setNews] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const fetchNews = async () => {
       try {
+        setIsLoading (true);
         if (Array.isArray(props.rssFeedUrls)) {
           const responses = await Promise.all(
             props.rssFeedUrls.map(url =>
@@ -25,11 +27,15 @@ function NewsList(props) {
         }
       } catch (error) {
         console.error('Error fetching data:', error);
+      } finally {
+        setIsLoading(false);
       }
     };
     fetchNews();
   }, []);
-
+  if (isLoading) {
+    return <div className="text-center">Loading...</div>;
+  }
   return (
     <div className="grid grid-cols-3 gap-4">
       {news
