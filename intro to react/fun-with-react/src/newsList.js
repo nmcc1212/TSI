@@ -4,28 +4,30 @@ function NewsList(props) {
   const [news, setNews] = useState([]);
 
   useEffect(() => {
-    fetch(`http://127.0.0.1:50110?feedURL=${(props.rssFeedUrl)}`)
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error(`Network response was not ok: ${response.status}`);
+    const fetchNews = async () => {
+      try {
+        if (Array.isArray(props.rssFeedUrls)) {
+          const responses = await Promise.all(
+            props.rssFeedUrls.map(url =>
+              fetch(`http://127.0.0.1:50110?feedURL=${url}`)
+            )
+          );
+          const data = await Promise.all(responses.map(response => response.json()));
+          const newsItems = data.flatMap(d => d.items);
+          setNews(newsItems);
         }
-        return response.json();
-      })
-      .then((data) => {
-        setNews(data.items);
-      })
-      .catch((error) => {
+      } catch (error) {
         console.error('Error fetching data:', error);
-      });
-  }, []); // add empty array as second argument to useEffect so no inf loop
+      }
+    };
+    fetchNews();
+  }, [props.rssFeedUrls]);
 
   return (
-    <div>
-      <ul>
+    <div class="grid grid-cols-3 gap-4">
         {news.map((item, index) => (
           <NewsItem key={index} item={item} />
         ))}
-      </ul>
     </div>
   );
 };
@@ -47,11 +49,12 @@ const NewsItem = ({ item }) => {
     desc = desc.replace(regex, "'");
   }
   return (
-    <li>
-      <p class="mb-4 text-lg font-normal text-gray-500 dark:text-gray-400"><a href={link} target="_blank" rel="noopener noreferrer">{title}</a></p>  {/* title */}
-      <p class="mb-3 text-gray-500 dark:text-gray-400">{desc}</p> {/* description */}
-      <p class="mb-1 text-gray-500 dark:text-gray-400">Published: {isoDate}</p> {/* date */}
-    </li>
+    <a href={link} target="_blank" rel="noreferrer" class="flex-grow border-2 flex flex-col block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+        <p class="mb-4 select-text text-lg font-normal text-gray-500 dark:text-gray-400"><a href={link} target="_blank" rel="noopener noreferrer">{title}</a></p>  {/* title */}
+        <p class="mb-3 select-text text-gray-500 dark:text-gray-400">{desc}</p> {/* description */}
+        <p class="mb-1 select-text text-gray-500 dark:text-gray-400">Published: {isoDate}</p> {/* date */}
+
+    </a>
   );
 };
 
