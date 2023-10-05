@@ -1,8 +1,13 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState} from 'react';
+
+
 
 function NewsList(props) {
   const [news, setNews] = useState([]);
 
+  console.log(props.searchQuery);
+
+  
   useEffect(() => {
     const fetchNews = async () => {
       try {
@@ -21,14 +26,41 @@ function NewsList(props) {
       }
     };
     fetchNews();
-  }, [props.rssFeedUrls]);
+  }, []);
 
   return (
+    // {
+    //   Data.filter(post => {
+    //     if (query === '') {
+    //       return post;
+    //     } else if (post.title.toLowerCase().includes(query.toLowerCase())) {
+    //       return post;
+    //     }
+    //   }).map((post, index) => (
+    //     <div className="box" key={index}>
+    //       <p>{post.title}</p>
+    //       <p>{post.author}</p>
+    //     </div>
+    //   ))
+    // }
     <div class="grid grid-cols-3 gap-4">
-        {news.map((item, index) => (
+      {
+        news.filter(item => {
+          if (props.searchQuery === '') {
+            return item;
+          } else if (item.title.toLowerCase().includes(props.searchQuery.toLowerCase())) {
+            return item;
+          }
+        }).map((item, index) => (
           <NewsItem key={index} item={item} />
-        ))}
+        ))
+      }
     </div>
+    // <div class="grid grid-cols-3 gap-4">
+    //     {news.map((item, index) => (
+    //       <NewsItem key={index} item={item} />
+    //     ))}
+    // </div>
   );
 };
 
