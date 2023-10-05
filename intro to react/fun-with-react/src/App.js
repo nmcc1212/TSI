@@ -10,7 +10,7 @@ import { useState } from "react";
 
 function App() {
   const [searchQuery, setSearchQuery] = useState("");
-  let techUrls = ["https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml","https://www.reddit.com/r/technology/top/.rss", "http://rss.slashdot.org/Slashdot/slashdot","http://feeds.arstechnica.com/arstechnica/index/","https://www.reddit.com/r/tech/top/.rss","https://www.reddit.com/r/technews/top/.rss","https://www.reddit.com/r/technology/top/.rss"]
+  let techUrls = ["https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "http://rss.slashdot.org/Slashdot/slashdot","http://feeds.arstechnica.com/arstechnica/index/","https://www.reddit.com/r/tech/top/.rss","https://www.reddit.com/r/technews/top/.rss","https://www.reddit.com/r/technology/top/.rss"]
   let ukraineUrls = ["https://www.independent.co.uk/topic/ukraine/rss"]
   let ukUrls = ["http://feeds.bbci.co.uk/news/uk/rss.xml"]
   let worldUrls = ["https://www.aljazeera.com/xml/rss/all.xml","http://feeds.bbci.co.uk/news/world/rss.xml","https://rss.nytimes.com/services/xml/rss/nyt/World.xml","https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best","https://feeds.skynews.com/feeds/rss/world.xml","https://www.reddit.com/r/worldnews/top/.rss"]
