@@ -29,7 +29,7 @@ function NewsList(props) {
   }, []);
 
   return (
-    <div class="grid grid-cols-3 gap-20 ml-10">
+    <div class="grid grid-cols-3 gap-4">
       {
         news.filter(item => {
           if (props.searchQuery === '') {
