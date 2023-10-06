@@ -23,7 +23,7 @@ function App() {
           <header className="App-header">
           <BrowserRouter>
               <Routes>
-                <Route path="/" element={<NavBar sendQueryToParent={handleSearchQuery}/>}>
+                <Route path="/" element={<NavBar sendQueryToParent={handleSearchQuery}/>}> 
                   <Route index element={ 
                     <div key="Home">
                       <div>

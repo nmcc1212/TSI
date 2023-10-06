@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-function NewsList(props) {
+function NewsList(props) { // this function is used to render the news list and query the API
   const [news, setNews] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
 
