@@ -1,0 +1,22 @@
+Homebridge	https://homebridge.io
+Jellyfin	https://jellyfin.github.io
+Plex	https://www.plex.tv
+iDRAC	https://dell.com
+FreshRSS	https://freshrss.org
+Nginx Proxy Manager	https://nginxproxymanager.jc21.com
+Radarr	https://radarr.video
+Grafana	https://grafana.com
+Uptime Kuma	https://uptime.kuma.pet
+Portainer	https://portainer.io
+Overseerr	https://github.com/sct/overseerr
+Sonarr	https://sonarr.tv
+qBittorrent	https://www.qbittorrent.org
+Prowlarr	https://prowlarr.com
+Tailscale	https://tailscale.com/
+Requestrr	https://github.com/darkalfx/requestrr
+Prometheus	https://prometheus.io
+Pi-hole	https://pi-hole.net
+Code server	https://github.com/cdr/code-server
+Cloudflare	https://dash.cloudflare.com/
+HomeAssistant	https://www.home-assistant.io
+OPNsense	https://opnsense.org
