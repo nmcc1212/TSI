@@ -143,3 +143,26 @@ let removeValue = prompt();
 lmaoRemove(doublyLinkedList, removeValue);
 console.log("removing");
 spitOut(doublyLinkedList);
+
+
+// add to nth position
+function lmaoAdd(list, value, position) {
+    let currentNode = list.head;
+    let counter = 0;
+    while (counter !== position - 1) { // go until position
+        currentNode = currentNode.next;
+        counter++; // increment counter
+    }
+    let newNode = { // define new node
+        value: value,
+        prev: currentNode,
+        next: currentNode.next
+    };
+    currentNode.next = newNode; // add new node
+    return list;
+}
+console.log ("Enter a number to add to the list: ");
+let addValue = prompt();
+console.log ("Enter a position to add to the list: ");
+let addPosition = prompt();
+lmaoAdd(doublyLinkedList, addValue, addPosition);
