@@ -80,6 +80,7 @@ function lmaoAppend(list, value) {
 console.log ("Enter a number to append to the list: ");
 let appendValue = prompt();
 lmaoAppend(doublyLinkedList, appendValue);
+console.log("appending");
 spitOut(doublyLinkedList);
 spitOutVerbose(doublyLinkedList);
 
@@ -95,12 +96,23 @@ function lmaoPrepend(list, value) {
     return list;
 }
 
+console.log ("Enter a number to prepend to the list: ");
+let prependValue = prompt();
+lmaoPrepend(doublyLinkedList, prependValue);
+console.log("prepending");
+spitOut(doublyLinkedList);
+spitOutVerbose(doublyLinkedList);
+
 // remove a node from the beginning of the list
 function lmaoHeadPop(list) {
     list.head = list.head.next; // head becomes next node
     list.head.prev = null; // new head points to null
     return list;
 }
+spitOut(doublyLinkedList);
+console.log("headpop");
+lmaoHeadPop(doublyLinkedList);
+spitOut(doublyLinkedList);
 
 // remove a  node from the end of the list
 
@@ -112,7 +124,9 @@ function lmaoPop(list) {
     currentNode.next = null; // remove last node
     return list;
 }
-
+lmaoPop(doublyLinkedList);
+console.log("popping");
+spitOut(doublyLinkedList);
 // remove a node from given position in list
 function lmaoRemove(list, position) {
     let currentNode = list.head;
@@ -124,3 +138,8 @@ function lmaoRemove(list, position) {
     currentNode.next = currentNode.next.next; // remove node
     return list;
 }
+console.log ("Enter a position to remove from the list: ");
+let removeValue = prompt();
+lmaoRemove(doublyLinkedList, removeValue);
+console.log("removing");
+spitOut(doublyLinkedList);
