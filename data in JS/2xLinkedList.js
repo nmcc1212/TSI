@@ -166,3 +166,17 @@ let addValue = prompt();
 console.log ("Enter a position to add to the list: ");
 let addPosition = prompt();
 lmaoAdd(doublyLinkedList, addValue, addPosition);
+
+// get a node from given position in list
+function lmaoGet(list, position) {
+    let currentNode = list.head;
+    let counter = 0;
+    while (counter !== position) { // go until position
+        currentNode = currentNode.next;
+        counter++; // increment counter
+    }
+    return currentNode;
+}
+console.log ("Enter a position to get from the list: ");
+let getValue = prompt();
+console.log(lmaoGet(doublyLinkedList, getValue));
