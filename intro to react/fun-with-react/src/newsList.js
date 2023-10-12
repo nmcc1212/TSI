@@ -1,29 +1,19 @@
 import React, { useEffect, useState } from 'react';
+import axios from 'axios';
 
 function NewsList(props) { // this function is used to render the news list and query the API
   const [news, setNews] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    const fetchNews = async () => {
+    const fetchData = async () => {
       try {
-        setIsLoading (true);
+        setIsLoading(true);
         if (Array.isArray(props.rssFeedUrls)) {
-          const responses = await Promise.all(
-            props.rssFeedUrls.map(url =>
-              fetch(`http://127.0.0.1:50110?feedURL=${url}`)
-            )
-          );
-          const data = await Promise.all(responses.map(response => response.json()));
-          const newsItems = data.flatMap(d => d.items);
-
-          // Convert isoDate strings to Date objects and sort by published date
-          newsItems.forEach(item => {
-            item.isoDate = new Date(item.isoDate);
+          const response = await axios.post('http://localhost:50111/api/fetchNews', {
+            rssFeedUrls: props.rssFeedUrls,
           });
-          newsItems.sort((a, b) => b.isoDate - a.isoDate);
-
-          setNews(newsItems);
+          setNews(response.data);
         }
       } catch (error) {
         console.error('Error fetching data:', error);
@@ -31,7 +21,7 @@ function NewsList(props) { // this function is used to render the news list and 
         setIsLoading(false);
       }
     };
-    fetchNews();
+    fetchData();
   }, []);
   if (isLoading) {
     return <div className="text-center">Loading...</div>;
