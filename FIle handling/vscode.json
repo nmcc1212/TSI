@@ -2,7 +2,6 @@
     "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
     "editor.inlineSuggest.enabled": true,
     "git.enableSmartCommit": true,
-    "redhat.telemetry.enabled": false,
     "github.copilot.enable": {
         "*": true,
         "plaintext": true,
@@ -24,6 +23,7 @@
     },
     "liveServer.settings.donotVerifyTags": true,
     "telemetry.telemetryLevel": "off",
+    "redhat.telemetry.enabled": false,
     "gitlens.telemetry.enabled": false,
     "docsYaml.telemetry.enableTelemetry": false,
     "code-runner.enableAppInsights": false,
