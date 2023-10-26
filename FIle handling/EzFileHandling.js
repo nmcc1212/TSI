@@ -13,3 +13,24 @@ fs.open(fileName, 'w', (err, file) => {
     );
 }
 );
+
+// Json file handling
+const jsFileName = 'newJsonFile.json';
+const jsContent = '{"name":"John", "age":30, "city":"New York"}';
+
+fs.open(jsFileName, 'w', (err, file) => {
+    fs.appendFile(jsFileName, jsContent, (err) => {
+        if (err) throw err;
+        console.log('Saved!');
+    }
+    );
+}
+);
+
+//
+const existingJsFile = 'vscode.json';
+fs.readFile(existingJsFile, (err, data) => {
+    if (err) throw err;
+    const obj = JSON.parse(data);
+    console.log(JSON.stringify(obj, null, 2));
+});
