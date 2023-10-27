@@ -14,6 +14,7 @@ app.use(express.json());
 app.post('/api/fetchNews', async (req, res) => {
   try {
     const rssFeedUrls = req.body.rssFeedUrls;
+    console.log(`Fetching and parsing RSS feeds from: ${rssFeedUrls}`);
     const responses = await Promise.all(
       rssFeedUrls.map(url => axios.get(`http://127.0.0.1:50110?feedURL=${url}`))
     );
