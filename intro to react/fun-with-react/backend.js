@@ -1,7 +1,8 @@
 const express = require('express');
 const axios = require('axios');
 const fs = require('fs');
-const crypto = require('crypto'); // Add this line to use the crypto module
+const crypto = require('crypto');
+const path = require('path'); // Add this line to use the path module
 const app = express();
 const port = 50111;
 
@@ -30,10 +31,16 @@ app.post('/api/fetchNews', async (req, res) => {
       hash.update(rssFeedUrls[i]);
       const filename = `${hash.digest('hex')}.json`;
 
+      // Specify the logs directory and create it if it doesn't exist
+      const logsDir = 'logs';
+      if (!fs.existsSync(logsDir)) {
+        fs.mkdirSync(logsDir);
+      }
+
       // Read the existing log file
       let loggedData;
       try {
-        loggedData = JSON.parse(fs.readFileSync(filename));
+        loggedData = JSON.parse(fs.readFileSync(path.join(logsDir, filename)));
       } catch (error) {
         loggedData = [];
       }
@@ -45,7 +52,7 @@ app.post('/api/fetchNews', async (req, res) => {
         }
       });
 
-      fs.writeFileSync(filename, JSON.stringify(loggedData, null, 2));
+      fs.writeFileSync(path.join(logsDir, filename), JSON.stringify(loggedData, null, 2));
     }
 
     res.json(data.flatMap(d => d.items));
