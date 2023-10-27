@@ -438,5 +438,68 @@
       "spider in ear"
     ],
     "isoDate": "2023-10-25T21:57:24.000Z"
+  },
+  {
+    "creator": "Scharon Harding",
+    "title": "Leica camera has built-in defense against misleading AI, costs $9,125",
+    "link": "https://arstechnica.com/?p=1979140",
+    "pubDate": "Fri, 27 Oct 2023 13:58:53 +0000",
+    "content:encoded": "<div id=\"rss-wrap\">\n<figure class=\"intro-image intro-left\">\n  <img src=\"https://cdn.arstechnica.net/wp-content/uploads/2023/10/list-800x549.jpg\" alt=\"Leica M11-P\">\n      <p class=\"caption\" style=\"font-size:0.8em\"><a href=\"https://cdn.arstechnica.net/wp-content/uploads/2023/10/list.jpg\" class=\"enlarge-link\" data-height=\"1345\" data-width=\"1959\">Enlarge</a> <span class=\"sep\">/</span> A photo shot with the M11-P. (credit: <a rel=\"nofollow\" class=\"caption-link\" href=\"https://contentauthenticity.org/blog/leica-launches-worlds-first-camera-with-content-credentials\">CAI</a>)</p>  </figure>\n\n\n\n\n\n\n<div><a name=\"page-1\"></a></div>\n<p>On Thursday, Leica Camera released the first camera that can take pictures with automatically encrypted metadata and provide features such as an editing history. The company believes this system, called <a href=\"https://arstechnica.com/information-technology/2023/10/adobe-launches-new-symbol-to-tag-ai-generated-content-but-will-anyone-use-it/\">Content Credentials</a>, will help photojournalists protect their work and prove authenticity in a world riddled with AI-manipulated content.</p>\n<p>Leica's M11-P can store each captured image with Content Credentials, which is based on the Coalition for Content Provenance and Authenticity's (<a href=\"https://c2pa.org/\" target=\"_blank\" rel=\"noopener\">C2PA's</a>) open standard and is being pushed by the Content Authenticity Initiative (<a href=\"https://contentauthenticity.org/\">CAI</a>). Content Credentials, announced in October, includes encrypted metadata detailing where and when the photo was taken and with what camera and model. It also keeps track of edits and tools used for edits.</p>\n<p>When a photographer opts to use the feature, they'll see a Content Credentials logo in the camera's display, and images will be signed through the use of an algorithm.</p></div><p><a href=\"https://arstechnica.com/?p=1979140#p3\">Read 6 remaining paragraphs</a> | <a href=\"https://arstechnica.com/?p=1979140&comments=1\">Comments</a></p>",
+    "content:encodedSnippet": "Enlarge / A photo shot with the M11-P. (credit: CAI)\n  \n\n\n\n\n\n\n\nOn Thursday, Leica Camera released the first camera that can take pictures with automatically encrypted metadata and provide features such as an editing history. The company believes this system, called Content Credentials, will help photojournalists protect their work and prove authenticity in a world riddled with AI-manipulated content.\nLeica's M11-P can store each captured image with Content Credentials, which is based on the Coalition for Content Provenance and Authenticity's (C2PA's) open standard and is being pushed by the Content Authenticity Initiative (CAI). Content Credentials, announced in October, includes encrypted metadata detailing where and when the photo was taken and with what camera and model. It also keeps track of edits and tools used for edits.\nWhen a photographer opts to use the feature, they'll see a Content Credentials logo in the camera's display, and images will be signed through the use of an algorithm.\n\nRead 6 remaining paragraphs | Comments",
+    "dc:creator": "Scharon Harding",
+    "comments": "https://arstechnica.com/gadgets/2023/10/leicas-9125-camera-automatically-stores-authenticity-proving-metadata/#comments",
+    "content": "The M11-P is the first camera to integrate Content Credentials.",
+    "contentSnippet": "The M11-P is the first camera to integrate Content Credentials.",
+    "guid": "https://arstechnica.com/?p=1979140",
+    "categories": [
+      "AI",
+      "Tech",
+      "cameras"
+    ],
+    "isoDate": "2023-10-27T13:58:53.000Z"
+  },
+  {
+    "creator": "WIRED",
+    "title": "It’s a “fake PR stunt”: Artists hate Meta’s AI data deletion process",
+    "link": "https://arstechnica.com/?p=1979173",
+    "pubDate": "Fri, 27 Oct 2023 13:38:52 +0000",
+    "content:encoded": "<div id=\"rss-wrap\">\n<figure class=\"intro-image intro-left\">\n  <img src=\"https://cdn.arstechnica.net/wp-content/uploads/2023/10/delete-key-800x533.jpg\" alt=\"a delete key on a keyboard\">\n      <p class=\"caption\" style=\"font-size:0.8em\"><a href=\"https://cdn.arstechnica.net/wp-content/uploads/2023/10/delete-key.jpg\" class=\"enlarge-link\" data-height=\"1493\" data-width=\"2240\">Enlarge</a> (credit: Nodar Chernishev/Getty)</p>  </figure>\n\n\n\n\n\n\n<div><a name=\"page-1\"></a></div>\n<p>As the generative <a href=\"https://www.wired.com/tag/artificial-intelligence/\">artificial intelligence</a> gold rush intensifies, concerns about the data used to train machine learning tools have grown. Artists and writers <a href=\"https://www.wired.com/story/battle-over-books3/\">are fighting</a> for a say in how AI companies use their work, filing lawsuits and publicly agitating against the way these models scrape the Internet and incorporate their art without consent.</p>\n<p>Some companies have responded to this pushback with “opt-out” programs that give people a choice to remove their work from future models. OpenAI, for example, <a href=\"https://www.wired.com/story/dall-e-3-open-ai-chat-gpt/\">debuted</a> an opt-out feature with its latest version of the image-to-text generator Dall-E. This August, when Meta began allowing people to <a href=\"https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/\">submit requests</a> to delete personal data from third parties used to train Meta’s generative AI models, many artists and journalists interpreted this new process as Meta’s very limited version of an opt-out program. CNBC explicitly referred to the request form as an “<a href=\"https://www.cnbc.com/2023/08/30/how-to-stop-meta-from-using-personal-data-to-train-generative-ai-.html\">opt-out tool</a>.”</p>\n<p></p></div><p><a href=\"https://arstechnica.com/?p=1979173#p3\">Read 10 remaining paragraphs</a> | <a href=\"https://arstechnica.com/?p=1979173&comments=1\">Comments</a></p>",
+    "content:encodedSnippet": "Enlarge (credit: Nodar Chernishev/Getty)\n  \n\n\n\n\n\n\n\nAs the generative artificial intelligence gold rush intensifies, concerns about the data used to train machine learning tools have grown. Artists and writers are fighting for a say in how AI companies use their work, filing lawsuits and publicly agitating against the way these models scrape the Internet and incorporate their art without consent.\nSome companies have responded to this pushback with “opt-out” programs that give people a choice to remove their work from future models. OpenAI, for example, debuted an opt-out feature with its latest version of the image-to-text generator Dall-E. This August, when Meta began allowing people to submit requests to delete personal data from third parties used to train Meta’s generative AI models, many artists and journalists interpreted this new process as Meta’s very limited version of an opt-out program. CNBC explicitly referred to the request form as an “opt-out tool.”\n\nRead 10 remaining paragraphs | Comments",
+    "dc:creator": "WIRED",
+    "comments": "https://arstechnica.com/ai/2023/10/its-a-fake-pr-stunt-artists-hate-metas-ai-data-deletion-process/#comments",
+    "content": "There's no way to opt out, leading artists to believe Meta's system is badly broken.",
+    "contentSnippet": "There's no way to opt out, leading artists to believe Meta's system is badly broken.",
+    "guid": "https://arstechnica.com/?p=1979173",
+    "categories": [
+      "AI",
+      "copyright",
+      "LLM",
+      "meta",
+      "syndication"
+    ],
+    "isoDate": "2023-10-27T13:38:52.000Z"
+  },
+  {
+    "creator": "Eric Berger",
+    "title": "Russia renamed its ambitious satellite program after Putin misspoke its name",
+    "link": "https://arstechnica.com/?p=1979142",
+    "pubDate": "Fri, 27 Oct 2023 13:20:00 +0000",
+    "content:encoded": "<div id=\"rss-wrap\">\n<figure class=\"intro-image intro-left\">\n  <img src=\"https://cdn.arstechnica.net/wp-content/uploads/2018/07/GettyImages-962039264-800x535.jpg\" alt=\"Russia President Vladimir Putin and Roscosmos chief Dmitry Rogozin shake hands during a meeting at the Konstantin Palace.\">\n      <p class=\"caption\" style=\"font-size:0.8em\"><a href=\"https://cdn.arstechnica.net/wp-content/uploads/2018/07/GettyImages-962039264.jpg\" class=\"enlarge-link\" data-height=\"685\" data-width=\"1024\">Enlarge</a> <span class=\"sep\">/</span> Russia President Vladimir Putin and Roscosmos chief Dmitry Rogozin shake hands during a meeting at the Konstantin Palace. (credit: Mikhail MetzelTASS via Getty Images)</p>  </figure>\n\n\n\n\n\n\n<div><a name=\"page-1\"></a></div>\n<p>It was always abundantly clear that the leader of the Russian space corporation Roscosmos from 2018 to 2022, Dmitry Rogozin, sought to kowtow to Russian President Vladimir Putin. Now we have an anecdote from Putin himself that highlights how much.</p>\n<p>The story concerns a satellite constellation now known as Sfera (or Sphere, in English), a modestly ambitious constellation of 264 satellites. The Sphere constellation is intended to provide broadband Internet service from middle-Earth orbit to Russia as well as high-resolution Earth observation satellites.</p>\n<p>As is usual with Russian space projects, because they tend to be poorly funded, the timeline for Sphere's deployment has been delayed and its scope reduced. It also underwent an unscheduled name change. Prior to 2018, this satellite program was known as Ehfir (Ether), a reference to the invisible substance once thought to fill the universe and the medium through which light waves propagated.</p></div><p><a href=\"https://arstechnica.com/?p=1979142#p3\">Read 9 remaining paragraphs</a> | <a href=\"https://arstechnica.com/?p=1979142&comments=1\">Comments</a></p>",
+    "content:encodedSnippet": "Enlarge / Russia President Vladimir Putin and Roscosmos chief Dmitry Rogozin shake hands during a meeting at the Konstantin Palace. (credit: Mikhail MetzelTASS via Getty Images)\n  \n\n\n\n\n\n\n\nIt was always abundantly clear that the leader of the Russian space corporation Roscosmos from 2018 to 2022, Dmitry Rogozin, sought to kowtow to Russian President Vladimir Putin. Now we have an anecdote from Putin himself that highlights how much.\nThe story concerns a satellite constellation now known as Sfera (or Sphere, in English), a modestly ambitious constellation of 264 satellites. The Sphere constellation is intended to provide broadband Internet service from middle-Earth orbit to Russia as well as high-resolution Earth observation satellites.\nAs is usual with Russian space projects, because they tend to be poorly funded, the timeline for Sphere's deployment has been delayed and its scope reduced. It also underwent an unscheduled name change. Prior to 2018, this satellite program was known as Ehfir (Ether), a reference to the invisible substance once thought to fill the universe and the medium through which light waves propagated.\n\nRead 9 remaining paragraphs | Comments",
+    "dc:creator": "Eric Berger",
+    "comments": "https://arstechnica.com/space/2023/10/russia-renamed-its-ambitious-satellite-program-after-putin-misspoke-its-name/#comments",
+    "content": "\"So I didn't even make it back and it's already renamed to Sfera.\"",
+    "contentSnippet": "\"So I didn't even make it back and it's already renamed to Sfera.\"",
+    "guid": "https://arstechnica.com/?p=1979142",
+    "categories": [
+      "Science",
+      "Space",
+      "Putin",
+      "rogozin",
+      "roscosmos",
+      "russia",
+      "space"
+    ],
+    "isoDate": "2023-10-27T13:20:00.000Z"
   }
 ]

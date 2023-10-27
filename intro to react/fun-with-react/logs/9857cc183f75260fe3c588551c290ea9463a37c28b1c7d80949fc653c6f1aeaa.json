@@ -2153,5 +2153,60 @@
       }
     ],
     "isoDate": "2023-10-20T20:05:33.000Z"
+  },
+  {
+    "creator": "Maya Salam",
+    "title": "Martin and Francesca Scorsese, TikTok’s Dynamic Duo",
+    "link": "https://www.nytimes.com/2023/10/27/movies/martin-scorsese-tiktok-francesca.html",
+    "pubDate": "Fri, 27 Oct 2023 14:57:01 +0000",
+    "dc:creator": "Maya Salam",
+    "content": "The acclaimed director’s daughter, a filmmaker herself, has been peppering her feed with videos of her father, showing a rarely seen side of him.",
+    "contentSnippet": "The acclaimed director’s daughter, a filmmaker herself, has been peppering her feed with videos of her father, showing a rarely seen side of him.",
+    "guid": "https://www.nytimes.com/2023/10/27/movies/martin-scorsese-tiktok-francesca.html",
+    "categories": [
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Movies",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Scorsese, Martin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Francesca Scorsese",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Content Type: Personal Profile",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-10-27T14:57:01.000Z"
   }
 ]
