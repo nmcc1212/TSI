@@ -5983,5 +5983,249 @@
       }
     ],
     "isoDate": "2023-10-23T22:59:57.000Z"
+  },
+  {
+    "creator": "David Knowles",
+    "title": "Ukraine: The Latest - Hamas visit Moscow as Putin makes a 'cold-blooded calculation'",
+    "link": "https://www.telegraph.co.uk/world-news/2023/10/27/hamas-moscow-russia-iran-geopolitics/",
+    "pubDate": "Fri, 27 Oct 2023 15:15:42 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/10/27/TELEMMGLPICT000354299689_16984196691620_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "David Knowles",
+    "guid": "97600f32-d408-341a-b991-00cce7f81e9f",
+    "categories": [
+      {
+        "_": "topics:things/ukraine-the-latest-podcast",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-10-27T15:15:42.000Z"
+  },
+  {
+    "creator": "Dominic Penna",
+    "title": "Boris Johnson joins GB News as presenter and commentator",
+    "link": "https://www.telegraph.co.uk/politics/2023/10/27/boris-johnson-joins-gb-news-presenter-commentator/",
+    "pubDate": "Fri, 27 Oct 2023 14:59:13 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/10/27/TELEMMGLPICT000354599880_16984176927000_trans_NvBQzQNjv4BqRpEJ8qDUmB4Zrzr5A7vy2h9o7IYJZ5WOAJavXqk41VI.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Dominic Penna",
+    "guid": "0af5077c-3705-35c2-88c9-e1dbbe1985ba",
+    "categories": [
+      {
+        "_": "topics:people/boris-johnson",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/gb-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-10-27T14:59:13.000Z"
+  },
+  {
+    "creator": "Kevin Watkins",
+    "title": "The children of Israel and Gaza are crying out for help – the world should listen",
+    "link": "https://www.telegraph.co.uk/global-health/terror-and-security/the-children-of-israel-and-gaza-are-crying-are-out-for-help/",
+    "pubDate": "Fri, 27 Oct 2023 14:53:30 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/10/27/TELEMMGLPICT000354389661_16984153763590_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Kevin Watkins",
+    "guid": "ea2057f8-0918-33b7-8481-078c959ae024",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/palestinian-territories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/middle-east",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:terror-and-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:opinion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:comment",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-10-27T14:53:30.000Z"
+  },
+  {
+    "creator": "Telegraph reporters",
+    "title": "'Somerset Gimp' found guilty after he told police 'I am not a gimp'",
+    "link": "https://www.telegraph.co.uk/news/2023/10/27/somerset-gimp-guilty-scaring-female-drivers-trial-bristol/",
+    "pubDate": "Fri, 27 Oct 2023 13:58:34 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/10/27/TELEMMGLPICT000203854805_16984150298090_trans_NvBQzQNjv4BqY1pDbA9t2TcEbSModODvKXGTJFJS74MYhNY6w3GNbO8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph reporters",
+    "guid": "9e363cee-0e0d-3371-bdad-322d331454b1",
+    "categories": [
+      {
+        "_": "topics:places/somerset",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/crime",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-10-27T13:58:34.000Z"
   }
 ]

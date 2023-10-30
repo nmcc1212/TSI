@@ -198,5 +198,89 @@
       "UK"
     ],
     "isoDate": "2023-10-26T13:16:59.000Z"
+  },
+  {
+    "creator": "Lucy Leeson",
+    "date": "2023-10-27T15:48:57+00:00",
+    "title": "Watch: Boris Johnson announces he’s joining GB News and claims ‘best days yet to come’",
+    "link": "https://www.independent.co.uk/tv/news/boris-johnson-gb-news-announcement-video-b2437243.html",
+    "pubDate": "Fri, 27 Oct 2023 15:48:57 GMT",
+    "dc:creator": "Lucy Leeson",
+    "dc:date": "2023-10-27T15:48:57+00:00",
+    "content": "<p>Former prime minister <a href=\"/topic/boris-johnson\">Boris Johnson</a> has announced he is joining <a href=\"/topic/gb-news\">GB News</a> as a presenter, claiming “the best days are yet to come”.</p>",
+    "contentSnippet": "Former prime minister Boris Johnson has announced he is joining GB News as a presenter, claiming “the best days are yet to come”.",
+    "guid": "b2437243",
+    "categories": [
+      "News",
+      "Indy TV"
+    ],
+    "isoDate": "2023-10-27T15:48:57.000Z"
+  },
+  {
+    "creator": "Raf Casert",
+    "date": "2023-10-27T15:20:38+00:00",
+    "title": "EU summit turns its eyes away from Ukraine despite a commitment to stay the course with Zelenskyy",
+    "link": "https://www.independent.co.uk/news/world/europe/ukraine-ap-viktor-orban-robert-fico-russia-b2437245.html",
+    "pubDate": "Fri, 27 Oct 2023 15:20:38 GMT",
+    "dc:creator": "Raf Casert",
+    "dc:date": "2023-10-27T15:20:38+00:00",
+    "content": "The European Union summit showed that Ukraine will be facing tougher times to get all the attention and political, economic and military aid that it wants",
+    "contentSnippet": "The European Union summit showed that Ukraine will be facing tougher times to get all the attention and political, economic and military aid that it wants",
+    "guid": "b2437245",
+    "categories": [
+      "Europe",
+      "World"
+    ],
+    "isoDate": "2023-10-27T15:20:38.000Z"
+  },
+  {
+    "creator": "Didi Tang and Matthew Lee",
+    "date": "2023-10-27T15:14:49+00:00",
+    "title": "China's top diplomat visits Washington to help stabilize ties and perhaps set up a Biden-Xi summit",
+    "link": "https://www.independent.co.uk/news/world/americas/wang-yi-ap-joe-biden-china-xi-jinping-b2437231.html",
+    "pubDate": "Fri, 27 Oct 2023 15:14:49 GMT",
+    "dc:creator": "Didi Tang and Matthew Lee",
+    "dc:date": "2023-10-27T15:14:49+00:00",
+    "content": "China’s top diplomat is meeting high-level U.S. officials, possibly including President Joe Biden, on a highly watched visit to Washington",
+    "contentSnippet": "China’s top diplomat is meeting high-level U.S. officials, possibly including President Joe Biden, on a highly watched visit to Washington",
+    "guid": "b2437231",
+    "categories": [
+      "Americas",
+      "World"
+    ],
+    "isoDate": "2023-10-27T15:14:49.000Z"
+  },
+  {
+    "creator": "Dominic McGrath",
+    "date": "2023-10-27T14:53:19+00:00",
+    "title": "Boris Johnson joining GB News to offer ‘unvarnished’ views",
+    "link": "https://www.independent.co.uk/news/uk/boris-johnson-britain-jacob-reesmogg-gb-news-conservative-b2437209.html",
+    "pubDate": "Fri, 27 Oct 2023 14:53:19 GMT",
+    "dc:creator": "Dominic McGrath",
+    "dc:date": "2023-10-27T14:53:19+00:00",
+    "content": "The former prime minister is the latest Conservative politician to find a place at the broadcaster.",
+    "contentSnippet": "The former prime minister is the latest Conservative politician to find a place at the broadcaster.",
+    "guid": "b2437209",
+    "categories": [
+      "UK"
+    ],
+    "isoDate": "2023-10-27T14:53:19.000Z"
+  },
+  {
+    "creator": "Matt Mathers",
+    "date": "2023-10-27T14:45:33+00:00",
+    "title": "Separatist lined up to be Putin’s puppet leader in Ukraine ‘is shot in Crimea home’",
+    "link": "https://www.independent.co.uk/news/world/europe/oleg-tsaryov-shot-ukraine-crimea-b2437109.html",
+    "pubDate": "Fri, 27 Oct 2023 14:45:33 GMT",
+    "dc:creator": "Matt Mathers",
+    "dc:date": "2023-10-27T14:45:33+00:00",
+    "content": "<p>Pro-Russian former politician fighting for life in intensive care, official says </p>",
+    "contentSnippet": "Pro-Russian former politician fighting for life in intensive care, official says",
+    "guid": "b2437109",
+    "categories": [
+      "Europe",
+      "World"
+    ],
+    "isoDate": "2023-10-27T14:45:33.000Z"
   }
 ]
