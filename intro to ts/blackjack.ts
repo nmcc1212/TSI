@@ -1,4 +1,4 @@
-const prompt = require('prompt-sync')();
+const aprompt = require('prompt-sync')();
 
 class Card {
     constructor(public value: number, public suit: string) { }
@@ -93,9 +93,12 @@ class Main {
     }
     play() {
         while (!this.isGameOver) {
-            if (this.player.score < 21 && confirm(`Your hand: ${this.player.hand.map(card => card.value + card.suit).join(", ")}. Hit?`)) {
-                this.player.hit(this.deck.deal()!);
-              }
+            if (this.player.score < 21) {
+                let move:String = aprompt(`Your hand: ${this.player.hand.map(card => card.value + card.suit).join(", ")}. Hit?`);
+                if (move === "y") {
+                    this.player.hit(this.deck.deal()!);
+                }
+            }
               if (this.dealer.score < 17) {
                 this.dealer.hit(this.deck.deal()!);
               }
