@@ -114,7 +114,7 @@ class Blackjack {
   }
 
   play() {
-    console.log(`Your hand: ${this.player.asciiVersionOfHand()}`);
+    console.log(`Your hand:\n${this.player.asciiVersionOfHand()}`);
     while (!this.isGameOver) {
       if (this.player.score < 21) {
         const input = prompt("Hit or stand? (h/s)");
