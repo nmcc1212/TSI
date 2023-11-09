@@ -146,13 +146,21 @@ class Blackjack {
   }
 
   play() {
-    console.log(`Your hand:\n${this.player.asciiVersionOfHand()}`);
+    console.log(
+      `Your hand:\n${this.player.asciiVersionOfHand()}Total: ${
+        this.player.score
+      }`
+    );
     while (!this.isGameOver) {
       if (this.player.score < 21) {
         let input: string = prompt("Hit or stand? (h/s)");
         if (input === "h") {
           this.player.hit(this.deck.deal()!);
-          console.log(`Your hand:\n${this.player.asciiVersionOfHand()}`);
+          console.log(
+            `Your hand:\n${this.player.asciiVersionOfHand()}Total: ${
+              this.player.score
+            }`
+          );
         } else if (input === "s") {
           break;
         }
@@ -161,7 +169,7 @@ class Blackjack {
       }
     }
     while (this.dealer.score < 17) {
-      this.dealer.hit(this.deck.deal()!);
+      this.dealer.hit(this.deck.deal()!); // Dealer always hits below 17
     }
     const winner = this.winner;
     if (winner) {
@@ -170,8 +178,8 @@ class Blackjack {
       if (winner === this.player) {
         console.log(`Dealer's score: ${this.dealer.score}`);
       }
-      if (winner === this.dealer) {
-        console.log(`Your score: ${this.player.score}`);
+      if (winner === this.dealer && this.player.score > 21) {
+        console.log(`Your went bust with a score of ${this.player.score}`);
       }
     } else {
       console.log("It's a tie!");
