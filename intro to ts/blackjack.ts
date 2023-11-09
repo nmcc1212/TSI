@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')();
+
 class Card {
     constructor(public value: number, public suit: string) { }
 }
@@ -106,3 +108,6 @@ class Main {
             }
         }
     }
+
+const game = new Main()
+game.play()
