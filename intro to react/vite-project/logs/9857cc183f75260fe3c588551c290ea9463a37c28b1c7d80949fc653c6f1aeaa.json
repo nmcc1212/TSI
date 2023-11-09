@@ -3589,5 +3589,24 @@
       }
     ],
     "isoDate": "2023-11-04T03:51:03.000Z"
+  },
+  {
+    "creator": "Erin Griffith, Tripp Mickle and Photographs and Videos by Kelsey McClellan",
+    "title": "Silicon Valley’s Big, Bold Sci-Fi Bet on the Device That Comes After the Smartphone",
+    "link": "https://www.nytimes.com/2023/11/09/technology/silicon-valleys-big-bold-sci-fi-bet-on-the-device-that-comes-after-the-smartphone.html",
+    "pubDate": "Thu, 09 Nov 2023 17:01:10 +0000",
+    "dc:creator": "Erin Griffith, Tripp Mickle and Photographs and Videos by Kelsey McClellan",
+    "content": "Humane, a company started by two former Apple employees, says its new artificial intelligence pin can stop all the scrolling. Can it live up to the hype?",
+    "contentSnippet": "Humane, a company started by two former Apple employees, says its new artificial intelligence pin can stop all the scrolling. Can it live up to the hype?",
+    "guid": "https://www.nytimes.com/2023/11/09/technology/silicon-valleys-big-bold-sci-fi-bet-on-the-device-that-comes-after-the-smartphone.html",
+    "categories": [
+      {
+        "_": "vis-photo",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-09T17:01:10.000Z"
   }
 ]

@@ -11987,5 +11987,283 @@
       }
     ],
     "isoDate": "2023-11-05T17:27:33.000Z"
+  },
+  {
+    "creator": "Rob Bagchi",
+    "title": "Toulouse vs Liverpool live: score and updates from Europa League",
+    "link": "https://www.telegraph.co.uk/football/2023/11/09/toulouse-vs-liverpool-live-score-europa-league/",
+    "pubDate": "Thu, 09 Nov 2023 16:46:49 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/11/09/TELEMMGLPICT000355969629_16995483469640_trans_NvBQzQNjv4BqlEytDis_rUnCIOcpyxWPtaHRUaYAjxR21mHVOj2ZhQc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Rob Bagchi",
+    "guid": "b867c2aa-7a53-300a-b843-c8bb33c913c9",
+    "categories": [
+      {
+        "_": "topics:organisations/toulouse-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/liverpool-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/europa-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football/football-live-blog",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-09T16:46:49.000Z"
+  },
+  {
+    "creator": "Our Foreign Staff",
+    "title": "Luis Diaz's father released by kidnappers in Colombia",
+    "link": "https://www.telegraph.co.uk/world-news/2023/11/09/father-footballer-luis-diaz-released-colombia/",
+    "pubDate": "Thu, 09 Nov 2023 16:40:08 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/11/09/TELEMMGLPICT000306032965_16995477008260_trans_NvBQzQNjv4BqEKCbajAgRPrQX40UgCHtvyLLXltBpPEBH5NUduxkUlc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Our Foreign Staff",
+    "guid": "7aeead36-065c-3d4f-9b16-d4a50f9c6936",
+    "categories": [
+      {
+        "_": "topics:organisations/liverpool-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/colombia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/south-america",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-09T16:40:08.000Z"
+  },
+  {
+    "creator": "Giles Gear",
+    "title": "Ukraine: The Latest - \"It's not just ridiculous but dangerous to hold an election right now\"",
+    "link": "https://www.telegraph.co.uk/world-news/2023/11/09/should-zelensky-permit-a-general-election/",
+    "pubDate": "Thu, 09 Nov 2023 16:27:15 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/11/09/TELEMMGLPICT000355962653_16995467133090_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Giles Gear",
+    "guid": "6d813a03-ae59-3005-b999-35b46e2c3b44",
+    "categories": [
+      {
+        "_": "topics:things/ukraine-the-latest-podcast",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-09T16:27:15.000Z"
+  },
+  {
+    "creator": "Telegraph Sport",
+    "title": "North Macedonia vs England, Euro 2024 qualifier: When is it and how can I watch on TV?",
+    "link": "https://www.telegraph.co.uk/football/0/north-macedonia-vs-england-euro-2024-qualifier-when-watch/",
+    "pubDate": "Thu, 09 Nov 2023 15:54:45 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/11/09/TELEMMGLPICT000339912980_16995437515440_trans_NvBQzQNjv4Bql_-dn_bkBoeGShbklIuDGv4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph Sport",
+    "guid": "ad8ceadf-d7e9-3272-abd3-6736e607f0ce",
+    "categories": [
+      {
+        "_": "topics:organisations/england-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/euros",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/north-macedonia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-09T15:54:45.000Z"
+  },
+  {
+    "creator": "Linda Macdonald",
+    "title": "The best boutique hotels in Edinburgh for a winter weekend break ",
+    "link": "https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/scotland/edinburgh/articles/the-best-boutique-hotels-in-edinburgh/",
+    "pubDate": "Thu, 09 Nov 2023 15:26:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/Travel/hotels/2023/January/gleneagles-townhouse-edinburgh-5-p.jpg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Linda Macdonald",
+    "guid": "3a5848ed-4325-3fc2-b892-859ee1be2315",
+    "categories": [
+      {
+        "_": "topics:places/europe",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel/hotels",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/united-kingdom",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:hotel-guides",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/edinburgh",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/scotland",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-09T15:26:00.000Z"
   }
 ]
