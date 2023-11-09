@@ -70,7 +70,7 @@ class Player {
     for (let i = 0; i < this.hand.length; i++) {
       const card = this.hand[i];
       const rank = card.value === 1 ? "A" : card.value === 11 ? "J" : card.value === 12 ? "Q" : card.value === 13 ? "K" : card.value.toString();
-      const suit = card.suit === "hearts" ? "♥" : card.suit === "diamonds" ? "♦" : card.suit === "spades" ? "♠" : "♣";
+      const suit = card.suit === "hearts" ? "\x1b[31m♥\x1b[0m" : card.suit === "diamonds" ? "\x1b[31m♦\x1b[0m" : card.suit === "spades" ? "♠" : "♣";
       lines[0] += "┌─────────┐ ";
       lines[1] += `│${rank.padEnd(2)}       │ `;
       lines[2] += "│         │ ";
@@ -113,22 +113,31 @@ class Blackjack {
     }
   }
 
-    play() {
-        while (!this.isGameOver) {
-            if (this.player.score < 21 && prompt(`Your hand:  ${this.player.asciiVersionOfHand()}!?`) === "y") {
-                this.player.hit(this.deck.deal()!);
-            }
-            if (this.dealer.score < 17) {
-                this.dealer.hit(this.deck.deal()!);
-            }
+  play() {
+    console.log(`Your hand: ${this.player.asciiVersionOfHand()}`);
+    while (!this.isGameOver) {
+      if (this.player.score < 21) {
+        const input = prompt("Hit or stand? (h/s)");
+        if (input === "h") {
+          this.player.hit(this.deck.deal()!);
+          console.log(`Your hand:\n${this.player.asciiVersionOfHand()}`);
+        } else if (input === "s") {
+          break;
         }
-        const winner = this.winner;
-        if (winner) {
-            console.log(`The winner is ${winner.name} with a score of ${winner.score}!`);
-        }
-        else {
-            console.log(`It's a tie!`);
-        }
+      } else {
+        break;
+      }
     }
+    while (this.dealer.score < 17) {
+      this.dealer.hit(this.deck.deal()!);
+    }
+    const winner = this.winner;
+    if (winner) {
+      console.log(`${winner.name} wins with a score of ${winner.score}!`);
+    } else {
+      console.log("It's a tie!");
+    }
+  }
 }
 const game = new Blackjack();
+game.play();
