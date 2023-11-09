@@ -134,6 +134,13 @@ class Blackjack {
     const winner = this.winner;
     if (winner) {
       console.log(`${winner.name} wins with a score of ${winner.score}!`);
+      console.log(`Dealer's hand:\n${this.dealer.asciiVersionOfHand()}`);
+      if (winner === this.player) {
+        console.log(`Dealer's score: ${this.dealer.score}`);
+      }
+      if (winner === this.dealer) {
+        console.log(`Your score: ${this.player.score}`);
+      }
     } else {
       console.log("It's a tie!");
     }
