@@ -69,8 +69,24 @@ class Player {
     const lines = ["", "", "", "", "", "", "", "", ""];
     for (let i = 0; i < this.hand.length; i++) {
       const card = this.hand[i];
-      const rank = card.value === 1 ? "A" : card.value === 11 ? "J" : card.value === 12 ? "Q" : card.value === 13 ? "K" : card.value.toString();
-      const suit = card.suit === "hearts" ? "\x1b[31m♥\x1b[0m" : card.suit === "diamonds" ? "\x1b[31m♦\x1b[0m" : card.suit === "spades" ? "♠" : "♣";
+      const rank =
+        card.value === 1
+          ? "A"
+          : card.value === 11
+          ? "J"
+          : card.value === 12
+          ? "Q"
+          : card.value === 13
+          ? "K"
+          : card.value.toString();
+      const suit =
+        card.suit === "hearts"
+          ? "\x1b[31m♥\x1b[0m"
+          : card.suit === "diamonds"
+          ? "\x1b[31m♦\x1b[0m"
+          : card.suit === "spades"
+          ? "♠"
+          : "♣";
       lines[0] += "┌─────────┐ ";
       lines[1] += `│${rank.padEnd(2)}       │ `;
       lines[2] += "│         │ ";
@@ -100,13 +116,29 @@ class Blackjack {
   }
 
   get isGameOver() {
-    return this.player.isBusted || this.dealer.isBusted || this.player.hand.length === 5 || this.player.isBlackjack || this.dealer.isBlackjack;
+    return (
+      this.player.isBusted ||
+      this.dealer.isBusted ||
+      this.player.hand.length === 5 ||
+      this.player.isBlackjack ||
+      this.dealer.isBlackjack
+    );
   }
 
   get winner() {
-    if (this.player.isBusted || this.dealer.isBlackjack || (!this.player.isBlackjack && this.dealer.isBlackjack) || (this.dealer.score > this.player.score && !this.dealer.isBusted)) {
+    if (
+      this.player.isBusted ||
+      this.dealer.isBlackjack ||
+      (!this.player.isBlackjack && this.dealer.isBlackjack) ||
+      (this.dealer.score > this.player.score && !this.dealer.isBusted)
+    ) {
       return this.dealer;
-    } else if (this.dealer.isBusted || this.player.isBlackjack || (!this.dealer.isBlackjack && this.player.isBlackjack) || (this.player.score > this.dealer.score && !this.player.isBusted)) {
+    } else if (
+      this.dealer.isBusted ||
+      this.player.isBlackjack ||
+      (!this.dealer.isBlackjack && this.player.isBlackjack) ||
+      (this.player.score > this.dealer.score && !this.player.isBusted)
+    ) {
       return this.player;
     } else {
       return null;
@@ -117,7 +149,7 @@ class Blackjack {
     console.log(`Your hand:\n${this.player.asciiVersionOfHand()}`);
     while (!this.isGameOver) {
       if (this.player.score < 21) {
-        const input = prompt("Hit or stand? (h/s)");
+        let input: string = prompt("Hit or stand? (h/s)");
         if (input === "h") {
           this.player.hit(this.deck.deal()!);
           console.log(`Your hand:\n${this.player.asciiVersionOfHand()}`);
