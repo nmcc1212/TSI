@@ -1261,5 +1261,72 @@
       }
     ],
     "isoDate": "2023-10-26T19:00:22.000Z"
+  },
+  {
+    "creator": "Andrew E. Kramer",
+    "title": "Deadlocked War Tests Ukrainian Morale",
+    "link": "https://www.nytimes.com/2023/11/05/world/europe/ukraine-war-morale.html",
+    "pubDate": "Sun, 05 Nov 2023 09:40:12 +0000",
+    "dc:creator": "Andrew E. Kramer",
+    "content": "Pessimism over prospects for a quick victory is increasing, and the spirit that infused the first days of the conflict is starting to fade, polls find.",
+    "contentSnippet": "Pessimism over prospects for a quick victory is increasing, and the spirit that infused the first days of the conflict is starting to fade, polls find.",
+    "guid": "https://www.nytimes.com/2023/11/05/world/europe/ukraine-war-morale.html",
+    "categories": [
+      {
+        "_": "Polls and Public Opinion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zaluzhny, Valery",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-05T09:40:12.000Z"
   }
 ]
