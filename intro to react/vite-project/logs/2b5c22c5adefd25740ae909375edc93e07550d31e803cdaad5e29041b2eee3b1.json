@@ -12265,5 +12265,6270 @@
       }
     ],
     "isoDate": "2023-11-09T15:26:00.000Z"
+  },
+  {
+    "creator": "Harriet Barber",
+    "title": "Israel-Gaza war: Hamas to release 13 hostages on Friday, says Qatar",
+    "link": "https://www.telegraph.co.uk/world-news/2023/11/23/israel-palestine-latest-news1/",
+    "pubDate": "Thu, 23 Nov 2023 15:15:49 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/11/23/TELEMMGLPICT000357632939_17007348086690_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Harriet Barber",
+    "guid": "1b8ec2b2-9a31-3469-b1b5-c2e36d133007",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/benjamin-netanyahu",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/palestine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T15:15:49.000Z"
+  },
+  {
+    "creator": "Jack Maidment",
+    "title": "Politics latest news: James Cleverly apologises for calling Stockton's Labour MP 'sh-t'",
+    "link": "https://www.telegraph.co.uk/politics/2023/11/23/rishi-sunak-latest-news-jeremy-hunt-autumn-migration/",
+    "pubDate": "Thu, 23 Nov 2023 15:01:22 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/11/23/TELEMMGLPICT000357639080_17007515291720_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jack Maidment",
+    "guid": "9314073b-0fa7-36e5-9dfe-1508ed89d1d9",
+    "categories": [
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/downing-street",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/labour-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/keir-starmer",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T15:01:22.000Z"
+  },
+  {
+    "creator": "Chris Price",
+    "title": "Borrowing costs jump as traders unpick Hunt's Autumn Statement - latest updates",
+    "link": "https://www.telegraph.co.uk/business/2023/11/23/ftse-100-markets-news-live-energy-price-cap-ifs-jeremy-hunt/",
+    "pubDate": "Thu, 23 Nov 2023 14:41:42 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/business/2023/11/23/TELEMMGLPICT000355269758_17007381145900_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Chris Price",
+    "guid": "121e7d9d-e148-3350-bf7d-78620d6a9373",
+    "categories": [
+      {
+        "_": "topics:things/uk-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/ftse-100",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pound",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/dow-jones-industrial-average",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/cost-of-living",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/global-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:business",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T14:41:42.000Z"
+  },
+  {
+    "creator": "Robbie Collin",
+    "title": "Leave the World Behind: Julia Roberts has her best role in years in this enthralling home-invasion thriller",
+    "link": "https://www.telegraph.co.uk/films/0/leave-the-world-behind-review-julia-roberts-ethan-hawke/",
+    "pubDate": "Thu, 23 Nov 2023 14:11:53 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/films/2023/11/23/TELEMMGLPICT000357406825_17007482808890_trans_NvBQzQNjv4Bqdw-cK3ajvcoXavMZovuTFMkGnw7cUULUwT3K78zuxaA.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Robbie Collin",
+    "guid": "55727ef8-4532-3b55-97d1-1e3d1c19cb0e",
+    "categories": [
+      {
+        "_": "topics:people/julia-roberts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:film",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:robbie-collin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:review",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T14:11:53.000Z"
+  },
+  {
+    "creator": "Robbie Collin",
+    "title": "Wish, review: not so much a Disney fairy-tale as a corporate identity crisis",
+    "link": "https://www.telegraph.co.uk/films/0/wish-review-disney/",
+    "pubDate": "Thu, 23 Nov 2023 14:01:43 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/films/2023/11/17/TELEMMGLPICT000339535077_17002234486830_trans_NvBQzQNjv4Bq_8bLcB3uNPy6x8LB7lASeHGTJFJS74MYhNY6w3GNbO8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Robbie Collin",
+    "guid": "301e20a7-bcbf-3800-8bd6-4dc46d9148d8",
+    "categories": [
+      {
+        "_": "topics:things/disney",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:film",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:robbie-collin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:review",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T14:01:43.000Z"
+  },
+  {
+    "creator": "Nicola Smith",
+    "title": "China gave ‘tacit blessing’ to armed resistance movement sweeping Myanmar ",
+    "link": "https://www.telegraph.co.uk/global-health/terror-and-security/china-blessing-armed-resistance-movement-junta/",
+    "pubDate": "Thu, 23 Nov 2023 13:41:22 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/11/23/TELEMMGLPICT000355353893_17007414008640_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0gmyy-GsNrhPQbLesooHneHs.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Nicola Smith",
+    "guid": "eaa6a8af-3fb6-30ad-9622-58314ac5f439",
+    "categories": [
+      {
+        "_": "topics:places/china",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/myanmar",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:terror-and-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T13:41:22.000Z"
+  },
+  {
+    "creator": "Sarah Newey",
+    "title": "WHO asks China for more data on spread of ‘mystery’ child pneumonia",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/china-disease-latest-who-covid-infection-children/",
+    "pubDate": "Thu, 23 Nov 2023 13:36:06 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/11/23/TELEMMGLPICT000357620365_17007461976650_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0gmyy-GsNrhPQbLesooHneHs.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sarah Newey",
+    "guid": "b31687c5-a8a4-369a-8cd9-c316fad0a6a2",
+    "categories": [
+      {
+        "_": "topics:places/china",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/beijing",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/coronavirus",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T13:36:06.000Z"
+  },
+  {
+    "creator": "Ian Sansom",
+    "title": "What links David Bowie and Enid Blyton? You’ll be surprised",
+    "link": "https://www.telegraph.co.uk/books/what-to-read/david-bowie-enid-blyton-sun-machine/",
+    "pubDate": "Thu, 23 Nov 2023 13:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/books/2023/11/21/TELEMMGLPICT000357489453_17005782648660_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj_SVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Ian Sansom",
+    "guid": "5bd2450b-a905-307b-a611-ebb593adf840",
+    "categories": [
+      {
+        "_": "topics:people/david-bowie",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:books",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:culture",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:culture/culture-editors-choice",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:review",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T13:00:00.000Z"
+  },
+  {
+    "creator": "Tom Haynes",
+    "title": "Energy price cap to rise: How to protect against future bill increases",
+    "link": "https://www.telegraph.co.uk/money/consumer-affairs/energy-price-cap-falling-ofgem-save-how-when/",
+    "pubDate": "Thu, 23 Nov 2023 12:50:10 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/money/2023/09/25/TELEMMGLPICT000350774379_16956433234560_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Tom Haynes",
+    "guid": "40ec1b7a-9d56-3da3-8125-e64ef5d8d22b",
+    "categories": [
+      {
+        "_": "topics:things/consumer-affairs",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/energy-crisis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/energy-price-cap",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/energy-industry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/gas-bills",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/electricity-bills",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money/money-hub",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:better-life/better-life-guide",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:better-life/better-life-evergreen",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T12:50:10.000Z"
+  },
+  {
+    "creator": "Telegraph Sport",
+    "title": "Anthony Joshua vs Wallin, Deontay Wilder vs Parker: When is it and how to watch",
+    "link": "https://www.telegraph.co.uk/boxing/0/anthony-joshua-vs-wallin-wilder-vs-parker-when-how-watch/",
+    "pubDate": "Thu, 23 Nov 2023 12:45:53 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/boxing/2023/11/23/TELEMMGLPICT000356836155_17007433521810_trans_NvBQzQNjv4Bq_MBhvjUqhIfRd2_dxg_gJ5gojZYlP8f0i9h2tPqCNsM.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph Sport",
+    "guid": "875430de-e378-32b6-bec0-23b508ad7005",
+    "categories": [
+      {
+        "_": "topics:events/anthony-joshua-vs-deontay-wilder",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/anthony-joshua",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/deontay-wilder",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:boxing",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T12:45:53.000Z"
+  },
+  {
+    "creator": "India McTaggart",
+    "title": "BBC Proms director David Pickard to step down",
+    "link": "https://www.telegraph.co.uk/news/2023/11/23/bbc-proms-director-david-pickard-to-step-down/",
+    "pubDate": "Thu, 23 Nov 2023 11:49:13 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/11/23/TELEMMGLPICT000194001926_17007382454840_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "India McTaggart",
+    "guid": "0dd85782-1680-30e3-b00a-a80f8eb432a2",
+    "categories": [
+      {
+        "_": "topics:organisations/bbc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/proms",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T11:49:13.000Z"
+  },
+  {
+    "creator": "Charles Hymas",
+    "title": "Net migration to UK hits record high",
+    "link": "https://www.telegraph.co.uk/politics/2023/11/23/uk-net-migration-hits-record-high-ons/",
+    "pubDate": "Thu, 23 Nov 2023 11:20:19 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/11/23/TELEMMGLPICT000351133797_17007325768640_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Charles Hymas",
+    "guid": "0a6cd150-6fd2-33a8-97da-7df947eb0534",
+    "categories": [
+      {
+        "_": "topics:things/migration",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/immigration",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T11:20:19.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Caviar baked potatoes recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/caviar-baked-potatoes-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 10:29:46 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659545_16999648039790_trans_NvBQzQNjv4Bq2-sKw5RZT_QBEB9EJ8KN-TW_kZ89If2eIBMwyjPX788.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "2cc56ab8-baaf-3efd-b64b-eefd46260de2",
+    "categories": [
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/potato-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/fish-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T10:29:46.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Smoked haddock croquettes recipe ",
+    "link": "https://www.telegraph.co.uk/recipes/0/smoked-haddock-croquettes-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 10:26:10 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/23/TELEMMGLPICT000356659561_17007349442520_trans_NvBQzQNjv4BqgayUc3Nuj7iJsH5G3nfd3gZMwEtiFBOPLI8Y_72Wt1Q.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "bbe2bb3e-8318-3a59-a794-82c964a181fe",
+    "categories": [
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/fish-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/potato-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T10:26:10.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Monkfish skewers with peanut sauce recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/monkfish-skewers-with-peanut-sauce-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 10:15:46 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659563_16999653269710_trans_NvBQzQNjv4BqqFGQIIUN-NmY60KLvZBYmshffW6c4SvTPn93EH7wac0.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "166d7e12-caeb-3506-8880-6d512b022dff",
+    "categories": [
+      {
+        "_": "topics:things/fish-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/kebab-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T10:15:46.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Leek and cheddar tarts recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/leek-and-cheddar-tarts-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 10:13:12 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/23/TELEMMGLPICT000356659561_17007340492030_trans_NvBQzQNjv4BqgFJN7EPQoyJs0jkyMmhUOLECVgUq_zQPK0SURrMPphA.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "a0ea3392-e93c-30f6-9367-d760e38e61ee",
+    "categories": [
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/leek-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/cheese-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/tart-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T10:13:12.000Z"
+  },
+  {
+    "creator": "Our Foreign Staff",
+    "title": "Oscar-winning actor Jamie Foxx accused of groping woman at bar",
+    "link": "https://www.telegraph.co.uk/us/news/2023/11/23/jamie-foxx-accused-sexual-assault-grope-bar-catch-new-york/",
+    "pubDate": "Thu, 23 Nov 2023 10:12:45 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/en-us/news/2023/11/23/TELEMMGLPICT000357616367_17007186156310_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Our Foreign Staff",
+    "guid": "e439d122-82e2-3ba7-acc6-1143359ccc54",
+    "categories": [
+      {
+        "_": "topics:places/new-york",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/court-cases",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T10:12:45.000Z"
+  },
+  {
+    "creator": "Jack Rear",
+    "title": "‘The day I received a medical discharge from the RAF was one of the worst days of my life’",
+    "link": "https://www.telegraph.co.uk/christmas/2023/11/23/raf-driver-medical-discharge-benevolent-injury/",
+    "pubDate": "Thu, 23 Nov 2023 10:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2023/11/21/TELEMMGLPICT000354574537_17005756006060_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0gmyy-GsNrhPQbLesooHneHs.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jack Rear",
+    "guid": "f6e5ccf8-1b43-35d4-b82c-1cac13996db3",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/raf-benevolent-fund",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-christmas-charity-appeal-2023",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/british-army",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/amputation",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/royal-air-force",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:other-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:daily-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T10:00:00.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Whisky and clementine sour cocktail recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/whisky-and-clementine-sour-cocktail-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 09:57:58 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659566_16999761170940_trans_NvBQzQNjv4Bq2EfvHrB7hR7Um-Ph8kjqWcQj0hby6xQE72SGbx4jsn0.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "21ad5cd5-cecc-3635-9511-4672e6c27c48",
+    "categories": [
+      {
+        "_": "topics:things/drinks-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/orange-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/whisky-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/cocktail-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T09:57:58.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Sea buckthorn Buck's fizz recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/sea-buckthorn-bucks-fizz-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 09:55:51 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659566_16999755464880_trans_NvBQzQNjv4BqgpPUBytSdZLqni_OhPZKh8fC9D0toBwnz7_Vgvy7i2I.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "5f7da1c3-6b10-35cc-9984-653ccbd8900c",
+    "categories": [
+      {
+        "_": "topics:things/drinks-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/cocktail-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T09:55:51.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Spiced hot buttered apple cider cocktail recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/spiced-hot-buttered-apple-cider-cocktail-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 09:53:35 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659566_16999748556270_trans_NvBQzQNjv4BqJe1MsoN2MHQyD3EVZ_7eh7WrrupHjRqrj1no3Ko4bVw.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "07a609df-7c43-3eb9-80e4-dd5539b6123a",
+    "categories": [
+      {
+        "_": "topics:things/drinks-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/apple-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/cocktail-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T09:53:35.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Pomegranate and bergamot cosmopolitan cocktail recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/pomegranate-and-bergamot-cosmopolitan-cocktail-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 09:51:26 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659553_16999688446670_trans_NvBQzQNjv4Bqw5om-RGaVmMYODyMyCDdhXMsA72YzXOfp2dmoNWj4Ws.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "826b67b8-7879-395c-b7e3-851ab670866d",
+    "categories": [
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/cocktail-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/drinks-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/gin-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T09:51:26.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Chocolate and cranberry shards recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/chocolate-and-cranberry-shards-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 09:48:27 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659574_16999675975360_trans_NvBQzQNjv4BqTg67IMLZu0KIOG7MP7-IIGCPMyB1Ym9CIH0ZSe8-UKs.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "a0284d37-7346-3c9a-9eb4-df9ef11a619b",
+    "categories": [
+      {
+        "_": "topics:things/party-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/chocolate-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dessert-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T09:48:27.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Anchovy straws recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/anchovy-straws-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 09:45:31 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659556_16999665603040_trans_NvBQzQNjv4Bqf-LGCAO_it-RlbRauxiXYAgdXAtkXbuzAREVWU1MMEs.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "f17578be-67c4-3010-a212-e8e2e0746c71",
+    "categories": [
+      {
+        "_": "topics:things/fish-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/easy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T09:45:31.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Sprouting broccoli with a cheesy dip recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/sprouting-broccoli-with-a-cheesy-dip-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 09:41:39 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659544_16999656956680_trans_NvBQzQNjv4BqhGzEiTQUJvl3yoz7Omnf2t-wyLyAnUqRcSw0ZKEpCrQ.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "5ee5935c-fcdf-3777-99f5-3af114e4b93b",
+    "categories": [
+      {
+        "_": "topics:things/broccoli-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/cheese-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/easy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/quick-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T09:41:39.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Popcorn chicken recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/popcorn-chicken-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 09:38:45 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659570_16999650931610_trans_NvBQzQNjv4Bqg1fxugGFOxHwlIO1zbMRawbNBxPxlAiof5gV5HGE2gc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "aca7cc76-4e03-35f1-8eed-88b45fb1f648",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/chicken-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T09:38:45.000Z"
+  },
+  {
+    "creator": "Mark Hix",
+    "title": "Fried parsnip crisps recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/fried-parsnip-crisps-mark-hix-recipe/",
+    "pubDate": "Thu, 23 Nov 2023 09:35:40 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/14/TELEMMGLPICT000356659558_16999652117130_trans_NvBQzQNjv4Bq0GUCzWilXnwpKh9Pdizm5J2gQjxUejS4ERCFhka8wt0.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mark Hix",
+    "guid": "a9b4ac0d-4e8c-3b89-88c2-9253012cb83a",
+    "categories": [
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/quick-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/easy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/parsnip-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/new-years-eve-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:mark-hix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T09:35:40.000Z"
+  },
+  {
+    "creator": "Our Foreign Staff",
+    "title": "Guns N’ Roses frontman Axl Rose sued for alleged sexual assault by former model",
+    "link": "https://www.telegraph.co.uk/world-news/2023/11/23/guns-n-roses-axl-rose-accused-sexual-assault/",
+    "pubDate": "Thu, 23 Nov 2023 02:32:12 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/11/23/TELEMMGLPICT000339757727_17006989133290_trans_NvBQzQNjv4Bqxgi8GvXTTOXhgyNB3PlynG1W6sIo8iSXLPbUN_Trt2A.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Our Foreign Staff",
+    "guid": "eeb8ac74-1a48-3926-836c-16c1f08bc3cc",
+    "categories": [
+      {
+        "_": "topics:in-the-news/court-cases",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/new-york",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/california",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/rock-music",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T02:32:12.000Z"
+  },
+  {
+    "creator": "Ben Riley-Smith",
+    "title": "Biggest tax cuts in 35 years as Tories prepare for election fight",
+    "link": "https://www.telegraph.co.uk/money/tax/income/biggest-tax-cuts-years-tory-election-hunt-autumn-statement/",
+    "pubDate": "Wed, 22 Nov 2023 21:15:03 GMT",
+    "dc:creator": "Ben Riley-Smith",
+    "guid": "225b2878-d213-3dbb-8f6f-cce35736ded4",
+    "categories": [
+      {
+        "_": "topics:things/income-tax",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/autumn-statement",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/tax-cuts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/uk-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T21:15:03.000Z"
+  },
+  {
+    "creator": "Joshua Hughes",
+    "title": "Wednesday evening news briefing: Tax burden to hit new post-war high",
+    "link": "https://www.telegraph.co.uk/news/2023/11/22/wednesday-evening-news-briefing-tax-burden-post-war-high/",
+    "pubDate": "Wed, 22 Nov 2023 18:37:58 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2022/09/23/TELEMMGLPICT000310354963_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Joshua Hughes",
+    "guid": "5f9a01aa-2162-3324-b353-4fae5f40fe45",
+    "categories": [
+      {
+        "_": "topics:people/jonathan-van-tam",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/snowdonia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T18:37:58.000Z"
+  },
+  {
+    "creator": "Rob Waugh",
+    "title": "The best smartphones of 2023, tried and tested – but are they worth the upgrade?",
+    "link": "https://www.telegraph.co.uk/recommended/tech/best-smartphones/",
+    "pubDate": "Wed, 22 Nov 2023 17:26:43 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/08/22/TELEMMGLPICT000346467642_16927036397480_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Rob Waugh",
+    "guid": "ab785231-badf-3e5a-ade0-bb8b299bee90",
+    "categories": [
+      {
+        "_": "topics:things/samsung-galaxy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/android",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/mobile-phones",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/iphone",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/samsung",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/technology",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T17:26:43.000Z"
+  },
+  {
+    "creator": "Jessica Doyle",
+    "title": "Six of the best festive wreath kits",
+    "link": "https://www.telegraph.co.uk/christmas/2023/11/22/best-festive-wreath-kits-christmas-holidays-2023/",
+    "pubDate": "Wed, 22 Nov 2023 17:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2023/11/22/TELEMMGLPICT000357501836_17006626953260_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jessica Doyle",
+    "guid": "d962b3d4-8110-3d32-9491-a5922c18455c",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:lifestyle",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:gardening",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T17:00:00.000Z"
+  },
+  {
+    "creator": "Sarah Rodrigues",
+    "title": "Seven ways to be a better carer – when your relative is ending their life at home",
+    "link": "https://www.telegraph.co.uk/christmas/2023/11/22/how-to-be-a-better-carer-relative-is-ending-life-at-home/",
+    "pubDate": "Wed, 22 Nov 2023 17:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2023/11/20/TELEMMGLPICT000354575665_17004908499680_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sarah Rodrigues",
+    "guid": "a552b659-494c-35c9-8d77-ed3acd88f160",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/marie-curie",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/death",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/relationships",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/grief",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:lifestyle",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T17:00:00.000Z"
+  },
+  {
+    "creator": "Annabel Fenwick-Elliott",
+    "title": "The best sterilisers in 2023, tried and tested on baby’s bottles, pacifiers and other gear",
+    "link": "https://www.telegraph.co.uk/recommended/kids/best-steriliser/",
+    "pubDate": "Wed, 22 Nov 2023 16:50:27 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/05/10/TELEMMGLPICT000335135506_1_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Annabel Fenwick-Elliott",
+    "guid": "c8a7e079-c1ba-302e-b6a3-1efa9794ac19",
+    "categories": [
+      {
+        "_": "topics:things/motherhood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/parenthood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/child-health",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/childrens-health",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/kids",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:family/parenting",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:50:27.000Z"
+  },
+  {
+    "creator": "Alex Barton",
+    "title": "I first heard about Eat Out to Help Out on TV, says Van-Tam",
+    "link": "https://www.telegraph.co.uk/news/2023/11/22/covid-inquiry-latest-johnathan-van-tam-chris-whitty-live/",
+    "pubDate": "Wed, 22 Nov 2023 16:42:40 GMT",
+    "dc:creator": "Alex Barton",
+    "guid": "152a8a4f-15a0-3282-bde6-f1e1f77b7cce",
+    "categories": [
+      {
+        "_": "topics:in-the-news/covid-inquiry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/coronavirus",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jonathan-van-tam",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/professor-chris-whitty",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:42:40.000Z"
+  },
+  {
+    "creator": "Annabel Fenwick-Elliott",
+    "title": "The best baby bouncers of 2023 for newborns and infants, tried and tested by a seven month-old",
+    "link": "https://www.telegraph.co.uk/recommended/kids/best-baby-bouncer/",
+    "pubDate": "Wed, 22 Nov 2023 16:38:14 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/03/22/TELEMMGLPICT000329839259_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Annabel Fenwick-Elliott",
+    "guid": "a731ced8-b1d8-337d-aa0e-8f8f65f0ff5e",
+    "categories": [
+      {
+        "_": "topics:things/parenthood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/children",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/motherhood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/infant-health",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/kids",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:family/parenting",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:38:14.000Z"
+  },
+  {
+    "creator": "Annabel Fenwick-Elliott",
+    "title": "The best baby monitors of 2023, tried and tested by a new mother",
+    "link": "https://www.telegraph.co.uk/recommended/kids/best-baby-monitor/",
+    "pubDate": "Wed, 22 Nov 2023 16:29:35 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/09/29/TELEMMGLPICT000351291564_16959897711350_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Annabel Fenwick-Elliott",
+    "guid": "210d68a0-89d9-3680-88c2-09be40a0dc5b",
+    "categories": [
+      {
+        "_": "topics:things/motherhood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/parenthood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/fatherhood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/childcare",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/kids",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:29:35.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Duck legs with plums, cinnamon and star anise recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/duck-legs-plums-cinnamon-star-anise-diana-henry-recipe/",
+    "pubDate": "Wed, 22 Nov 2023 16:15:13 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/20/TELEMMGLPICT000357423060_17005049047800_trans_NvBQzQNjv4Bqa10J3uq62MeRapNAKbVNTEWy_sGK6oioMu5BzggyGUY.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "guid": "e23d5f1c-767c-3330-9fd6-02c7899024fe",
+    "categories": [
+      {
+        "_": "topics:things/duck-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/roast-dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:15:13.000Z"
+  },
+  {
+    "creator": "Annabel Fenwick-Elliott",
+    "title": "The best prams, pushchairs and buggies of 2023 tried and tested by new mothers (and their babies)",
+    "link": "https://www.telegraph.co.uk/recommended/kids/best-prams-pushchairs-buggies/",
+    "pubDate": "Wed, 22 Nov 2023 16:12:39 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/03/31/TELEMMGLPICT000330745664_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Annabel Fenwick-Elliott",
+    "guid": "4e93229a-236b-393e-b4ab-636d8d6a7db8",
+    "categories": [
+      {
+        "_": "topics:things/children",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/parenthood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/childbirth",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/motherhood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/kids",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:12:39.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Duck breast with bean purée and olive herb salsa recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/duck-breast-bean-olive-and-herb-salsa-diana-henry-recipe/",
+    "pubDate": "Wed, 22 Nov 2023 16:07:10 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/20/TELEMMGLPICT000357411654_17004963379490_trans_NvBQzQNjv4Bq2TFBi38t5w2G6IAsPU9HQQXwx1ICklTaI8IAO1lDQ7s.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "guid": "d44293ad-e3c1-306a-8cd1-f4e35752ee45",
+    "categories": [
+      {
+        "_": "topics:things/duck-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/roast-dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:07:10.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Venetian stuffed duck recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/venetian-stuffed-duck-diana-henry-recipe/",
+    "pubDate": "Wed, 22 Nov 2023 16:00:38 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/20/TELEMMGLPICT000357423033_17005046467750_trans_NvBQzQNjv4BqbPmbgDuas8ZMur2Xz5Om3XghcWjxMSzYmv5KLxkF9VM.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "guid": "512d0a02-d514-31b6-9a21-205e77dbc700",
+    "categories": [
+      {
+        "_": "topics:things/duck-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/italian-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/roast-dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:00:38.000Z"
+  },
+  {
+    "creator": "Rebecca Astill",
+    "title": "The best gym leggings: squat-proof styles for running, yoga and gym workouts in 2023",
+    "link": "https://www.telegraph.co.uk/health-fitness/fitness/workouts/best-gym-leggings/",
+    "pubDate": "Wed, 22 Nov 2023 16:00:18 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/health-fitness/2023/02/01/TELEMMGLPICT000323950482_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Rebecca Astill",
+    "guid": "0a3e5640-906c-3e23-90d4-75d71a4bb4e5",
+    "categories": [
+      {
+        "_": "topics:things/exercise",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/fitness",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/womens-fitness",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/clothes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/yoga",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:health-fitness",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:health-fitness/body",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:00:18.000Z"
+  },
+  {
+    "creator": "Giles Gear",
+    "title": "Ukraine: The Latest - Avdiivka, before the Russians came",
+    "link": "https://www.telegraph.co.uk/world-news/2023/11/22/avdiivka-before-the-russians-came/",
+    "pubDate": "Wed, 22 Nov 2023 16:00:11 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/11/22/TELEMMGLPICT000357104277_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Giles Gear",
+    "guid": "c17a0caa-d2fc-36f3-8313-7540039dd076",
+    "categories": [
+      {
+        "_": "topics:things/ukraine-the-latest-podcast",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:00:11.000Z"
+  },
+  {
+    "creator": "Telegraph Ski & Snowboard",
+    "title": "The best hotels in Cortina d'Ampezzo",
+    "link": "https://www.telegraph.co.uk/travel/ski/resort-guides/italy/cortina-dampezzo/cortina-dampezzo-hotels-and-chalets/",
+    "pubDate": "Wed, 22 Nov 2023 16:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/Travel/ski/Resorts/cortina-Hotel Savoia_Credits Manaz Productions.jpg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph Ski & Snowboard",
+    "guid": "891042c0-8335-343a-8897-f230431d21aa",
+    "categories": [
+      {
+        "_": "topics:places/cortina",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel/ski/resort-guides",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel/ski",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:00:00.000Z"
+  },
+  {
+    "creator": "Telegraph Ski & Snowboard",
+    "title": "An expert guide to ski holidays in Cortina d'Ampezzo",
+    "link": "https://www.telegraph.co.uk/travel/ski/resort-guides/italy/cortina-dampezzo/Cortina-dampezzo-ski-holiday-guide/",
+    "pubDate": "Wed, 22 Nov 2023 16:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/Travel/ski/Resorts/cortina-ski-Hidden-Valley-Cortina-Armentarola_Credits-Bandion.it-.jpg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph Ski & Snowboard",
+    "guid": "44c84034-6126-390c-9903-193b4a14f4b4",
+    "categories": [
+      {
+        "_": "structure:travel/ski",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/cortina",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/italy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel/ski/resort-guides",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:00:00.000Z"
+  },
+  {
+    "creator": "Abigail Buchanan",
+    "title": "The 14 best pillows of 2023, tried and tested long term at home",
+    "link": "https://www.telegraph.co.uk/recommended/home/best-pillows-luxurious-nights-sleep/",
+    "pubDate": "Wed, 22 Nov 2023 15:40:28 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/01/20/TELEMMGLPICT000322700557_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Abigail Buchanan",
+    "guid": "1c44f93a-7470-3c3b-8eef-36edc23f4651",
+    "categories": [
+      {
+        "_": "topics:things/sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/body",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/home",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T15:40:28.000Z"
+  },
+  {
+    "creator": "Harriet Barber",
+    "title": "Israel-Gaza war: Israeli terror victims group urges court to delay hostage deal",
+    "link": "https://www.telegraph.co.uk/world-news/2023/11/22/israel-gaza-latest-hamas-palestine-hostage-ceasefire-day-47/",
+    "pubDate": "Wed, 22 Nov 2023 15:15:16 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/11/22/TELEMMGLPICT000357560410_17006633573270_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Harriet Barber",
+    "guid": "446e47e1-61a0-3a49-be7a-606da42d22b2",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/palestine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/hamas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/benjamin-netanyahu",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T15:15:16.000Z"
+  },
+  {
+    "creator": "Ewan Somerville ",
+    "title": "Snowdonia latest: Police still searching crash scene as new pictures of teenagers emerge",
+    "link": "https://www.telegraph.co.uk/news/2023/11/22/snowdonia-missing-boys-deaths-latest-crash-garreg/",
+    "pubDate": "Wed, 22 Nov 2023 14:49:40 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/11/22/TELEMMGLPICT000357574924_17006611631720_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Ewan Somerville ",
+    "guid": "ba08d9fe-8742-33e8-9dc2-695104dba577",
+    "categories": [
+      {
+        "_": "topics:places/snowdonia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/wales",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/death",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T14:49:40.000Z"
+  },
+  {
+    "creator": "Marc Shoffman",
+    "title": "The personal taxes draining your income – how to make sure you don’t overpay",
+    "link": "https://www.telegraph.co.uk/money/tax/income/uk-personal-tax-guide-income-national-insurance-relief/",
+    "pubDate": "Wed, 22 Nov 2023 14:48:16 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/money/2023/11/22/TELEMMGLPICT000357581886_17006654964520_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf-0Jyi0jPPD6Zx1hiwTPhlc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Marc Shoffman",
+    "guid": "f2c67637-4fc7-3777-ad90-3a59eac780c4",
+    "categories": [
+      {
+        "_": "topics:things/capital-gains-tax",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/income-tax",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/vat",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dividend-tax",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/inheritance-tax",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/national-insurance",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money/money-hub",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:better-life/better-life-superguide",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:better-life/better-life-evergreen",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "migration:moneyhub",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T14:48:16.000Z"
+  },
+  {
+    "creator": "Ismahane Elouafi",
+    "title": "Science our best bet to fight and beat food insecurity",
+    "link": "https://www.telegraph.co.uk/global-health/climate-and-people/food-insecurity-science-cop-uk/",
+    "pubDate": "Wed, 22 Nov 2023 13:17:39 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/11/22/TELEMMGLPICT000355152285_17006584140820_trans_NvBQzQNjv4BqwR9CmnucIcqQaI247kVHKYcVDYQgraobqQUfClveac8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Ismahane Elouafi",
+    "guid": "d4cc3594-9278-38d6-a13f-d0f7b3fbc352",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/agriculture",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/foreign-aid",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:climate-and-people",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:comment",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T13:17:39.000Z"
+  },
+  {
+    "creator": "Telegraph reporters",
+    "title": "Four men jailed for life for murder of Ashley Dale",
+    "link": "https://www.telegraph.co.uk/news/2023/11/22/four-men-jailed-life-murder-ashley-dale-liverpool/",
+    "pubDate": "Wed, 22 Nov 2023 13:00:08 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/11/22/TELEMMGLPICT000357543320_17006574950080_trans_NvBQzQNjv4Bq9rGpPSl_ZAw00x4jN1Y73ZQd0gUcdddCv0EDOkSO7vg.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph reporters",
+    "guid": "45e32a67-3386-39a3-9a3c-cd5f61e0fe96",
+    "categories": [
+      {
+        "_": "topics:things/crime",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/court-cases",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/liverpool",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T13:00:08.000Z"
+  },
+  {
+    "creator": "Telegraph Ski & Snowboard",
+    "title": "The best ski apartments and hotels in Avoriaz",
+    "link": "https://www.telegraph.co.uk/travel/ski/resort-guides/france/avoriaz/avoriaz-hotels-and-chalets/",
+    "pubDate": "Wed, 22 Nov 2023 13:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/Travel/ski/Resorts/avoriaz-dormonts-exterior.jpg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph Ski & Snowboard",
+    "guid": "6f3c997d-3d00-38ec-bc45-331b1c115680",
+    "categories": [
+      {
+        "_": "topics:places/avoriaz",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel/ski/resort-guides",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel/ski",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T13:00:00.000Z"
+  },
+  {
+    "creator": "Telegraph Ski & Snowboard",
+    "title": "An expert guide to ski holidays in Avoriaz",
+    "link": "https://www.telegraph.co.uk/travel/ski/resort-guides/france/avoriaz/avoriaz-ski-holiday-guide/",
+    "pubDate": "Wed, 22 Nov 2023 13:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/Travel/ski/Resorts/avoriaz-resorts-Oreli.jpg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph Ski & Snowboard",
+    "guid": "27d281d1-c337-3685-af8f-ab869652d6ce",
+    "categories": [
+      {
+        "_": "structure:travel/ski",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/avoriaz",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel/ski/resort-guides",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T13:00:00.000Z"
+  },
+  {
+    "creator": "Katie Binns",
+    "title": "State pension calculator: find out what age you will retire",
+    "link": "https://www.telegraph.co.uk/money/pensions/state-pensions/when-age-retire-state-pension-calculator/",
+    "pubDate": "Wed, 22 Nov 2023 12:48:54 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/pensions-retirement/2023/05/18/TELEMMGLPICT000336089056_16844163325660_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Katie Binns",
+    "guid": "c088c36f-145e-345d-a27d-030bba79bd65",
+    "categories": [
+      {
+        "_": "topics:organisations/department-for-work-pensions",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/national-insurance",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/state-pension",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money/money-hub",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:better-life/better-life-tools",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:better-life/better-life-evergreen",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:better-life/better-life-superguide",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "migration:moneyhub",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T12:48:54.000Z"
+  },
+  {
+    "creator": "Lauren Almeida",
+    "title": "State pension triple lock confirmed – how much you'll get",
+    "link": "https://www.telegraph.co.uk/money/pensions/state-pensions/triple-lock-state-pension-increase-amount/",
+    "pubDate": "Wed, 22 Nov 2023 12:48:41 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/pensions-retirement/2023/03/08/TELEMMGLPICT000328161128_trans_NvBQzQNjv4BqYS1acP-ch22p5qESP2v6g_SVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Lauren Almeida",
+    "guid": "4c2c20cd-85dd-3894-a6c2-c0cca7716d9e",
+    "categories": [
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/retirement",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/inflation",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/hm-treasury",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/state-pension",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money/pensions",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money/money-hub",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:better-life/better-life-guide",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:better-life/better-life-evergreen",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "migration:moneyhub",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T12:48:41.000Z"
+  },
+  {
+    "creator": "Sarah Newey",
+    "title": "Mystery child pneumonia outbreak reported in China hospitals",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/china-disease-children-hospitals-pneumonia/",
+    "pubDate": "Wed, 22 Nov 2023 12:43:45 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/11/22/TELEMMGLPICT000222250254_17006572595720_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sarah Newey",
+    "guid": "418dd4c3-29a7-3545-8b3e-a94f33cbe741",
+    "categories": [
+      {
+        "_": "topics:places/china",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/coronavirus",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T12:43:45.000Z"
+  },
+  {
+    "creator": "Simon Lewis",
+    "title": "The 10 best 4K TVs of 2023, tried and tested with expert advice on how to choose",
+    "link": "https://www.telegraph.co.uk/recommended/tech/best-4k-ultra-hd-tvs/",
+    "pubDate": "Wed, 22 Nov 2023 12:42:48 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/08/14/TELEMMGLPICT000345775115_16920257146020_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Simon Lewis",
+    "guid": "212d4f79-5a40-37e9-88e2-27e543468abc",
+    "categories": [
+      {
+        "_": "topics:organisations/lg",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/sony",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/samsung",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/tvs",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/technology",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T12:42:48.000Z"
+  },
+  {
+    "creator": "Samuel Lovett",
+    "title": "Can David Cameron make Britain a development superpower again? Only time will tell",
+    "link": "https://www.telegraph.co.uk/global-health/climate-and-people/david-cameron-andrew-mitchell-development-foreign-aid/",
+    "pubDate": "Wed, 22 Nov 2023 12:27:39 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/11/22/TELEMMGLPICT000357553248_17006546030390_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Samuel Lovett",
+    "guid": "41479e75-ce8d-3c3f-b6ee-f861f43cc601",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/david-cameron",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/andrew-mitchell",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/foreign-commonwealth-office",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:climate-and-people",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T12:27:39.000Z"
+  },
+  {
+    "creator": "Madeleine Howell",
+    "title": "The best steam irons, including cordless models, for wrinkle-free clothes in 2023",
+    "link": "https://www.telegraph.co.uk/recommended/home/best-steam-irons/",
+    "pubDate": "Wed, 22 Nov 2023 12:13:51 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2019/06/26/Best-steam-iron-review_trans_NvBQzQNjv4Bq1lrzfM3_d_uwZxWWjssqOsvWxaP6USzKnksvEDJmBF8.jpg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Madeleine Howell",
+    "guid": "ad9c0625-bdc7-3414-bfef-75e21c5e3018",
+    "categories": [
+      {
+        "_": "topics:things/first-home",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/home",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T12:13:51.000Z"
+  },
+  {
+    "creator": "Abigail Buchanan",
+    "title": "The best vacuum cleaners in 2023, plus everything you need to know before you buy",
+    "link": "https://www.telegraph.co.uk/recommended/home/best-vacuum-cleaner/",
+    "pubDate": "Wed, 22 Nov 2023 11:57:41 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/05/18/TELEMMGLPICT000336105635_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Abigail Buchanan",
+    "guid": "2a0aa18d-1419-3e57-a91c-855a122d74ae",
+    "categories": [
+      {
+        "_": "topics:things/interiors",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/vacuum-cleaners",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/home",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T11:57:41.000Z"
+  },
+  {
+    "creator": "Rebecca Astill",
+    "title": "The best clothes steamers of 2023, tried and tested for quickly removing creases from clothes",
+    "link": "https://www.telegraph.co.uk/recommended/home/best-clothes-steamer/",
+    "pubDate": "Wed, 22 Nov 2023 11:28:24 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/03/17/TELEMMGLPICT000329301663_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Rebecca Astill",
+    "guid": "a26ccf9d-0a50-350a-8343-06a95590d909",
+    "categories": [
+      {
+        "_": "topics:things/sustainable-fashion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/fashion-advice",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/clothes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/home",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T11:28:24.000Z"
+  },
+  {
+    "creator": "Abigail Buchanan",
+    "title": "Best cordless vacuum cleaners of 2023, from Dyson to Shark, Vax and Henry",
+    "link": "https://www.telegraph.co.uk/recommended/home/best-cordless-vacuums/",
+    "pubDate": "Wed, 22 Nov 2023 11:12:07 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2022/11/15/TELEMMGLPICT000316297063_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Abigail Buchanan",
+    "guid": "ae9bcac5-af10-3911-a2fc-d38de82b7004",
+    "categories": [
+      {
+        "_": "topics:organisations/dyson",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/vacuum-cleaners",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/amazon",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/john-lewis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/interiors",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/black-friday",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/home",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T11:12:07.000Z"
+  },
+  {
+    "creator": "Abigail Buchanan",
+    "title": "The best electric toothbrushes of 2023 tried and tested, including Philips, Oral B and Spotlight",
+    "link": "https://www.telegraph.co.uk/recommended/tech/best-electric-toothbrushes/",
+    "pubDate": "Wed, 22 Nov 2023 10:53:59 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/01/18/TELEMMGLPICT000322429860_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Abigail Buchanan",
+    "guid": "ded7f2ed-d04a-3dfc-acc2-46f373098113",
+    "categories": [
+      {
+        "_": "topics:things/dental-health",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/tooth-decay",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/technology",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/more-telegraph-recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T10:53:59.000Z"
+  },
+  {
+    "creator": "Sarah Newey",
+    "title": "‘Super mosquito’ driving malaria surge in Africa, study confirms",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/asian-super-mosquito-driving-malaria-surge-in-africa/",
+    "pubDate": "Wed, 22 Nov 2023 10:31:19 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/11/22/TELEMMGLPICT000286274523_17006336427910_trans_NvBQzQNjv4BqtuI9S8raxJbgy41eDN_FIOEUjZWX2OUW1ctkoMhnoC8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sarah Newey",
+    "guid": "28d5f7a8-6014-3233-b33a-2f2da8961ef0",
+    "categories": [
+      {
+        "_": "topics:things/malaria",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/mosquitos",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/africa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/asia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ethiopia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/world-health-organisation",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T10:31:19.000Z"
+  },
+  {
+    "creator": "Debbie McQuoid",
+    "title": "Embrace failures and stop fixing their problems: how to boost your child’s confidence",
+    "link": "https://www.telegraph.co.uk/christmas/2023/11/22/how-to-give-a-child-confidence-self-esteem-go-beyond/",
+    "pubDate": "Wed, 22 Nov 2023 10:24:43 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2023/11/21/TELEMMGLPICT000354573079_17005862816150_trans_NvBQzQNjv4BqZbqvKLJW5UWXT9IhR7ijx390ZXKMnXwT2lnIu7UtDVo.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Debbie McQuoid",
+    "guid": "efca1556-4988-3c0c-950e-cde9c2118927",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/children",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/parenthood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/happiness",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-christmas-charity-appeal-2023",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/go-beyond",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T10:24:43.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Spiced citrus and pomegranate compote recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/spiced-citrus-and-pomegranate-compote-diana-henry-recipe/",
+    "pubDate": "Wed, 22 Nov 2023 10:24:21 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/16/TELEMMGLPICT000356933995_17001370871020_trans_NvBQzQNjv4BqtkFNGfLQhkpVPeNfby9bQYX55UGE1-QmdhXTcMmlCx4.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "guid": "be908946-8ca0-34f0-9d43-b0d043913919",
+    "categories": [
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/orange-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dessert-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/easy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/healthy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T10:24:21.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Pears in Marsala with dark chocolate shortbread recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/pears-marsala-rosemary-chocolate-diana-henry-recipe/",
+    "pubDate": "Wed, 22 Nov 2023 10:03:49 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/16/TELEMMGLPICT000356831969_17001286743430_trans_NvBQzQNjv4BqdbGPg0kzeSaHfh1ZLM1vqMLfiBcKGMo59hBckjwQSZY.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "guid": "e683ae6d-0675-3988-955c-97201a9ef7e6",
+    "categories": [
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dessert-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pear-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/chocolate-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/biscuit-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T10:03:49.000Z"
+  },
+  {
+    "creator": "Simon Heffer",
+    "title": "The London church that was burned out in the Blitz – but rebuilt as the Central Church of the RAF",
+    "link": "https://www.telegraph.co.uk/christmas/2023/11/22/st-clement-danes-raf-church-bombed-blitz-war-strand-london/",
+    "pubDate": "Wed, 22 Nov 2023 10:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2023/11/21/TELEMMGLPICT000088861562_17005777662290_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwQs4v22exkdQdQ8HxtVl3Yw.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Simon Heffer",
+    "guid": "435729cb-2562-3cf1-a14c-1e33d844a0df",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/raf-benevolent-fund",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/royal-air-force",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/holborn",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/the-blitz",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/second-world-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:other-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:daily-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T10:00:00.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Potatoes with shallots, parsley and capers recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/potatoes-shallots-parsley-and-capers-diana-henry-recipe/",
+    "pubDate": "Wed, 22 Nov 2023 09:49:52 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/16/TELEMMGLPICT000356934052_17001370001980_trans_NvBQzQNjv4BqyJoUfJfwabAnOEMGRrfiIG8RNAfEcLzdV3C23R0HBN8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "guid": "bc69d650-8b15-3dc6-8600-5df281313cef",
+    "categories": [
+      {
+        "_": "topics:things/potato-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/roast-dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/vegetarian-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/easy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T09:49:52.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Beetroot, red onion and black lentils with dill-sour cream recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/beetroot-onion-lentils-dill-sour-cream-diana-henry/",
+    "pubDate": "Wed, 22 Nov 2023 09:47:44 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/16/TELEMMGLPICT000356831962_17001276320750_trans_NvBQzQNjv4Bq0S1WULZTJjePyO6tnNfZMEWy_sGK6oioMu5BzggyGUY.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "guid": "c8cbf66a-3d0d-3894-ae77-b012c7535946",
+    "categories": [
+      {
+        "_": "topics:things/christmas-dinner",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/beetroot-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/lentil-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/vegetarian-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T09:47:44.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Roast fillet of beef with horseradish and mustard cream recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/roast-beef-with-horseradish-cream-diana-henry-recipe/",
+    "pubDate": "Wed, 22 Nov 2023 09:42:11 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/15/TELEMMGLPICT000356831964_17000737616390_trans_NvBQzQNjv4Bqv0ZYJaHps8pJiahCAwGXN30Ugq08Gf0vIL8iBq7t8lg.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "guid": "1f8d2f50-e446-3cb5-affc-8ccbb1d9afe0",
+    "categories": [
+      {
+        "_": "topics:things/beef-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/roast-dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T09:42:11.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Smoked trout and sea bass crudo with pickled radishes and salmon roe recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/smoked-trout-sea-bass-crudo-salmon-roe-diana-henry-recipe/",
+    "pubDate": "Wed, 22 Nov 2023 09:33:21 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/11/16/TELEMMGLPICT000356934030_17001449148000_trans_NvBQzQNjv4BqFArV4Au1G82JHSdskK1VWYX55UGE1-QmdhXTcMmlCx4.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "guid": "aa9e3e66-382d-313f-bbc1-063479976c3e",
+    "categories": [
+      {
+        "_": "topics:things/fish-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/trout",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dinner-party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/gluten-free-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tel-mag-food",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T09:33:21.000Z"
+  },
+  {
+    "creator": "Sam Dean",
+    "title": "Wales' Euro 2024 hopes rest on play-offs after draw with Turkey",
+    "link": "https://www.telegraph.co.uk/football/2023/11/21/wales-vs-turkey-live-score-euro-2024-qualifier-updates/",
+    "pubDate": "Tue, 21 Nov 2023 23:33:44 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/11/21/TELEMMGLPICT000357524140_17006045751040_trans_NvBQzQNjv4BqRf-JwjkUI04RQsPVbslsYDlPXAu0p3NtgZumIx9lFXo.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sam Dean",
+    "guid": "c2fa7f7d-cd67-36e8-b51c-fc2935412288",
+    "categories": [
+      {
+        "_": "topics:organisations/wales-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/turkey-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/euros",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football/football-live-blog",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T23:33:44.000Z"
+  },
+  {
+    "creator": "Matt Law",
+    "title": "Euro 2024: When and where is it being held, plus qualifying groups and fixtures",
+    "link": "https://www.telegraph.co.uk/football/0/euro-2024-when-where-held-plus-qualifying-groups-fixtures/",
+    "pubDate": "Tue, 21 Nov 2023 22:36:33 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/11/21/TELEMMGLPICT000003745377_17005851732490_trans_NvBQzQNjv4BqZktLseHKvnfMa04d8-4nTWgQY44wbUVQ-sf8wLRX7xI.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Matt Law",
+    "guid": "68e3f175-846f-334b-a817-6de6920d093b",
+    "categories": [
+      {
+        "_": "topics:organisations/england-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/euros",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/wales-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/scotland-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/republic-of-ireland-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/northern-ireland-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T22:36:33.000Z"
+  },
+  {
+    "creator": "Ben Riley-Smith",
+    "title": "Biggest tax cut for businesses in 50 years in Autumn Statement",
+    "link": "https://www.telegraph.co.uk/politics/2023/11/21/jeremy-hunt-biggest-tax-cut-business-50-autumn-statement/",
+    "pubDate": "Tue, 21 Nov 2023 22:30:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/11/21/TELEMMGLPICT000357501205_17006046115110_trans_NvBQzQNjv4BqkqUb-EETbARXOg9x4R7ErSLdAbc5K0xrlfn6BShIz-A.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Ben Riley-Smith",
+    "guid": "52981bdf-ea24-3359-82d3-a8f0541a8a7a",
+    "categories": [
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/autumn-statement",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/tax-cuts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T22:30:00.000Z"
+  },
+  {
+    "creator": "Will Bolton",
+    "title": "Bodies of missing teenagers found in submerged car in Snowdonia",
+    "link": "https://www.telegraph.co.uk/news/2023/11/21/four-boys-missing-latest-north-wales-snowdonia-live/",
+    "pubDate": "Tue, 21 Nov 2023 20:28:16 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/11/22/TELEMMGLPICT000357499382_17006361388760_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Will Bolton",
+    "guid": "bc95c85a-af22-3df6-a33c-60fd2fb464b9",
+    "categories": [
+      {
+        "_": "topics:places/wales",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/snowdonia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/breaking-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/united-kingdom",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/shrewsbury",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T20:28:16.000Z"
+  },
+  {
+    "creator": "Chris Price",
+    "title": "Eurozone property debts worse than pre-financial crisis, warn ECB",
+    "link": "https://www.telegraph.co.uk/business/2023/11/21/ftse-100-markets-news-public-sector-borrowing-figures-lates/",
+    "pubDate": "Tue, 21 Nov 2023 18:48:38 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/business/2023/11/21/TELEMMGLPICT000002156493_17005824116170_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Chris Price",
+    "guid": "d2cd42b8-3ad8-3033-81d0-6b9a2c00bfdd",
+    "categories": [
+      {
+        "_": "topics:things/uk-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/ftse-100",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pound",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/dow-jones-industrial-average",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/cost-of-living",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/global-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:business",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T18:48:38.000Z"
+  },
+  {
+    "creator": "David Alexander",
+    "title": "Tuesday evening news briefing: Bodies found during search for missing teenagers",
+    "link": "https://www.telegraph.co.uk/news/2023/11/21/tuesday-evening-news-briefing-bodies-found-during-search/",
+    "pubDate": "Tue, 21 Nov 2023 17:43:23 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2022/09/23/TELEMMGLPICT000310354963_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "David Alexander",
+    "guid": "38f4d929-1217-324f-b0cb-55b38c2a6ab6",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T17:43:23.000Z"
+  },
+  {
+    "creator": "Verity Bowman",
+    "title": "Gaza races to disinfect refugee shelters as disease starts to spread",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/gazan-refugee-shelters-sprayed-with-chemical-agents-to-prev/",
+    "pubDate": "Tue, 21 Nov 2023 17:13:46 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/11/21/TELEMMGLPICT000357497411_17005840652640_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Verity Bowman",
+    "guid": "8d66e54d-b032-3615-8fa2-bcb81cebef5f",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/cholera",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T17:13:46.000Z"
+  },
+  {
+    "creator": "Fiona Cowood",
+    "title": "Covid had a devastating impact on our children's social skills – we will see the effects for years",
+    "link": "https://www.telegraph.co.uk/christmas/2023/11/21/attachment-issues-anxiety-covid-generation-still-suffering/",
+    "pubDate": "Tue, 21 Nov 2023 17:01:17 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2023/11/21/TELEMMGLPICT000357499730_17005860366340_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Fiona Cowood",
+    "guid": "fefdfc1d-596f-35b8-99e0-f028afcdbbca",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-christmas-charity-appeal-2023",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/go-beyond",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/anxiety",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/uk-coronavirus-lockdown",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:other-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:daily-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T17:01:17.000Z"
+  },
+  {
+    "creator": "Alex Barton",
+    "title": "Prof Sir Chris Whitty says Sage discussed 'downsides' of lockdown",
+    "link": "https://www.telegraph.co.uk/news/2023/11/21/uk-covid-inquiry-latest-chris-whitty-live/",
+    "pubDate": "Tue, 21 Nov 2023 16:37:42 GMT",
+    "dc:creator": "Alex Barton",
+    "guid": "892dbca2-7edb-3481-89ed-48ad00755256",
+    "categories": [
+      {
+        "_": "topics:people/professor-chris-whitty",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/covid-inquiry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/coronavirus",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T16:37:42.000Z"
+  },
+  {
+    "creator": "Giles Gear",
+    "title": "Ukraine: The Latest - Aliona Hlivco on participating in Euromaidan, 10 years on",
+    "link": "https://www.telegraph.co.uk/world-news/2023/11/21/aliona-hlivco-on-participating-in-euromaidan-10-years-on/",
+    "pubDate": "Tue, 21 Nov 2023 16:06:03 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/11/21/TELEMMGLPICT000357470308_17005826943080_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Giles Gear",
+    "guid": "a20f20b0-e95c-352d-bf78-6c59a185c9f1",
+    "categories": [
+      {
+        "_": "topics:things/ukraine-the-latest-podcast",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T16:06:03.000Z"
+  },
+  {
+    "creator": "Jack Maidment",
+    "title": "Politics latest news: 'Strong case' to cut taxes in Autumn Statement, says Lord Hague",
+    "link": "https://www.telegraph.co.uk/politics/2023/11/21/rishi-sunak-latest-news-tories-labour-tax-cuts-live/",
+    "pubDate": "Tue, 21 Nov 2023 16:00:17 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/11/21/TELEMMGLPICT000187135893_17005688396700_trans_NvBQzQNjv4Bq0quQUhCPHdUHY_XWT5Ck7_4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jack Maidment",
+    "guid": "83e99dbf-8808-3e6b-a668-58089e102136",
+    "categories": [
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/tax-cuts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/autumn-statement",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/labour-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T16:00:17.000Z"
+  },
+  {
+    "creator": "Tristram Fane Saunders",
+    "title": "The 11 best poetry books of 2023 so far",
+    "link": "https://www.telegraph.co.uk/books/what-to-read/best-poetry-books-month-2023-reviews/",
+    "pubDate": "Tue, 21 Nov 2023 13:25:44 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/books/2023/11/21/TELEMMGLPICT000357475703_17005728566680_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj0k9u7HhRJvuo-ZLenGRumA.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Tristram Fane Saunders",
+    "guid": "97fe53d9-4569-3e6c-8ab5-15664a871d63",
+    "categories": [
+      {
+        "_": "topics:things/poetry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:books",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:culture",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:books/poetry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T13:25:44.000Z"
+  },
+  {
+    "creator": "Simon Lewis",
+    "title": "The best sunrise alarm clocks of 2023, to help you wake up as naturally as the dawn",
+    "link": "https://www.telegraph.co.uk/recommended/home/best-wake-light-alarm-clocks/",
+    "pubDate": "Tue, 21 Nov 2023 12:49:57 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2022/10/03/TELEMMGLPICT000311476643_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Simon Lewis",
+    "guid": "62a6830b-5048-3ddb-931c-c45336d5028c",
+    "categories": [
+      {
+        "_": "topics:things/health",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/science-sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/sleep-hygiene",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/home",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T12:49:57.000Z"
+  },
+  {
+    "creator": "Alex Barton",
+    "title": "Car found in search for teenagers missing in Snowdonia",
+    "link": "https://www.telegraph.co.uk/news/2023/11/21/four-teenage-boys-missing-north-wales-snowdonia/",
+    "pubDate": "Tue, 21 Nov 2023 12:48:13 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/11/21/TELEMMGLPICT000357481606_17005735236740_trans_NvBQzQNjv4BqobTMs1LTJxALnXI6zhwvOc31JpfmG3HPqDblw16aFRc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Alex Barton",
+    "guid": "a2a5c11a-97e2-32d3-89fb-9e0f73672fef",
+    "categories": [
+      {
+        "_": "topics:in-the-news/breaking-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/snowdonia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/united-kingdom",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T12:48:13.000Z"
+  },
+  {
+    "creator": "Catherine Lough",
+    "title": "Welsh schools could have summer holidays cut to four weeks",
+    "link": "https://www.telegraph.co.uk/news/2023/11/21/welsh-schools-summer-holidays-four-weeks-plans-education/",
+    "pubDate": "Tue, 21 Nov 2023 11:24:17 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/11/21/TELEMMGLPICT000329953668_17005631170700_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Catherine Lough",
+    "guid": "daf3088b-66cb-3512-829f-01f899721a1e",
+    "categories": [
+      {
+        "_": "topics:events/school-holidays",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/wales",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/secondary-education",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/primary-education",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T11:24:17.000Z"
+  },
+  {
+    "creator": "Tara Thorpe",
+    "title": "Britain’s most unjust tax – Telegraph readers deliver their verdict",
+    "link": "https://www.telegraph.co.uk/money/tax/news/britain-unjust-tax-inheritance-stamp-duty/",
+    "pubDate": "Tue, 21 Nov 2023 10:54:06 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/tax/2023/08/07/TELEMMGLPICT000345117883_16914076426890_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Tara Thorpe",
+    "guid": "a8316424-2699-3c21-b16f-ec7171f1ab6d",
+    "categories": [
+      {
+        "_": "topics:organisations/hm-revenue-customs",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/inheritance-tax",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/hm-treasury",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/stamp-duty",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "migration:moneyhub",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T10:54:06.000Z"
+  },
+  {
+    "creator": "Sarah Newey",
+    "title": "Singapore launches fish farm in a shipping container to bolster food security",
+    "link": "https://www.telegraph.co.uk/global-health/climate-and-people/singapore-fish-farm-first-container-ship-food-security/",
+    "pubDate": "Tue, 21 Nov 2023 10:49:15 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/11/21/TELEMMGLPICT000357463328_17005558514550_trans_NvBQzQNjv4BqT4RgIw1sqVCMuPVTlDhGrtQrrgA_-gi_iZhXXH3w_84.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sarah Newey",
+    "guid": "250bdbad-0594-39f5-8d1d-e6614bda89c2",
+    "categories": [
+      {
+        "_": "topics:things/fish",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/agriculture",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/fishing",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/singapore",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/asia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:climate-and-people",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T10:49:15.000Z"
+  },
+  {
+    "creator": "David Knowles",
+    "title": "Battle Lines: The story of an October 7 survivor",
+    "link": "https://www.telegraph.co.uk/world-news/2023/11/21/battle-lines-october-7-survivor/",
+    "pubDate": "Tue, 21 Nov 2023 10:02:19 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/11/21/TELEMMGLPICT000356110913_17005603674870_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "David Knowles",
+    "guid": "794d0322-8e66-3dc7-b3a8-19a4c4dbe359",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/middle-east",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/battle-lines",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T10:02:19.000Z"
+  },
+  {
+    "creator": "Calum Weill",
+    "title": "Telegraph Fantasy Football: most selected players after Game Week 12",
+    "link": "https://www.telegraph.co.uk/fantasy-sports/fantasy-football/telegraph-fantasy-football-most-selected-players/",
+    "pubDate": "Tue, 21 Nov 2023 09:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/Fantasy-football/haaland-ff.jpg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Calum Weill",
+    "guid": "6146ae77-a99f-3920-8e7e-7938db7284cd",
+    "categories": [
+      {
+        "_": "commercial:fantasy-sports/fantasy-football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:apple-news-include",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:fantasy-sports/fantasy-football/fantasy-football-evergreen",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:fantasy-sports/fantasy-football/fantasy-football-selection-tips",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T09:00:00.000Z"
+  },
+  {
+    "creator": "David Millward",
+    "title": "When is the US presidential election? Everything you need to know about the 2024 race",
+    "link": "https://www.telegraph.co.uk/news/0/us-presidential-election-2024-when-dates-candidates-voting/",
+    "pubDate": "Tue, 21 Nov 2023 02:20:30 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/08/15/TELEMMGLPICT000345448052_16921216963760_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "David Millward",
+    "guid": "9fc77557-471e-3b07-a30f-b1a8badd19f6",
+    "categories": [
+      {
+        "_": "topics:events/us-election",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/us-politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/donald-trump",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/joe-biden",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/usa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T02:20:30.000Z"
+  },
+  {
+    "creator": "Jason Burt",
+    "title": "England's reliance on Harry Kane laid bare in drab North Macedonia draw",
+    "link": "https://www.telegraph.co.uk/football/2023/11/20/north-macedonia-vs-england-euro-2024-qualifier-live-score/",
+    "pubDate": "Mon, 20 Nov 2023 23:33:43 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/11/20/TELEMMGLPICT000357434875_17005148948300_trans_NvBQzQNjv4Bq5LtNO2rxn4OOgkqnVoph5z1TtEODonKCNkMC7vWEiZw.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jason Burt",
+    "guid": "db08ae15-1530-3656-8b4b-e23fbe66e781",
+    "categories": [
+      {
+        "_": "topics:organisations/england-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/euros",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/gareth-southgate",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-20T23:33:43.000Z"
+  },
+  {
+    "creator": "Ben Riley-Smith",
+    "title": "Sunak pins political hopes on Thatcherite tax-cutting package",
+    "link": "https://www.telegraph.co.uk/politics/2023/11/20/rishi-sunak-election-hope-thatcher-tax-cut-autumn-statement/",
+    "pubDate": "Mon, 20 Nov 2023 21:44:25 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/11/20/TELEMMGLPICT000357401342_17005144890990_trans_NvBQzQNjv4Bqv00OZVu88lwnEQ0juLa-NCNvG31bRW_c6bV4zmPVR-0.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Ben Riley-Smith",
+    "guid": "dff71a90-9b26-3da0-98a4-f25384e2e843",
+    "categories": [
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/autumn-statement",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/margaret-thatcher",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/tax-cuts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-20T21:44:25.000Z"
   }
 ]

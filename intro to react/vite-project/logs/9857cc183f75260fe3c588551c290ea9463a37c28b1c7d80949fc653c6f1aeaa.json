@@ -3980,5 +3980,2712 @@
       }
     ],
     "isoDate": "2023-11-09T17:21:15.000Z"
+  },
+  {
+    "creator": "Tripp Mickle, Mike Isaac, Karen Weise, Cade Metz and Kevin Roose",
+    "title": "Explaining OpenAI’s Board Shake-Up",
+    "link": "https://www.nytimes.com/2023/11/22/technology/open-ai-board-shakeup.html",
+    "pubDate": "Thu, 23 Nov 2023 01:44:18 +0000",
+    "dc:creator": "Tripp Mickle, Mike Isaac, Karen Weise, Cade Metz and Kevin Roose",
+    "content": "Who is off, and who is on? For now there are three members, including one holdover from the board that ousted Sam Altman as C.E.O. last week.",
+    "contentSnippet": "Who is off, and who is on? For now there are three members, including one holdover from the board that ousted Sam Altman as C.E.O. last week.",
+    "guid": "https://www.nytimes.com/2023/11/22/technology/open-ai-board-shakeup.html",
+    "categories": [
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "D'Angelo, Adam",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Summers, Lawrence H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sutskever, Ilya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Taylor, Bret",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T01:44:18.000Z"
+  },
+  {
+    "creator": "Cade Metz, Tripp Mickle, Mike Isaac, Karen Weise and Kevin Roose",
+    "title": "Five Days of Chaos: How Sam Altman Returned to OpenAI",
+    "link": "https://www.nytimes.com/2023/11/22/technology/how-sam-altman-returned-openai.html",
+    "pubDate": "Wed, 22 Nov 2023 23:33:55 +0000",
+    "dc:creator": "Cade Metz, Tripp Mickle, Mike Isaac, Karen Weise and Kevin Roose",
+    "content": "On Friday, Mr. Altman was pushed out of the hot A.I. start-up he ran. But an intense pressure campaign and negotiations brought him back.",
+    "contentSnippet": "On Friday, Mr. Altman was pushed out of the hot A.I. start-up he ran. But an intense pressure campaign and negotiations brought him back.",
+    "guid": "https://www.nytimes.com/2023/11/22/technology/how-sam-altman-returned-openai.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Murati, Mira",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Shear, Emmett",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Summers, Lawrence H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sutskever, Ilya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Toner, Helen",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T23:33:55.000Z"
+  },
+  {
+    "creator": "Kevin Roose",
+    "title": "The OpenAI Drama Has a Clear Winner: The Capitalists",
+    "link": "https://www.nytimes.com/2023/11/22/technology/openai-board-capitalists.html",
+    "pubDate": "Wed, 22 Nov 2023 21:29:40 +0000",
+    "dc:creator": "Kevin Roose",
+    "content": "The fight over OpenAI was at least partly about dueling visions of artificial intelligence. One side clearly won out.",
+    "contentSnippet": "The fight over OpenAI was at least partly about dueling visions of artificial intelligence. One side clearly won out.",
+    "guid": "https://www.nytimes.com/2023/11/22/technology/openai-board-capitalists.html",
+    "categories": [
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "D'Angelo, Adam",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Summers, Lawrence H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Taylor, Bret",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Corporate Social Responsibility",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Capitalism (Theory and Philosophy)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Altruism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T21:29:40.000Z"
+  },
+  {
+    "creator": "Emily Flitter",
+    "title": "U.S. Case Details Binance’s Knowledge About Criminal Users",
+    "link": "https://www.nytimes.com/2023/11/22/business/binance-crypto-criminal-customers.html",
+    "pubDate": "Wed, 22 Nov 2023 19:39:31 +0000",
+    "dc:creator": "Emily Flitter",
+    "content": "The crypto exchange treated them as essential customers, the government said. U.S. authorities want the industry to understand how bad that is for business.",
+    "contentSnippet": "The crypto exchange treated them as essential customers, the government said. U.S. authorities want the industry to understand how bad that is for business.",
+    "guid": "https://www.nytimes.com/2023/11/22/business/binance-crypto-criminal-customers.html",
+    "categories": [
+      {
+        "_": "Binance",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Financial Crimes Enforcement Network (Treasury Department)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Zhao, Changpeng",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Virtual Currency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Money Laundering",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T19:39:31.000Z"
+  },
+  {
+    "creator": "Kevin Roose",
+    "title": "The Winners and Losers of OpenAI’s Wild Weekend",
+    "link": "https://www.nytimes.com/2023/11/20/technology/openai-sam-altman-winners-losers.html",
+    "pubDate": "Wed, 22 Nov 2023 16:55:05 +0000",
+    "dc:creator": "Kevin Roose",
+    "content": "It is hard to see the past few days as anything but a big loss for the A.I. company.",
+    "contentSnippet": "It is hard to see the past few days as anything but a big loss for the A.I. company.",
+    "guid": "https://www.nytimes.com/2023/11/20/technology/openai-sam-altman-winners-losers.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Corporate Social Responsibility",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Nadella, Satya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:55:05.000Z"
+  },
+  {
+    "creator": "Karen Weise",
+    "title": "How Microsoft’s Satya Nadella Kept the OpenAI Partnership Alive",
+    "link": "https://www.nytimes.com/2023/11/20/technology/openai-microsoft-altman-nadella.html",
+    "pubDate": "Wed, 22 Nov 2023 16:53:05 +0000",
+    "dc:creator": "Karen Weise",
+    "content": "Mr. Nadella moved fast to hire Sam Altman, who was pushed out of OpenAI on Friday, and asserted his company’s role in its partnership with the A.I. start-up.",
+    "contentSnippet": "Mr. Nadella moved fast to hire Sam Altman, who was pushed out of OpenAI on Friday, and asserted his company’s role in its partnership with the A.I. start-up.",
+    "guid": "https://www.nytimes.com/2023/11/20/technology/openai-microsoft-altman-nadella.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Nadella, Satya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:53:05.000Z"
+  },
+  {
+    "creator": "David Streitfeld",
+    "title": "The Long Shadow of Steve Jobs Looms Over the Turmoil at OpenAI",
+    "link": "https://www.nytimes.com/2023/11/21/technology/sam-altman-steve-jobs.html",
+    "pubDate": "Wed, 22 Nov 2023 16:51:49 +0000",
+    "dc:creator": "David Streitfeld",
+    "content": "Sam Altman, the most prominent promoter of artificial intelligence, learned that it’s hard to be a visionary founder like the Apple legend.",
+    "contentSnippet": "Sam Altman, the most prominent promoter of artificial intelligence, learned that it’s hard to be a visionary founder like the Apple legend.",
+    "guid": "https://www.nytimes.com/2023/11/21/technology/sam-altman-steve-jobs.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Entrepreneurship",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Driverless and Semiautonomous Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Jobs, Steven P",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Apple Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Vogt, Kyle",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Cruise LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:51:49.000Z"
+  },
+  {
+    "creator": "Cade Metz, Tripp Mickle and Mike Isaac",
+    "title": "Before Altman’s Ouster, OpenAI’s Board Was Divided and Feuding",
+    "link": "https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html",
+    "pubDate": "Wed, 22 Nov 2023 16:49:25 +0000",
+    "dc:creator": "Cade Metz, Tripp Mickle and Mike Isaac",
+    "content": "Sam Altman confronted a member over a research paper that discussed the company, while directors disagreed for months about who should fill board vacancies.",
+    "contentSnippet": "Sam Altman confronted a member over a research paper that discussed the company, while directors disagreed for months about who should fill board vacancies.",
+    "guid": "https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html",
+    "categories": [
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Corporate Social Responsibility",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sutskever, Ilya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Taylor, Bret",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Summers, Lawrence H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "D'Angelo, Adam",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Toner, Helen",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T16:49:25.000Z"
+  },
+  {
+    "creator": "Cade Metz, Mike Isaac, Tripp Mickle, Karen Weise and Kevin Roose",
+    "title": "Sam Altman Is Reinstated as OpenAI’s Chief Executive",
+    "link": "https://www.nytimes.com/2023/11/22/technology/openai-sam-altman-returns.html",
+    "pubDate": "Wed, 22 Nov 2023 14:49:08 +0000",
+    "dc:creator": "Cade Metz, Mike Isaac, Tripp Mickle, Karen Weise and Kevin Roose",
+    "content": "The move capped a chaotic five days at the artificial intelligence company.",
+    "contentSnippet": "The move capped a chaotic five days at the artificial intelligence company.",
+    "guid": "https://www.nytimes.com/2023/11/22/technology/openai-sam-altman-returns.html",
+    "categories": [
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T14:49:08.000Z"
+  },
+  {
+    "creator": "Madison Malone Kircher",
+    "title": "Who’s That Wonderful Girl? How “Nanalan’” Found New Success on TikTok",
+    "link": "https://www.nytimes.com/2023/11/21/style/whos-that-wonderful-girl-nanalan.html",
+    "pubDate": "Wed, 22 Nov 2023 12:41:39 +0000",
+    "dc:creator": "Madison Malone Kircher",
+    "content": "She’s Mona, the puppet heroine of “Nanalan’,” an old Canadian children’s show that has found a new audience on TikTok.",
+    "contentSnippet": "She’s Mona, the puppet heroine of “Nanalan’,” an old Canadian children’s show that has found a new audience on TikTok.",
+    "guid": "https://www.nytimes.com/2023/11/21/style/whos-that-wonderful-girl-nanalan.html",
+    "categories": [
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Puppets",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Television",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Nickelodeon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T12:41:39.000Z"
+  },
+  {
+    "creator": "J. D. Biersdorfer",
+    "title": "Let Your Maps App Guide You Home for the Holidays",
+    "link": "https://www.nytimes.com/2023/11/22/technology/let-your-maps-app-guide-you-home-for-the-holidays.html",
+    "pubDate": "Wed, 22 Nov 2023 08:00:38 +0000",
+    "dc:creator": "J. D. Biersdorfer",
+    "content": "Updates from Google and Apple can help you find efficient routes, locate nearby electric-vehicle charging stations or save a map for offline use.",
+    "contentSnippet": "Updates from Google and Apple can help you find efficient routes, locate nearby electric-vehicle charging stations or save a map for offline use.",
+    "guid": "https://www.nytimes.com/2023/11/22/technology/let-your-maps-app-guide-you-home-for-the-holidays.html",
+    "categories": [
+      {
+        "_": "Smartphones",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Travel and Vacations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Electric and Hybrid Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T08:00:38.000Z"
+  },
+  {
+    "creator": "David Yaffe-Bellany, Emily Flitter, Matthew Goldstein and Glenn Thrush",
+    "title": "Binance Founder Changpeng Zhao Pleads Guilty to Money Laundering Violations",
+    "link": "https://www.nytimes.com/2023/11/21/technology/binance-changpeng-zhao-pleads-guilty.html",
+    "pubDate": "Wed, 22 Nov 2023 01:31:41 +0000",
+    "dc:creator": "David Yaffe-Bellany, Emily Flitter, Matthew Goldstein and Glenn Thrush",
+    "content": "Changpeng Zhao will pay a $50 million fine and step down as chief executive of the company he created, the latest blow to the crypto world since the implosion of FTX last year.",
+    "contentSnippet": "Changpeng Zhao will pay a $50 million fine and step down as chief executive of the company he created, the latest blow to the crypto world since the implosion of FTX last year.",
+    "guid": "https://www.nytimes.com/2023/11/21/technology/binance-changpeng-zhao-pleads-guilty.html",
+    "categories": [
+      {
+        "_": "Virtual Currency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Money Laundering",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fines (Penalties)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zhao, Changpeng",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Binance",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Commodity Futures Trading Commission",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Justice Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Treasury Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Securities and Exchange Commission",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T01:31:41.000Z"
+  },
+  {
+    "creator": "Kate Conger and Ryan Mac",
+    "title": "X Sues Media Matters Over Research on Ads Next to Antisemitic Posts",
+    "link": "https://www.nytimes.com/2023/11/20/technology/x-sues-media-matters-antisemitic-posts.html",
+    "pubDate": "Tue, 21 Nov 2023 02:04:19 +0000",
+    "dc:creator": "Kate Conger and Ryan Mac",
+    "content": "X asked a federal court to order the advocacy group to take down its findings, accusing it of “manipulating the algorithms.”",
+    "contentSnippet": "X asked a federal court to order the advocacy group to take down its findings, accusing it of “manipulating the algorithms.”",
+    "guid": "https://www.nytimes.com/2023/11/20/technology/x-sues-media-matters-antisemitic-posts.html",
+    "categories": [
+      {
+        "_": "Twitter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Media Matters for America",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Yaccarino, Linda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Paxton, Ken",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Texas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Online Advertising",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T02:04:19.000Z"
+  },
+  {
+    "creator": "Yiwen Lu",
+    "title": "Epic Games C.E.O. Says Google Has ‘De Facto Control’ on Android App",
+    "link": "https://www.nytimes.com/2023/11/20/technology/epic-games-google-lawsuit-sweeney.html",
+    "pubDate": "Tue, 21 Nov 2023 00:33:30 +0000",
+    "dc:creator": "Yiwen Lu",
+    "content": "Tim Sweeney, who runs the company that created Fortnite, testified in a case that, if he wins, could allow competing payment systems on the Play Store.",
+    "contentSnippet": "Tim Sweeney, who runs the company that created Fortnite, testified in a case that, if he wins, could allow competing payment systems on the Play Store.",
+    "guid": "https://www.nytimes.com/2023/11/20/technology/epic-games-google-lawsuit-sweeney.html",
+    "categories": [
+      {
+        "_": "Computer and Video Games",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Antitrust Laws and Competition Issues",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Android (Operating System)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Epic Games",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Play",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Sweeney, Tim (1970- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T00:33:30.000Z"
+  },
+  {
+    "creator": "Yiwen Lu and Tripp Mickle",
+    "title": "Cruise’s C.E.O. Quits as the Driverless Carmaker Aims to Rebuild Trust",
+    "link": "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html",
+    "pubDate": "Mon, 20 Nov 2023 19:24:46 +0000",
+    "dc:creator": "Yiwen Lu and Tripp Mickle",
+    "content": "Kyle Vogt, a founder of Cruise, resigned from the company on Sunday, weeks after it suspended all of its self-driving operations.",
+    "contentSnippet": "Kyle Vogt, a founder of Cruise, resigned from the company on Sunday, weeks after it suspended all of its self-driving operations.",
+    "guid": "https://www.nytimes.com/2023/11/19/technology/cruise-ceo-kyle-vogt-quits.html",
+    "categories": [
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Driverless and Semiautonomous Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Automobiles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Traffic Accidents and Safety",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cruise LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "General Motors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Barra, Mary T",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Vogt, Kyle",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Corporate Social Responsibility",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-20T19:24:46.000Z"
+  },
+  {
+    "creator": "David E. Sanger and Eric Lipton",
+    "title": "The White House May Condemn Musk, but the Government Is Addicted to Him",
+    "link": "https://www.nytimes.com/2023/11/19/us/politics/elon-musk-white-house-pentagon.html",
+    "pubDate": "Mon, 20 Nov 2023 19:18:53 +0000",
+    "dc:creator": "David E. Sanger and Eric Lipton",
+    "content": "Rarely has the U.S. government so depended on the technology provided by a single technologist with views that it has so publicly declared repugnant.",
+    "contentSnippet": "Rarely has the U.S. government so depended on the technology provided by a single technologist with views that it has so publicly declared repugnant.",
+    "guid": "https://www.nytimes.com/2023/11/19/us/politics/elon-musk-white-house-pentagon.html",
+    "categories": [
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "United States Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense Contracts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Starlink Satellite Constellation (SpaceX)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Space Exploration Technologies Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Satellites",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-20T19:18:53.000Z"
+  },
+  {
+    "title": "Explaining the Upheaval at OpenAI",
+    "link": "https://www.nytimes.com/2023/11/20/technology/openai-sam-altman-microsoft.html",
+    "pubDate": "Mon, 20 Nov 2023 19:17:46 +0000",
+    "content": "What comes next after Sam Altman’s messy ouster?",
+    "contentSnippet": "What comes next after Sam Altman’s messy ouster?",
+    "guid": "https://www.nytimes.com/2023/11/20/technology/openai-sam-altman-microsoft.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altruism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Murati, Mira",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-20T19:17:46.000Z"
+  },
+  {
+    "creator": "Mike Isaac, Kevin Roose and Cade Metz",
+    "title": "Microsoft Hires Sam Altman Hours After OpenAI Rejects His Return",
+    "link": "https://www.nytimes.com/2023/11/20/business/openai-altman-ceo-not-returning.html",
+    "pubDate": "Mon, 20 Nov 2023 16:19:23 +0000",
+    "dc:creator": "Mike Isaac, Kevin Roose and Cade Metz",
+    "content": "The announcement capped a tumultuous weekend for OpenAI, after Mr. Altman made a push to reclaim his job as C.E.O. of the artificial intelligence company.",
+    "contentSnippet": "The announcement capped a tumultuous weekend for OpenAI, after Mr. Altman made a push to reclaim his job as C.E.O. of the artificial intelligence company.",
+    "guid": "https://www.nytimes.com/2023/11/20/business/openai-altman-ceo-not-returning.html",
+    "categories": [
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Murati, Mira",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Shear, Emmett",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-20T16:19:23.000Z"
+  },
+  {
+    "creator": "Yiwen Lu",
+    "title": "‘Lost Time for No Reason’: How Driverless Taxis Are Stressing Cities",
+    "link": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
+    "pubDate": "Mon, 20 Nov 2023 13:47:52 +0000",
+    "dc:creator": "Yiwen Lu",
+    "content": "In San Francisco and Austin, Texas, where passengers can hail self-driving vehicles, the cars have added to the workloads of city employees.",
+    "contentSnippet": "In San Francisco and Austin, Texas, where passengers can hail self-driving vehicles, the cars have added to the workloads of city employees.",
+    "guid": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
+    "categories": [
+      {
+        "_": "Driverless and Semiautonomous Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fires and Firefighters",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Traffic Accidents and Safety",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Automobiles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Car Services and Livery Cabs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Taxicabs and Taxicab Drivers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Automobile Safety Features and Defects",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cruise LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Waymo",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Austin (Tex)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "San Francisco (Calif)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-20T13:47:52.000Z"
+  },
+  {
+    "creator": "Mike Isaac, Cade Metz, Tripp Mickle and Erin Griffith",
+    "title": "Talks to Bring Sam Altman Back to OpenAI Stretch Through Weekend",
+    "link": "https://www.nytimes.com/2023/11/19/technology/sam-altman-openai-board.html",
+    "pubDate": "Mon, 20 Nov 2023 03:47:34 +0000",
+    "dc:creator": "Mike Isaac, Cade Metz, Tripp Mickle and Erin Griffith",
+    "content": "Disagreements over the board’s makeup appear to have muddled negotiations. Mr. Altman was forced out as chief executive by the company’s board on Friday.",
+    "contentSnippet": "Disagreements over the board’s makeup appear to have muddled negotiations. Mr. Altman was forced out as chief executive by the company’s board on Friday.",
+    "guid": "https://www.nytimes.com/2023/11/19/technology/sam-altman-openai-board.html",
+    "categories": [
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hurd, Will",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-20T03:47:34.000Z"
+  },
+  {
+    "creator": "Cade Metz, Mike Isaac and Erin Griffith",
+    "title": "Sam Altman Is Said to Be Discussing Return to OpenAI With Company’s Board",
+    "link": "https://www.nytimes.com/2023/11/18/technology/sam-altman-openai-board.html",
+    "pubDate": "Sun, 19 Nov 2023 17:27:40 +0000",
+    "dc:creator": "Cade Metz, Mike Isaac and Erin Griffith",
+    "content": "Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors.",
+    "contentSnippet": "Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors.",
+    "guid": "https://www.nytimes.com/2023/11/18/technology/sam-altman-openai-board.html",
+    "categories": [
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Sequoia Capital",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Thrive Capital",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-19T17:27:40.000Z"
+  },
+  {
+    "creator": "Cade Metz",
+    "title": "The Fear and Tension That Led to Sam Altman’s Ouster at OpenAI",
+    "link": "https://www.nytimes.com/2023/11/18/technology/open-ai-sam-altman-what-happened.html",
+    "pubDate": "Sun, 19 Nov 2023 16:44:26 +0000",
+    "dc:creator": "Cade Metz",
+    "content": "The departure of the high-profile boss of the San Francisco company drew attention to a philosophical rift among the people building new A.I. systems.",
+    "contentSnippet": "The departure of the high-profile boss of the San Francisco company drew attention to a philosophical rift among the people building new A.I. systems.",
+    "guid": "https://www.nytimes.com/2023/11/18/technology/open-ai-sam-altman-what-happened.html",
+    "categories": [
+      {
+        "_": "Workplace Environment",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Entrepreneurship",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anthropic AI LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Amodei, Dario",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Murati, Mira",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-19T16:44:26.000Z"
+  },
+  {
+    "creator": "Kate Conger and Tiffany Hsu",
+    "title": "More Advertisers Halt Spending on X in Growing Backlash Against Musk",
+    "link": "https://www.nytimes.com/2023/11/18/technology/elon-musk-twitter-x-advertisers.html",
+    "pubDate": "Sun, 19 Nov 2023 16:00:18 +0000",
+    "dc:creator": "Kate Conger and Tiffany Hsu",
+    "content": "Warner Bros. Discovery and Sony have joined other companies in pausing spending on X, formerly Twitter, over Elon Musk’s endorsement of an antisemitic post.",
+    "contentSnippet": "Warner Bros. Discovery and Sony have joined other companies in pausing spending on X, formerly Twitter, over Elon Musk’s endorsement of an antisemitic post.",
+    "guid": "https://www.nytimes.com/2023/11/18/technology/elon-musk-twitter-x-advertisers.html",
+    "categories": [
+      {
+        "_": "Twitter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Online Advertising",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Media Matters for America",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Warner Bros Discovery",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Sony Corporation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-19T16:00:18.000Z"
+  },
+  {
+    "creator": "Paul Mozur and Aaron Krolik",
+    "title": "The Invisible War in Ukraine Being Fought Over Radio Waves",
+    "link": "https://www.nytimes.com/2023/11/19/technology/russia-ukraine-electronic-warfare-drone-signals.html",
+    "pubDate": "Sun, 19 Nov 2023 05:01:24 +0000",
+    "dc:creator": "Paul Mozur and Aaron Krolik",
+    "content": "Using electromagnetic waves to flummox and follow smarter weapons has become a critical part of the cat-and-mouse game between Ukraine and Russia. The United States, China and others have taken note.",
+    "contentSnippet": "Using electromagnetic waves to flummox and follow smarter weapons has become a critical part of the cat-and-mouse game between Ukraine and Russia. The United States, China and others have taken note.",
+    "guid": "https://www.nytimes.com/2023/11/19/technology/russia-ukraine-electronic-warfare-drone-signals.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Radio Spectrum",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Drones (Pilotless Planes)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Sensors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wireless Communications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Satellites",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-19T05:01:24.000Z"
+  },
+  {
+    "creator": "Mike Isaac, Cade Metz, Erin Griffith and Tripp Mickle",
+    "title": "Ousted OpenAI C.E.O. Makes Plans for New Artificial Intelligence Company",
+    "link": "https://www.nytimes.com/2023/11/18/technology/ousted-openai-ceo-makes-plans-for-new-artificial-intelligence-company.html",
+    "pubDate": "Sun, 19 Nov 2023 00:49:47 +0000",
+    "dc:creator": "Mike Isaac, Cade Metz, Erin Griffith and Tripp Mickle",
+    "content": "Sam Altman, who was forced out of his company on Friday afternoon, was quickly moving to create another company with another OpenAI executive who quit on Friday.",
+    "contentSnippet": "Sam Altman, who was forced out of his company on Friday afternoon, was quickly moving to create another company with another OpenAI executive who quit on Friday.",
+    "guid": "https://www.nytimes.com/2023/11/18/technology/ousted-openai-ceo-makes-plans-for-new-artificial-intelligence-company.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-19T00:49:47.000Z"
+  },
+  {
+    "creator": "Kenneth Chang",
+    "title": "Big Explosions and Major Progress in SpaceX’s 2nd Starship Launch",
+    "link": "https://www.nytimes.com/2023/11/18/science/spacex-starship-launch.html",
+    "pubDate": "Sat, 18 Nov 2023 20:07:43 +0000",
+    "dc:creator": "Kenneth Chang",
+    "content": "The journeys of Starship’s two parts ended in separate explosions. But the engineers at Elon Musk’s spaceflight company overcame problems that marred the rocket’s first flight in April.",
+    "contentSnippet": "The journeys of Starship’s two parts ended in separate explosions. But the engineers at Elon Musk’s spaceflight company overcame problems that marred the rocket’s first flight in April.",
+    "guid": "https://www.nytimes.com/2023/11/18/science/spacex-starship-launch.html",
+    "categories": [
+      {
+        "_": "Rocket Science and Propulsion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space Exploration Technologies Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "National Aeronautics and Space Administration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Moon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Engineering and Engineers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Explosions (Accidental)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-18T20:07:43.000Z"
+  },
+  {
+    "creator": "Lola Fadulu",
+    "title": "Apple Texting With Android Users to Improve Next Year",
+    "link": "https://www.nytimes.com/2023/11/18/technology/iphone-android-apple-rcs-messaging.html",
+    "pubDate": "Sat, 18 Nov 2023 18:38:07 +0000",
+    "dc:creator": "Lola Fadulu",
+    "content": "Longstanding texting problems between Android and Apple owners will ease next year. Among other changes, users will be able to send better-quality videos and photos.",
+    "contentSnippet": "Longstanding texting problems between Android and Apple owners will ease next year. Among other changes, users will be able to send better-quality videos and photos.",
+    "guid": "https://www.nytimes.com/2023/11/18/technology/iphone-android-apple-rcs-messaging.html",
+    "categories": [
+      {
+        "_": "iPhone",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Text Messaging",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Privacy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Apple Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Android (Operating System)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Instant Messaging",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-18T18:38:07.000Z"
+  },
+  {
+    "creator": "Kevin Roose",
+    "title": "What We Know About Sam Altman’s Ouster From OpenAI",
+    "link": "https://www.nytimes.com/2023/11/18/technology/sam-altman-open-ai.html",
+    "pubDate": "Sat, 18 Nov 2023 16:53:24 +0000",
+    "dc:creator": "Kevin Roose",
+    "content": "Everything seemed to be going his way. Then his time at OpenAI was over.",
+    "contentSnippet": "Everything seemed to be going his way. Then his time at OpenAI was over.",
+    "guid": "https://www.nytimes.com/2023/11/18/technology/sam-altman-open-ai.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Nadella, Satya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-18T16:53:24.000Z"
+  },
+  {
+    "creator": "Tiffany Hsu and Sapna Maheshwari",
+    "title": "Are TikTok and X Amplifying Antisemitic Content? It’s Increasingly Hard to Know.",
+    "link": "https://www.nytimes.com/2023/11/17/technology/israel-hamas-war-meta-tiktok-social-media.html",
+    "pubDate": "Sat, 18 Nov 2023 16:33:45 +0000",
+    "dc:creator": "Tiffany Hsu and Sapna Maheshwari",
+    "content": "People who study social media say the conflict between Israel and Hamas has underscored the need for better data transparency from platforms.",
+    "contentSnippet": "People who study social media say the conflict between Israel and Hamas has underscored the need for better data transparency from platforms.",
+    "guid": "https://www.nytimes.com/2023/11/17/technology/israel-hamas-war-meta-tiktok-social-media.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anti-Defamation League",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Beijing Bytedance Technology Co Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "CrowdTangle Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Facebook Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Instagram Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Meta Platforms Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Twitter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-18T16:33:45.000Z"
+  },
+  {
+    "creator": "Kenneth Chang",
+    "title": "SpaceX Shifts the 2nd Launch of Its Starship Rocket to Saturday",
+    "link": "https://www.nytimes.com/2023/11/16/science/spacex-starship-launch-elon-musk.html",
+    "pubDate": "Sat, 18 Nov 2023 11:07:36 +0000",
+    "dc:creator": "Kenneth Chang",
+    "content": "Elon Musk’s private space company is hoping for a better performance of the giant rocket, which is the most powerful ever to fly.",
+    "contentSnippet": "Elon Musk’s private space company is hoping for a better performance of the giant rocket, which is the most powerful ever to fly.",
+    "guid": "https://www.nytimes.com/2023/11/16/science/spacex-starship-launch-elon-musk.html",
+    "categories": [
+      {
+        "_": "Space Exploration Technologies Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Rocket Science and Propulsion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-18T11:07:36.000Z"
+  },
+  {
+    "creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Corey Schreppel, Dan Powell and Marion Lozano",
+    "title": "Emergency Pod: Sam Altman is Out at Open AI",
+    "link": "https://www.nytimes.com/2023/11/18/podcasts/hard-fork-sam-altman.html",
+    "pubDate": "Sat, 18 Nov 2023 07:38:36 +0000",
+    "dc:creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Corey Schreppel, Dan Powell and Marion Lozano",
+    "content": "“Probably the most shocking tech story of the year.”",
+    "contentSnippet": "“Probably the most shocking tech story of the year.”",
+    "guid": "https://www.nytimes.com/2023/11/18/podcasts/hard-fork-sam-altman.html",
+    "categories": [
+      {
+        "_": "Science and Technology",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-18T07:38:36.000Z"
+  },
+  {
+    "creator": "Cade Metz",
+    "title": "Sam Altman, OpenAI’s CEO, Is Ousted by Company’s Board",
+    "link": "https://www.nytimes.com/2023/11/17/technology/openai-sam-altman-ousted.html",
+    "pubDate": "Sat, 18 Nov 2023 05:12:25 +0000",
+    "dc:creator": "Cade Metz",
+    "content": "Mira Murati, who previously served as chief technology officer, has been named interim chief executive.",
+    "contentSnippet": "Mira Murati, who previously served as chief technology officer, has been named interim chief executive.",
+    "guid": "https://www.nytimes.com/2023/11/17/technology/openai-sam-altman-ousted.html",
+    "categories": [
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Murati, Mira",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-18T05:12:25.000Z"
+  },
+  {
+    "creator": "Tripp Mickle and Cade Metz",
+    "title": "Who Is Mira Murati, OpenAI’s Interim CEO?",
+    "link": "https://www.nytimes.com/2023/11/17/technology/mira-murati-openai.html",
+    "pubDate": "Sat, 18 Nov 2023 02:19:15 +0000",
+    "dc:creator": "Tripp Mickle and Cade Metz",
+    "content": "The company’s interim C.E.O. has been managing the development and distribution of ChatGPT and DALL-E for years.",
+    "contentSnippet": "The company’s interim C.E.O. has been managing the development and distribution of ChatGPT and DALL-E for years.",
+    "guid": "https://www.nytimes.com/2023/11/17/technology/mira-murati-openai.html",
+    "categories": [
+      {
+        "_": "Murati, Mira",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Content Type: Personal Profile",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-18T02:19:15.000Z"
+  },
+  {
+    "creator": "Ryan Mac, Brooks Barnes and Tiffany Hsu",
+    "title": "Apple and Disney Halt Ads on X After Musk Endorses Antisemitic Post",
+    "link": "https://www.nytimes.com/2023/11/17/technology/elon-musk-twitter-x-advertisers.html",
+    "pubDate": "Sat, 18 Nov 2023 00:54:02 +0000",
+    "dc:creator": "Ryan Mac, Brooks Barnes and Tiffany Hsu",
+    "content": "Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.",
+    "contentSnippet": "Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.",
+    "guid": "https://www.nytimes.com/2023/11/17/technology/elon-musk-twitter-x-advertisers.html",
+    "categories": [
+      {
+        "_": "Twitter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Yaccarino, Linda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Online Advertising",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Apple Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Walt Disney Company",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "International Business Machines Corporation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Lions Gate Entertainment Corporation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-18T00:54:02.000Z"
+  },
+  {
+    "creator": "Melissa Eddy",
+    "title": "Unions in Sweden Expand Blockade Against Tesla",
+    "link": "https://www.nytimes.com/2023/11/17/business/tesla-sweden-strikes.html",
+    "pubDate": "Fri, 17 Nov 2023 19:20:54 +0000",
+    "dc:creator": "Melissa Eddy",
+    "content": "In sympathy with striking mechanics, unions representing dockworkers, electricians and others in the country are refusing to do work for the electric carmaker.",
+    "contentSnippet": "In sympathy with striking mechanics, unions representing dockworkers, electricians and others in the country are refusing to do work for the electric carmaker.",
+    "guid": "https://www.nytimes.com/2023/11/17/business/tesla-sweden-strikes.html",
+    "categories": [
+      {
+        "_": "Sweden",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Organized Labor",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Collective Bargaining",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Strikes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boycotts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Tesla Motors Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Automobiles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "IF Metall",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Ig Metall",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Factories and Manufacturing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-17T19:20:54.000Z"
+  },
+  {
+    "creator": "Lisa Friedman and Ryan Mac",
+    "title": "White House Condemns Elon Musk for Spreading ‘Antisemitic and Racist Hate’",
+    "link": "https://www.nytimes.com/2023/11/17/us/politics/elon-musk-antisemitism-white-house.html",
+    "pubDate": "Fri, 17 Nov 2023 19:14:29 +0000",
+    "dc:creator": "Lisa Friedman and Ryan Mac",
+    "content": "The tech entrepreneur had endorsed a social media post that echoed the conspiracy theory that had fueled the Tree of Life synagogue killer in 2018.",
+    "contentSnippet": "The tech entrepreneur had endorsed a social media post that echoed the conspiracy theory that had fueled the Tree of Life synagogue killer in 2018.",
+    "guid": "https://www.nytimes.com/2023/11/17/us/politics/elon-musk-antisemitism-white-house.html",
+    "categories": [
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Twitter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conspiracy Theories",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-17T19:14:29.000Z"
+  },
+  {
+    "creator": "Ryan Mac",
+    "title": "X Races to Contain Damage After Elon Musk Endorses Antisemitic Post",
+    "link": "https://www.nytimes.com/2023/11/16/technology/elon-musk-endorses-antisemitic-post-ibm.html",
+    "pubDate": "Fri, 17 Nov 2023 18:30:05 +0000",
+    "dc:creator": "Ryan Mac",
+    "content": "IBM, a major advertiser on X, has pulled its spending from the social media platform, whose employees are grappling with what to tell its other advertisers, according to internal messages.",
+    "contentSnippet": "IBM, a major advertiser on X, has pulled its spending from the social media platform, whose employees are grappling with what to tell its other advertisers, according to internal messages.",
+    "guid": "https://www.nytimes.com/2023/11/16/technology/elon-musk-endorses-antisemitic-post-ibm.html",
+    "categories": [
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Twitter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Online Advertising",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conspiracy Theories",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Corporate Social Responsibility",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Jews and Judaism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Business Machines Corporation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Yaccarino, Linda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-17T18:30:05.000Z"
+  },
+  {
+    "creator": "Sapna Maheshwari",
+    "title": "TikTok Videos About Osama Bin Laden’s ‘Letter to America’ Surge in Popularity",
+    "link": "https://www.nytimes.com/2023/11/16/technology/videos-bin-laden-letter-tiktok.html",
+    "pubDate": "Thu, 16 Nov 2023 22:53:53 +0000",
+    "dc:creator": "Sapna Maheshwari",
+    "content": "The videos discuss a letter the former Al Qaeda leader wrote in 2002 in which he defended the Sept. 11 attacks and said Americans had become “servants” to Jews.",
+    "contentSnippet": "The videos discuss a letter the former Al Qaeda leader wrote in 2002 in which he defended the Sept. 11 attacks and said Americans had become “servants” to Jews.",
+    "guid": "https://www.nytimes.com/2023/11/16/technology/videos-bin-laden-letter-tiktok.html",
+    "categories": [
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "bin Laden, Osama",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Al Qaeda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "September 11 (2001)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conspiracy Theories",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-16T22:53:53.000Z"
+  },
+  {
+    "creator": "Sapna Maheshwari",
+    "title": "Jewish Celebrities and Influencers Confront TikTok Executives in Private Call",
+    "link": "https://www.nytimes.com/2023/11/16/technology/tiktok-jewish-open-letter-antisemitism.html",
+    "pubDate": "Thu, 16 Nov 2023 21:41:35 +0000",
+    "dc:creator": "Sapna Maheshwari",
+    "content": "TikTok faces escalating accusations that it promotes pro-Palestinian, anti-Israel content. “Shame on you,” Sacha Baron Cohen said on the call.",
+    "contentSnippet": "TikTok faces escalating accusations that it promotes pro-Palestinian, anti-Israel content. “Shame on you,” Sacha Baron Cohen said on the call.",
+    "guid": "https://www.nytimes.com/2023/11/16/technology/tiktok-jewish-open-letter-antisemitism.html",
+    "categories": [
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Discrimination",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hate Speech",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Jews and Judaism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Muslims and Islam",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anti-Defamation League",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Cohen, Sacha Baron",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Messing, Debra",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Celebrities",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-16T21:41:35.000Z"
   }
 ]

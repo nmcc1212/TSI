@@ -1328,5 +1328,789 @@
       }
     ],
     "isoDate": "2023-11-05T09:40:12.000Z"
+  },
+  {
+    "creator": "Ivan Nechepurenko",
+    "title": "Putin Eyes Another Term as President, With War as Backdrop",
+    "link": "https://www.nytimes.com/2023/11/23/world/europe/putin-russia-election-president.html",
+    "pubDate": "Thu, 23 Nov 2023 10:59:23 +0000",
+    "dc:creator": "Ivan Nechepurenko",
+    "content": "There is little doubt about the outcome, should he run, but the election in March carries more significance as the first one since the invasion of Ukraine.",
+    "contentSnippet": "There is little doubt about the outcome, should he run, but the election in March carries more significance as the first one since the invasion of Ukraine.",
+    "guid": "https://www.nytimes.com/2023/11/23/world/europe/putin-russia-election-president.html",
+    "categories": [
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Elections",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Polls and Public Opinion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Constitutions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Strelkov, Igor (1970- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Nadezhdin, Boris (1963- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-23T10:59:23.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "Ukraine Heads Into Winter With a Fragile Power Grid",
+    "link": "https://www.nytimes.com/2023/11/22/world/europe/ukraine-power-grid-russian-airstrikes.html",
+    "pubDate": "Wed, 22 Nov 2023 19:04:36 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "Facilities remain hobbled by Russian attacks, repair work is unfinished and there is little spare equipment, although air defenses have been strengthened.",
+    "contentSnippet": "Facilities remain hobbled by Russian attacks, repair work is unfinished and there is little spare equipment, although air defenses have been strengthened.",
+    "guid": "https://www.nytimes.com/2023/11/22/world/europe/ukraine-power-grid-russian-airstrikes.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Electric Light and Power",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Power Failures and Blackouts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukrenergo",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Kyiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United Nations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-22T19:04:36.000Z"
+  },
+  {
+    "creator": "Eric Lipton",
+    "title": "A.I. Killer Drones Are Becoming Reality. Nations Disagree on Limits.",
+    "link": "https://www.nytimes.com/2023/11/21/us/politics/ai-drones-war-law.html",
+    "pubDate": "Tue, 21 Nov 2023 21:46:22 +0000",
+    "dc:creator": "Eric Lipton",
+    "content": "Worried about the risks of robot warfare, some countries want new legal constraints, but the U.S. and other major powers are resistant.",
+    "contentSnippet": "Worried about the risks of robot warfare, some countries want new legal constraints, but the U.S. and other major powers are resistant.",
+    "guid": "https://www.nytimes.com/2023/11/21/us/politics/ai-drones-war-law.html",
+    "categories": [
+      {
+        "_": "Drones (Pilotless Planes)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Arms Control and Limitation and Disarmament",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ethics and Official Misconduct",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War and Armed Conflicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United Nations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T21:46:22.000Z"
+  },
+  {
+    "creator": "Selam Gebrekidan",
+    "title": "Electronic Warfare Confounds Civilian Pilots, Far From Any Battlefield",
+    "link": "https://www.nytimes.com/2023/11/21/world/europe/ukraine-israel-gps-jamming-spoofing.html",
+    "pubDate": "Tue, 21 Nov 2023 14:45:57 +0000",
+    "dc:creator": "Selam Gebrekidan",
+    "content": "Planes were built to trust GPS signals. Jamming and spoofing in the Middle East and Ukraine have diverted flights and caused inaccurate onboard alerts.",
+    "contentSnippet": "Planes were built to trust GPS signals. Jamming and spoofing in the Middle East and Ukraine have diverted flights and caused inaccurate onboard alerts.",
+    "guid": "https://www.nytimes.com/2023/11/21/world/europe/ukraine-israel-gps-jamming-spoofing.html",
+    "categories": [
+      {
+        "_": "Airlines and Airplanes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Pilots",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Global Positioning System",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Satellites",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Air Traffic Control",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Middle East",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-21T14:45:57.000Z"
+  },
+  {
+    "creator": "Jon Gertner, Adrienne Hurst, Diane Wong, John Woo, Sophia Lanman and Zachary Mouton",
+    "title": "The Sunday Read: ‘What Does the U.S. Space Force Actually Do?’",
+    "link": "https://www.nytimes.com/2023/11/19/podcasts/the-daily/space-force.html",
+    "pubDate": "Sun, 19 Nov 2023 11:00:05 +0000",
+    "dc:creator": "Jon Gertner, Adrienne Hurst, Diane Wong, John Woo, Sophia Lanman and Zachary Mouton",
+    "content": "Inside the highly secretive military branch responsible for protecting American interests in a vulnerable new domain.",
+    "contentSnippet": "Inside the highly secretive military branch responsible for protecting American interests in a vulnerable new domain.",
+    "guid": "https://www.nytimes.com/2023/11/19/podcasts/the-daily/space-force.html",
+    "categories": [
+      {
+        "_": "audio-neutral-informative",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Communications and Media Blackouts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Space Force",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Eastern Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-19T11:00:05.000Z"
+  },
+  {
+    "creator": "Graham Bowley",
+    "title": "Russian Payments to Top Journalist Hubert Seipel Jolts Germany",
+    "link": "https://www.nytimes.com/2023/11/15/world/europe/germany-russia-journalist-hubert-seipel.html",
+    "pubDate": "Thu, 16 Nov 2023 08:41:15 +0000",
+    "dc:creator": "Graham Bowley",
+    "content": "The revelation that the broadcaster Hubert Seipel accepted payments from an oligarch is stirring worries in Germany that Russia is using an old playbook to promote its interests.",
+    "contentSnippet": "The revelation that the broadcaster Hubert Seipel accepted payments from an oligarch is stirring worries in Germany that Russia is using an old playbook to promote its interests.",
+    "guid": "https://www.nytimes.com/2023/11/15/world/europe/germany-russia-journalist-hubert-seipel.html",
+    "categories": [
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Television",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Books and Literature",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ethics and Official Misconduct",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conflicts of Interest",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Seipel, Hubert (1950- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Germany",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-16T08:41:15.000Z"
+  },
+  {
+    "creator": "Constant Méheut and Daria Mitiuk",
+    "title": "Lull in Russian Bombing Brings Sleep to Kyiv Residents",
+    "link": "https://www.nytimes.com/2023/11/15/world/europe/kyiv-ukraine-russia-airstrikes.html",
+    "pubDate": "Wed, 15 Nov 2023 10:02:54 +0000",
+    "dc:creator": "Constant Méheut and Daria Mitiuk",
+    "content": "An unusually long lull in Russian bombing has left people in the Ukrainian capital feeling well-rested, healthier and more productive, at least for now.",
+    "contentSnippet": "An unusually long lull in Russian bombing has left people in the Ukrainian capital feeling well-rested, healthier and more productive, at least for now.",
+    "guid": "https://www.nytimes.com/2023/11/15/world/europe/kyiv-ukraine-russia-airstrikes.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Sleep",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anxiety and Stress",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kyiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-15T10:02:54.000Z"
+  },
+  {
+    "creator": "Andrew E. Kramer",
+    "title": "Ukraine Charges 3 Officials With Treason Over Efforts to Investigate Biden",
+    "link": "https://www.nytimes.com/2023/11/14/world/europe/ukraine-biden-giuliani-trump.html",
+    "pubDate": "Tue, 14 Nov 2023 17:18:04 +0000",
+    "dc:creator": "Andrew E. Kramer",
+    "content": "Three officials were accused of operating at the behest of Russian intelligence when they aligned with efforts by Rudolph W. Giuliani to tie the Biden family to corruption in Ukraine.",
+    "contentSnippet": "Three officials were accused of operating at the behest of Russian intelligence when they aligned with efforts by Rudolph W. Giuliani to tie the Biden family to corruption in Ukraine.",
+    "guid": "https://www.nytimes.com/2023/11/14/world/europe/ukraine-biden-giuliani-trump.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conflicts of Interest",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Presidential Election of 2020",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Treason and Sedition",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Impeachment",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Biden, Hunter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Derkach, Andriy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Trump, Donald J",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-14T17:18:04.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "Thousands of Ukrainian Refugees Risk Returning Home for Medical Care",
+    "link": "https://www.nytimes.com/2023/11/14/world/europe/ukraine-refugees-return-doctor.html",
+    "pubDate": "Tue, 14 Nov 2023 05:01:23 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "Hundreds of thousands who fled after Russia invaded make brief visits back, often to reconnect with family but also for health care that can be cheaper and more familiar.",
+    "contentSnippet": "Hundreds of thousands who fled after Russia invaded make brief visits back, often to reconnect with family but also for health care that can be cheaper and more familiar.",
+    "guid": "https://www.nytimes.com/2023/11/14/world/europe/ukraine-refugees-return-doctor.html",
+    "categories": [
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Medicine and Health",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kyiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "France",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-14T05:01:23.000Z"
+  },
+  {
+    "creator": "Marc Santora",
+    "title": "How Ukraine, With No Warships, Is Thwarting Russia’s Navy",
+    "link": "https://www.nytimes.com/2023/11/12/world/europe/ukraine-navy-admiral-black-sea.html",
+    "pubDate": "Sun, 12 Nov 2023 17:31:52 +0000",
+    "dc:creator": "Marc Santora",
+    "content": "The commander of Ukraine’s Navy said in a rare interview that the Russian naval blockade of Odesa had been broken. He also described how the war is transforming naval tactics.",
+    "contentSnippet": "The commander of Ukraine’s Navy said in a rare interview that the Russian naval blockade of Odesa had been broken. He also described how the war is transforming naval tactics.",
+    "guid": "https://www.nytimes.com/2023/11/12/world/europe/ukraine-navy-admiral-black-sea.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ships and Shipping",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Black Sea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Neizhpapa, Oleksiy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-12T17:31:52.000Z"
   }
 ]
