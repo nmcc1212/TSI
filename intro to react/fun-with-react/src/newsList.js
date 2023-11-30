@@ -1,5 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
+import PropTypes from 'prop-types';
+
+NewsList.propTypes = {
+  rssFeedUrls: PropTypes.array.isRequired,
+  searchQuery: PropTypes.string.isRequired,
+};
 
 function NewsList(props) { // this function is used to render the news list and query the API
   const [news, setNews] = useState([]);

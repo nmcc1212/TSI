@@ -1,5 +1,7 @@
 import { Outlet, Link } from "react-router-dom";
 import {useState} from "react";
+import PropTypes from 'prop-types';
+
 
 function NavBar({sendQueryToParent}) {
     const [query, setQuery] = useState("");
@@ -55,5 +57,8 @@ function NavBar({sendQueryToParent}) {
         </div>
     )
 };
-
+NavBar.propTypes = {
+    sendQueryToParent: PropTypes.func.isRequired,
+  };
+  
 export default NavBar;

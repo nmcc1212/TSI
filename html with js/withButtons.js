@@ -36,10 +36,9 @@ function autohideTable() {
 }
 
 function Random() {
-    let x=1;
-    while (x==1) {
-    var RandomX = Math.random() * 90 + "%";
-    var RandomY = Math.random() * 92 + "%";
+    while (True) {
+    let RandomX = Math.random() * 90 + "%";
+    let RandomY = Math.random() * 92 + "%";
     console.log(RandomX);
     console.log(RandomY);
     document.getElementById("myBtn").style.left = RandomX;
@@ -57,10 +56,10 @@ async function getQuote() {
 }
 
 async function getAPOD() {
-    randomyear = Math.floor(Math.random() * 20) + 2000;
-    randommonth = Math.floor(Math.random() * 12) + 1;
-    randomday = Math.floor(Math.random() * 28) + 1;
-    formatDate = randomyear + "-" + randommonth + "-" + randomday;
+    let randomyear = Math.floor(Math.random() * 20) + 2000;
+    let randommonth = Math.floor(Math.random() * 12) + 1;
+    let randomday = Math.floor(Math.random() * 28) + 1;
+    let formatDate = randomyear + "-" + randommonth + "-" + randomday;
     console.log(formatDate);
     let api_url = "https://api.nasa.gov/planetary/apod?api_key=gZjPsiBxKY4m53pyMWV0KHj3pbQoB61k8aovfWOe&date=" + formatDate;
     const response = await fetch(api_url);
