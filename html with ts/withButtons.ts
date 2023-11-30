@@ -40,8 +40,8 @@ function autohideTable() {
 async function Random() {
     let x=1;
     while (x==1) {
-    var RandomX = Math.random() * 90 + "%";
-    var RandomY = Math.random() * 92 + "%";
+    let RandomX = Math.random() * 90 + "%";
+    let RandomY = Math.random() * 92 + "%";
     console.log(RandomX);
     console.log(RandomY);
     let button = document.getElementById("myBtn") as HTMLElement
