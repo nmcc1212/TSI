@@ -9,7 +9,7 @@ interface NewsItem {
   isoDate: string;
 }
 
-function NewsList(props: { rssFeedUrls: string[]; searchQuery: string; }) { // this function is used to render the news list and query the API
+function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string; }>) { // this function is used to render the news list and query the API
   const [news, setNews] = useState<NewsItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
@@ -37,18 +37,13 @@ function NewsList(props: { rssFeedUrls: string[]; searchQuery: string; }) { // t
   }
   return (
     <div className="grid grid-cols-3 gap-10 ml-10 overflow-scroll">
-      {news
-        .filter(item => {
-          if (props.searchQuery === '') {
-            return true;
-          } else if (item.title.toLowerCase().includes(props.searchQuery.toLowerCase())) {
-            return true;
-          }
-          return false;
-        })
-        .map(item => (
-          <NewsItem key={uuidv4()} item={item} />
-        ))}
+    {news
+      .filter(item => {
+        return props.searchQuery === '' || item.title.toLowerCase().includes(props.searchQuery.toLowerCase());
+      })
+      .map(item => (
+        <NewsItem key={uuidv4()} item={item} />
+      ))}
     </div>
   );
 }
@@ -67,18 +62,7 @@ const NewsItem = ({ item }: Props) => {
   const { title, link, contentSnippet, isoDate } = item;
   let desc = contentSnippet;
 
-  if (desc !== undefined && desc.includes("<") && desc.includes(">")) {
-    const regex = /<[^>]+>/gi;
-    desc = desc.replace(regex, "");
-  }
-  if (desc !== undefined && desc.includes("&nbsp;")) {
-    const regex = /&nbsp;/gi;
-    desc = desc.replace(regex, " ");
-  }
-  if (desc !== undefined && desc.includes("&#039;s")) {
-    const regex = /&#039;s/gi;
-    desc = desc.replace(regex, "'");
-  }
+  desc = desc?.replace(/<[^>]+>/gi, "")?.replace(/&nbsp;/gi, " ")?.replace(/&#039;s/gi, "'");
 
   // Format the date as a string
   const formattedDate = isoDate.toLocaleString();

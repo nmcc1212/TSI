@@ -19,13 +19,13 @@ app.post('/api/fetchNews', async (req, res) => {
     
     let mergedData = [];
 
-    for (let i = 0; i < rssFeedUrls.length; i++) {
-      const response = await axios.get(`http://127.0.0.1:50110?feedURL=${rssFeedUrls[i]}`);
+    for (const element of rssFeedUrls) {
+      const response = await axios.get(`http://127.0.0.1:50110?feedURL=${element}`);
       const newsItems = response.data.items.map(item => ({ ...item, isoDate: new Date(item.isoDate) }));
       newsItems.sort((a, b) => b.isoDate - a.isoDate);
 
       const hash = crypto.createHash('sha256');
-      hash.update(rssFeedUrls[i]);
+      hash.update(element);
       const filename = `${hash.digest('hex')}.json`;
 
       const logsDir = 'logs';
