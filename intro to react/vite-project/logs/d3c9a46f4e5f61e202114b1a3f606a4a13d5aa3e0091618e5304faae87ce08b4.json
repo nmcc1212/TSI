@@ -1600,5 +1600,35 @@
       "Culture"
     ],
     "isoDate": "2023-11-30T17:23:54.000Z"
+  },
+  {
+    "creator": "Carl Markham",
+    "date": "2023-11-30T23:38:44+00:00",
+    "title": "Jurgen Klopp satisfied as Liverpool secure top spot with a game to spare",
+    "link": "https://www.independent.co.uk/sport/football/luis-diaz-jurgen-klopp-liverpool-europa-league-cody-gakpo-b2456524.html",
+    "pubDate": "Thu, 30 Nov 2023 23:38:44 GMT",
+    "dc:creator": "Carl Markham",
+    "dc:date": "2023-11-30T23:38:44+00:00",
+    "content": "Two goals from Cody Gakpo and one apiece from Luis Diaz and Mohamed Salah secured victory.",
+    "contentSnippet": "Two goals from Cody Gakpo and one apiece from Luis Diaz and Mohamed Salah secured victory.",
+    "guid": "b2456524",
+    "categories": [
+      "Football",
+      "Sport"
+    ],
+    "isoDate": "2023-11-30T23:38:44.000Z"
+  },
+  {
+    "creator": "Josh Funk",
+    "date": "2023-11-30T23:33:29+00:00",
+    "title": "Haslam family refutes allegation from Warren Buffett's company that it bribed truck stop chain execs",
+    "link": "https://www.independent.co.uk/news/ap-warren-buffett-bill-haslam-omaha-berkshire-hathaway-b2456523.html",
+    "pubDate": "Thu, 30 Nov 2023 23:33:29 GMT",
+    "dc:creator": "Josh Funk",
+    "dc:date": "2023-11-30T23:33:29+00:00",
+    "content": "An attorney for the billionaire Haslam family has called the bribery allegations from Warren Buffett’s company a “wild invention.\"",
+    "contentSnippet": "An attorney for the billionaire Haslam family has called the bribery allegations from Warren Buffett’s company a “wild invention.\"",
+    "guid": "b2456523",
+    "isoDate": "2023-11-30T23:33:29.000Z"
   }
 ]

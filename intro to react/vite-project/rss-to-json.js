@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 const express = require('express');
 const Parser = require('rss-parser');
 const parser = new Parser();

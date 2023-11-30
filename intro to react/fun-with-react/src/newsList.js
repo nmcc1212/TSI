@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import PropTypes from 'prop-types';
+import { v4 as uuidv4 } from 'uuid';
 
 NewsList.propTypes = {
   rssFeedUrls: PropTypes.array.isRequired,
@@ -39,7 +40,7 @@ function NewsList(props) { // this function is used to render the news list and 
           return !!(props.searchQuery === '' || item.title.toLowerCase().includes(props.searchQuery.toLowerCase()));
         })
         .map((item, index) => (
-          <NewsItem key={index} item={item} />
+          <NewsItem key={uuidv4()} item={item} />
         ))}
     </div>
   );

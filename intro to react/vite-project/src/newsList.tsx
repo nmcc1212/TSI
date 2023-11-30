@@ -21,7 +21,7 @@ function NewsList(props: { rssFeedUrls: string[]; searchQuery: string; }) { // t
           const response = await axios.post('http://localhost:50111/api/fetchNews', {
             rssFeedUrls: props.rssFeedUrls,
           });
-          const sortedNews = response.data.sort((a, b) => new Date(b.isoDate).getTime() - new Date(a.isoDate).getTime());
+          const sortedNews = response.data.sort((a:NewsItem, b:NewsItem) => new Date(b.isoDate).getTime() - new Date(a.isoDate).getTime());
           setNews(sortedNews);
         }
       } catch (error) {
