@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 const express = require('express');
 const axios = require('axios');
 const fs = require('fs');
@@ -15,55 +16,54 @@ app.post('/api/fetchNews', async (req, res) => {
   try {
     const rssFeedUrls = req.body.rssFeedUrls;
     console.log(`Fetching and parsing RSS feeds from: ${rssFeedUrls}`);
-    const responses = await Promise.all(
-      rssFeedUrls.map(url => axios.get(`http://127.0.0.1:50110?feedURL=${url}`))
-    );
-    const data = await Promise.all(responses.map(response => response.data));
+    
+    let mergedData = [];
 
-    for (let i = 0; i < data.length; i++) {
-      const newsItems = data[i].items;
-      newsItems.forEach(item => {
-        item.isoDate = new Date(item.isoDate);
-      });
+    for (let i = 0; i < rssFeedUrls.length; i++) {
+      const response = await axios.get(`http://127.0.0.1:50110?feedURL=${rssFeedUrls[i]}`);
+      const newsItems = response.data.items.map(item => ({ ...item, isoDate: new Date(item.isoDate) }));
       newsItems.sort((a, b) => b.isoDate - a.isoDate);
 
-      // Create a hash of the URL to use as the filename
       const hash = crypto.createHash('sha256');
       hash.update(rssFeedUrls[i]);
       const filename = `${hash.digest('hex')}.json`;
 
-      // Specify the logs directory and create it if it doesn't exist
       const logsDir = 'logs';
       if (!fs.existsSync(logsDir)) {
         fs.mkdirSync(logsDir);
       }
 
-      // Read the existing log file
-      let loggedData;
+      let loggedData = [];
       try {
-        loggedData = JSON.parse(fs.readFileSync(path.join(logsDir, filename)));
+        const existingData = JSON.parse(fs.readFileSync(path.join(logsDir, filename)));
+        loggedData = existingData.slice(0, 1000);
       } catch (error) {
-        loggedData = [];
+        // Handle the error or leave it as an empty array
       }
 
-      // Append new items to the log file, preventing duplicates
+      const uniqueItemsSet = new Set(loggedData.map(item => item.link));
+
       newsItems.forEach(item => {
-        if (!loggedData.some(loggedItem => loggedItem.link === item.link)) {
+        if (!uniqueItemsSet.has(item.link)) {
           loggedData.push(item);
+          uniqueItemsSet.add(item.link);
         }
       });
 
       fs.writeFileSync(path.join(logsDir, filename), JSON.stringify(loggedData, null, 2));
+
+      // Concatenate news items to mergedData
+      mergedData = mergedData.concat(loggedData);
     }
 
-    res.json(data.flatMap(d => d.items));
+    res.json(mergedData);
   } catch (error) {
     console.error('Error fetching and processing data:', error);
     res.status(500).json({ error: 'An error occurred' });
   }
 });
 
+
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
-

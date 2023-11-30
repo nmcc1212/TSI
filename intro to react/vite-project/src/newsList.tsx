@@ -1,5 +1,6 @@
 import  { useEffect, useState } from 'react';
 import axios from 'axios';
+import { v4 as uuidv4 } from 'uuid';
 
 interface NewsItem {
   title: string;
@@ -20,7 +21,8 @@ function NewsList(props: { rssFeedUrls: string[]; searchQuery: string; }) { // t
           const response = await axios.post('http://localhost:50111/api/fetchNews', {
             rssFeedUrls: props.rssFeedUrls,
           });
-          setNews(response.data);
+          const sortedNews = response.data.sort((a, b) => new Date(b.isoDate).getTime() - new Date(a.isoDate).getTime());
+          setNews(sortedNews);
         }
       } catch (error) {
         console.error('Error fetching data:', error);
@@ -44,8 +46,8 @@ function NewsList(props: { rssFeedUrls: string[]; searchQuery: string; }) { // t
           }
           return false;
         })
-        .map((item, index) => (
-          <NewsItem key={index} item={item} />
+        .map(item => (
+          <NewsItem key={uuidv4()} item={item} />
         ))}
     </div>
   );
