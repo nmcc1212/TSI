@@ -6687,5 +6687,84 @@
       }
     ],
     "isoDate": "2023-11-16T21:41:35.000Z"
+  },
+  {
+    "creator": "Eric Lipton",
+    "title": "¿Cuáles son los riesgos del armamento que funciona con IA?",
+    "link": "https://www.nytimes.com/es/2023/11/24/espanol/inteligencia-artificial-riesgos-armas.html",
+    "pubDate": "Fri, 24 Nov 2023 08:00:33 +0000",
+    "dc:creator": "Eric Lipton",
+    "content": "Las preocupaciones por las armas capaces de matar sin intervención humana no son totalmente nuevas.",
+    "contentSnippet": "Las preocupaciones por las armas capaces de matar sin intervención humana no son totalmente nuevas.",
+    "guid": "https://www.nytimes.com/es/2023/11/24/espanol/inteligencia-artificial-riesgos-armas.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense Contracts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Drones (Pilotless Planes)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Palantir Technologies",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Scharre, Paul",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Mines, Explosive",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United Nations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-24T08:00:33.000Z"
   }
 ]
