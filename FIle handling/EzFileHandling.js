@@ -14,15 +14,6 @@ catch (err) {
     console.error(err);
 }
 
-// fs.open(fileName, 'w', (err, file) => {
-//     fs.appendFile(fileName, content, (err) => {
-//         if (err) throw err;
-//         console.log('Saved Text!');
-//     }
-//     );
-// }
-// );
-
 // Json file handling
 const jsFileName = 'newJsonFile.json';
 const jsContent = '{"name":"John", "age":30, "city":"New York"}';
@@ -37,19 +28,6 @@ catch (err) {
     console.error(err);
 }
 
-// fs.open(jsFileName, 'w', (err, file) => {
-//     fs.appendFile(jsFileName, jsContent, (err) => {
-//         if (err) throw err;
-//         console.log('Saved JSON!');
-//     },
-//     fs.readFile(jsFileName, 'utf8', (err, data) => {
-//         console.log(data);
-//         if (err) throw err;
-//     })
-//     );
-// }
-// );
-
 // Read a json file
 const existingJsFile = 'vscode.json';
 
@@ -61,9 +39,3 @@ try {
 catch (err) {
     console.error(err);
 }
-
-// fs.readFile(existingJsFile, (err, data) => {
-//     if (err) throw err;
-//     const obj = JSON.parse(data);
-//     console.log(JSON.stringify(obj, null, 2));
-// });
