@@ -36,12 +36,7 @@ function NewsList(props) { // this function is used to render the news list and 
     <div className="grid grid-cols-3 gap-10 ml-10 overflow-scroll">
       {news
         .filter(item => {
-          if (props.searchQuery === '') {
-            return true;
-          } else if (item.title.toLowerCase().includes(props.searchQuery.toLowerCase())) {
-            return true;
-          }
-          return false;
+          return !!(props.searchQuery === '' || item.title.toLowerCase().includes(props.searchQuery.toLowerCase()));
         })
         .map((item, index) => (
           <NewsItem key={index} item={item} />

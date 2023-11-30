@@ -11,9 +11,9 @@ class Deck {
 
   constructor() {
     const suits = ["hearts", "diamonds", "spades", "clubs"];
-    for (let i = 0; i < suits.length; i++) {
+    for (const element of suits) {
       for (let j = 1; j <= 13; j++) {
-        this.cards.push(new Card(j, suits[i]));
+        this.cards.push(new Card(j, element));
       }
     }
   }
@@ -38,8 +38,8 @@ class Player {
   get score() {
     let score = 0;
     let hasAce = false;
-    for (let i = 0; i < this.hand.length; i++) {
-      const card = this.hand[i];
+    for (const element of this.hand) {
+      const card = element;
       if (card.value === 1) {
         hasAce = true;
       }
@@ -67,8 +67,8 @@ class Player {
 
   asciiVersionOfHand() {
     const lines = ["", "", "", "", "", "", "", "", ""];
-    for (let i = 0; i < this.hand.length; i++) {
-      const card = this.hand[i];
+    for (const element of this.hand) {
+      const card = element;
       const rank =
         card.value === 1
           ? "A"

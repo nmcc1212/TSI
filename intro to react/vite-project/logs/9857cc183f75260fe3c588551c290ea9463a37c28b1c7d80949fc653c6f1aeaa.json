@@ -6766,5 +6766,1151 @@
       }
     ],
     "isoDate": "2023-11-24T08:00:33.000Z"
+  },
+  {
+    "creator": "Jack Ewing",
+    "title": "Tesla Plans to Begin Delivery of the Cybertruck Today",
+    "link": "https://www.nytimes.com/2023/11/30/business/tesla-cybertruck-delivery-release.html",
+    "pubDate": "Thu, 30 Nov 2023 22:06:22 +0000",
+    "dc:creator": "Jack Ewing",
+    "content": "Two years behind schedule, the electric model has an unusual design that sets it apart from rival pickups, which could limit its sales.",
+    "contentSnippet": "Two years behind schedule, the electric model has an unusual design that sets it apart from rival pickups, which could limit its sales.",
+    "guid": "https://www.nytimes.com/2023/11/30/business/tesla-cybertruck-delivery-release.html",
+    "categories": [
+      {
+        "_": "Electric and Hybrid Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Sports Utility Vehicles and Light Trucks",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cybertruck",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "Tesla Motors Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Ford Motor Co",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-30T22:06:22.000Z"
+  },
+  {
+    "creator": "Kate Conger and Tiffany Hsu",
+    "title": "Advertisers Say They Do Not Plan to Return to X After Musk’s Comments",
+    "link": "https://www.nytimes.com/2023/11/30/technology/elon-musk-dealbook-advertisers.html",
+    "pubDate": "Thu, 30 Nov 2023 21:53:27 +0000",
+    "dc:creator": "Kate Conger and Tiffany Hsu",
+    "content": "Elon Musk, the owner of X, criticized advertisers with expletives on Wednesday at The New York Times’s DealBook Summit.",
+    "contentSnippet": "Elon Musk, the owner of X, criticized advertisers with expletives on Wednesday at The New York Times’s DealBook Summit.",
+    "guid": "https://www.nytimes.com/2023/11/30/technology/elon-musk-dealbook-advertisers.html",
+    "categories": [
+      {
+        "_": "Advertising and Marketing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Indecency, Obscenity and Profanity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Online Advertising",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Twitter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Yaccarino, Linda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-30T21:53:27.000Z"
+  },
+  {
+    "creator": "Steven Lee Myers",
+    "title": "4,789 Facebook Accounts in China Impersonated Americans, Meta Says",
+    "link": "https://www.nytimes.com/2023/11/30/technology/facebook-china-fake.html",
+    "pubDate": "Thu, 30 Nov 2023 21:42:03 +0000",
+    "dc:creator": "Steven Lee Myers",
+    "content": "The company warned that the inauthentic accounts underscored the threat of foreign election interference in 2024.",
+    "contentSnippet": "The company warned that the inauthentic accounts underscored the threat of foreign election interference in 2024.",
+    "guid": "https://www.nytimes.com/2023/11/30/technology/facebook-china-fake.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Presidential Election of 2024",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conspiracy Theories",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Facebook Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Meta Platforms Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-30T21:42:03.000Z"
+  },
+  {
+    "creator": "Tiffany Hsu and Steven Lee Myers",
+    "title": "Disinformation Is Big Challenge as COP28 Opens in Dubai",
+    "link": "https://www.nytimes.com/2023/11/30/technology/cop28-climate-disinformation.html",
+    "pubDate": "Thu, 30 Nov 2023 14:13:10 +0000",
+    "dc:creator": "Tiffany Hsu and Steven Lee Myers",
+    "content": "Online influencers, fossil fuel companies and some of the countries attending COP28 have nourished a feedback loop of falsehoods.",
+    "contentSnippet": "Online influencers, fossil fuel companies and some of the countries attending COP28 have nourished a feedback loop of falsehoods.",
+    "guid": "https://www.nytimes.com/2023/11/30/technology/cop28-climate-disinformation.html",
+    "categories": [
+      {
+        "_": "Global Warming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Greenhouse Gas Emissions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Propaganda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "China National Petroleum Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Institute for Strategic Dialogue",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United Nations Framework Convention on Climate Change",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-30T14:13:10.000Z"
+  },
+  {
+    "creator": "Steve Lohr",
+    "title": "Big Companies Find a Way to Identify A.I. Data They Can Trust",
+    "link": "https://www.nytimes.com/2023/11/30/business/ai-data-standards.html",
+    "pubDate": "Thu, 30 Nov 2023 11:00:13 +0000",
+    "dc:creator": "Steve Lohr",
+    "content": "Mainstream companies have concerns about the lineage of the data that powers A.I. applications. An industry group is addressing that challenge.",
+    "contentSnippet": "Mainstream companies have concerns about the lineage of the data that powers A.I. applications. An industry group is addressing that challenge.",
+    "guid": "https://www.nytimes.com/2023/11/30/business/ai-data-standards.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Enterprise Computing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "International Business Machines Corporation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-11-30T11:00:13.000Z"
+  },
+  {
+    "creator": "Cade Metz and Tripp Mickle",
+    "title": "Back at OpenAI, Sam Altman Outlines the Company’s Priorities",
+    "link": "https://www.nytimes.com/2023/11/29/technology/openai-sam-altman-plans.html",
+    "pubDate": "Thu, 30 Nov 2023 02:24:44 +0000",
+    "dc:creator": "Cade Metz and Tripp Mickle",
+    "content": "In a blog post, Mr. Altman said he would focus on improving products and building a new board, which added Microsoft as a nonvoting member.",
+    "contentSnippet": "In a blog post, Mr. Altman said he would focus on improving products and building a new board, which added Microsoft as a nonvoting member.",
+    "guid": "https://www.nytimes.com/2023/11/29/technology/openai-sam-altman-plans.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Nonprofit Organizations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Venture Capital",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boards of Directors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sutskever, Ilya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-30T02:24:44.000Z"
+  },
+  {
+    "creator": "Neal E. Boudette and Yiwen Lu",
+    "title": "G.M. to Cut Spending on Cruise Self-Driving Unit",
+    "link": "https://www.nytimes.com/2023/11/29/technology/cruise-general-motors.html",
+    "pubDate": "Wed, 29 Nov 2023 21:05:31 +0000",
+    "dc:creator": "Neal E. Boudette and Yiwen Lu",
+    "content": "General Motors will “substantially lower spending” on autonomous vehicle efforts in 2024 after accidents with its self-driving taxis in San Francisco.",
+    "contentSnippet": "General Motors will “substantially lower spending” on autonomous vehicle efforts in 2024 after accidents with its self-driving taxis in San Francisco.",
+    "guid": "https://www.nytimes.com/2023/11/29/technology/cruise-general-motors.html",
+    "categories": [
+      {
+        "_": "General Motors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Cruise LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Driverless and Semiautonomous Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Taxicabs and Taxicab Drivers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Traffic Accidents and Safety",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Automobiles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Barra, Mary T",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "San Francisco (Calif)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-29T21:05:31.000Z"
+  },
+  {
+    "creator": "Isabella Kwai",
+    "title": "London’s Black Cabs Can Soon Join Uber. But Will They?",
+    "link": "https://www.nytimes.com/2023/11/29/world/europe/uber-black-cab-taxi-london.html",
+    "pubDate": "Wed, 29 Nov 2023 18:59:25 +0000",
+    "dc:creator": "Isabella Kwai",
+    "content": "In 2024, passengers are set to have the option to book black cabs through Uber. After longstanding tensions, a union for drivers said they “have no interest.”",
+    "contentSnippet": "In 2024, passengers are set to have the option to book black cabs through Uber. After longstanding tensions, a union for drivers said they “have no interest.”",
+    "guid": "https://www.nytimes.com/2023/11/29/world/europe/uber-black-cab-taxi-london.html",
+    "categories": [
+      {
+        "_": "Taxicabs and Taxicab Drivers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Uber Technologies Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "London (England)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-29T18:59:25.000Z"
+  },
+  {
+    "creator": "Jesus Jiménez",
+    "title": "Don’t Be Afraid of the iPhone’s NameDrop Feature, Experts Say",
+    "link": "https://www.nytimes.com/2023/11/29/technology/namedrop-apple-iphone-police.html",
+    "pubDate": "Wed, 29 Nov 2023 17:58:22 +0000",
+    "dc:creator": "Jesus Jiménez",
+    "content": "Police departments have issued warnings about a new Apple setting that lets users exchange contact information by bringing their devices together. Tech experts say the fears are overblown.",
+    "contentSnippet": "Police departments have issued warnings about a new Apple setting that lets users exchange contact information by bringing their devices together. Tech experts say the fears are overblown.",
+    "guid": "https://www.nytimes.com/2023/11/29/technology/namedrop-apple-iphone-police.html",
+    "categories": [
+      {
+        "_": "Privacy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Police",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Software",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "iPhone",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Watches and Clocks",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wearable Computing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wireless Communications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-29T17:58:22.000Z"
+  },
+  {
+    "creator": "Kashmir Hill",
+    "title": "How Your Child’s Online Mistake Can Ruin Your Digital Life",
+    "link": "https://www.nytimes.com/2023/11/27/technology/google-youtube-abuse-mistake.html",
+    "pubDate": "Wed, 29 Nov 2023 17:52:24 +0000",
+    "dc:creator": "Kashmir Hill",
+    "content": "Google has a zero-tolerance policy for child abuse content. The scanning process can sometimes go awry and tar innocent individuals as abusers.",
+    "contentSnippet": "Google has a zero-tolerance policy for child abuse content. The scanning process can sometimes go awry and tar innocent individuals as abusers.",
+    "guid": "https://www.nytimes.com/2023/11/27/technology/google-youtube-abuse-mistake.html",
+    "categories": [
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "YouTube.com",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Child Abuse and Neglect",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Children and Childhood",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "National Center for Missing and Exploited Children",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Child Pornography",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Parenting",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "audio-neutral-informative",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-29T17:52:24.000Z"
+  },
+  {
+    "creator": "Ana Swanson and Jack Ewing",
+    "title": "U.S. Debates How Much to Sever Electric Car Industry’s Ties to China",
+    "link": "https://www.nytimes.com/2023/11/29/business/economy/electric-car-china-supply-chain.html",
+    "pubDate": "Wed, 29 Nov 2023 17:49:54 +0000",
+    "dc:creator": "Ana Swanson and Jack Ewing",
+    "content": "Some firms argue that a law aimed at popularizing electric vehicles risks turning the United States into an assembly shop for Chinese-made technology.",
+    "contentSnippet": "Some firms argue that a law aimed at popularizing electric vehicles risks turning the United States into an assembly shop for Chinese-made technology.",
+    "guid": "https://www.nytimes.com/2023/11/29/business/economy/electric-car-china-supply-chain.html",
+    "categories": [
+      {
+        "_": "Electric and Hybrid Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Automobiles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Supply Chain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Trade and World Market",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Batteries",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Chemicals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Factories and Manufacturing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Tax Credits, Deductions and Exemptions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Economy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Metals and Minerals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Huntsman, Peter R (1963- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Huntsman Corporation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-11-29T17:49:54.000Z"
+  },
+  {
+    "creator": "Brian X. Chen",
+    "title": "Apple Is Doing Its Part to End Green Bubble Shaming. It’s Our Turn.",
+    "link": "https://www.nytimes.com/2023/11/29/technology/personaltech/apple-iphone-android-bubbles.html",
+    "pubDate": "Wed, 29 Nov 2023 14:00:10 +0000",
+    "dc:creator": "Brian X. Chen",
+    "content": "While texting technology will soon get better, the “blue versus green bubble” disparity is far from over.",
+    "contentSnippet": "While texting technology will soon get better, the “blue versus green bubble” disparity is far from over.",
+    "guid": "https://www.nytimes.com/2023/11/29/technology/personaltech/apple-iphone-android-bubbles.html",
+    "categories": [
+      {
+        "_": "Smartphones",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Apple Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Text Messaging",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Instant Messaging",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "iPhone",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Android (Operating System)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-29T14:00:10.000Z"
+  },
+  {
+    "creator": "Victor Mather",
+    "title": "Make Sure Your Google Accounts Are Active, or They Might Be Deleted",
+    "link": "https://www.nytimes.com/2023/11/28/technology/gmail-delete-accounts.html",
+    "pubDate": "Wed, 29 Nov 2023 12:05:29 +0000",
+    "dc:creator": "Victor Mather",
+    "content": "The company says it will start purging accounts, including services like Gmail and YouTube, that have been idle for two years or more.",
+    "contentSnippet": "The company says it will start purging accounts, including services like Gmail and YouTube, that have been idle for two years or more.",
+    "guid": "https://www.nytimes.com/2023/11/28/technology/gmail-delete-accounts.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "E-Mail",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-29T12:05:29.000Z"
+  },
+  {
+    "creator": "Santul Nerkar and Kevin Draper",
+    "title": "For Sports Illustrated, Report About Fake Authors Is Latest Stumble",
+    "link": "https://www.nytimes.com/2023/11/28/business/sports-illustrated-artifical-intelligence.html",
+    "pubDate": "Tue, 28 Nov 2023 21:07:28 +0000",
+    "dc:creator": "Santul Nerkar and Kevin Draper",
+    "content": "The venerable magazine has experienced management upheaval and staff complaints in recent years. Now there’s a question over who wrote product reviews on its site.",
+    "contentSnippet": "The venerable magazine has experienced management upheaval and staff complaints in recent years. Now there’s a question over who wrote product reviews on its site.",
+    "guid": "https://www.nytimes.com/2023/11/28/business/sports-illustrated-artifical-intelligence.html",
+    "categories": [
+      {
+        "_": "Sports Illustrated",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Authentic Brands Group",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "TheMaven Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Magazines",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-28T21:07:28.000Z"
+  },
+  {
+    "creator": "Karen Weise",
+    "title": "Amazon Introduces Q, an A.I. Chatbot for Companies",
+    "link": "https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html",
+    "pubDate": "Tue, 28 Nov 2023 19:10:07 +0000",
+    "dc:creator": "Karen Weise",
+    "content": "Amazon has been racing to shake off the perception that it is lagging in the push to take advantage of artificial intelligence.",
+    "contentSnippet": "Amazon has been racing to shake off the perception that it is lagging in the push to take advantage of artificial intelligence.",
+    "guid": "https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html",
+    "categories": [
+      {
+        "_": "Amazon.com Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cloud Computing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-28T19:10:07.000Z"
+  },
+  {
+    "creator": "Mark Mazzetti and Edward Wong",
+    "title": "Warnings Emerge Over Emirati A.I. Firm G42’s Ties to China",
+    "link": "https://www.nytimes.com/2023/11/27/us/politics/ai-us-uae-china-security-g42.html",
+    "pubDate": "Tue, 28 Nov 2023 08:09:04 +0000",
+    "dc:creator": "Mark Mazzetti and Edward Wong",
+    "content": "American spy agencies have warned about the Emirati firm G42 and its work with large Chinese companies that U.S. officials consider security threats.",
+    "contentSnippet": "American spy agencies have warned about the Emirati firm G42 and its work with large Chinese companies that U.S. officials consider security threats.",
+    "guid": "https://www.nytimes.com/2023/11/27/us/politics/ai-us-uae-china-security-g42.html",
+    "categories": [
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Surveillance of Citizens by Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Group 42 (G42)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Huawei Technologies Co Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Central Intelligence Agency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United Arab Emirates",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-11-28T08:09:04.000Z"
+  },
+  {
+    "creator": "Ryan Mac and Kate Conger",
+    "title": "X May Lose Up to $75 Million in Revenue as More Advertisers Pull Out",
+    "link": "https://www.nytimes.com/2023/11/24/business/x-elon-musk-advertisers.html",
+    "pubDate": "Sun, 26 Nov 2023 22:54:29 +0000",
+    "dc:creator": "Ryan Mac and Kate Conger",
+    "content": "Internal documents show companies like Airbnb, Coca-Cola and Microsoft have halted ads, or may do so, after Elon Musk’s endorsement of an antisemitic conspiracy theory.",
+    "contentSnippet": "Internal documents show companies like Airbnb, Coca-Cola and Microsoft have halted ads, or may do so, after Elon Musk’s endorsement of an antisemitic conspiracy theory.",
+    "guid": "https://www.nytimes.com/2023/11/24/business/x-elon-musk-advertisers.html",
+    "categories": [
+      {
+        "_": "Twitter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Online Advertising",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Company Reports",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Yaccarino, Linda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Anti-Semitism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-11-26T22:54:29.000Z"
+  },
+  {
+    "creator": "Natasha Singer",
+    "title": "At Meta, Millions of Underage Users Were an ‘Open Secret,’ States Say",
+    "link": "https://www.nytimes.com/2023/11/25/technology/instagram-meta-children-privacy.html",
+    "pubDate": "Sun, 26 Nov 2023 00:16:19 +0000",
+    "dc:creator": "Natasha Singer",
+    "content": "Meta “routinely documented” children under 13 on Instagram and collected their data, according to a newly unsealed complaint.",
+    "contentSnippet": "Meta “routinely documented” children under 13 on Instagram and collected their data, according to a newly unsealed complaint.",
+    "guid": "https://www.nytimes.com/2023/11/25/technology/instagram-meta-children-privacy.html",
+    "categories": [
+      {
+        "_": "Meta",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Facebook Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Instagram Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Privacy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Children and Childhood",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Children's Online Privacy Protection Act",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "States (US)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "childrens privacy",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-11-26T00:16:19.000Z"
   }
 ]

@@ -39,7 +39,7 @@ let windowwidth
 let windowarea
 let totalarea
 let paintneeded
-for(i=1; i < walls; i++) {
+for(let i=1; i < walls; i++) {
     wallheight = prompt("Enter the height of wall " + i + ": ");
     wallwidth = prompt("Enter the width of wall " + i + ": ");
     wallheight = parseInt(wallheight);
@@ -47,7 +47,7 @@ for(i=1; i < walls; i++) {
     wallarea = wallheight * wallwidth;
     console.log("The area of wall " + i + " is " + wallarea + " square metres.");
 }
-for(i=1; i < windows; i++)
+for(let i=1; i < windows; i++)
 {
     windowheight = prompt("Enter the height of window " + i + ": ");
     windowwidth = prompt("Enter the width of window " + i + ": ");

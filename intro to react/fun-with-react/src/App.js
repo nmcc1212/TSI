@@ -26,7 +26,7 @@ function App() {
                   <Route index element={ 
                     <div key="Home">
                       <div>
-                        <h1 class="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Tech News</h1>
+                        <h1 className="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Tech News</h1>
                         <NewsList rssFeedUrls={techUrls} searchQuery={searchQuery}/>
                       </div> 
                     </div> 
@@ -34,7 +34,7 @@ function App() {
                   <Route path="/Ukraine" element={
                     <div key="Ukraine">
                       <div>
-                        <h1 class="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Ukraine News</h1>
+                        <h1 className="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Ukraine News</h1>
                         <NewsList rssFeedUrls={ukraineUrls} searchQuery={searchQuery} />
                       </div> 
                     </div> 
@@ -42,7 +42,7 @@ function App() {
                   <Route path="/UKNews" element={
                     < div key="UKNews">
                       <div>
-                      <h1 class="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">UK News</h1>
+                      <h1 className="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">UK News</h1>
                       <NewsList rssFeedUrls={ukUrls} searchQuery={searchQuery} />
                       </div>
                     </div>
@@ -50,7 +50,7 @@ function App() {
                   <Route path="/WorldNews" element={
                     <div key="WorldNews">
                       <div>
-                        <h1 class="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">World News</h1>
+                        <h1 className="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">World News</h1>
                         <NewsList rssFeedUrls={worldUrls} searchQuery={searchQuery} />
                       </div>
                     </div>
@@ -58,21 +58,21 @@ function App() {
                   <Route path="/HackerNews" element={
                     <div key="HackerNews">
                       <div>
-                        <h1 class="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Hacker News</h1>
+                        <h1 className="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Hacker News</h1>
                         <NewsList rssFeedUrls={hackerUrls} searchQuery={searchQuery} />
                       </div>
                     </div>
                   } />
                   <Route path="/SlashDot" element={
                     <div key="SlashDotNews">
-                      <h1 class="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">testing</h1>
+                      <h1 className="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">testing</h1>
                       <NewsList rssFeedUrls="http://rss.slashdot.org/Slashdot/slashdot" searchQuery={searchQuery} />
                     </div>
                   } />
                 
                   <Route path="/DefenceNews" element={
                     <div key="DefenceNews">
-                      <h1 class="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Defence News</h1>
+                      <h1 className="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Defence News</h1>
                       <NewsList rssFeedUrls={defenceUrls} searchQuery={searchQuery} />
                     </div>
                    } />

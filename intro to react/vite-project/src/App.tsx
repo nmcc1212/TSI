@@ -13,7 +13,6 @@ function App() {
   const hackerUrls: string[] = ["https://hnrss.org/frontpage?points=30"]
   const slashDotUrls: string[] = ["http://rss.slashdot.org/Slashdot/slashdot"]
   const defenceUrls: string[] = ["https://defence-blog.com/topics/uk/feed/","https://www.thinkdefence.co.uk/feed/","https://ukdefencejournal.org.uk/feed/","https://www.gov.uk/government/organisations/ministry-of-defence.atom"]
-  // let allUrls = techUrls.concat(ukraineUrls, ukUrls, worldUrls, hackerUrls);
   const handleSearchQuery = (query: SetStateAction<string>) => {
     setSearchQuery(query);
   }

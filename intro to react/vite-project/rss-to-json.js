@@ -5,9 +5,6 @@ const parser = new Parser();
 const app = express();
 const port = process.env.PORT || 50110;
 
-// const cors = require('cors');
-// app.use(cors());
-
 app.use(function (req, res, next) {
   // Set CORS headers to allow requests from any origin
   res.header("Access-Control-Allow-Origin", "*");

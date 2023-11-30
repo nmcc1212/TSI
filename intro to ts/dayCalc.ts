@@ -11,7 +11,7 @@ function daysToJupiter(): number {
     const distanceToJupiter = 365000000;
     // speed random number between 40 and 500
     const speed = Math.floor(Math.random() * (500 - 40 + 1) + 40);
-    return calculateTime(distanceToJupiter);
+    return calculateTime(distanceToJupiter/speed);
 }
 
 // define class vehicles with mathods and with child classes with properties speed
