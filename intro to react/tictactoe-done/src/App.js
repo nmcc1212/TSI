@@ -1,5 +1,11 @@
 import { useState } from 'react';
 
+Square.propTypes = {
+  value: PropTypes.string.isRequired, // Assuming value is a string ('X' or 'O')
+  onSquareClick: PropTypes.func.isRequired,
+};
+
+
 function Square({value, onSquareClick}) {
   return (
     <button className="square" onClick={onSquareClick}>
