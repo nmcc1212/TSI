@@ -1,0 +1,45 @@
+pipeline {
+    agent any
+    
+    stages {
+        stage('Clone Repository') {
+            steps {
+                // Clone the repository
+                git 'https://github.com/nmcc1212/TSI.git'
+            }
+        }
+        stage('Install NPM Requirements') {
+            steps {
+                dir('TSI/intro\ to\ react/vite-project/') {
+                    // Install NPM dependencies
+                    script {
+                        def npmHome = tool name: 'NodeJS', type: 'jsInstaller'
+                        sh "${npmHome}/bin/npm install"
+                    }
+            }
+        }
+        
+        stage('Run Script') {
+            steps {
+                dir ('TSI/intro\ to\ react/vite-project/') {
+                    script {
+                        sh 'runAll.sh'
+                    }
+                }
+            }
+        }
+        
+        stage('Push Changes to GitHub') {
+            steps {
+                script {
+                    // Commit and push changes
+                    git 'config --global user.email "your.email@example.com"'
+                    git 'config --global user.name "Your Name"'
+                    git 'add .'
+                    git 'commit -m "Made changes using Jenkins"'
+                    git 'push origin main'
+                }
+            }
+        }
+    }
+}

@@ -298,5 +298,53 @@
     "contentSnippet": "Article URL: https://imois.in/posts/the-properties-of-lights-out-the-game/\nComments URL: https://news.ycombinator.com/item?id=38470355\nPoints: 32\n# Comments: 6",
     "guid": "https://news.ycombinator.com/item?id=38470355",
     "isoDate": "2023-11-30T06:27:49.000Z"
+  },
+  {
+    "creator": "indrora",
+    "title": "A reality bending mistake in Apple's computational photography",
+    "link": "https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography",
+    "pubDate": "Fri, 01 Dec 2023 02:02:25 +0000",
+    "dc:creator": "indrora",
+    "comments": "https://news.ycombinator.com/item?id=38482085",
+    "content": "\n<p>Article URL: <a href=\"https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography\">https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=38482085\">https://news.ycombinator.com/item?id=38482085</a></p>\n<p>Points: 44</p>\n<p># Comments: 6</p>\n",
+    "contentSnippet": "Article URL: https://appleinsider.com/articles/23/11/30/a-bride-to-be-discovers-a-reality-bending-mistake-in-apples-computational-photography\nComments URL: https://news.ycombinator.com/item?id=38482085\nPoints: 44\n# Comments: 6",
+    "guid": "https://news.ycombinator.com/item?id=38482085",
+    "isoDate": "2023-12-01T02:02:25.000Z"
+  },
+  {
+    "creator": "rkwz",
+    "title": "ChatGPT's 1-Year Anniversary: Are Open-Source Large Language Models Catching Up?",
+    "link": "https://arxiv.org/abs/2311.16989",
+    "pubDate": "Fri, 01 Dec 2023 01:49:36 +0000",
+    "dc:creator": "rkwz",
+    "comments": "https://news.ycombinator.com/item?id=38481970",
+    "content": "\n<p>Article URL: <a href=\"https://arxiv.org/abs/2311.16989\">https://arxiv.org/abs/2311.16989</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=38481970\">https://news.ycombinator.com/item?id=38481970</a></p>\n<p>Points: 33</p>\n<p># Comments: 2</p>\n",
+    "contentSnippet": "Article URL: https://arxiv.org/abs/2311.16989\nComments URL: https://news.ycombinator.com/item?id=38481970\nPoints: 33\n# Comments: 2",
+    "guid": "https://news.ycombinator.com/item?id=38481970",
+    "isoDate": "2023-12-01T01:49:36.000Z"
+  },
+  {
+    "creator": "explaininjs",
+    "title": "Music-Map – Find Similar Music",
+    "link": "https://www.music-map.com",
+    "pubDate": "Fri, 01 Dec 2023 00:44:21 +0000",
+    "dc:creator": "explaininjs",
+    "comments": "https://news.ycombinator.com/item?id=38481426",
+    "content": "\n<p>Article URL: <a href=\"https://www.music-map.com\">https://www.music-map.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=38481426\">https://news.ycombinator.com/item?id=38481426</a></p>\n<p>Points: 35</p>\n<p># Comments: 15</p>\n",
+    "contentSnippet": "Article URL: https://www.music-map.com\nComments URL: https://news.ycombinator.com/item?id=38481426\nPoints: 35\n# Comments: 15",
+    "guid": "https://news.ycombinator.com/item?id=38481426",
+    "isoDate": "2023-12-01T00:44:21.000Z"
+  },
+  {
+    "creator": "stefankuehnel",
+    "title": "Skyfield: Elegant Astronomy for Python",
+    "link": "https://rhodesmill.org/skyfield/",
+    "pubDate": "Fri, 01 Dec 2023 00:03:11 +0000",
+    "dc:creator": "stefankuehnel",
+    "comments": "https://news.ycombinator.com/item?id=38481063",
+    "content": "\n<p>Article URL: <a href=\"https://rhodesmill.org/skyfield/\">https://rhodesmill.org/skyfield/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=38481063\">https://news.ycombinator.com/item?id=38481063</a></p>\n<p>Points: 36</p>\n<p># Comments: 4</p>\n",
+    "contentSnippet": "Article URL: https://rhodesmill.org/skyfield/\nComments URL: https://news.ycombinator.com/item?id=38481063\nPoints: 36\n# Comments: 4",
+    "guid": "https://news.ycombinator.com/item?id=38481063",
+    "isoDate": "2023-12-01T00:03:11.000Z"
   }
 ]
