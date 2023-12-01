@@ -11,7 +11,6 @@ function NavBar({sendQueryToParent}) {
 
     return (
         <div className="">
-            {sendQuery()}
             <nav className="border-blue-200 bg-blue-200 dark:bg-blue-200 dark:border-blue-200">
                 <div className="max-w-screen-xl flex flex-wrap items-center justify-center mx-auto p-4">
                     <div className="hidden w-full md:block md:w-auto" id="navbar-default">
