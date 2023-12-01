@@ -238,5 +238,41 @@
     "contentSnippet": "Article URL: https://www.klittlepage.com/2015/01/21/why-i-always-hit-the-crosswalk-button/\nComments URL: https://news.ycombinator.com/item?id=38461726\nPoints: 31\n# Comments: 79",
     "guid": "https://news.ycombinator.com/item?id=38461726",
     "isoDate": "2023-11-29T16:46:00.000Z"
+  },
+  {
+    "creator": "toomuchtodo",
+    "title": "Broadcom to Cut Almost 1,300 VMware Jobs in California After Takeover",
+    "link": "https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover",
+    "pubDate": "Thu, 30 Nov 2023 23:28:42 +0000",
+    "dc:creator": "toomuchtodo",
+    "comments": "https://news.ycombinator.com/item?id=38480748",
+    "content": "\n<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover\">https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=38480748\">https://news.ycombinator.com/item?id=38480748</a></p>\n<p>Points: 75</p>\n<p># Comments: 21</p>\n",
+    "contentSnippet": "Article URL: https://www.bloomberg.com/news/articles/2023-11-30/broadcom-to-cut-almost-1-300-vmware-jobs-in-california-after-takeover\nComments URL: https://news.ycombinator.com/item?id=38480748\nPoints: 75\n# Comments: 21",
+    "guid": "https://news.ycombinator.com/item?id=38480748",
+    "isoDate": "2023-11-30T23:28:42.000Z"
+  },
+  {
+    "creator": "Kharacternyk",
+    "title": "Show HN: Play a pen-and-paper game that is almost unknown in the US and Europe",
+    "link": "https://www.paper-tactics.com",
+    "pubDate": "Thu, 30 Nov 2023 11:44:43 +0000",
+    "dc:creator": "Kharacternyk",
+    "comments": "https://news.ycombinator.com/item?id=38472333",
+    "content": "\n<p>Article URL: <a href=\"https://www.paper-tactics.com\">https://www.paper-tactics.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=38472333\">https://news.ycombinator.com/item?id=38472333</a></p>\n<p>Points: 65</p>\n<p># Comments: 26</p>\n",
+    "contentSnippet": "Article URL: https://www.paper-tactics.com\nComments URL: https://news.ycombinator.com/item?id=38472333\nPoints: 65\n# Comments: 26",
+    "guid": "https://news.ycombinator.com/item?id=38472333",
+    "isoDate": "2023-11-30T11:44:43.000Z"
+  },
+  {
+    "creator": "whereistimbo",
+    "title": "In OpenZFS and Btrfs, everyone was just guessing",
+    "link": "https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue?p=1424496#post1424496",
+    "pubDate": "Thu, 30 Nov 2023 11:13:51 +0000",
+    "dc:creator": "whereistimbo",
+    "comments": "https://news.ycombinator.com/item?id=38472124",
+    "content": "\n<p>Article URL: <a href=\"https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue?p=1424496#post1424496\">https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue?p=1424496#post1424496</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=38472124\">https://news.ycombinator.com/item?id=38472124</a></p>\n<p>Points: 68</p>\n<p># Comments: 50</p>\n",
+    "contentSnippet": "Article URL: https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue?p=1424496#post1424496\nComments URL: https://news.ycombinator.com/item?id=38472124\nPoints: 68\n# Comments: 50",
+    "guid": "https://news.ycombinator.com/item?id=38472124",
+    "isoDate": "2023-11-30T11:13:51.000Z"
   }
 ]

@@ -1284,5 +1284,108 @@
       }
     ],
     "isoDate": "2023-11-22T23:33:55.000Z"
+  },
+  {
+    "creator": "Sapna Maheshwari",
+    "title": "Judge Halts TikTok Ban in Montana",
+    "link": "https://www.nytimes.com/2023/11/30/business/tiktok-montana-ban-blocked.html",
+    "pubDate": "Fri, 01 Dec 2023 00:39:28 +0000",
+    "dc:creator": "Sapna Maheshwari",
+    "content": "TikTok, which is owned by the Chinese company ByteDance, has been locked in a legal battle with Montana since the state passed the ban in April.",
+    "contentSnippet": "TikTok, which is owned by the Chinese company ByteDance, has been locked in a legal battle with Montana since the state passed the ban in April.",
+    "guid": "https://www.nytimes.com/2023/11/30/business/tiktok-montana-ban-blocked.html",
+    "categories": [
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Beijing Bytedance Technology Co Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Montana",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Molloy, Donald W",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Knudsen, Austin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Decisions and Verdicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Freedom of Speech and Expression",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Data-Mining and Database Marketing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "First Amendment (US Constitution)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-01T00:39:28.000Z"
   }
 ]

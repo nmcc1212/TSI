@@ -1,4 +1,4 @@
-import  { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { v4 as uuidv4 } from 'uuid';
 
@@ -9,8 +9,9 @@ interface NewsItem {
   isoDate: string;
 }
 
-function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string; }>) { // this function is used to render the news list and query the API
-  const [news, setNews] = useState<NewsItem[]>([]);
+function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string; }>) {
+  const [newsData, setNewsData] = useState<NewsItem[]>([]);
+  const [filteredNews, setFilteredNews] = useState<NewsItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
@@ -21,8 +22,8 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string; 
           const response = await axios.post('http://localhost:50111/api/fetchNews', {
             rssFeedUrls: props.rssFeedUrls,
           });
-          const sortedNews = response.data.sort((a:NewsItem, b:NewsItem) => new Date(b.isoDate).getTime() - new Date(a.isoDate).getTime());
-          setNews(sortedNews);
+          const sortedNews = response.data.sort((a: NewsItem, b: NewsItem) => new Date(b.isoDate).getTime() - new Date(a.isoDate).getTime());
+          setNewsData(sortedNews);
         }
       } catch (error) {
         console.error('Error fetching data:', error);
@@ -30,18 +31,28 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string; 
         setIsLoading(false);
       }
     };
-    fetchData();
-  }, []);
+
+    // Fetch data only when the component mounts
+    if (newsData.length === 0) {
+      fetchData();
+    }
+  }, [props.rssFeedUrls, newsData.length]);
+
+  useEffect(() => {
+    // Filter news locally based on the search query
+    const filtered = newsData.filter(item =>
+      item.title.toLowerCase().includes(props.searchQuery.toLowerCase())
+    );
+    setFilteredNews(filtered);
+  }, [newsData, props.searchQuery]);
+
   if (isLoading) {
     return <div className="text-center">Loading...</div>;
   }
+
   return (
     <div className="grid grid-cols-3 gap-10 ml-10 overflow-scroll">
-    {news
-      .filter(item => {
-        return props.searchQuery === '' || item.title.toLowerCase().includes(props.searchQuery.toLowerCase());
-      })
-      .map(item => (
+      {filteredNews.map(item => (
         <NewsItem key={uuidv4()} item={item} />
       ))}
     </div>
@@ -54,6 +65,7 @@ interface NewsItemType {
   contentSnippet: string;
   isoDate: string;
 }
+
 interface Props {
   item: NewsItemType;
 }
@@ -65,7 +77,7 @@ const NewsItem = ({ item }: Props) => {
   desc = desc?.replace(/<[^>]+>/gi, "")?.replace(/&nbsp;/gi, " ")?.replace(/&#039;s/gi, "'");
 
   // Format the date as a string
-  const formattedDate = isoDate.toLocaleString();
+  const formattedDate = new Date(isoDate).toLocaleString();
 
   return (
     <a href={link} target="_blank" rel="noreferrer" className="flex-grow border-2 h-80 flex overflow-auto flex-col block w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">

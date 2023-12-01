@@ -3390,5 +3390,279 @@
       }
     ],
     "isoDate": "2023-11-28T21:19:31.000Z"
+  },
+  {
+    "creator": "James Wagner",
+    "title": "Return to Haiti of a Coup Leader Raises Concerns of More Turmoil",
+    "link": "https://www.nytimes.com/2023/11/30/world/americas/guy-philippe-haiti-return.html",
+    "pubDate": "Fri, 01 Dec 2023 01:24:00 +0000",
+    "dc:creator": "James Wagner",
+    "content": "Guy Philippe, who helped lead the coup that ousted President Jean-Bertrand Aristide in 2004, is back in the politically unstable country after serving time in a U.S. prison.",
+    "contentSnippet": "Guy Philippe, who helped lead the coup that ousted President Jean-Bertrand Aristide in 2004, is back in the politically unstable country after serving time in a U.S. prison.",
+    "guid": "https://www.nytimes.com/2023/11/30/world/americas/guy-philippe-haiti-return.html",
+    "categories": [
+      {
+        "_": "Haiti",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Philippe, Guy (1968- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Moise, Jovenel (1968- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Aristide, Jean-Bertrand",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Coups D'Etat and Attempted Coups D'Etat",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Assassinations and Attempted Assassinations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-01T01:24:00.000Z"
+  },
+  {
+    "creator": "Michael Crowley and Thomas Fuller",
+    "title": "Blinken Urges Israel to Reduce Civilian Deaths as More Hostages Are Freed",
+    "link": "https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-peace-process.html",
+    "pubDate": "Fri, 01 Dec 2023 01:12:30 +0000",
+    "dc:creator": "Michael Crowley and Thomas Fuller",
+    "content": "Secretary of State Antony J. Blinken met with Israeli officials and a Palestinian leader on Thursday to seek improved conditions for Gaza’s civilians and to try to exert influence over Israel’s expected military offensive.",
+    "contentSnippet": "Secretary of State Antony J. Blinken met with Israeli officials and a Palestinian leader on Thursday to seek improved conditions for Gaza’s civilians and to try to exert influence over Israel’s expected military offensive.",
+    "guid": "https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-peace-process.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Peace Process",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kidnapping and Hostages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Prisons and Prisoners",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-01T01:12:30.000Z"
+  },
+  {
+    "creator": "Katie Rogers, Julian E. Barnes and Glenn Thrush",
+    "title": "Biden’s Bond With Modi, India’s Leader, Is Tested by Alleged Plot",
+    "link": "https://www.nytimes.com/2023/11/30/us/politics/biden-india-modi-sikh-plot.html",
+    "pubDate": "Fri, 01 Dec 2023 01:03:40 +0000",
+    "dc:creator": "Katie Rogers, Julian E. Barnes and Glenn Thrush",
+    "content": "The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.",
+    "contentSnippet": "The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.",
+    "guid": "https://www.nytimes.com/2023/11/30/us/politics/biden-india-modi-sikh-plot.html",
+    "categories": [
+      {
+        "_": "Assassinations and Attempted Assassinations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Sikhs and Sikhism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Justice Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Canada",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "India",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "New York State",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-01T01:03:40.000Z"
+  },
+  {
+    "creator": "Ronen Bergman and Adam Goldman",
+    "title": "Israel Knew Hamas’s Attack Plan Over a Year Ago",
+    "link": "https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html",
+    "pubDate": "Fri, 01 Dec 2023 00:24:33 +0000",
+    "dc:creator": "Ronen Bergman and Adam Goldman",
+    "content": "A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.",
+    "contentSnippet": "A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.",
+    "guid": "https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Middle East",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Border Barriers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-01T00:24:33.000Z"
   }
 ]
