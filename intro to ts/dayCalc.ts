@@ -29,29 +29,13 @@ class Vehicle {
 }
 
 
-class Spaceship extends Vehicle {
-    constructor(speed: number, name: string) {
-        super(speed, name);
-    }
-}
+class Spaceship extends Vehicle {}
 
-class Car extends Vehicle {
-    constructor(speed: number, name: string) {
-        super(speed, name);
-    }
-}
+class Car extends Vehicle {}
 
-class Bike extends Vehicle {
-    constructor(speed: number, name: string) {
-        super(speed, name);
-    }
-}
+class Bike extends Vehicle {}
 
-class MobilityScooter extends Vehicle {
-    constructor(speed: number, name: string) {
-        super(speed, name);
-    }
-}
+class MobilityScooter extends Vehicle {}
 
 // create objects of child classes and call getTime method
 
