@@ -16,6 +16,7 @@ pipeline {
                         def npmHome = tool name: 'NodeJS', type: 'jsInstaller'
                         sh "${npmHome}/bin/npm install"
                     }
+                }
             }
         }
         
