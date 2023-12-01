@@ -75,7 +75,23 @@ function App() {
                       <h1 className="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Defence News</h1>
                       <NewsList rssFeedUrls={defenceUrls} searchQuery={searchQuery} />
                     </div>
-                   } />
+                  } />
+                  <Route path="/AllUrls" element={
+                    <div key="AllUrls">
+                      <h1 className="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">All News</h1>
+                      <NewsList
+                        rssFeedUrls={[
+                          ...techUrls,
+                          ...ukraineUrls,
+                          ...ukUrls,
+                          ...worldUrls,
+                          ...hackerUrls,
+                          ...defenceUrls,
+                        ]}
+                        searchQuery={searchQuery}
+                      />
+                    </div>
+                  }/>
                 </Route>
               </Routes>
             </BrowserRouter>

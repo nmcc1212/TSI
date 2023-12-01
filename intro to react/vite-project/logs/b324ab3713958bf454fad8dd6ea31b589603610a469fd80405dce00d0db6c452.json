@@ -274,5 +274,29 @@
     "contentSnippet": "Article URL: https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue?p=1424496#post1424496\nComments URL: https://news.ycombinator.com/item?id=38472124\nPoints: 68\n# Comments: 50",
     "guid": "https://news.ycombinator.com/item?id=38472124",
     "isoDate": "2023-11-30T11:13:51.000Z"
+  },
+  {
+    "creator": "luu",
+    "title": "Interview with Viktor Lofgren from Marginalia Search",
+    "link": "https://nlnet.nl/news/2023/20231016-marginalia.html",
+    "pubDate": "Thu, 30 Nov 2023 07:47:58 +0000",
+    "dc:creator": "luu",
+    "comments": "https://news.ycombinator.com/item?id=38470832",
+    "content": "\n<p>Article URL: <a href=\"https://nlnet.nl/news/2023/20231016-marginalia.html\">https://nlnet.nl/news/2023/20231016-marginalia.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=38470832\">https://news.ycombinator.com/item?id=38470832</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>\n",
+    "contentSnippet": "Article URL: https://nlnet.nl/news/2023/20231016-marginalia.html\nComments URL: https://news.ycombinator.com/item?id=38470832\nPoints: 37\n# Comments: 8",
+    "guid": "https://news.ycombinator.com/item?id=38470832",
+    "isoDate": "2023-11-30T07:47:58.000Z"
+  },
+  {
+    "creator": "duck",
+    "title": "Properties of Lights Out: The Game",
+    "link": "https://imois.in/posts/the-properties-of-lights-out-the-game/",
+    "pubDate": "Thu, 30 Nov 2023 06:27:49 +0000",
+    "dc:creator": "duck",
+    "comments": "https://news.ycombinator.com/item?id=38470355",
+    "content": "\n<p>Article URL: <a href=\"https://imois.in/posts/the-properties-of-lights-out-the-game/\">https://imois.in/posts/the-properties-of-lights-out-the-game/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=38470355\">https://news.ycombinator.com/item?id=38470355</a></p>\n<p>Points: 32</p>\n<p># Comments: 6</p>\n",
+    "contentSnippet": "Article URL: https://imois.in/posts/the-properties-of-lights-out-the-game/\nComments URL: https://news.ycombinator.com/item?id=38470355\nPoints: 32\n# Comments: 6",
+    "guid": "https://news.ycombinator.com/item?id=38470355",
+    "isoDate": "2023-11-30T06:27:49.000Z"
   }
 ]
