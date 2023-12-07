@@ -13,6 +13,7 @@ pipeline {
                 dir('TSI/intro to react/vite-project/') {
                     script {
                         sh 'ls'
+                        sh 'find ${WORKSPACE} -type d -print'
                     }
                 }
             }
