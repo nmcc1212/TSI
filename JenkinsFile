@@ -10,6 +10,15 @@ pipeline {
                 ])
             }
         }
+        stage('Debug') {
+            steps {
+                dir('TSI/intro to react/vite-project/') {
+                    script {
+                        sh 'ls'
+                    }
+                }
+            }
+        }
         stage('Install NPM Requirements') {
             steps {
                 dir('TSI/intro to react/vite-project/') {
