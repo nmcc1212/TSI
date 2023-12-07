@@ -26,7 +26,7 @@ pipeline {
         }
         stage('Install NPM Requirements') {
             steps {
-                dir('TSI/intro to react/vite-project/') {
+                dir('/var/jenkins_home/workspace/update news/TSI/intro to react/vite-project') {
                     // Install NPM dependencies
                     script {
                         // def npmHome = tool name: 'NodeJS', type: 'jsInstaller'
@@ -38,7 +38,7 @@ pipeline {
         
         stage('Run Script') {
             steps {
-                dir ('TSI/intro to react/vite-project/') {
+                dir ('/var/jenkins_home/workspace/update news/TSI/intro to react/vite-project') {
                     script {
                         sh 'runAll.sh'
                     }
