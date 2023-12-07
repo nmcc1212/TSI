@@ -6,7 +6,7 @@ pipeline {
             steps {
                 // Clone the repository
                 checkout scmGit(userRemoteConfigs: [
-                    [ url: 'https://github.com/jenkinsci/git-plugin' ]
+                    [ url: 'https://github.com/nmcc1212/TSI' ]
                 ])
             }
         }
