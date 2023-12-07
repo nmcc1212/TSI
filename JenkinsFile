@@ -5,7 +5,7 @@ pipeline {
         stage('Clone Repository') {
             steps {
                 // Clone the repository
-                checkout([$class: 'GitSCM', branches: [[name: '*/master']], userRemoteConfigs: [[url: 'https://github.com/nmcc1212/TSI.git']]])
+                checkout([$class: 'GitSCM', branches: [[name: '*/main']], userRemoteConfigs: [[url: 'https://github.com/nmcc1212/TSI.git']]])
             }
         }
         stage('Install NPM Requirements') {
@@ -35,7 +35,7 @@ pipeline {
                 script {
                     // Commit and push changes
                     git 'config --global user.email "your.email@example.com"'
-                    git 'config --global user.name "Your Name"'
+                    git 'config --global user.name "Nial McCallister"'
                     git 'add .'
                     git 'commit -m "Made changes using Jenkins"'
                     git 'push origin main'
