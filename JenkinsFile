@@ -5,9 +5,7 @@ pipeline {
         stage('Clone Repository') {
             steps {
                 // Clone the repository
-                checkout scmGit(userRemoteConfigs: [
-                    [ url: 'https://github.com/nmcc1212/TSI' ]
-                ])
+                git url:'https://github.com/nmcc1212/TSI'
             }
         }
         stage('Debug') {
