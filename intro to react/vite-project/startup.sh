@@ -16,7 +16,7 @@ trap cleanup INT
 # Start background processes
 node rss-to-json.js &
 node backend.js &
-npm run dev
+npm run dev --host
 
 # Wait for background processes to finish
 wait
