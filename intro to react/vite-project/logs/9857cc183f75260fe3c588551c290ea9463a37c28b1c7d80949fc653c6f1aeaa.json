@@ -3271,5 +3271,72 @@
       }
     ],
     "isoDate": "2023-12-01T10:03:32.000Z"
+  },
+  {
+    "creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Chris Wood, Dan Powell, Marion Lozano and Sophia Lanman",
+    "title": "Google’s Next Top Model, Will the Cybertruck Crash? and This Week in A.I.",
+    "link": "https://www.nytimes.com/2023/12/08/podcasts/hardfork-google-gemini-cybertruck.html",
+    "pubDate": "Fri, 08 Dec 2023 10:03:58 +0000",
+    "dc:creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Chris Wood, Dan Powell, Marion Lozano and Sophia Lanman",
+    "content": "Like the Cybertruck, this podcast is bulletproof.",
+    "contentSnippet": "Like the Cybertruck, this podcast is bulletproof.",
+    "guid": "https://www.nytimes.com/2023/12/08/podcasts/hardfork-google-gemini-cybertruck.html",
+    "categories": [
+      {
+        "_": "Science and Technology",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Tesla Motors Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Panera Bread Company",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Amazon.com Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Pichai, Sundar",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hassabis, Demis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T10:03:58.000Z"
   }
 ]
