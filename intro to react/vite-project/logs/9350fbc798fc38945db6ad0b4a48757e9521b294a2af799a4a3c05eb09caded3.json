@@ -656,5 +656,468 @@
       }
     ],
     "isoDate": "2023-11-17T16:52:06.000Z"
+  },
+  {
+    "creator": "Zolan Kanno-Youngs",
+    "title": "Biden Tied Ukraine Aid to Border Security, and It Backfired on Him",
+    "link": "https://www.nytimes.com/2023/12/07/us/politics/biden-immigration-ukraine.html",
+    "pubDate": "Fri, 08 Dec 2023 01:44:28 +0000",
+    "dc:creator": "Zolan Kanno-Youngs",
+    "content": "President Biden faces difficult choices about how far to go in giving in to conservative demands that he choke off the number of migrants admitted to the United States.",
+    "contentSnippet": "President Biden faces difficult choices about how far to go in giving in to conservative demands that he choke off the number of migrants admitted to the United States.",
+    "guid": "https://www.nytimes.com/2023/12/07/us/politics/biden-immigration-ukraine.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Illegal Immigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Asylum, Right of",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T01:44:28.000Z"
+  },
+  {
+    "creator": "Steven Lee Myers",
+    "title": "Russia’s Latest Disinformation Tactic Exploits American Celebrities",
+    "link": "https://www.nytimes.com/2023/12/07/technology/russia-disinformation-mike-tyson-priscilla-presley.html",
+    "pubDate": "Thu, 07 Dec 2023 05:02:00 +0000",
+    "dc:creator": "Steven Lee Myers",
+    "content": "Videos from Elijah Wood, Mike Tyson and others have been used — unknowingly to them, it seems — in social media posts and Russian news coverage critical of Ukraine’s leader.",
+    "contentSnippet": "Videos from Elijah Wood, Mike Tyson and others have been used — unknowingly to them, it seems — in social media posts and Russian news coverage critical of Ukraine’s leader.",
+    "guid": "https://www.nytimes.com/2023/12/07/technology/russia-disinformation-mike-tyson-priscilla-presley.html",
+    "categories": [
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Propaganda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Celebrities",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cameo (Mobile App)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T05:02:00.000Z"
+  },
+  {
+    "creator": "Peter Baker",
+    "title": "Biden Calls on Congress to Approve Aid to Ukraine: ‘This Cannot Wait’",
+    "link": "https://www.nytimes.com/2023/12/06/us/politics/biden-ukraine-funding.html",
+    "pubDate": "Wed, 06 Dec 2023 23:57:41 +0000",
+    "dc:creator": "Peter Baker",
+    "content": "The administration has already alerted Congress that money for Ukraine will run out by the end of the year.",
+    "contentSnippet": "The administration has already alerted Congress that money for Ukraine will run out by the end of the year.",
+    "guid": "https://www.nytimes.com/2023/12/06/us/politics/biden-ukraine-funding.html",
+    "categories": [
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Democratic Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "House of Representatives",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:57:41.000Z"
+  },
+  {
+    "creator": "Ivan Nechepurenko and Marc Santora",
+    "title": "Illia Kyva Is Killed Near Moscow",
+    "link": "https://www.nytimes.com/2023/12/06/world/europe/illia-kyva-ukrainian-lawmaker-killed.html",
+    "pubDate": "Wed, 06 Dec 2023 21:38:29 +0000",
+    "dc:creator": "Ivan Nechepurenko and Marc Santora",
+    "content": "The lawmaker, Illia Kyva, called for Ukraine to surrender after Russia invaded. He was living in Russia, but Ukrainian authorities had sentenced him to prison in absentia on charges including treason.",
+    "contentSnippet": "The lawmaker, Illia Kyva, called for Ukraine to surrender after Russia invaded. He was living in Russia, but Ukrainian authorities had sentenced him to prison in absentia on charges including treason.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/europe/illia-kyva-ukrainian-lawmaker-killed.html",
+    "categories": [
+      {
+        "_": "Assassinations and Attempted Assassinations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defectors (Political)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Treason and Sedition",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kyva, Illia (d 2023)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T21:38:29.000Z"
+  },
+  {
+    "creator": "Glenn Thrush",
+    "title": "U.S. Charges 4 Russian Soldiers With War Crimes Against an American",
+    "link": "https://www.nytimes.com/2023/12/06/us/russia-ukraine-war-crimes-hamas.html",
+    "pubDate": "Wed, 06 Dec 2023 20:29:32 +0000",
+    "dc:creator": "Glenn Thrush",
+    "content": "The Justice Department also said it had begun investigating the “murder of more than 30 Americans” by Hamas fighters during the Oct. 7 attack in Israel.",
+    "contentSnippet": "The Justice Department also said it had begun investigating the “murder of more than 30 Americans” by Hamas fighters during the Oct. 7 attack in Israel.",
+    "guid": "https://www.nytimes.com/2023/12/06/us/russia-ukraine-war-crimes-hamas.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War Crimes, Genocide and Crimes Against Humanity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Garland, Merrick B",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T20:29:32.000Z"
+  },
+  {
+    "creator": "The Associated Press",
+    "title": "White House Urges Congress to Approve More Funding for Ukraine",
+    "link": "https://www.nytimes.com/video/us/politics/100000009209451/white-house-ukraine-aid.html",
+    "pubDate": "Mon, 04 Dec 2023 22:10:07 +0000",
+    "dc:creator": "The Associated Press",
+    "content": "Jake Sullivan, the White House national security adviser, said that improper funding would jeopardize Ukraine’s ability to defend itself against Russia.",
+    "contentSnippet": "Jake Sullivan, the White House national security adviser, said that improper funding would jeopardize Ukraine’s ability to defend itself against Russia.",
+    "guid": "https://www.nytimes.com/video/us/politics/100000009209451/white-house-ukraine-aid.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T22:10:07.000Z"
+  },
+  {
+    "creator": "Valerie Hopkins and Nanna Heitmann",
+    "title": "A Russian Village Buries a Soldier, and Tries to Make Sense of the War",
+    "link": "https://www.nytimes.com/2023/12/01/world/europe/russian-soldier-burial-war.html",
+    "pubDate": "Sat, 02 Dec 2023 15:18:34 +0000",
+    "dc:creator": "Valerie Hopkins and Nanna Heitmann",
+    "content": "In Russia, the pain and loss of the war in Ukraine are felt most profoundly in small villages, where a soldier’s burial produces not just grief but a yearning to find meaning in his death.",
+    "contentSnippet": "In Russia, the pain and loss of the war in Ukraine are felt most profoundly in small villages, where a soldier’s burial produces not just grief but a yearning to find meaning in his death.",
+    "guid": "https://www.nytimes.com/2023/12/01/world/europe/russian-soldier-burial-war.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Funerals and Memorials",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "vis-photo",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-02T15:18:34.000Z"
   }
 ]

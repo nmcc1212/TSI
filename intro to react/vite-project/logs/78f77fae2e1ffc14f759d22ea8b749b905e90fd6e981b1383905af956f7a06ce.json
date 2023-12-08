@@ -3664,5 +3664,3515 @@
       }
     ],
     "isoDate": "2023-12-01T00:24:33.000Z"
+  },
+  {
+    "creator": "Adam Satariano, Megan Specia and Glenn Thrush",
+    "title": "UK Accuses Russia of Yearslong Cyberattacks",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/uk-russia-cyberattacks.html",
+    "pubDate": "Fri, 08 Dec 2023 08:13:40 +0000",
+    "dc:creator": "Adam Satariano, Megan Specia and Glenn Thrush",
+    "content": "The government said a group linked to Russia’s intelligence service carried out sustained operations to undermine trust in Britain’s political system.",
+    "contentSnippet": "The government said a group linked to Russia’s intelligence service carried out sustained operations to undermine trust in Britain’s political system.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/uk-russia-cyberattacks.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cyberwarfare and Defense",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Cameron, David",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Federal Security Service",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T08:13:40.000Z"
+  },
+  {
+    "creator": "The New York Times",
+    "title": "Israel-Hamas War: Israel Releases Evidence It Says Shows Hamas Operates Near Civilian Shelters",
+    "link": "https://www.nytimes.com/live/2023/12/07/world/israel-hamas-war-gaza-news",
+    "pubDate": "Fri, 08 Dec 2023 07:42:35 +0000",
+    "dc:creator": "The New York Times",
+    "content": "The Israeli military posted unverified videos and maps that it claims showed rockets had been fired from areas in southern Gaza where civilians were seeking shelter.",
+    "contentSnippet": "The Israeli military posted unverified videos and maps that it claims showed rockets had been fired from areas in southern Gaza where civilians were seeking shelter.",
+    "guid": "https://www.nytimes.com/live/2023/12/07/world/israel-hamas-war-gaza-news",
+    "isoDate": "2023-12-08T07:42:35.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Friday Briefing",
+    "link": "https://www.nytimes.com/2023/12/08/briefing/hamas-israel-ukraine-sunak.html",
+    "pubDate": "Fri, 08 Dec 2023 05:21:35 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "Israeli allegations about Hamas’s tactics.",
+    "contentSnippet": "Israeli allegations about Hamas’s tactics.",
+    "guid": "https://www.nytimes.com/2023/12/08/briefing/hamas-israel-ukraine-sunak.html",
+    "isoDate": "2023-12-08T05:21:35.000Z"
+  },
+  {
+    "creator": "Talya Minsberg",
+    "title": "In Israel, Hanukkah Begins in the Shadow of Two Months of War",
+    "link": "https://www.nytimes.com/2023/12/07/world/middleeast/hanukkah-israel-war.html",
+    "pubDate": "Fri, 08 Dec 2023 04:36:58 +0000",
+    "dc:creator": "Talya Minsberg",
+    "content": "The holiday held a new meaning for many Israelis in the wake of the Oct. 7 terrorist attacks, including relatives of people still held hostage in Gaza and reservists called up to fight against Hamas.",
+    "contentSnippet": "The holiday held a new meaning for many Israelis in the wake of the Oct. 7 terrorist attacks, including relatives of people still held hostage in Gaza and reservists called up to fight against Hamas.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/middleeast/hanukkah-israel-war.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hanukkah",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Jews and Judaism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Tel Aviv (Israel)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T04:36:58.000Z"
+  },
+  {
+    "creator": "Zolan Kanno-Youngs",
+    "title": "Biden Tied Ukraine Aid to Border Security, and It Backfired on Him",
+    "link": "https://www.nytimes.com/2023/12/07/us/politics/biden-immigration-ukraine.html",
+    "pubDate": "Fri, 08 Dec 2023 01:44:28 +0000",
+    "dc:creator": "Zolan Kanno-Youngs",
+    "content": "President Biden faces difficult choices about how far to go in giving in to conservative demands that he choke off the number of migrants admitted to the United States.",
+    "contentSnippet": "President Biden faces difficult choices about how far to go in giving in to conservative demands that he choke off the number of migrants admitted to the United States.",
+    "guid": "https://www.nytimes.com/2023/12/07/us/politics/biden-immigration-ukraine.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Illegal Immigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Asylum, Right of",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T01:44:28.000Z"
+  },
+  {
+    "creator": "Liam Stack, Yara Bayoumy, Aric Toler, Lauren Leatherby and Michael Levenson",
+    "title": "Israel Says Hamas Fired Rockets From Near Gaza Shelters",
+    "link": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-hamas-gaza-rockets.html",
+    "pubDate": "Fri, 08 Dec 2023 00:40:38 +0000",
+    "dc:creator": "Liam Stack, Yara Bayoumy, Aric Toler, Lauren Leatherby and Michael Levenson",
+    "content": "The claim adds to the growing concerns that there is no safe place in the enclave for those who have been displaced since the war began.",
+    "contentSnippet": "The claim adds to the growing concerns that there is no safe place in the enclave for those who have been displaced since the war began.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-hamas-gaza-rockets.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T00:40:38.000Z"
+  },
+  {
+    "creator": "Ana Swanson",
+    "title": "Lawmakers Press Biden Administration for Tougher Curbs on China Tech",
+    "link": "https://www.nytimes.com/2023/12/07/us/politics/lawmakers-biden-china-tech.html",
+    "pubDate": "Thu, 07 Dec 2023 23:57:02 +0000",
+    "dc:creator": "Ana Swanson",
+    "content": "Republican legislators argue that the Biden administration has been ill-equipped and unmotivated in a technology fight with Beijing.",
+    "contentSnippet": "Republican legislators argue that the Biden administration has been ill-equipped and unmotivated in a technology fight with Beijing.",
+    "guid": "https://www.nytimes.com/2023/12/07/us/politics/lawmakers-biden-china-tech.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Trade and World Market",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Embargoes and Sanctions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computer Chips",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Commerce Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Defense Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "House Committee on Foreign Affairs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T23:57:02.000Z"
+  },
+  {
+    "creator": "Niki Kitsantonis and Safak Timur",
+    "title": "Greece and Turkey, Long at Odds, Vow to Work Together Peacefully",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/greece-turkey-declaration-of-friendly-relations.html",
+    "pubDate": "Thu, 07 Dec 2023 22:59:07 +0000",
+    "dc:creator": "Niki Kitsantonis and Safak Timur",
+    "content": "The two rivals have been at the brink of military conflict several times in recent decades. An agreement signed by the countries’ leaders on Thursday aims to change that.",
+    "contentSnippet": "The two rivals have been at the brink of military conflict several times in recent decades. An agreement signed by the countries’ leaders on Thursday aims to change that.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/greece-turkey-declaration-of-friendly-relations.html",
+    "categories": [
+      {
+        "_": "Greece",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Turkey",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Erdogan, Recep Tayyip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Mitsotakis, Kyriakos",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T22:59:07.000Z"
+  },
+  {
+    "creator": "Claire Moses",
+    "title": "Benjamin Zephaniah, Poet of Social Justice Issues, Dies at 65",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/benjamin-zephaniah-dead.html",
+    "pubDate": "Thu, 07 Dec 2023 22:32:37 +0000",
+    "dc:creator": "Claire Moses",
+    "content": "He opened the door for future generations of poets of color to use their own voices.",
+    "contentSnippet": "He opened the door for future generations of poets of color to use their own voices.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/benjamin-zephaniah-dead.html",
+    "categories": [
+      {
+        "_": "Zephaniah, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Deaths (Obituaries)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Poetry and Poets",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Books and Literature",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Race and Ethnicity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Black People",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T22:32:37.000Z"
+  },
+  {
+    "creator": "Maya Tekeli and Emma Bubola",
+    "title": "Denmark Bans Quran Burning",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/denmark-quran-burning-ban.html",
+    "pubDate": "Thu, 07 Dec 2023 21:46:43 +0000",
+    "dc:creator": "Maya Tekeli and Emma Bubola",
+    "content": "The law came after a series of public Quran burnings in Scandinavia caused uproar in Muslim communities.",
+    "contentSnippet": "The law came after a series of public Quran burnings in Scandinavia caused uproar in Muslim communities.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/denmark-quran-burning-ban.html",
+    "categories": [
+      {
+        "_": "Denmark",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Koran",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Freedom of Speech and Expression",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Sweden",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Demonstrations, Protests and Riots",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T21:46:43.000Z"
+  },
+  {
+    "creator": "Mark Landler and Stephen Castle",
+    "title": "What Kevin McCarthy and Rishi Sunak Have in Common: Unmanageable Parties",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/kevin-mccarthy-rishi-sunak-rwanda-gop.html",
+    "pubDate": "Thu, 07 Dec 2023 21:42:21 +0000",
+    "dc:creator": "Mark Landler and Stephen Castle",
+    "content": "A former speaker of the U.S. House and the British prime minister have struggled to corral the extreme right factions of their parties.",
+    "contentSnippet": "A former speaker of the U.S. House and the British prime minister have struggled to corral the extreme right factions of their parties.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/kevin-mccarthy-rishi-sunak-rwanda-gop.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Great Britain Withdrawal from EU (Brexit)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Asylum, Right of",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Illegal Immigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Legislatures and Parliaments",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "McCarthy, Kevin (1965- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sunak, Rishi (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T21:42:21.000Z"
+  },
+  {
+    "creator": "Isabel Kershner",
+    "title": "Son of Israeli War Cabinet Member Killed in Action in Gaza",
+    "link": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-war-cabinet-member-son-killed.html",
+    "pubDate": "Thu, 07 Dec 2023 21:34:41 +0000",
+    "dc:creator": "Isabel Kershner",
+    "content": "Gal Meir Eisenkot, 25, was the son of Lt. Gen. Gadi Eisenkot, a former military chief who went into politics and is part of the group directing the war effort.",
+    "contentSnippet": "Gal Meir Eisenkot, 25, was the son of Lt. Gen. Gadi Eisenkot, a former military chief who went into politics and is part of the group directing the war effort.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-war-cabinet-member-son-killed.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Netanyahu, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "War and Armed Conflicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Eisenkot, Gadi",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T21:34:41.000Z"
+  },
+  {
+    "creator": "Jonathan Wolfe",
+    "title": "Friday Briefing: Israel Says Hamas Fired Rockets From Near Shelters",
+    "link": "https://www.nytimes.com/2023/12/07/briefing/friday-briefing-israel-says-hamas-fired-rockets-from-near-shelters.html",
+    "pubDate": "Thu, 07 Dec 2023 21:17:05 +0000",
+    "dc:creator": "Jonathan Wolfe",
+    "content": "Plus, “Oppenheimer” is coming to Japan.",
+    "contentSnippet": "Plus, “Oppenheimer” is coming to Japan.",
+    "guid": "https://www.nytimes.com/2023/12/07/briefing/friday-briefing-israel-says-hamas-fired-rockets-from-near-shelters.html",
+    "isoDate": "2023-12-07T21:17:05.000Z"
+  },
+  {
+    "creator": "Alan Rappeport and Zolan Kanno-Youngs",
+    "title": "U.S. and Mexico Try to Promote Trade While Curbing Flow of Fentanyl",
+    "link": "https://www.nytimes.com/2023/12/07/us/politics/us-mexico-trade-fentanyl.html",
+    "pubDate": "Thu, 07 Dec 2023 21:08:52 +0000",
+    "dc:creator": "Alan Rappeport and Zolan Kanno-Youngs",
+    "content": "In her Mexico City visit, Treasury Secretary Janet L. Yellen sought to deepen economic ties while countering drug trafficking.",
+    "contentSnippet": "In her Mexico City visit, Treasury Secretary Janet L. Yellen sought to deepen economic ties while countering drug trafficking.",
+    "guid": "https://www.nytimes.com/2023/12/07/us/politics/us-mexico-trade-fentanyl.html",
+    "categories": [
+      {
+        "_": "Fentanyl",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Economy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Supply Chain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Investments",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Inflation Reduction Act of 2022",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Treasury Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Yellen, Janet L",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Lopez Obrador, Andres Manuel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Mexico",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T21:08:52.000Z"
+  },
+  {
+    "creator": "Dennis Overbye and Katrina Miller",
+    "title": "Particle Physicists Offer a Road Map For the Next Decade",
+    "link": "https://www.nytimes.com/2023/12/07/science/particle-physics-muon-collider.html",
+    "pubDate": "Thu, 07 Dec 2023 20:12:19 +0000",
+    "dc:creator": "Dennis Overbye and Katrina Miller",
+    "content": "A “muon shot” aims to study the basic forces of the cosmos. But meager federal budgets could limit its ambitions.",
+    "contentSnippet": "A “muon shot” aims to study the basic forces of the cosmos. But meager federal budgets could limit its ambitions.",
+    "guid": "https://www.nytimes.com/2023/12/07/science/particle-physics-muon-collider.html",
+    "categories": [
+      {
+        "_": "Federal Budget (US)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Physics",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Large Hadron Collider",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Higgs Boson",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Dark Matter (Astronomy)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "CERN",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Energy Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Fermi National Accelerator Laboratory",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "National Science Foundation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Illinois",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T20:12:19.000Z"
+  },
+  {
+    "creator": "Matthew Mpoke Bigg",
+    "title": "Key Events in Israel and Gaza Since Oct. 7 Attack",
+    "link": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-gaza-hamas-war-timeline.html",
+    "pubDate": "Thu, 07 Dec 2023 20:11:52 +0000",
+    "dc:creator": "Matthew Mpoke Bigg",
+    "content": "On Oct. 7, Hamas and other militant groups launched an attack in Israel that killed hundreds. Israel responded with a military campaign that has devastated Gaza.",
+    "contentSnippet": "On Oct. 7, Hamas and other militant groups launched an attack in Israel that killed hundreds. Israel responded with a military campaign that has devastated Gaza.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-gaza-hamas-war-timeline.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T20:11:52.000Z"
+  },
+  {
+    "creator": "Victor Mather",
+    "title": "A City-Size Iceberg Is Moving Out of Antarctic Waters",
+    "link": "https://www.nytimes.com/2023/12/07/climate/iceberg-antarctica-a23a.html",
+    "pubDate": "Thu, 07 Dec 2023 20:05:49 +0000",
+    "dc:creator": "Victor Mather",
+    "content": "Next up, a yearslong ramble through the Southern Ocean and, eventually, a big melt.",
+    "contentSnippet": "Next up, a yearslong ramble through the Southern Ocean and, eventually, a big melt.",
+    "guid": "https://www.nytimes.com/2023/12/07/climate/iceberg-antarctica-a23a.html",
+    "categories": [
+      {
+        "_": "Ice",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Global Warming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Antarctic Regions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Glaciers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Oceans and Seas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Lamont-Doherty Earth Observatory",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Southern Ocean",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T20:05:49.000Z"
+  },
+  {
+    "creator": "Megan Specia",
+    "title": "Ireland’s Riot Was Not a Surprise to Those Who Watch the Far Right",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/dublin-riot-far-right.html",
+    "pubDate": "Thu, 07 Dec 2023 19:55:49 +0000",
+    "dc:creator": "Megan Specia",
+    "content": "The disorder in Dublin on Nov. 23 may have appeared to come from nowhere. But experts say it reflected long-running social problems and an emboldened anti-immigrant movement.",
+    "contentSnippet": "The disorder in Dublin on Nov. 23 may have appeared to come from nowhere. But experts say it reflected long-running social problems and an emboldened anti-immigrant movement.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/dublin-riot-far-right.html",
+    "categories": [
+      {
+        "_": "Demonstrations, Protests and Riots",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Varadkar, Leo",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Dublin (Ireland)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ireland",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T19:55:49.000Z"
+  },
+  {
+    "creator": "Aric Toler and Lauren Leatherby",
+    "title": "Here is what we know about Israel’s evidence that Hamas fired rockets from safe zones.",
+    "link": "https://www.nytimes.com/2023/12/08/world/middleeast/here-is-what-we-know-about-israels-evidence-that-hamas-fired-rockets-from-safe-zones.html",
+    "pubDate": "Thu, 07 Dec 2023 19:37:03 +0000",
+    "dc:creator": "Aric Toler and Lauren Leatherby",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://www.nytimes.com/2023/12/08/world/middleeast/here-is-what-we-know-about-israels-evidence-that-hamas-fired-rockets-from-safe-zones.html",
+    "isoDate": "2023-12-07T19:37:03.000Z"
+  },
+  {
+    "creator": "Marc Santora, Lara Jakes and Andrew E. Kramer",
+    "title": "Ukraine Carries On Fight While Pondering an Erosion of U.S. Aid",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/ukraine-us-aid-senate.html",
+    "pubDate": "Thu, 07 Dec 2023 19:19:22 +0000",
+    "dc:creator": "Marc Santora, Lara Jakes and Andrew E. Kramer",
+    "content": "The government in Kyiv remains hopeful of further American assistance, but it is also looking to other resources — and trying to make clear what could be at stake.",
+    "contentSnippet": "The government in Kyiv remains hopeful of further American assistance, but it is also looking to other resources — and trying to make clear what could be at stake.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/ukraine-us-aid-senate.html",
+    "categories": [
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Borrell Fontelles, Josep",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T19:19:22.000Z"
+  },
+  {
+    "creator": "Matthew Mpoke Bigg and Hwaida Saad",
+    "title": "Strike That Killed Reuters Journalist Was ‘Apparently Deliberate’ Israeli Attack, Group Says",
+    "link": "https://www.nytimes.com/2023/12/07/world/middleeast/reuters-journalist-killed-lebanon-israel-hrw.html",
+    "pubDate": "Thu, 07 Dec 2023 18:45:36 +0000",
+    "dc:creator": "Matthew Mpoke Bigg and Hwaida Saad",
+    "content": "Human Rights Watch found that the slain journalist and six colleagues were not near active fighting in southern Lebanon and would have been clearly visible to Israeli forces.",
+    "contentSnippet": "Human Rights Watch found that the slain journalist and six colleagues were not near active fighting in southern Lebanon and would have been clearly visible to Israeli forces.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/middleeast/reuters-journalist-killed-lebanon-israel-hrw.html",
+    "categories": [
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "War Crimes, Genocide and Crimes Against Humanity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Lebanon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Thomson Reuters Corporation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T18:45:36.000Z"
+  },
+  {
+    "creator": "Abdi Latif Dahir and John Yoon",
+    "title": "Seychelles Declares State of Emergency After Blast at Explosives Depot",
+    "link": "https://www.nytimes.com/2023/12/07/world/africa/seychelles-explosion-emergency.html",
+    "pubDate": "Thu, 07 Dec 2023 18:22:22 +0000",
+    "dc:creator": "Abdi Latif Dahir and John Yoon",
+    "content": "Seychelles declared a state of emergency after the explosion, which came on the heels of deadly flooding in the country.",
+    "contentSnippet": "Seychelles declared a state of emergency after the explosion, which came on the heels of deadly flooding in the country.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/africa/seychelles-explosion-emergency.html",
+    "categories": [
+      {
+        "_": "Seychelles Islands",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Africa",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Explosions (Accidental)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Disasters and Emergencies",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Indian Ocean",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T18:22:22.000Z"
+  },
+  {
+    "creator": "Stephen Castle and Abdi Latif Dahir",
+    "title": "New U.K. Asylum Bill Aims to Override Some Human Rights Law",
+    "link": "https://www.nytimes.com/2023/12/06/world/europe/uk-bill-asylum-rwanda.html",
+    "pubDate": "Thu, 07 Dec 2023 18:13:21 +0000",
+    "dc:creator": "Stephen Castle and Abdi Latif Dahir",
+    "content": "Britain’s prime minister unveiled emergency legislation to salvage a highly contested scheme to deport asylum seekers to the African country. It wasn’t enough for his immigration minister.",
+    "contentSnippet": "Britain’s prime minister unveiled emergency legislation to salvage a highly contested scheme to deport asylum seekers to the African country. It wasn’t enough for his immigration minister.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/europe/uk-bill-asylum-rwanda.html",
+    "categories": [
+      {
+        "_": "Asylum, Right of",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Illegal Immigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Human Rights and Human Rights Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Sunak, Rishi (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Rwanda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kagame, Paul",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T18:13:21.000Z"
+  },
+  {
+    "creator": "Ivan Nechepurenko",
+    "title": "Russia Sets Date for Presidential Election",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/russia-presidential-election.html",
+    "pubDate": "Thu, 07 Dec 2023 17:26:09 +0000",
+    "dc:creator": "Ivan Nechepurenko",
+    "content": "The winner of the contest is widely seen as a foregone conclusion: Vladimir V. Putin.",
+    "contentSnippet": "The winner of the contest is widely seen as a foregone conclusion: Vladimir V. Putin.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/russia-presidential-election.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Elections",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T17:26:09.000Z"
+  },
+  {
+    "creator": "Farnaz Fassihi",
+    "title": "U.N. Secretary General Invokes Article 99, Asking to Declare a Cease-Fire in Gaza",
+    "link": "https://www.nytimes.com/2023/12/07/world/middleeast/un-article-99-gaza-cease-fire.html",
+    "pubDate": "Thu, 07 Dec 2023 15:47:47 +0000",
+    "dc:creator": "Farnaz Fassihi",
+    "content": "The move was a major step by the secretary general, António Guterres, in his efforts to stop the war, which he described as a humanitarian disaster that threatened international security.",
+    "contentSnippet": "The move was a major step by the secretary general, António Guterres, in his efforts to stop the war, which he described as a humanitarian disaster that threatened international security.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/middleeast/un-article-99-gaza-cease-fire.html",
+    "categories": [
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United Nations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Security Council (UN)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Guterres, Antonio",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T15:47:47.000Z"
+  },
+  {
+    "creator": "Claire Moses",
+    "title": "U.S. Marshal Arrested After Unruly Behavior on Flight to London",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/us-marshal-sexual-assault-flight-london.html",
+    "pubDate": "Thu, 07 Dec 2023 15:45:59 +0000",
+    "dc:creator": "Claire Moses",
+    "content": "The police in London said the 39-year-old “was disruptive and had sexually assaulted other passengers and crew.”",
+    "contentSnippet": "The police in London said the 39-year-old “was disruptive and had sexually assaulted other passengers and crew.”",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/us-marshal-sexual-assault-flight-london.html",
+    "categories": [
+      {
+        "_": "Airlines and Airplanes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Marshals Service",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T15:45:59.000Z"
+  },
+  {
+    "creator": "Maria Varenikova and Marc Santora",
+    "title": "Ukrainian Troops Feel the Bite of Polish Truckers’ Protest",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/poland-ukraine-truckers-blockade.html",
+    "pubDate": "Thu, 07 Dec 2023 15:33:33 +0000",
+    "dc:creator": "Maria Varenikova and Marc Santora",
+    "content": "A border blockade by haulers angry that the European Union has suspended a permit system for their Ukrainian counterparts has led to problems with deliveries of wartime supplies.",
+    "contentSnippet": "A border blockade by haulers angry that the European Union has suspended a permit system for their Ukrainian counterparts has led to problems with deliveries of wartime supplies.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/poland-ukraine-truckers-blockade.html",
+    "categories": [
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Trucks and Trucking",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Poland",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T15:33:33.000Z"
+  },
+  {
+    "creator": "Isabella Kwai",
+    "title": "‘Oppenheimer’ Will Be Released in Japan After Earlier Backlash",
+    "link": "https://www.nytimes.com/2023/12/07/world/asia/japan-barbenheimer-oppenheimer-release.html",
+    "pubDate": "Thu, 07 Dec 2023 15:28:50 +0000",
+    "dc:creator": "Isabella Kwai",
+    "content": "Critics said the film’s cross-promotion with “Barbie” trivialized the U.S. nuclear attacks on Japan during World War II, but the biopic will be released in 2024.",
+    "contentSnippet": "Critics said the film’s cross-promotion with “Barbie” trivialized the U.S. nuclear attacks on Japan during World War II, but the biopic will be released in 2024.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/asia/japan-barbenheimer-oppenheimer-release.html",
+    "categories": [
+      {
+        "_": "Movies",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Nuclear Weapons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Japan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Warner Brothers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T15:28:50.000Z"
+  },
+  {
+    "creator": "Delger Erdenesanaa",
+    "title": "Climate Change Makes East Africa’s Deadly Floods Worse, Study Finds",
+    "link": "https://www.nytimes.com/2023/12/07/climate/climate-change-flooding-east-africa.html",
+    "pubDate": "Thu, 07 Dec 2023 14:43:10 +0000",
+    "dc:creator": "Delger Erdenesanaa",
+    "content": "The extreme rain and flooding in Ethiopia, Kenya and Somalia this fall has been made twice as intense by climate change, according to a new study.",
+    "contentSnippet": "The extreme rain and flooding in Ethiopia, Kenya and Somalia this fall has been made twice as intense by climate change, according to a new study.",
+    "guid": "https://www.nytimes.com/2023/12/07/climate/climate-change-flooding-east-africa.html",
+    "categories": [
+      {
+        "_": "Global Warming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Greenhouse Gas Emissions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Floods",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Weather",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "World Weather Attribution",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Dadaab (Kenya)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "East Africa",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kenya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T14:43:10.000Z"
+  },
+  {
+    "creator": "Adam Goldman",
+    "title": "Israel Is Targeting Hamas With Battlefield Intelligence",
+    "link": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-hamas-battlefield-intelligence.html",
+    "pubDate": "Thu, 07 Dec 2023 14:40:58 +0000",
+    "dc:creator": "Adam Goldman",
+    "content": "Israel has recovered a trove of material that its military has used to assess the extent of the group’s attack plans, and its tactics and abilities, information reviewed by The Times shows.",
+    "contentSnippet": "Israel has recovered a trove of material that its military has used to assess the extent of the group’s attack plans, and its tactics and abilities, information reviewed by The Times shows.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-hamas-battlefield-intelligence.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Khan Younis (Gaza Strip)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T14:40:58.000Z"
+  },
+  {
+    "creator": "David Pierson, Olivia Wang and Keith Bradsher",
+    "title": "China and E.U. Leaders Met as Tensions Rise Over Russia",
+    "link": "https://www.nytimes.com/2023/12/07/world/asia/china-eu-xi-michel.html",
+    "pubDate": "Thu, 07 Dec 2023 13:47:12 +0000",
+    "dc:creator": "David Pierson, Olivia Wang and Keith Bradsher",
+    "content": "The European summit with China’s leader comes as relations have cooled over Beijing’s alignment with Russia in its war on Ukraine and a surge in Chinese exports.",
+    "contentSnippet": "The European summit with China’s leader comes as relations have cooled over Beijing’s alignment with Russia in its war on Ukraine and a surge in Chinese exports.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/asia/china-eu-xi-michel.html",
+    "categories": [
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "European Council",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "von der Leyen, Ursula",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Xi Jinping",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T13:47:12.000Z"
+  },
+  {
+    "creator": "Victoria Kim, Liam Stack and Aaron Boxerman",
+    "title": "Hundreds of thousands are sheltering in Al-Mawasi and the surrounding region, aid workers say.",
+    "link": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-says-it-is-continuing-to-pursue-top-hamas-leaders-in-southern-gaza.html",
+    "pubDate": "Thu, 07 Dec 2023 12:31:36 +0000",
+    "dc:creator": "Victoria Kim, Liam Stack and Aaron Boxerman",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://www.nytimes.com/2023/12/07/world/middleeast/israel-says-it-is-continuing-to-pursue-top-hamas-leaders-in-southern-gaza.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Sinwar, Yehya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T12:31:36.000Z"
+  },
+  {
+    "creator": "Ana Swanson, Jeanna Smialek, Alan Rappeport and Eshe Nelson",
+    "title": "Europe and Asia React to U.S. Push for Tech and Clean Energy",
+    "link": "https://www.nytimes.com/2023/12/07/business/economy/clean-energy-us-europe.html",
+    "pubDate": "Thu, 07 Dec 2023 12:22:26 +0000",
+    "dc:creator": "Ana Swanson, Jeanna Smialek, Alan Rappeport and Eshe Nelson",
+    "content": "Other governments, particularly in Europe, are trying to counter the Biden administration’s industrial policies with their own incentives.",
+    "contentSnippet": "Other governments, particularly in Europe, are trying to counter the Biden administration’s industrial policies with their own incentives.",
+    "guid": "https://www.nytimes.com/2023/12/07/business/economy/clean-energy-us-europe.html",
+    "categories": [
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Far East, South and Southeast Asia and Pacific Areas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Alternative and Renewable Energy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Inflation Reduction Act of 2022",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Electric and Hybrid Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Tax Credits, Deductions and Exemptions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Economy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Economic Conditions and Trends",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Solar Energy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Inflation (Economics)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Supply Chain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "internal-storyline-no",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T12:22:26.000Z"
+  },
+  {
+    "creator": "Reuters",
+    "title": "Girl Kills Schoolmate and Wounds 5 in Russia Shooting",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/bryansk-russia-shooting.html",
+    "pubDate": "Thu, 07 Dec 2023 11:37:47 +0000",
+    "dc:creator": "Reuters",
+    "content": "The authorities said investigators were working to establish the motive for the shooting, which took place in the city of Bryansk, near the border with Ukraine.",
+    "contentSnippet": "The authorities said investigators were working to establish the motive for the shooting, which took place in the city of Bryansk, near the border with Ukraine.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/bryansk-russia-shooting.html",
+    "categories": [
+      {
+        "_": "Murders, Attempted Murders and Homicides",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Children and Childhood",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "School Shootings and Armed Attacks",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Investigative Committee (Russia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Bryansk (Russia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T11:37:47.000Z"
+  },
+  {
+    "creator": "Vivian Nereim",
+    "title": "Gaza War Widens Gap Between Arab Rulers and Citizens",
+    "link": "https://www.nytimes.com/2023/12/06/world/middleeast/gaza-israel-hamas-war-bahrain.html",
+    "pubDate": "Thu, 07 Dec 2023 09:33:06 +0000",
+    "dc:creator": "Vivian Nereim",
+    "content": "Bahrain, a small Gulf monarchy, faces growing pressure from citizens to cut its recently established ties with Israel — a microcosm of the tensions spreading across the Mideast.",
+    "contentSnippet": "Bahrain, a small Gulf monarchy, faces growing pressure from citizens to cut its recently established ties with Israel — a microcosm of the tensions spreading across the Mideast.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/middleeast/gaza-israel-hamas-war-bahrain.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Demonstrations, Protests and Riots",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bahrain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Middle East",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T09:33:06.000Z"
+  },
+  {
+    "creator": "Hikari Hida and Aishvarya Kavi",
+    "title": "U.S. Military Grounds Hundreds of Ospreys After Fatal Crash Off Japan",
+    "link": "https://www.nytimes.com/2023/12/06/world/asia/us-osprey-japan-air-force-crew.html",
+    "pubDate": "Thu, 07 Dec 2023 06:34:30 +0000",
+    "dc:creator": "Hikari Hida and Aishvarya Kavi",
+    "content": "The Air Force, Navy and Marine Corps said a problem with the aircraft may have caused the crash last week, which is believed to have killed eight airmen.",
+    "contentSnippet": "The Air Force, Navy and Marine Corps said a problem with the aircraft may have caused the crash last week, which is believed to have killed eight airmen.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/asia/us-osprey-japan-air-force-crew.html",
+    "categories": [
+      {
+        "_": "United States Air Force",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Military Aircraft",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Aviation Accidents, Safety and Disasters",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Japan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Yakushima (Japan)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Marine Corps",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T06:34:30.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Thursday Briefing",
+    "link": "https://www.nytimes.com/2023/12/07/briefing/gaza-crisis-ukraine-aid.html",
+    "pubDate": "Thu, 07 Dec 2023 05:19:51 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "A growing humanitarian crisis in Gaza.",
+    "contentSnippet": "A growing humanitarian crisis in Gaza.",
+    "guid": "https://www.nytimes.com/2023/12/07/briefing/gaza-crisis-ukraine-aid.html",
+    "isoDate": "2023-12-07T05:19:51.000Z"
+  },
+  {
+    "creator": "Steven Lee Myers",
+    "title": "Russia’s Latest Disinformation Tactic Exploits American Celebrities",
+    "link": "https://www.nytimes.com/2023/12/07/technology/russia-disinformation-mike-tyson-priscilla-presley.html",
+    "pubDate": "Thu, 07 Dec 2023 05:02:00 +0000",
+    "dc:creator": "Steven Lee Myers",
+    "content": "Videos from Elijah Wood, Mike Tyson and others have been used — unknowingly to them, it seems — in social media posts and Russian news coverage critical of Ukraine’s leader.",
+    "contentSnippet": "Videos from Elijah Wood, Mike Tyson and others have been used — unknowingly to them, it seems — in social media posts and Russian news coverage critical of Ukraine’s leader.",
+    "guid": "https://www.nytimes.com/2023/12/07/technology/russia-disinformation-mike-tyson-priscilla-presley.html",
+    "categories": [
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Propaganda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Celebrities",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cameo (Mobile App)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T05:02:00.000Z"
+  },
+  {
+    "creator": "Carl Hulse",
+    "title": "Despite McConnell Legacy Push, Ukraine Funding in Increasing Jeopardy",
+    "link": "https://www.nytimes.com/2023/12/06/us/politics/mcconnell-legacy-ukraine-funding.html",
+    "pubDate": "Thu, 07 Dec 2023 00:30:41 +0000",
+    "dc:creator": "Carl Hulse",
+    "content": "The minority leader, who many believe could step down next year, has found himself out of step with many fellow Senate Republicans on the question of keeping money flowing to the U.S. ally.",
+    "contentSnippet": "The minority leader, who many believe could step down next year, has found himself out of step with many fellow Senate Republicans on the question of keeping money flowing to the U.S. ally.",
+    "guid": "https://www.nytimes.com/2023/12/06/us/politics/mcconnell-legacy-ukraine-funding.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "McConnell, Mitch",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T00:30:41.000Z"
+  },
+  {
+    "creator": "Karoun Demirjian",
+    "title": "Republicans Block Aid to Ukraine, Jeopardizing Its Fight Against Russia",
+    "link": "https://www.nytimes.com/2023/12/06/us/politics/senate-ukraine-aid-bill.html",
+    "pubDate": "Thu, 07 Dec 2023 00:21:33 +0000",
+    "dc:creator": "Karoun Demirjian",
+    "content": "The vote spotlighted waning support in Congress for backing Ukraine in the war, and left the fate of the effort uncertain.",
+    "contentSnippet": "The vote spotlighted waning support in Congress for backing Ukraine in the war, and left the fate of the effort uncertain.",
+    "guid": "https://www.nytimes.com/2023/12/06/us/politics/senate-ukraine-aid-bill.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "House of Representatives",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "McConnell, Mitch",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Johnson, Mike (1972- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Schumer, Charles E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T00:21:33.000Z"
+  },
+  {
+    "creator": "Peter Baker",
+    "title": "Biden Calls on Congress to Approve Aid to Ukraine: ‘This Cannot Wait’",
+    "link": "https://www.nytimes.com/2023/12/06/us/politics/biden-ukraine-funding.html",
+    "pubDate": "Wed, 06 Dec 2023 23:57:41 +0000",
+    "dc:creator": "Peter Baker",
+    "content": "The administration has already alerted Congress that money for Ukraine will run out by the end of the year.",
+    "contentSnippet": "The administration has already alerted Congress that money for Ukraine will run out by the end of the year.",
+    "guid": "https://www.nytimes.com/2023/12/06/us/politics/biden-ukraine-funding.html",
+    "categories": [
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Democratic Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "House of Representatives",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:57:41.000Z"
+  },
+  {
+    "creator": "Seth Mydans",
+    "title": "Nguyen Qui Duc, Whose Salon Became a Hanoi Hub, Dies at 65",
+    "link": "https://www.nytimes.com/2023/12/06/world/asia/nguyen-qui-duc-dead.html",
+    "pubDate": "Wed, 06 Dec 2023 23:53:22 +0000",
+    "dc:creator": "Seth Mydans",
+    "content": "A former refugee who found radio success in the U.S., he opened an exhibition space in his native Vietnam that drew artists and ambassadors. Anthony Bourdain dropped in.",
+    "contentSnippet": "A former refugee who found radio success in the U.S., he opened an exhibition space in his native Vietnam that drew artists and ambassadors. Anthony Bourdain dropped in.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/asia/nguyen-qui-duc-dead.html",
+    "categories": [
+      {
+        "_": "Duc, Nguyen Qui (1958-2023)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Deaths (Obituaries)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Vietnamese-Americans",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "National Public Radio",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Hanoi (Vietnam)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:53:22.000Z"
+  },
+  {
+    "creator": "Genevieve Glatsky and Isayen Herrera",
+    "title": "Venezuela Orders Arrest of Top Opposition Figures on Treason",
+    "link": "https://www.nytimes.com/2023/12/06/world/americas/venezuela-opposition-arrest-orders.html",
+    "pubDate": "Wed, 06 Dec 2023 23:35:23 +0000",
+    "dc:creator": "Genevieve Glatsky and Isayen Herrera",
+    "content": "The move is the latest of several that undercut prospects of free elections next year, despite commitments made to the Biden administration in return for sanctions relief.",
+    "contentSnippet": "The move is the latest of several that undercut prospects of free elections next year, despite commitments made to the Biden administration in return for sanctions relief.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/americas/venezuela-opposition-arrest-orders.html",
+    "categories": [
+      {
+        "_": "Elections",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Referendums",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Embargoes and Sanctions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Maduro, Nicolas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Machado, Maria Corina",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Treason and Sedition",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Venezuela",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Guyana",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Money Laundering",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Legislatures and Parliaments",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:35:23.000Z"
+  },
+  {
+    "creator": "Liam Stack and Yara Bayoumy",
+    "title": "Gazans Flee Fighting to Al-Mawasi, but Find Little Shelter There",
+    "link": "https://www.nytimes.com/2023/12/06/world/middleeast/gaza-al-mawasi.html",
+    "pubDate": "Wed, 06 Dec 2023 23:02:58 +0000",
+    "dc:creator": "Liam Stack and Yara Bayoumy",
+    "content": "Palestinians were told to go to the seaside village of Al-Mawasi to escape the fighting, but once they got there they found they were on their own.",
+    "contentSnippet": "Palestinians were told to go to the seaside village of Al-Mawasi to escape the fighting, but once they got there they found they were on their own.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/middleeast/gaza-al-mawasi.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Humanitarian Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:02:58.000Z"
+  },
+  {
+    "creator": "Adam Goldman",
+    "title": "Israel Claims It Has Killed 5 Hamas Commanders Seen in Rare Photo",
+    "link": "https://www.nytimes.com/2023/12/06/world/middleeast/israel-hamas-commanders-gaza-photo.html",
+    "pubDate": "Wed, 06 Dec 2023 22:47:40 +0000",
+    "dc:creator": "Adam Goldman",
+    "content": "Israeli forces have been targeting the Hamas leadership since the group launched an attack on southern Israel on Oct. 7.",
+    "contentSnippet": "Israeli forces have been targeting the Hamas leadership since the group launched an attack on southern Israel on Oct. 7.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/middleeast/israel-hamas-commanders-gaza-photo.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Netanyahu, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Deif, Muhammad",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sinwar, Yehya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Khan Younis (Gaza Strip)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T22:47:40.000Z"
+  },
+  {
+    "creator": "Liam Stack, Shashank Bengali and Michael Levenson",
+    "title": "Israel and Hamas Battle for a City in Gaza, Sparking Another Exodus",
+    "link": "https://www.nytimes.com/2023/12/06/world/middleeast/israel-hamas-battle-gaza-khan-younis.html",
+    "pubDate": "Wed, 06 Dec 2023 22:34:58 +0000",
+    "dc:creator": "Liam Stack, Shashank Bengali and Michael Levenson",
+    "content": "Thousands of people heeded Israeli orders to flee Khan Younis and nearby areas, but the places they were told to go had little shelter, water or food.",
+    "contentSnippet": "Thousands of people heeded Israeli orders to flee Khan Younis and nearby areas, but the places they were told to go had little shelter, water or food.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/middleeast/israel-hamas-battle-gaza-khan-younis.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Khan Younis (Gaza Strip)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kidnapping and Hostages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Shortages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Humanitarian Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T22:34:58.000Z"
+  },
+  {
+    "creator": "Vivian Nereim and Ivan Nechepurenko",
+    "title": "Putin Travels to U.A.E. and Saudi Arabia on Rare Trip to Mideast",
+    "link": "https://www.nytimes.com/2023/12/06/world/europe/putin-saudi-arabia-visit.html",
+    "pubDate": "Wed, 06 Dec 2023 22:34:19 +0000",
+    "dc:creator": "Vivian Nereim and Ivan Nechepurenko",
+    "content": "President Vladimir V. Putin of Russia stopped first in the United Arab Emirates and went on to Saudi Arabia. He said the Israel-Hamas war will figure prominently in his discussions.",
+    "contentSnippet": "President Vladimir V. Putin of Russia stopped first in the United Arab Emirates and went on to Saudi Arabia. He said the Israel-Hamas war will figure prominently in his discussions.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/europe/putin-saudi-arabia-visit.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Mohammed bin Salman (1985- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Abu Dhabi (United Arab Emirates)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Dubai (United Arab Emirates)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T22:34:19.000Z"
+  },
+  {
+    "creator": "Ivan Nechepurenko and Marc Santora",
+    "title": "Illia Kyva Is Killed Near Moscow",
+    "link": "https://www.nytimes.com/2023/12/06/world/europe/illia-kyva-ukrainian-lawmaker-killed.html",
+    "pubDate": "Wed, 06 Dec 2023 21:38:29 +0000",
+    "dc:creator": "Ivan Nechepurenko and Marc Santora",
+    "content": "The lawmaker, Illia Kyva, called for Ukraine to surrender after Russia invaded. He was living in Russia, but Ukrainian authorities had sentenced him to prison in absentia on charges including treason.",
+    "contentSnippet": "The lawmaker, Illia Kyva, called for Ukraine to surrender after Russia invaded. He was living in Russia, but Ukrainian authorities had sentenced him to prison in absentia on charges including treason.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/europe/illia-kyva-ukrainian-lawmaker-killed.html",
+    "categories": [
+      {
+        "_": "Assassinations and Attempted Assassinations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defectors (Political)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Treason and Sedition",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kyva, Illia (d 2023)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T21:38:29.000Z"
+  },
+  {
+    "creator": "Yan Zhuang and Christine Hauser",
+    "title": "Arizona Man Is Arrested in Connection With Australia Shooting",
+    "link": "https://www.nytimes.com/2023/12/06/world/australia/wieambilla-queensland-shooting-arrest-arizona.html",
+    "pubDate": "Wed, 06 Dec 2023 21:31:56 +0000",
+    "dc:creator": "Yan Zhuang and Christine Hauser",
+    "content": "Two police officers and a bystander died in the shootout in Queensland last year.",
+    "contentSnippet": "Two police officers and a bystander died in the shootout in Queensland last year.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/australia/wieambilla-queensland-shooting-arrest-arizona.html",
+    "categories": [
+      {
+        "_": "Australia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Queensland (Australia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Melbourne (Australia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Federal Bureau of Investigation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Attacks on Police",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Arizona",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T21:31:56.000Z"
+  },
+  {
+    "creator": "Jonathan Wolfe",
+    "title": "Thursday Briefing: Gazans Flee Khan Younis",
+    "link": "https://www.nytimes.com/2023/12/06/briefing/gaza-israel-ukraine.html",
+    "pubDate": "Wed, 06 Dec 2023 21:02:37 +0000",
+    "dc:creator": "Jonathan Wolfe",
+    "content": "Plus, remembering Norman Lear.",
+    "contentSnippet": "Plus, remembering Norman Lear.",
+    "guid": "https://www.nytimes.com/2023/12/06/briefing/gaza-israel-ukraine.html",
+    "isoDate": "2023-12-06T21:02:37.000Z"
+  },
+  {
+    "creator": "Talya Minsberg",
+    "title": "Gaza Hostage Families Urge Israeli Government to Help",
+    "link": "https://www.nytimes.com/2023/12/06/world/middleeast/hamas-hostages-israel.html",
+    "pubDate": "Wed, 06 Dec 2023 20:46:16 +0000",
+    "dc:creator": "Talya Minsberg",
+    "content": "Released hostages met for the first time with Israel’s war cabinet, painting a grim portrait of captivity in Gaza.",
+    "contentSnippet": "Released hostages met for the first time with Israel’s war cabinet, painting a grim portrait of captivity in Gaza.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/middleeast/hamas-hostages-israel.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kidnapping and Hostages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Netanyahu, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T20:46:16.000Z"
+  },
+  {
+    "creator": "Glenn Thrush",
+    "title": "U.S. Charges 4 Russian Soldiers With War Crimes Against an American",
+    "link": "https://www.nytimes.com/2023/12/06/us/russia-ukraine-war-crimes-hamas.html",
+    "pubDate": "Wed, 06 Dec 2023 20:29:32 +0000",
+    "dc:creator": "Glenn Thrush",
+    "content": "The Justice Department also said it had begun investigating the “murder of more than 30 Americans” by Hamas fighters during the Oct. 7 attack in Israel.",
+    "contentSnippet": "The Justice Department also said it had begun investigating the “murder of more than 30 Americans” by Hamas fighters during the Oct. 7 attack in Israel.",
+    "guid": "https://www.nytimes.com/2023/12/06/us/russia-ukraine-war-crimes-hamas.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War Crimes, Genocide and Crimes Against Humanity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Garland, Merrick B",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T20:29:32.000Z"
+  },
+  {
+    "creator": "Aurelien Breeden",
+    "title": "Bordeaux Botulism Outbreak: Criminal Charges Announced",
+    "link": "https://www.nytimes.com/2023/12/06/world/europe/france-bordeaux-botulism-sardines.html",
+    "pubDate": "Wed, 06 Dec 2023 19:47:25 +0000",
+    "dc:creator": "Aurelien Breeden",
+    "content": "One person died and 15 others were sickened in September after eating homemade sardine preserves at an organic wine bar in Bordeaux. Prosecutors say hygiene rules were violated.",
+    "contentSnippet": "One person died and 15 others were sickened in September after eating homemade sardine preserves at an organic wine bar in Bordeaux. Prosecutors say hygiene rules were violated.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/europe/france-bordeaux-botulism-sardines.html",
+    "categories": [
+      {
+        "_": "Botulism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "France",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Bordeaux (France)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Wine Bars",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hazardous and Toxic Substances",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "truecrime",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T19:47:25.000Z"
+  },
+  {
+    "creator": "Brad Plumer and Nadja Popovich",
+    "title": "Can Carbon Capture Live Up to the Hype?",
+    "link": "https://www.nytimes.com/2023/12/06/climate/cop28-carbon-capture.html",
+    "pubDate": "Wed, 06 Dec 2023 19:33:08 +0000",
+    "dc:creator": "Brad Plumer and Nadja Popovich",
+    "content": "The technology to capture and bury carbon dioxide has struggled to ramp up and has real limits. But experts say it could play a valuable role.",
+    "contentSnippet": "The technology to capture and bury carbon dioxide has struggled to ramp up and has real limits. But experts say it could play a valuable role.",
+    "guid": "https://www.nytimes.com/2023/12/06/climate/cop28-carbon-capture.html",
+    "categories": [
+      {
+        "_": "Global Warming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Greenhouse Gas Emissions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Carbon Capture and Sequestration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Carbon Dioxide",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United Nations Framework Convention on Climate Change",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Coal",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Steel and Iron",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Oil (Petroleum) and Gasoline",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T19:33:08.000Z"
+  },
+  {
+    "creator": "Mark Landler and Stephen Castle",
+    "title": "Boris Johnson Apologizes at U.K. Covid Inquiry for ‘Pain and Suffering’",
+    "link": "https://www.nytimes.com/2023/12/06/world/europe/uk-boris-johnson-covid-inquiry.html",
+    "pubDate": "Wed, 06 Dec 2023 18:24:37 +0000",
+    "dc:creator": "Mark Landler and Stephen Castle",
+    "content": "The former prime minister said his government had initially underestimated the coronavirus. But he insisted that he and his aides had done the best they could at the time.",
+    "contentSnippet": "The former prime minister said his government had initially underestimated the coronavirus. But he insisted that he and his aides had done the best they could at the time.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/europe/uk-boris-johnson-covid-inquiry.html",
+    "categories": [
+      {
+        "_": "Johnson, Boris",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Coronavirus (2019-nCoV)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Quarantines",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ethics and Official Misconduct",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Sunak, Rishi (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T18:24:37.000Z"
+  },
+  {
+    "creator": "Amanda Taub",
+    "title": "Snob summer is dead. Long live mystery winter.",
+    "link": "https://www.nytimes.com/2023/12/06/world/europe/snob-summer-is-dead-long-live-mystery-winter.html",
+    "pubDate": "Wed, 06 Dec 2023 15:22:52 +0000",
+    "dc:creator": "Amanda Taub",
+    "content": "Settling in for a cozy season of whodunnits.",
+    "contentSnippet": "Settling in for a cozy season of whodunnits.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/europe/snob-summer-is-dead-long-live-mystery-winter.html",
+    "categories": [
+      {
+        "_": "internal-sub-only-nl",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Books and Literature",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Batmanglij, Zal",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Chandler, Raymond",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hallett, Janice",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Marling, Brit",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T15:22:52.000Z"
+  },
+  {
+    "creator": "Carlotta Gall",
+    "title": "As Political Turmoil Intensifies in Ukraine, Opposition Leader Calls for Unity",
+    "link": "https://www.nytimes.com/2023/12/06/world/europe/ukraine-war-support-opposition.html",
+    "pubDate": "Wed, 06 Dec 2023 14:29:06 +0000",
+    "dc:creator": "Carlotta Gall",
+    "content": "Tensions between Ukrainian leaders, including between President Volodymyr Zelensky and his military chief, come as the country seeks emergency aid from Washington.",
+    "contentSnippet": "Tensions between Ukrainian leaders, including between President Volodymyr Zelensky and his military chief, come as the country seeks emergency aid from Washington.",
+    "guid": "https://www.nytimes.com/2023/12/06/world/europe/ukraine-war-support-opposition.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Poroshenko, Petro Olekseyevich",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zaluzhny, Valery",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Arms Trade",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T14:29:06.000Z"
+  },
+  {
+    "creator": "Rebecca Carballo",
+    "title": "Woman Shot and Killed in East London",
+    "link": "https://www.nytimes.com/2023/12/05/world/europe/london-hackney-shooting.html",
+    "pubDate": "Wed, 06 Dec 2023 13:30:11 +0000",
+    "dc:creator": "Rebecca Carballo",
+    "content": "Two other people were shot and injured in the shooting, a rarity in Britain. They were taken to a hospital and their status was not immediately clear.",
+    "contentSnippet": "Two other people were shot and injured in the shooting, a rarity in Britain. They were taken to a hospital and their status was not immediately clear.",
+    "guid": "https://www.nytimes.com/2023/12/05/world/europe/london-hackney-shooting.html",
+    "categories": [
+      {
+        "_": "Murders, Attempted Murders and Homicides",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Police",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "London (England)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T13:30:11.000Z"
+  },
+  {
+    "creator": "Elena Medel",
+    "title": "Read Your Way Through Madrid",
+    "link": "https://www.nytimes.com/2023/12/06/books/madrid-spain-books-elena-medel.html",
+    "pubDate": "Wed, 06 Dec 2023 10:00:10 +0000",
+    "dc:creator": "Elena Medel",
+    "content": "Like many who call Madrid home, Elena Medel was born elsewhere, but forged her identity in the Spanish capital. Here, she recommends books about this city that “refuses to be reduced to an ideal.”",
+    "contentSnippet": "Like many who call Madrid home, Elena Medel was born elsewhere, but forged her identity in the Spanish capital. Here, she recommends books about this city that “refuses to be reduced to an ideal.”",
+    "guid": "https://www.nytimes.com/2023/12/06/books/madrid-spain-books-elena-medel.html",
+    "categories": [
+      {
+        "_": "Madrid (Spain)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Books and Literature",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Content Type: Service",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Spanish Civil War (1936-39)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Poetry and Poets",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Theater",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Writing and Writers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Libraries and Librarians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Culture (Arts)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Garcia Lorca, Federico",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Grandes, Almudena (1960-2021)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hemingway, Ernest",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Lerner, Ben",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Lindo, Elvira",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Benito Perez Galdos",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Cela, Camilo Jose",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Carmen Martin Gaite",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ramon Maria del Valle-Inclan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Rosa Chacel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Navarro, Elvira",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Irene Vallejo",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "The Ages of Lulu (Book)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "The Hive (Book)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "The Wonders (Book)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "literaryguides",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T10:00:10.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Wednesday Briefing",
+    "link": "https://www.nytimes.com/2023/12/06/briefing/hamas-sexual-violence-ukraine-trump.html",
+    "pubDate": "Wed, 06 Dec 2023 05:12:28 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "Accounts of sexual violence by Hamas.",
+    "contentSnippet": "Accounts of sexual violence by Hamas.",
+    "guid": "https://www.nytimes.com/2023/12/06/briefing/hamas-sexual-violence-ukraine-trump.html",
+    "isoDate": "2023-12-06T05:12:28.000Z"
+  },
+  {
+    "creator": "Mitra Taj and Genevieve Glatsky",
+    "title": "Alberto Fujimori Is Ordered Released From Prison in Peru",
+    "link": "https://www.nytimes.com/2023/12/05/world/americas/peru-fujimori-released-prison.html",
+    "pubDate": "Wed, 06 Dec 2023 00:33:36 +0000",
+    "dc:creator": "Mitra Taj and Genevieve Glatsky",
+    "content": "The ruling, which affirms a decision to reinstate a pardon, defies an order by an international court that former President Alberto Fujimori continue to serve his sentence for human rights violations.",
+    "contentSnippet": "The ruling, which affirms a decision to reinstate a pardon, defies an order by an international court that former President Alberto Fujimori continue to serve his sentence for human rights violations.",
+    "guid": "https://www.nytimes.com/2023/12/05/world/americas/peru-fujimori-released-prison.html",
+    "categories": [
+      {
+        "_": "Amnesties, Commutations and Pardons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Human Rights and Human Rights Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War Crimes, Genocide and Crimes Against Humanity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fujimori, Alberto K",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Boluarte, Dina",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Inter-American Court of Human Rights",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Peru",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T00:33:36.000Z"
+  },
+  {
+    "creator": "Matthew Mpoke Bigg, Ben Hubbard and Michael Levenson",
+    "title": "Israel-Hamas War Intensifies in Southern Gaza; Civilians Say No Place Is Safe",
+    "link": "https://www.nytimes.com/2023/12/05/world/middleeast/israel-hamas-gaza-khan-younis.html",
+    "pubDate": "Wed, 06 Dec 2023 00:00:19 +0000",
+    "dc:creator": "Matthew Mpoke Bigg, Ben Hubbard and Michael Levenson",
+    "content": "Amid some of the war’s heaviest bombing, Israeli forces battled Hamas deep into the city of Khan Younis, with few signs that Israel was heeding Biden administration calls to show more restraint.",
+    "contentSnippet": "Amid some of the war’s heaviest bombing, Israeli forces battled Hamas deep into the city of Khan Younis, with few signs that Israel was heeding Biden administration calls to show more restraint.",
+    "guid": "https://www.nytimes.com/2023/12/05/world/middleeast/israel-hamas-gaza-khan-younis.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Evacuations and Evacuees",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Khan Younis (Gaza Strip)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T00:00:19.000Z"
   }
 ]

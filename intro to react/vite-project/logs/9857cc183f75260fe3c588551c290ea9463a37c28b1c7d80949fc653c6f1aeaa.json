@@ -1387,5 +1387,1889 @@
       }
     ],
     "isoDate": "2023-12-01T00:39:28.000Z"
+  },
+  {
+    "creator": "Adam Satariano, Megan Specia and Glenn Thrush",
+    "title": "UK Accuses Russia of Yearslong Cyberattacks",
+    "link": "https://www.nytimes.com/2023/12/07/world/europe/uk-russia-cyberattacks.html",
+    "pubDate": "Fri, 08 Dec 2023 08:13:40 +0000",
+    "dc:creator": "Adam Satariano, Megan Specia and Glenn Thrush",
+    "content": "The government said a group linked to Russia’s intelligence service carried out sustained operations to undermine trust in Britain’s political system.",
+    "contentSnippet": "The government said a group linked to Russia’s intelligence service carried out sustained operations to undermine trust in Britain’s political system.",
+    "guid": "https://www.nytimes.com/2023/12/07/world/europe/uk-russia-cyberattacks.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cyberwarfare and Defense",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Cameron, David",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Federal Security Service",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T08:13:40.000Z"
+  },
+  {
+    "creator": "David Yaffe-Bellany",
+    "title": "Binance Founder Ordered to Remain in U.S. Before Sentencing",
+    "link": "https://www.nytimes.com/2023/12/08/technology/cz-changpeng-zhao-binance-release.html",
+    "pubDate": "Fri, 08 Dec 2023 05:14:53 +0000",
+    "dc:creator": "David Yaffe-Bellany",
+    "content": "Changpeng Zhao, better known as CZ, faces as much as 18 months in prison after he pleaded guilty to federal money-laundering violations.",
+    "contentSnippet": "Changpeng Zhao, better known as CZ, faces as much as 18 months in prison after he pleaded guilty to federal money-laundering violations.",
+    "guid": "https://www.nytimes.com/2023/12/08/technology/cz-changpeng-zhao-binance-release.html",
+    "categories": [
+      {
+        "_": "Virtual Currency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Money Laundering",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Decisions and Verdicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Prisons and Prisoners",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Binance",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Zhao, Changpeng",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T05:14:53.000Z"
+  },
+  {
+    "creator": "Ana Swanson",
+    "title": "Lawmakers Press Biden Administration for Tougher Curbs on China Tech",
+    "link": "https://www.nytimes.com/2023/12/07/us/politics/lawmakers-biden-china-tech.html",
+    "pubDate": "Thu, 07 Dec 2023 23:57:02 +0000",
+    "dc:creator": "Ana Swanson",
+    "content": "Republican legislators argue that the Biden administration has been ill-equipped and unmotivated in a technology fight with Beijing.",
+    "contentSnippet": "Republican legislators argue that the Biden administration has been ill-equipped and unmotivated in a technology fight with Beijing.",
+    "guid": "https://www.nytimes.com/2023/12/07/us/politics/lawmakers-biden-china-tech.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Trade and World Market",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Embargoes and Sanctions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computer Chips",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Commerce Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Defense Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "House Committee on Foreign Affairs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T23:57:02.000Z"
+  },
+  {
+    "creator": "J. Edward Moreno",
+    "title": "Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement",
+    "link": "https://www.nytimes.com/2023/12/03/technology/ai-key-figures.html",
+    "pubDate": "Thu, 07 Dec 2023 23:06:48 +0000",
+    "dc:creator": "J. Edward Moreno",
+    "content": "Before chatbots exploded in popularity, a group of researchers, tech executives and venture capitalists had worked for more than a decade to fuel A.I.",
+    "contentSnippet": "Before chatbots exploded in popularity, a group of researchers, tech executives and venture capitalists had worked for more than a decade to fuel A.I.",
+    "guid": "https://www.nytimes.com/2023/12/03/technology/ai-key-figures.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Venture Capital",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Philosophy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anthropic AI LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "DeepMind Technologies Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Facebook Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Meta Platforms Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Amodei, Dario",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gates, Bill",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hassabis, Demis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hinton, Geoffrey E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hoffman, Reid Garrett",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Nadella, Satya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Page, Larry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Thiel, Peter A",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zuckerberg, Mark E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Yudkowsky, Eliezer",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T23:06:48.000Z"
+  },
+  {
+    "creator": "Dennis Overbye and Katrina Miller",
+    "title": "Particle Physicists Offer a Road Map For the Next Decade",
+    "link": "https://www.nytimes.com/2023/12/07/science/particle-physics-muon-collider.html",
+    "pubDate": "Thu, 07 Dec 2023 20:12:19 +0000",
+    "dc:creator": "Dennis Overbye and Katrina Miller",
+    "content": "A “muon shot” aims to study the basic forces of the cosmos. But meager federal budgets could limit its ambitions.",
+    "contentSnippet": "A “muon shot” aims to study the basic forces of the cosmos. But meager federal budgets could limit its ambitions.",
+    "guid": "https://www.nytimes.com/2023/12/07/science/particle-physics-muon-collider.html",
+    "categories": [
+      {
+        "_": "Federal Budget (US)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Physics",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Large Hadron Collider",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Higgs Boson",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Dark Matter (Astronomy)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "CERN",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Energy Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Fermi National Accelerator Laboratory",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "National Science Foundation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Illinois",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T20:12:19.000Z"
+  },
+  {
+    "creator": "Mike Isaac and Michael H. Keller",
+    "title": "Meta Plans to Add Encryption to Messenger, Stoking a Privacy Debate",
+    "link": "https://www.nytimes.com/2023/12/06/technology/meta-messenger-encryption.html",
+    "pubDate": "Thu, 07 Dec 2023 19:01:47 +0000",
+    "dc:creator": "Mike Isaac and Michael H. Keller",
+    "content": "The move is part of an effort to make the app more like WhatsApp and iMessage. Law enforcement authorities say the privacy makes it harder to track criminals.",
+    "contentSnippet": "The move is part of an effort to make the app more like WhatsApp and iMessage. Law enforcement authorities say the privacy makes it harder to track criminals.",
+    "guid": "https://www.nytimes.com/2023/12/06/technology/meta-messenger-encryption.html",
+    "categories": [
+      {
+        "_": "Instant Messaging",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Privacy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Surveillance of Citizens by Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computer Security",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Child Pornography",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Facebook Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Meta Platforms Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "WhatsApp Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Zuckerberg, Mark E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T19:01:47.000Z"
+  },
+  {
+    "creator": "Melissa Eddy",
+    "title": "Tesla Is Fighting With Sweden’s Unions. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2023/12/07/business/tesla-sweden-union.html",
+    "pubDate": "Thu, 07 Dec 2023 18:53:56 +0000",
+    "dc:creator": "Melissa Eddy",
+    "content": "The action began with a mechanics walkout in October, but has spread to include blockades by other unions. Tesla has pushed back through the courts.",
+    "contentSnippet": "The action began with a mechanics walkout in October, but has spread to include blockades by other unions. Tesla has pushed back through the courts.",
+    "guid": "https://www.nytimes.com/2023/12/07/business/tesla-sweden-union.html",
+    "categories": [
+      {
+        "_": "Organized Labor",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Strikes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Electric and Hybrid Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Tesla Motors Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sweden",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "IF Metall",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "PostNord Group AB",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Denmark",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Norway",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T18:53:56.000Z"
+  },
+  {
+    "creator": "Kenneth Chang",
+    "title": "3 Laser Fusion Research Hubs Picked by Energy Department",
+    "link": "https://www.nytimes.com/2023/12/07/science/laser-fusion-energy-department-funding.html",
+    "pubDate": "Thu, 07 Dec 2023 17:22:40 +0000",
+    "dc:creator": "Kenneth Chang",
+    "content": "With $42 million, Lawrence Livermore National Laboratory, Colorado State University and the University of Rochester will work on studies to tap into a bountiful energy source.",
+    "contentSnippet": "With $42 million, Lawrence Livermore National Laboratory, Colorado State University and the University of Rochester will work on studies to tap into a bountiful energy source.",
+    "guid": "https://www.nytimes.com/2023/12/07/science/laser-fusion-energy-department-funding.html",
+    "categories": [
+      {
+        "_": "Fusion (Nuclear Reaction)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Energy Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Laser (Light Amplification by Stimulated Emission of Radiation)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Energy and Power",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Colorado State University",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Lawrence Livermore National Laboratory",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "University of Rochester",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T17:22:40.000Z"
+  },
+  {
+    "creator": "Karen Weise, Cade Metz, Nico Grant and Mike Isaac",
+    "title": "One Year of ChatGPT: How A.I. Changed Silicon Valley Forever",
+    "link": "https://www.nytimes.com/2023/12/05/technology/ai-chatgpt-google-meta.html",
+    "pubDate": "Thu, 07 Dec 2023 17:14:26 +0000",
+    "dc:creator": "Karen Weise, Cade Metz, Nico Grant and Mike Isaac",
+    "content": "ChatGPT’s release a year ago triggered a desperate scramble among tech companies and alarm from some of the people who helped invent it.",
+    "contentSnippet": "ChatGPT’s release a year ago triggered a desperate scramble among tech companies and alarm from some of the people who helped invent it.",
+    "guid": "https://www.nytimes.com/2023/12/05/technology/ai-chatgpt-google-meta.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Software",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Search Engines",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Open-Source Software",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Anthropic AI LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "DeepMind Technologies Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Facebook Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Meta Platforms Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gates, Bill",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hassabis, Demis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hinton, Geoffrey E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Huang, Jen-Hsun",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "LeCun, Yann",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Nadella, Satya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Pichai, Sundar",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Walker, Kent",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zuckerberg, Mark E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "audio-neutral-informative",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T17:14:26.000Z"
+  },
+  {
+    "creator": "Eduardo Medina",
+    "title": "PlayStation Will Delete Purchased Discovery Shows",
+    "link": "https://www.nytimes.com/2023/12/06/technology/sony-playstation-discovery-shows-removal.html",
+    "pubDate": "Thu, 07 Dec 2023 14:52:30 +0000",
+    "dc:creator": "Eduardo Medina",
+    "content": "Sony said that the Discovery shows, including “MythBusters” and “Deadliest Catch,” would be deleted from the devices on Dec. 31, citing “content licensing arrangements with content providers.”",
+    "contentSnippet": "Sony said that the Discovery shows, including “MythBusters” and “Deadliest Catch,” would be deleted from the devices on Dec. 31, citing “content licensing arrangements with content providers.”",
+    "guid": "https://www.nytimes.com/2023/12/06/technology/sony-playstation-discovery-shows-removal.html",
+    "categories": [
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "PlayStation (Video Game System)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Warner Bros Discovery",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T14:52:30.000Z"
+  },
+  {
+    "creator": "Erin Griffith",
+    "title": "From Unicorns to Zombies: Tech Start-Ups Run Out of Time and Money",
+    "link": "https://www.nytimes.com/2023/12/07/technology/tech-startups-collapse.html",
+    "pubDate": "Thu, 07 Dec 2023 14:48:22 +0000",
+    "dc:creator": "Erin Griffith",
+    "content": "After staving off collapse by cutting costs, many young tech companies are out of options, fueling a cash bonfire.",
+    "contentSnippet": "After staving off collapse by cutting costs, many young tech companies are out of options, fueling a cash bonfire.",
+    "guid": "https://www.nytimes.com/2023/12/07/technology/tech-startups-collapse.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bankruptcies",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Shutdowns (Institutional)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Venture Capital",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Entrepreneurship",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bird Rides Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Carta Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "WeWork Companies Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T14:48:22.000Z"
+  },
+  {
+    "creator": "Cecilia Kang and Adam Satariano",
+    "title": "Five Ways A.I. Could Be Regulated",
+    "link": "https://www.nytimes.com/2023/12/06/technology/artificial-intelligence-regulation.html",
+    "pubDate": "Thu, 07 Dec 2023 06:49:10 +0000",
+    "dc:creator": "Cecilia Kang and Adam Satariano",
+    "content": "There is little agreement among regulators and lawmakers around the world on how artificial intelligence should — or even could — be controlled.",
+    "contentSnippet": "There is little agreement among regulators and lawmakers around the world on how artificial intelligence should — or even could — be controlled.",
+    "guid": "https://www.nytimes.com/2023/12/06/technology/artificial-intelligence-regulation.html",
+    "categories": [
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "National Institute of Standards and Technology",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Schumer, Charles E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T06:49:10.000Z"
+  },
+  {
+    "creator": "Steven Lee Myers",
+    "title": "Russia’s Latest Disinformation Tactic Exploits American Celebrities",
+    "link": "https://www.nytimes.com/2023/12/07/technology/russia-disinformation-mike-tyson-priscilla-presley.html",
+    "pubDate": "Thu, 07 Dec 2023 05:02:00 +0000",
+    "dc:creator": "Steven Lee Myers",
+    "content": "Videos from Elijah Wood, Mike Tyson and others have been used — unknowingly to them, it seems — in social media posts and Russian news coverage critical of Ukraine’s leader.",
+    "contentSnippet": "Videos from Elijah Wood, Mike Tyson and others have been used — unknowingly to them, it seems — in social media posts and Russian news coverage critical of Ukraine’s leader.",
+    "guid": "https://www.nytimes.com/2023/12/07/technology/russia-disinformation-mike-tyson-priscilla-presley.html",
+    "categories": [
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Propaganda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Celebrities",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cameo (Mobile App)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T05:02:00.000Z"
+  },
+  {
+    "creator": "Cade Metz and Nico Grant",
+    "title": "Google Updates Bard Chatbot With ‘Gemini’ A.I. as It Chases ChatGPT",
+    "link": "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html",
+    "pubDate": "Wed, 06 Dec 2023 19:19:53 +0000",
+    "dc:creator": "Cade Metz and Nico Grant",
+    "content": "After more than eight months of research and development, Google has unveiled its most powerful A.I. so far. But only parts of it are widely available.",
+    "contentSnippet": "After more than eight months of research and development, Google has unveiled its most powerful A.I. so far. But only parts of it are widely available.",
+    "guid": "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html",
+    "categories": [
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Software",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "DeepMind Technologies Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Pichai, Sundar",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hassabis, Demis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cloud Computing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T19:19:53.000Z"
+  },
+  {
+    "creator": "Eduardo Medina",
+    "title": "Spotify Cancels Two Acclaimed Podcasts: ‘Heavyweight’ and ‘Stolen’",
+    "link": "https://www.nytimes.com/2023/12/05/business/media/spotify-cancels-podcasts-heavyweight-stolen.html",
+    "pubDate": "Wed, 06 Dec 2023 15:46:16 +0000",
+    "dc:creator": "Eduardo Medina",
+    "content": "The shows will finish out their seasons on Spotify and then have the option to shop their shows somewhere else.",
+    "contentSnippet": "The shows will finish out their seasons on Spotify and then have the option to shop their shows somewhere else.",
+    "guid": "https://www.nytimes.com/2023/12/05/business/media/spotify-cancels-podcasts-heavyweight-stolen.html",
+    "categories": [
+      {
+        "_": "Podcasts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Audio Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Layoffs and Job Reductions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Advertising and Marketing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Spotify",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gimlet Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Stolen",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "Heavyweight (Radio Program)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "internal-open-access-from-nl",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T15:46:16.000Z"
+  },
+  {
+    "creator": "Adam Satariano and Cecilia Kang",
+    "title": "How Nations Are Losing a Global Race to Tackle A.I.’s Harms",
+    "link": "https://www.nytimes.com/2023/12/06/technology/ai-regulation-policies.html",
+    "pubDate": "Wed, 06 Dec 2023 05:00:08 +0000",
+    "dc:creator": "Adam Satariano and Cecilia Kang",
+    "content": "Alarmed by the power of artificial intelligence, Europe, the United States and others are trying to respond — but the technology is evolving more rapidly than their policies.",
+    "contentSnippet": "Alarmed by the power of artificial intelligence, Europe, the United States and others are trying to respond — but the technology is evolving more rapidly than their policies.",
+    "guid": "https://www.nytimes.com/2023/12/06/technology/ai-regulation-policies.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Facial Recognition Software",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Meta Platforms Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Anthropic AI LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T05:00:08.000Z"
+  },
+  {
+    "creator": "Isabella Kwai",
+    "title": "AI-Generated Jimmy Stewart Reads a Bedtime Story for Calm App",
+    "link": "https://www.nytimes.com/2023/12/05/technology/calm-jimmy-stewart-ai.html",
+    "pubDate": "Tue, 05 Dec 2023 23:10:59 +0000",
+    "dc:creator": "Isabella Kwai",
+    "content": "The sleep and meditation app Calm released a new story featuring the late actor’s signature drawl — or a computer-generated version of it.",
+    "contentSnippet": "The sleep and meditation app Calm released a new story featuring the late actor’s signature drawl — or a computer-generated version of it.",
+    "guid": "https://www.nytimes.com/2023/12/05/technology/calm-jimmy-stewart-ai.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Meditation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cloning",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Stewart, Jimmy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Calm.com Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T23:10:59.000Z"
+  },
+  {
+    "creator": "Bernhard Warner",
+    "title": "Bitcoin Soars on Hopes of Investment Fund Approval",
+    "link": "https://www.nytimes.com/2023/12/05/business/bitcoin-price-etf.html",
+    "pubDate": "Tue, 05 Dec 2023 14:23:58 +0000",
+    "dc:creator": "Bernhard Warner",
+    "content": "The cryptocurrency has gained roughly 150 percent this year, as investors bet that regulators will soon approve the first spot exchange-traded fund that is designed to track the price of Bitcoin.",
+    "contentSnippet": "The cryptocurrency has gained roughly 150 percent this year, as investors bet that regulators will soon approve the first spot exchange-traded fund that is designed to track the price of Bitcoin.",
+    "guid": "https://www.nytimes.com/2023/12/05/business/bitcoin-price-etf.html",
+    "categories": [
+      {
+        "_": "Virtual Currency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bitcoin (Currency)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Exchange Traded Funds",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Securities and Exchange Commission",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T14:23:58.000Z"
+  },
+  {
+    "creator": "Virginia Hughes",
+    "title": "Bordeaux Wine Snobs Have a Point, According to This Computer Model",
+    "link": "https://www.nytimes.com/2023/12/05/science/bordeaux-red-wine-estate-machine-learning.html",
+    "pubDate": "Tue, 05 Dec 2023 14:12:14 +0000",
+    "dc:creator": "Virginia Hughes",
+    "content": "With machine learning, scientists are trying to chemically define the murky concept of terroir. The models might be useful for detecting wine fraud.",
+    "contentSnippet": "With machine learning, scientists are trying to chemically define the murky concept of terroir. The models might be useful for detecting wine fraud.",
+    "guid": "https://www.nytimes.com/2023/12/05/science/bordeaux-red-wine-estate-machine-learning.html",
+    "categories": [
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wines",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Chemistry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Forgery",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bordeaux (France)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T14:12:14.000Z"
+  },
+  {
+    "creator": "Carl Zimmer",
+    "title": "Brain Implants Helped 5 People Recover From Traumatic Injuries",
+    "link": "https://www.nytimes.com/2023/12/04/health/traumatic-brain-injury-implants.html",
+    "pubDate": "Mon, 04 Dec 2023 16:50:23 +0000",
+    "dc:creator": "Carl Zimmer",
+    "content": "People with chronic problems after falls and car crashes scored better on cognition tests after getting a brain implant, a new study found.",
+    "contentSnippet": "People with chronic problems after falls and car crashes scored better on cognition tests after getting a brain implant, a new study found.",
+    "guid": "https://www.nytimes.com/2023/12/04/health/traumatic-brain-injury-implants.html",
+    "categories": [
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Brain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Implants",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Traumatic Brain Injury",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T16:50:23.000Z"
+  },
+  {
+    "creator": "Cade Metz, Karen Weise, Nico Grant and Mike Isaac",
+    "title": "How Elon Musk and Larry Page’s AI Debate Led to OpenAI and an Industry Boom",
+    "link": "https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html",
+    "pubDate": "Sun, 03 Dec 2023 10:00:56 +0000",
+    "dc:creator": "Cade Metz, Karen Weise, Nico Grant and Mike Isaac",
+    "content": "The people who were most afraid of the risks of artificial intelligence decided they should be the ones to build it. Then distrust fueled a spiraling competition.",
+    "contentSnippet": "The people who were most afraid of the risks of artificial intelligence decided they should be the ones to build it. Then distrust fueled a spiraling competition.",
+    "guid": "https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Page, Larry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "DeepMind Technologies Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Anthropic AI LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Baidu Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Amodei, Dario",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Brockman, Greg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Dean, Jeff (1968- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Eustace, Alan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gates, Bill",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hassabis, Demis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hinton, Geoffrey E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "LeCun, Yann",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Nadella, Satya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Suleyman, Mustafa",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zuckerberg, Mark E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Lake Tahoe (Nev)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Meta",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Venture Capital",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mergers, Acquisitions and Divestitures",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-03T10:00:56.000Z"
+  },
+  {
+    "creator": "Kellen Browning",
+    "title": "Inside Kick, an Upstart Streaming Competitor to Twitch",
+    "link": "https://www.nytimes.com/2023/12/02/technology/kick-streaming-twitch-gambling.html",
+    "pubDate": "Sat, 02 Dec 2023 10:00:38 +0000",
+    "dc:creator": "Kellen Browning",
+    "content": "The Twitch competitor has doled out generous deals to content creators. It has also faced criticism for its lax moderation and embrace of online gambling.",
+    "contentSnippet": "The Twitch competitor has doled out generous deals to content creators. It has also faced criticism for its lax moderation and embrace of online gambling.",
+    "guid": "https://www.nytimes.com/2023/12/02/technology/kick-streaming-twitch-gambling.html",
+    "categories": [
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gambling",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Advertising and Marketing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computer and Video Games",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kick.com",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Stake.com (Medium Rare NV)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Craven, Ed (1995- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Twitch Interactive Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Amazon.com Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Australia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-02T10:00:38.000Z"
+  },
+  {
+    "creator": "Nicole Sperling",
+    "title": "Netflix Builds a ‘Squid Game’ Universe as It Awaits a Second Season",
+    "link": "https://www.nytimes.com/2023/12/02/business/media/netflix-squid-game-challenge.html",
+    "pubDate": "Sat, 02 Dec 2023 08:01:02 +0000",
+    "dc:creator": "Nicole Sperling",
+    "content": "A reality show and a live experience are two ways of keeping the dystopian series in the public eye. Is the original’s bleak message being diluted?",
+    "contentSnippet": "A reality show and a live experience are two ways of keeping the dystopian series in the public eye. Is the original’s bleak message being diluted?",
+    "guid": "https://www.nytimes.com/2023/12/02/business/media/netflix-squid-game-challenge.html",
+    "categories": [
+      {
+        "_": "Television",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Netflix Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Squid Game (TV Program)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "Squid Game: The Challenge (TV Program)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "Hwang Dong-hyuk",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Intellectual Property",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-02T08:01:02.000Z"
+  },
+  {
+    "creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Marion Lozano and Rowan Niemisto",
+    "title": "What’s Next for OpenAI, Binance Is Binanceled and A.I. Is Eating the Internet",
+    "link": "https://www.nytimes.com/2023/12/01/podcasts/hard-fork-openai-future-binance.html",
+    "pubDate": "Fri, 01 Dec 2023 10:03:32 +0000",
+    "dc:creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Marion Lozano and Rowan Niemisto",
+    "content": "It’s full steam ahead for the tech world despite, well, everything.",
+    "contentSnippet": "It’s full steam ahead for the tech world despite, well, everything.",
+    "guid": "https://www.nytimes.com/2023/12/01/podcasts/hard-fork-openai-future-binance.html",
+    "categories": [
+      {
+        "_": "Science and Technology",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Binance",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Zhao, Changpeng",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-01T10:03:32.000Z"
   }
 ]

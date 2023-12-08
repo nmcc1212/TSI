@@ -6145,5 +6145,6012 @@
       }
     ],
     "isoDate": "2023-11-27T13:00:00.000Z"
+  },
+  {
+    "creator": "Dominic Penna",
+    "title": "Politics latest news: We're right to spend £290m on Rwanda plan, insists migration minister",
+    "link": "https://www.telegraph.co.uk/politics/2023/12/08/politics-latest-news-rishi-sunak-tories-rwanda-immigration/",
+    "pubDate": "Fri, 08 Dec 2023 09:30:36 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/12/08/TELEMMGLPICT000359247739_17019981583370_trans_NvBQzQNjv4Bqek9vKm18v_rkIPH9w2GMNpPHkRvugymKLtqq96r_VP8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Dominic Penna",
+    "content": "<![CDATA[<p>The £290 million that the Government plans to spend on the Rwanda scheme is “the right investment”, one of Rishi Sunak’s new immigration ministers has insisted.</p>]]>",
+    "contentSnippet": "",
+    "guid": "802887ce-e5be-344c-b411-1102bb35da65",
+    "categories": [
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/downing-street",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/labour-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/keir-starmer",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T09:30:36.000Z"
+  },
+  {
+    "creator": "Maighna Nanu",
+    "title": "Israel battling 700 Hamas fighters in Shujaiya - follow latest",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/08/israel-hamas-war-latest-news-updates-gaza-day-63-live/",
+    "pubDate": "Fri, 08 Dec 2023 09:22:06 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/08/TELEMMGLPICT000359239159_17020245368570_trans_NvBQzQNjv4Bqp3bfLdJNMSwegfRYwhJWmOT1JygM6oG9OUAd4hX6XqQ.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Maighna Nanu",
+    "content": "<![CDATA[<p>Israel is facing growing&nbsp;resistance from Hamas fighters in Shujaiya.&nbsp;</p>]]>",
+    "contentSnippet": "",
+    "guid": "efca0184-92f9-3d6d-9659-fe607cfd9786",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/middle-east",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/benjamin-netanyahu",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/palestine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T09:22:06.000Z"
+  },
+  {
+    "creator": "Michael Murphy",
+    "title": "Blocking Ukraine aid a 'Christmas present' for Putin, Lord Cameron tells US - follow live",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/08/ukraine-russia-war-latest-news-putin-us-aid-live/",
+    "pubDate": "Fri, 08 Dec 2023 09:16:23 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/08/TELEMMGLPICT000359268855_17019988094390_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwekapBZ1c_8650LP5YH00zA.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Michael Murphy",
+    "content": "<![CDATA[<p>David Cameron, the Foreign Secretary, on Thursday urged US lawmakers to approve fresh aid for Ukraine to help fund Kyiv’s battle against Russian forces.</p>]]>",
+    "contentSnippet": "",
+    "guid": "d4498c82-8ebd-3743-a9dd-2562034a94a7",
+    "categories": [
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/ukraine-crisis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/russia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/volodymyr-zelenskyy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T09:16:23.000Z"
+  },
+  {
+    "creator": "Luke Edwards",
+    "title": "Everton punish Kieran Trippier howlers to climb out of drop zone",
+    "link": "https://www.telegraph.co.uk/football/2023/12/07/everton-vs-newcastle-live-score-premier-league/",
+    "pubDate": "Fri, 08 Dec 2023 08:30:15 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/07/TELEMMGLPICT000359262662_17019852951170_trans_NvBQzQNjv4Bql3LHfhUdDxmC6Xx98mlgJiOwwQH1iiegFd5INOxSjBk.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Luke Edwards",
+    "content": "<![CDATA[<p>If you did not already believe Everton were good enough to get out of relegation trouble, this performance and result surely proves it.</p>]]>",
+    "contentSnippet": "",
+    "guid": "946df15d-0e40-351b-9321-20914244e20d",
+    "categories": [
+      {
+        "_": "topics:organisations/everton-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/newcastle-united-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T08:30:15.000Z"
+  },
+  {
+    "creator": "Robbie Collin",
+    "title": "Leave the World Behind: Julia Roberts has her best role in years in this enthralling thriller",
+    "link": "https://www.telegraph.co.uk/films/0/leave-the-world-behind-review-julia-roberts-ethan-hawke/",
+    "pubDate": "Fri, 08 Dec 2023 08:03:02 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/films/2023/11/23/TELEMMGLPICT000357406825_17007482808890_trans_NvBQzQNjv4Bqdw-cK3ajvcoXavMZovuTFMkGnw7cUULUwT3K78zuxaA.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Robbie Collin",
+    "content": "<![CDATA[Roberts stars opposite Ethan Hawke in an all-bets-are-off puzzler that looks good, moves well and is driven by recognisable human behaviour]]>",
+    "contentSnippet": "",
+    "guid": "55727ef8-4532-3b55-97d1-1e3d1c19cb0e",
+    "categories": [
+      {
+        "_": "topics:people/julia-roberts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/netflix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/thriller-movies",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:film",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:robbie-collin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:culture",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:review",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T08:03:02.000Z"
+  },
+  {
+    "creator": "Dominic Nicholls",
+    "title": "Will Russia-backed Venezuela start a war in South America? | Defence in Depth",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/08/venezuela-guyana-russia-south-america-usa-geopolitics-war/",
+    "pubDate": "Fri, 08 Dec 2023 08:00:00 GMT",
+    "dc:creator": "Dominic Nicholls",
+    "content": "<![CDATA[Like any bad actor, Vladimir Putin will take full advantage of a crisis to draw the world&rsquo;s attention away from Ukraine]]>",
+    "contentSnippet": "",
+    "guid": "cd4af133-1a22-3ea0-b7c7-55152aea3f29",
+    "categories": [
+      {
+        "_": "topics:things/defence-in-depth",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/guyana",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/venezuela",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/usa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/russia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/south-america",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T08:00:00.000Z"
+  },
+  {
+    "creator": "Chris Price",
+    "title": "Oil price heading for longest downturn since 2018 in fuel boost - latest updates",
+    "link": "https://www.telegraph.co.uk/business/2023/12/08/ftse-100-markets-news-latest-oil-prices-us-employment-live/",
+    "pubDate": "Fri, 08 Dec 2023 06:59:19 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/business/2023/12/08/TELEMMGLPICT000287210182_17020197937930_trans_NvBQzQNjv4BqwMJYxftKZExwjop9hyNEmQEwTyzLMKRxDe4NUIzb66I.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Chris Price",
+    "content": "<![CDATA[<p>The price of oil is on track for its worst downturn in five years in a potential boost for drivers.</p>]]>",
+    "contentSnippet": "",
+    "guid": "4370fd45-5407-3d4d-9264-d23d3eb17852",
+    "categories": [
+      {
+        "_": "topics:things/uk-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/ftse-100",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pound",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/dow-jones-industrial-average",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/cost-of-living",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/global-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:business",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T06:59:19.000Z"
+  },
+  {
+    "creator": "Matt Law",
+    "title": "Son Heung-min slams ‘soft’ Spurs for defeat to West Ham",
+    "link": "https://www.telegraph.co.uk/football/2023/12/07/heung-min-son-blames-soft-spurs-for-defeat-to-west-ham/",
+    "pubDate": "Fri, 08 Dec 2023 06:30:49 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/07/TELEMMGLPICT000359265413_17019910527360_trans_NvBQzQNjv4Bq-GPP7dpMg0Or0h28QgpC4lEjQHUO__-8zbNeNKW41UE.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Matt Law",
+    "content": "<![CDATA[Following his side&rsquo;s defeat to West Ham, head coach Ange Postecoglou said Spurs have to do more than &lsquo;put on a show&rsquo;]]>",
+    "contentSnippet": "",
+    "guid": "415e9094-07d4-3b7b-89ef-f4de84fefde1",
+    "categories": [
+      {
+        "_": "topics:organisations/tottenham-hotspur-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/west-ham-united-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/ange-postecoglou",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/son-heung-min",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T06:30:49.000Z"
+  },
+  {
+    "creator": "Oliver Brown",
+    "title": "Suella Braverman among 70 MPs demanding FA ban on transgender players",
+    "link": "https://www.telegraph.co.uk/football/2023/12/08/mps-demand-fa-ban-transgender-footballers/",
+    "pubDate": "Fri, 08 Dec 2023 00:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/07/TELEMMGLPICT000351798604_17019836632560_trans_NvBQzQNjv4BqrfzZskasdHxLRTTh7do0m47e1lkwS0JKUaHflh0HnsI.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Oliver Brown",
+    "content": "<![CDATA[The FA is accused of &lsquo;turning a blind eye&rsquo; to the issue, despite dictating a range of other conditions for amateur clubs]]>",
+    "contentSnippet": "",
+    "guid": "fb0ffff0-e725-3505-961d-f4278057277a",
+    "categories": [
+      {
+        "_": "topics:people/suella-braverman",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/Transgender",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:womens-football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:womens-sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T00:00:00.000Z"
+  },
+  {
+    "creator": "Nataliya Vasilyeva",
+    "title": "Israel ‘must behave differently’ in southern Gaza, says Cameron",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/07/israel-hamas-palestine-news-latest-idf-raid-hq-yahya-sinwar/",
+    "pubDate": "Thu, 07 Dec 2023 23:50:04 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/07/TELEMMGLPICT000359113255_17019383930250_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Nataliya Vasilyeva",
+    "content": "<![CDATA[<p>Israel must “behave differently” in the south of Gaza to how it did in <a class=\"ck-custom-link\" href=\"https://www.telegraph.co.uk/world-news/2023/12/07/palestinian-men-stripped-to-underwear-gaza-idf/\">its full-frontal campaign in the north</a>, Lord Cameron warned on Thursday.</p>]]>",
+    "contentSnippet": "its full-frontal campaign in the north, Lord Cameron warned on Thursday.\n]]>",
+    "guid": "a07adf25-706d-3349-b5bc-7e3510adb577",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/middle-east",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/benjamin-netanyahu",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/palestine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T23:50:04.000Z"
+  },
+  {
+    "creator": "Sam Wallace",
+    "title": "Horrific Destiny Udogie back-pass gifts West Ham their winner at Spurs",
+    "link": "https://www.telegraph.co.uk/football/2023/12/07/tottenham-vs-west-ham-live-score-premier-league/",
+    "pubDate": "Thu, 07 Dec 2023 23:42:39 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/07/TELEMMGLPICT000359264500_17019872091120_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf4yt3BU7yimAYJ8YD28sfCE.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sam Wallace",
+    "content": "<![CDATA[<p>The Ange Postecoglou revolution was always destined to be a wild ride, although the fifth consecutive lead thrown away in the Premier League has come to suggest a pattern of surrender that is threatening to define these fragile early months.</p>]]>",
+    "contentSnippet": "",
+    "guid": "a0e3480e-1864-385a-90f6-c47082d576cd",
+    "categories": [
+      {
+        "_": "topics:organisations/tottenham-hotspur-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/west-ham-united-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T23:42:39.000Z"
+  },
+  {
+    "creator": "Chris Price",
+    "title": "Tesla loses legal challenge against Swedish strikes",
+    "link": "https://www.telegraph.co.uk/business/2023/12/07/ftse-100-markets-latest-news-uk-house-price-index-halifax/",
+    "pubDate": "Thu, 07 Dec 2023 18:42:14 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/business/2023/12/07/TELEMMGLPICT000359148899_17019609195930_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Chris Price",
+    "content": "<![CDATA[<p>Tesla has lost a legal battle with Sweden’s postal service as its fight with Scandinavian trade unions escalates.</p>]]>",
+    "contentSnippet": "",
+    "guid": "8e7924ff-01be-382c-b49e-38859a59c98d",
+    "categories": [
+      {
+        "_": "topics:things/uk-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/ftse-100",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pound",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/dow-jones-industrial-average",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/cost-of-living",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/global-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:business",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T18:42:14.000Z"
+  },
+  {
+    "creator": "Fleur Britten",
+    "title": "What to do with a less-than-perfect Christmas tree",
+    "link": "https://www.telegraph.co.uk/interiors/home/how-to-improve-bare-christmas-tree-trafalgar-square/",
+    "pubDate": "Thu, 07 Dec 2023 18:07:53 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/interiors/2023/12/07/TELEMMGLPICT000359241285_17019718770830_trans_NvBQzQNjv4BqgCXocDQF5kP7s3jSjli3eCH0-jRUT4rHK8EgtaGoQwQ.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Fleur Britten",
+    "content": "<![CDATA[The Trafalgar Square fir was given a branch 'transplant' to improve its appearance &ndash; but there are other ways to perk up an evergreen]]>",
+    "contentSnippet": "",
+    "guid": "39bd3cd2-ed2c-3e3d-9c12-d33b0005795c",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-trees",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-decorations",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/trafalgar-square",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:interiors",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:lifestyle",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T18:07:53.000Z"
+  },
+  {
+    "creator": "Joshua Hughes",
+    "title": "Thursday evening news briefing: Switching PM now would be 'insanity', Tory chairman says",
+    "link": "https://www.telegraph.co.uk/news/2023/12/07/thursday-evening-news-briefing-switching-pm-now-insanity/",
+    "pubDate": "Thu, 07 Dec 2023 17:37:24 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2022/09/23/TELEMMGLPICT000310354963_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Joshua Hughes",
+    "content": "<![CDATA[Also from the Front Page newsletter: BBC licence fee to increase by &pound;10. Sign up below.]]>",
+    "contentSnippet": "",
+    "guid": "8e35ed73-655d-31b2-ac6d-03b8b0bb20ef",
+    "categories": [
+      {
+        "_": "topics:places/rwanda",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/bbc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T17:37:24.000Z"
+  },
+  {
+    "creator": "Jamie Bullen",
+    "title": "Covid Inquiry: Emotional Boris Johnson insists 'I do care' in defence of premiership",
+    "link": "https://www.telegraph.co.uk/news/2023/12/07/covid-inquiry-latest-news-boris-johnson-evidence-live-day-2/",
+    "pubDate": "Thu, 07 Dec 2023 16:55:16 GMT",
+    "dc:creator": "Jamie Bullen",
+    "content": "<![CDATA[<p>Boris Johnson has launched an emotional defence of his leadership during the Covid pandemic, saying it was “simply not right” to say he didn’t care about people’s suffering.</p>]]>",
+    "contentSnippet": "",
+    "guid": "184d1cb6-72f0-393b-93f9-8fe9f44c702a",
+    "categories": [
+      {
+        "_": "topics:people/boris-johnson",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/covid-inquiry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T16:55:16.000Z"
+  },
+  {
+    "creator": "Rozina Sabur",
+    "title": "Fourth Republican primary debate: Haley tells rivals 'you're just jealous' as she rises in polls",
+    "link": "https://www.telegraph.co.uk/us/politics/2023/12/07/fourth-gop-debate-2023-live-alabama-trump-desantis-haley/",
+    "pubDate": "Thu, 07 Dec 2023 16:51:41 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/en-us/politics/2023/12/07/TELEMMGLPICT000359167036_17019373090310_trans_NvBQzQNjv4BqDPfUJJJzp2bObtoYsJdDTv4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Rozina Sabur",
+    "content": "<![CDATA[<p>Nikki Haley said her rivals were jealous of Democrat donations to her campaign as polls show she had risen to become Donald Trump’s closest rival.</p>]]>",
+    "contentSnippet": "",
+    "guid": "296d67fd-fc86-3934-bbaa-31911a1fb008",
+    "categories": [
+      {
+        "_": "topics:organisations/republicans",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/ron-desantis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/nikki-haley",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vivek-ramaswamy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/donald-trump",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/alabama",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T16:51:41.000Z"
+  },
+  {
+    "creator": "Samuel Lovett",
+    "title": "World Bank urged to review funding of hospital chain linked to ‘cash for kidneys’ racket",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/world-bank-review-funding-of-hospital-chain-kidney-donors/",
+    "pubDate": "Thu, 07 Dec 2023 16:43:55 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/12/07/TELEMMGLPICT000358042846_17019543728170_trans_NvBQzQNjv4BqAblP_nApRBgTXVGqwDG3FsMRoe_y3J6QXlaIdPP2zuo.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Samuel Lovett",
+    "content": "<![CDATA[India&rsquo;s scandal-hit Apollo Hospital group has received &pound;120 million in investments from the World Bank since 2005]]>",
+    "contentSnippet": "",
+    "guid": "f2d37513-81df-34f5-8c2a-72a40d264f83",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/human-trafficking",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/myanmar",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/india",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/asia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/organ-donation",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T16:43:55.000Z"
+  },
+  {
+    "creator": "Dominic Nicholls",
+    "title": "Ukraine: The Latest - Russia attacks port & live from the UAE as Putin visits Middle-Eastern ally",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/07/russia-attacks-port-live-from-the-uae-as-putin-visits/",
+    "pubDate": "Thu, 07 Dec 2023 16:25:24 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/07/TELEMMGLPICT000359229449_17019660571260_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Dominic Nicholls",
+    "content": "<![CDATA[Every weekday The Telegraph's top journalists analyse the Russian invasion of Ukraine from all angles and tell you what you need to know]]>",
+    "contentSnippet": "",
+    "guid": "648b5a14-88ac-3b19-8d60-dac58b1d4570",
+    "categories": [
+      {
+        "_": "topics:things/ukraine-the-latest-podcast",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T16:25:24.000Z"
+  },
+  {
+    "creator": "Dominic Penna",
+    "title": "Rishi Sunak can no longer claim to represent stability, says George Osborne",
+    "link": "https://www.telegraph.co.uk/politics/2023/12/07/rishi-sunak-latest-news-tories-rwanda-jenrick-resignation/",
+    "pubDate": "Thu, 07 Dec 2023 16:02:16 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/12/07/TELEMMGLPICT000359213957_17019629519450_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Dominic Penna",
+    "content": "<![CDATA[<p>Rishi Sunak can no longer claim he has “stabilised things”, George Osborne has warned amid growing disquiet over his Rwanda plan.</p>]]>",
+    "contentSnippet": "",
+    "guid": "6f38f96a-c4c7-3d4c-b5e7-218709915abd",
+    "categories": [
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/downing-street",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/labour-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/immigration",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/migration",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T16:02:16.000Z"
+  },
+  {
+    "creator": "Rosa Silverman",
+    "title": "If in doubt, blame Royal Mail: the ultimate guide to Christmas card etiquette",
+    "link": "https://www.telegraph.co.uk/christmas/2023/12/07/christmas-card-etiquette-royal-mail-send-date/",
+    "pubDate": "Thu, 07 Dec 2023 16:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2023/12/07/TELEMMGLPICT000359218430_17019538815530_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Rosa Silverman",
+    "content": "<![CDATA[When to send them, who deserves them and are round robins ever acceptable? Your essential guide to navigating the etiquette]]>",
+    "contentSnippet": "",
+    "guid": "f2a70901-e397-3dd0-bf91-486bfc274e58",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-cards",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:lifestyle",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:daily-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:other-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T16:00:00.000Z"
+  },
+  {
+    "creator": "Michael Murphy",
+    "title": "Russian attack causes toxic gas leak at Ukraine factory",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/07/ukraine-russia-war-news-live-sbu-assasinate-illya-kyva-puti/",
+    "pubDate": "Thu, 07 Dec 2023 15:21:12 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/07/TELEMMGLPICT000343970463_17019528821320_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Michael Murphy",
+    "content": "<![CDATA[<p>A Russian attack in Ukraine’s southern city of Kherson has caused an ammonia leak at a factory, according&nbsp;to local authorities.</p>]]>",
+    "contentSnippet": "",
+    "guid": "ef7ecd13-1222-3319-b20d-99ef43c41cba",
+    "categories": [
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/ukraine-crisis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/russia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/volodymyr-zelenskyy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T15:21:12.000Z"
+  },
+  {
+    "creator": "Rozina Sabur",
+    "title": "All the Republican and Democrat candidates in the 2024 US election",
+    "link": "https://www.telegraph.co.uk/world-news/0/us-republican-democrat-candidates-running-2024-election/",
+    "pubDate": "Thu, 07 Dec 2023 15:16:39 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/02/02/TELEMMGLPICT000324052437_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Rozina Sabur",
+    "content": "<![CDATA[A breakdown of all the Republicans who have already entered the race for the White House]]>",
+    "contentSnippet": "",
+    "guid": "2e31d700-bc5d-3ce1-ae8c-afd28bb2375e",
+    "categories": [
+      {
+        "_": "topics:places/usa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/republicans",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/us-politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/donald-trump",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/nikki-haley",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/ron-desantis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T15:16:39.000Z"
+  },
+  {
+    "creator": "Rebecca Astill",
+    "title": "The best beauty gifts for Christmas, recommended by a beauty editor",
+    "link": "https://www.telegraph.co.uk/beauty/make-up/best-christmas-beauty-gifts/",
+    "pubDate": "Thu, 07 Dec 2023 14:05:14 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/beauty/2023/12/06/TELEMMGLPICT000359088577_17018781532390_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Rebecca Astill",
+    "content": "<![CDATA[From make-up to skincare, beauty tools to hair products, these are the best beauty gifts for Christmas in 2023]]>",
+    "contentSnippet": "",
+    "guid": "fefbc6fd-1312-3573-b1fc-526b78f241c9",
+    "categories": [
+      {
+        "_": "topics:things/beauty-guide",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-gift-guides",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/make-up",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/skincare",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/hair",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:beauty/make-up",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:beauty",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:lifestyle",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T14:05:14.000Z"
+  },
+  {
+    "creator": "Uche Amako",
+    "title": "Australian Open 2024: When is it, how to watch in UK and will Emma Raducanu play?",
+    "link": "https://www.telegraph.co.uk/tennis/2023/12/07/australian-open-2024-how-to-watch-tv-dates-emma-raducanu/",
+    "pubDate": "Thu, 07 Dec 2023 13:50:14 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/tennis/2023/10/12/TELEMMGLPICT000352780667_16971158042650_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Uche Amako",
+    "content": "<![CDATA[Everything you need to know ahead of the first grand slam of 2024]]>",
+    "contentSnippet": "",
+    "guid": "dd51d5bb-7565-35e6-b283-424e1cbd459a",
+    "categories": [
+      {
+        "_": "topics:people/novak-djokovic",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/carlos-alcaraz",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/us-open-tennis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/andy-murray",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:tennis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T13:50:14.000Z"
+  },
+  {
+    "creator": "Ben Rumsby",
+    "title": "Euro 2024: When and where is it taking place and who are in England’s group?",
+    "link": "https://www.telegraph.co.uk/football/0/euro-2024-germany-when-where-england-scotland-groups/",
+    "pubDate": "Thu, 07 Dec 2023 11:18:40 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/03/TELEMMGLPICT000358765867_17016260630620_trans_NvBQzQNjv4BqFOgdDOZBSSpUpWf9Rnp5s5gojZYlP8f0i9h2tPqCNsM.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Ben Rumsby",
+    "content": "<![CDATA[England are in Group C for next year's Euro 2024 with Slovenia, Serbia and Denmark whilst Scotland have hosts Germany in Group A]]>",
+    "contentSnippet": "",
+    "guid": "c9a877b1-3e09-3441-8b9a-078ce192ee42",
+    "categories": [
+      {
+        "_": "topics:events/euro-2024",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/england-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/scotland-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/wales-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T11:18:40.000Z"
+  },
+  {
+    "creator": "Sarah Newey",
+    "title": "Inside the world’s largest rabies control drive – set up by British retirees",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/inside-worlds-largest-rabies-control-drive-british-retirees/",
+    "pubDate": "Thu, 07 Dec 2023 10:59:25 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/12/06/TELEMMGLPICT000359053497_17018788648290_trans_NvBQzQNjv4BqjJeHvIwLm2xPr27m7LF8mUYMapKPjdhyLnv9ax6_too.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sarah Newey",
+    "content": "<![CDATA[Two decades ago John and Gill Dalley swapped Yorkshire for Phuket, where plans for a gentle retirement quickly went up in smoke]]>",
+    "contentSnippet": "",
+    "guid": "3a812cff-17dc-3c24-9c9d-4555c2a0ce9e",
+    "categories": [
+      {
+        "_": "topics:places/thailand",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dogs",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/asia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/neglected-tropical-diseases",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T10:59:25.000Z"
+  },
+  {
+    "creator": "Tim Wigmore",
+    "title": "England vs West Indies, ODI and T20 tour: Full schedule and fixtures",
+    "link": "https://www.telegraph.co.uk/cricket/0/england-vs-west-indies-odi-t20-tour-full-fixtures-schedule/",
+    "pubDate": "Thu, 07 Dec 2023 10:24:51 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/cricket/2023/12/07/TELEMMGLPICT000359157402_17019438740660_trans_NvBQzQNjv4BqwOBTQkzhgerMbLhahgNyhF5NUcTKNHKqy85KLqtvPLE.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Tim Wigmore",
+    "content": "<![CDATA[Jos Buttler and co&rsquo;s white-ball tour of the West Indies received a lift when they levelled the one-day international series in Antigua]]>",
+    "contentSnippet": "",
+    "guid": "cb20d7b2-e90a-337f-bd46-7024205a832e",
+    "categories": [
+      {
+        "_": "topics:organisations/england-cricket-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/west-indies-cricket-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cricket",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport-evergreen",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T10:24:51.000Z"
+  },
+  {
+    "creator": "Robbie Collin",
+    "title": "Theater Camp, review: this joyous mockumentary is the funniest film in years",
+    "link": "https://www.telegraph.co.uk/films/0/theater-camp-review-funniest-comedy-in-years/",
+    "pubDate": "Thu, 07 Dec 2023 10:16:41 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/films/2023/08/23/TELEMMGLPICT000346484836_16927927351860_trans_NvBQzQNjv4Bq7U6quo0FusjSszcGmlCCOHGTJFJS74MYhNY6w3GNbO8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Robbie Collin",
+    "content": "<![CDATA[This sparkling comedy about a children&rsquo;s drama club lampoons its subjects with such boundless affection, it leaves you loving them even more]]>",
+    "contentSnippet": "",
+    "guid": "6c356b5b-805b-3338-bd70-0cd8af83b60d",
+    "categories": [
+      {
+        "_": "topics:things/comedy-movies",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/musicals",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/disney-plus",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:film",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:culture",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:film/film-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:robbie-collin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:review",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T10:16:41.000Z"
+  },
+  {
+    "creator": "Samuel Lovett",
+    "title": "Shimano bike parts ‘made by modern slaves’ sold to commuters",
+    "link": "https://www.telegraph.co.uk/global-health/climate-and-people/shimano-cycling-parts-made-by-modern-slaves-in-malaysia/",
+    "pubDate": "Thu, 07 Dec 2023 07:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/12/06/TELEMMGLPICT000359113268_17018837120900_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Samuel Lovett",
+    "content": "<![CDATA[World&rsquo;s largest bike-parts manufacturer investigates Malaysian supplier after Telegraph uncovers labour abuse allegations]]>",
+    "contentSnippet": "",
+    "guid": "bd76e62d-397d-33d0-8cb0-141171f75666",
+    "categories": [
+      {
+        "_": "topics:things/road-cycling",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/malaysia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/nepal",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:climate-and-people",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T07:00:00.000Z"
+  },
+  {
+    "creator": "Tim Wigmore",
+    "title": "Jos Buttler’s half-century gives England’s new era lift off in win over West Indies",
+    "link": "https://www.telegraph.co.uk/cricket/2023/12/06/west-indies-vs-england-live-second-odi-score-latest-updates/",
+    "pubDate": "Thu, 07 Dec 2023 00:11:33 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/cricket/2023/12/06/TELEMMGLPICT000359156157_17019044643610_trans_NvBQzQNjv4Bq9PIG5Nf-pok86REDZVBOY1ZB6ZlIZLJbOUKG6YRq9eg.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Tim Wigmore",
+    "content": "<![CDATA[<p>Jos Buttler launched Oshane Thomas down the ground, and then thrashed the next ball through midwicket for four to level the scores. Finally, here was a little of England’s misplaced swagger.</p>]]>",
+    "contentSnippet": "",
+    "guid": "c0db7a0f-6ea0-3d04-9086-f007493c803b",
+    "categories": [
+      {
+        "_": "topics:organisations/england-cricket-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/west-indies-cricket-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cricket",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-07T00:11:33.000Z"
+  },
+  {
+    "creator": "James Ducker",
+    "title": "Erik ten Hag’s bravest call yet rewarded with crucial victory over Chelsea",
+    "link": "https://www.telegraph.co.uk/football/2023/12/06/man-utd-vs-chelsea-live-score-updates-premier-league/",
+    "pubDate": "Wed, 06 Dec 2023 23:58:09 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/06/TELEMMGLPICT000359151507_17019008538980_trans_NvBQzQNjv4Bq3JyIgzC4lYYvg_3BgkFYPdDOYUIBKwcAsg37H0ToOxQ.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "James Ducker",
+    "content": "<![CDATA[<p>This was a night when one academy graduate was dropped but two others stood up to deliver a huge win for their manager. Erik ten Hag’s brave decision to omit Marcus Rashford was rewarded with a performance of bold attacking intent from Manchester United and two star turns from Scott McTominay and Alejandro Garnacho.</p>]]>",
+    "contentSnippet": "",
+    "guid": "9029008e-58b0-37b7-99d8-f0358f74f44c",
+    "categories": [
+      {
+        "_": "topics:organisations/manchester-united-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/chelsea-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/erik-ten-hag",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/mauricio-pochettino",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:58:09.000Z"
+  },
+  {
+    "creator": "Jim White",
+    "title": "Superb Aston Villa took the fight to Man City – and utterly dominated",
+    "link": "https://www.telegraph.co.uk/football/2023/12/06/aston-villa-vs-manchester-city-unai-emery-rodri-missing/",
+    "pubDate": "Wed, 06 Dec 2023 23:48:46 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/06/TELEMMGLPICT000359148789_17019011004480_trans_NvBQzQNjv4BqIfUuG_JpxhApNCDqGtg_Au2YvCax7SCx68LTENTVmSg.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jim White",
+    "content": "<![CDATA[Without Rodri, Manchester City were overrun in midfield &ndash; and have now failed to win four games in a row, for the first time since 2017]]>",
+    "contentSnippet": "",
+    "guid": "a221318d-31f8-343b-acf8-5b076872f8f1",
+    "categories": [
+      {
+        "_": "topics:organisations/aston-villa-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/manchester-city-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/villa-park",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:48:46.000Z"
+  },
+  {
+    "creator": "Nick Szczepanik",
+    "title": "Jack Hinshelwood announces himself as Brighton’s latest academy star in win over Brentford",
+    "link": "https://www.telegraph.co.uk/football/2023/12/06/brighton-hove-albion-vs-brentford-jack-hinshelwood/",
+    "pubDate": "Wed, 06 Dec 2023 23:29:09 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/06/TELEMMGLPICT000359139787_17019004239650_trans_NvBQzQNjv4BqVUptBHHx0SkMPNyDu1INX4CwmzOYgo-fpxHlGNXp1hY.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Nick Szczepanik",
+    "content": "<![CDATA[Teenager makes goal-saving clearance off his own line then races upfield to net winner as Albion earn first home victory since September]]>",
+    "contentSnippet": "",
+    "guid": "fc5e3eb2-c20f-36f8-b548-c52400eb3104",
+    "categories": [
+      {
+        "_": "topics:organisations/brighton-and-hove-albion-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/brentford-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:29:09.000Z"
+  },
+  {
+    "creator": "John Aizlewood",
+    "title": "Steve Cooper on thin ice as Nottingham Forest owner storms out of 5-0 defeat",
+    "link": "https://www.telegraph.co.uk/football/2023/12/06/fulham-vs-nottingham-forest-steve-cooper-fan-support/",
+    "pubDate": "Wed, 06 Dec 2023 23:22:41 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/06/TELEMMGLPICT000359145427_17018986988420_trans_NvBQzQNjv4BqFe6QPTx-FvOrqrz8zF3FqvNpc9t_6yQ2bw0E0DWIoME.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "John Aizlewood",
+    "content": "<![CDATA[Evangelos Marinakis, who is rumoured to have thrown away his accreditation, sacked one of his other managers hours before this defeat]]>",
+    "contentSnippet": "",
+    "guid": "9b00c5f3-f5fc-3c89-b631-d8b4c0f8ea85",
+    "categories": [
+      {
+        "_": "topics:organisations/fulham-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/nottingham-forest-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/craven-cottage",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:22:41.000Z"
+  },
+  {
+    "creator": "Mike McGrath",
+    "title": "Jurgen Klopp rows with ‘ignorant’ TV presenter after win at Sheffield United",
+    "link": "https://www.telegraph.co.uk/football/2023/12/06/sheff-utd-vs-liverpool-live-score-premier-league/",
+    "pubDate": "Wed, 06 Dec 2023 23:00:41 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/06/TELEMMGLPICT000359143395_17019033999490_trans_NvBQzQNjv4BqblfQEZyU_QRdrEcU-fy3zJAGOCjDAZw3LVPamifXETI.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Mike McGrath",
+    "content": "<![CDATA[<p>Jürgen Klopp was involved in an incredible television bust-up after this victory, accusing a presenter of being “ignorant” after a joke was made about Liverpool playing at Saturday lunchtime this weekend. His team had just ensured there was no fairy-tale return for Chris Wilder at Sheffield United.&nbsp;&nbsp;</p>]]>",
+    "contentSnippet": "",
+    "guid": "7a4d539a-828c-3574-9e61-268fd5b5786b",
+    "categories": [
+      {
+        "_": "topics:organisations/sheffield-united-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/liverpool-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/premier-league-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football/football-live-blog",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T23:00:41.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Adobo paste recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/adobo-paste-recipe/",
+    "pubDate": "Wed, 06 Dec 2023 22:32:19 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/12/06/TELEMMGLPICT000332404496_17019018573910_trans_NvBQzQNjv4BqOW9TGG0n5r3Z_LfXm_n-PdjA2OnYH7QCps9yitwRh9A.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "content": "<![CDATA[A delicious homemade chilli paste, perfect for spreading on pork chops]]>",
+    "contentSnippet": "",
+    "guid": "d14b8aba-9c62-3f11-babd-e36e73821a32",
+    "categories": [
+      {
+        "_": "topics:things/chillies",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/spicy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/sauce-chutney-condiment-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T22:32:19.000Z"
+  },
+  {
+    "creator": "Ivan Speck",
+    "title": "Object thrown at Roy Hodgson as Selhurst Park turns sour after Bournemouth defeat",
+    "link": "https://www.telegraph.co.uk/football/2023/12/06/crystal-palace-vs-bournemouth/",
+    "pubDate": "Wed, 06 Dec 2023 21:49:43 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/06/TELEMMGLPICT000359152739_17019057222330_trans_NvBQzQNjv4BqAX4MG9WbmrLWMybTj7bo3-hYHO75Ra6hFopIFSHGYrQ.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Ivan Speck",
+    "content": "<![CDATA[Many home fans left early in disgust and lots of those who remained booed Palace off after bright, inventive performance from visitors]]>",
+    "contentSnippet": "",
+    "guid": "297bcc8d-8b01-388d-b18a-7aa50de75187",
+    "categories": [
+      {
+        "_": "topics:organisations/crystal-palace-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/afc-bournemouth",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/selhurst-park",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T21:49:43.000Z"
+  },
+  {
+    "creator": "Siham Shamalakh",
+    "title": "Battle Lines: 'A nightmare I hope we can wake up from'",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/06/battle-lines-gaza-nightmare-wake-up/",
+    "pubDate": "Wed, 06 Dec 2023 19:13:50 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/06/TELEMMGLPICT000359115988_17018899203310_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Siham Shamalakh",
+    "content": "<![CDATA[Join the Telegraph's top journalists as they analyse the conflict in Israel and Gaza from all angles and tell you what you need to know]]>",
+    "contentSnippet": "",
+    "guid": "f282f8e1-d84c-3226-9e6c-9d5cc24d7a16",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/middle-east",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/battle-lines",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T19:13:50.000Z"
+  },
+  {
+    "creator": "Joshua Hughes",
+    "title": "Wednesday evening news briefing: Johnson fights back tears during Covid Inquiry",
+    "link": "https://www.telegraph.co.uk/news/2023/12/06/wednesday-evening-news-briefing-johnson-fights-back-tears/",
+    "pubDate": "Wed, 06 Dec 2023 17:41:41 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2022/09/23/TELEMMGLPICT000310354963_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Joshua Hughes",
+    "content": "<![CDATA[Also from the Front Page newsletter: Rwanda bill will be &lsquo;immune&rsquo; to court challenge. Sign up below.]]>",
+    "contentSnippet": "",
+    "guid": "dbd8bb46-8e1c-395c-a345-a31ed779a4ef",
+    "categories": [
+      {
+        "_": "topics:people/boris-johnson",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/covid-inquiry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/rwanda",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/bbc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T17:41:41.000Z"
+  },
+  {
+    "creator": "Dominic Nicholls",
+    "title": "Ukraine: The Latest - Vladimir Putin's war against Russia: interview with Evgenia Kara-Murza",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/06/vladimir-putins-war-against-russia-interview-with-evgenia-k/",
+    "pubDate": "Wed, 06 Dec 2023 17:18:31 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/06/TELEMMGLPICT000358534467_17018830453870_trans_NvBQzQNjv4BqH8g0IxmZhOOFzRvM6k8ERpnDQzwgRmiqFHqV_gtIbpc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Dominic Nicholls",
+    "content": "<![CDATA[Every weekday The Telegraph's top journalists analyse the Russian invasion of Ukraine from all angles and tell you what you need to know]]>",
+    "contentSnippet": "",
+    "guid": "ceb4261f-5c2d-379c-88ca-00e865efa678",
+    "categories": [
+      {
+        "_": "topics:things/ukraine-the-latest-podcast",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T17:18:31.000Z"
+  },
+  {
+    "creator": "Charles Richardson",
+    "title": "Stuart Lancaster: 'I convinced Henry Arundell that Racing 92 would improve him'",
+    "link": "https://www.telegraph.co.uk/rugby-union/2023/12/06/stuart-lancaster-henry-arundell-racing-92/",
+    "pubDate": "Wed, 06 Dec 2023 17:04:36 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/rugby-union/2023/12/06/TELEMMGLPICT000345943771_17018820518230_trans_NvBQzQNjv4BqwkeXLJnMKMBXoGlrFP6JQ9vKiN91tnf4XclTSJDx_OM.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Charles Richardson",
+    "content": "<![CDATA[The former Leinster head coach explains why he chose Racing, and how he convinced England's fleet-footed winger to follow him]]>",
+    "contentSnippet": "",
+    "guid": "50bde452-e418-313c-9339-52d67de49ab9",
+    "categories": [
+      {
+        "_": "topics:people/stuart-lancaster",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/racing-92",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/top-14",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/england-rugby-union-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:rugby-union",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T17:04:36.000Z"
+  },
+  {
+    "creator": "Benedict Smith",
+    "title": "Politics latest news: Suella Braverman says Tories face electoral oblivion if they fail on Rwanda plan",
+    "link": "https://www.telegraph.co.uk/politics/2023/12/06/rishi-sunak-latest-news-tories-labour-starmer-live/",
+    "pubDate": "Wed, 06 Dec 2023 16:50:26 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/12/06/TELEMMGLPICT000359106989_17018812023820_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Benedict Smith",
+    "content": "<![CDATA[<p>Suella Braverman said the Tories face “electoral oblivion” if they fail to implement their Rwanda plan.<br><br>The former home secretary, making a resignation statement in the Commons, said Rishi Sunak will lead his party to a disastrous defeat if he introduces emergency legislation on Rwanda which is “destined to fail”.<br><br>She revealed she had told the Prime Minister he should scrap the bill and replace it with more robust legislation excluding asylum claims from international and human rights laws.&nbsp;<br><br>Ms Braverman told MPs: “It is now or never. The Conservative Party faces electoral oblivion in a matter of months if we introduce yet another Bill destined to fail.&nbsp;<br><br>“Do we fight for sovereignty or let our party die? I refuse to sit by and allow the trust that millions of people have put in us be discarded like an inconvenient detail.”</p>]]>",
+    "contentSnippet": "The former home secretary, making a resignation statement in the Commons, said Rishi Sunak will lead his party to a disastrous defeat if he introduces emergency legislation on Rwanda which is “destined to fail”.\nShe revealed she had told the Prime Minister he should scrap the bill and replace it with more robust legislation excluding asylum claims from international and human rights laws. \nMs Braverman told MPs: “It is now or never. The Conservative Party faces electoral oblivion in a matter of months if we introduce yet another Bill destined to fail. \n“Do we fight for sovereignty or let our party die? I refuse to sit by and allow the trust that millions of people have put in us be discarded like an inconvenient detail.”\n]]>",
+    "guid": "01f81162-f77d-355b-98d5-327a787f5aa7",
+    "categories": [
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/downing-street",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/labour-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/keir-starmer",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T16:50:26.000Z"
+  },
+  {
+    "creator": "Verity Bowman",
+    "title": "Health hazard looms as billions of flies engulf one of Sudan’s biggest cities",
+    "link": "https://www.telegraph.co.uk/global-health/climate-and-people/fly-infestation-port-sudan-city-plague-africa-insects/",
+    "pubDate": "Wed, 06 Dec 2023 16:34:10 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/12/06/TELEMMGLPICT000358976134_17018792130950_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Verity Bowman",
+    "content": "<![CDATA[Port Sudan grinds to a halt as the infestation makes everyday activities like sitting, eating and working impossible]]>",
+    "contentSnippet": "",
+    "guid": "dc44ac75-0098-3438-acc5-74b8148ad986",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/flies",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pests",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/viruses",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/bacteria",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/sudan",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:climate-and-people",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T16:34:10.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Kamut, chickpea and aubergine salad with saffron yogurt recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/kamut-chickpea-aubergine-salad-saffron-yogurt-recipe/",
+    "pubDate": "Wed, 06 Dec 2023 16:29:05 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/12/06/TELEMMGLPICT000359102726_17018774417440_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "content": "<![CDATA[A vibrant and fragrant salad starring ancient grains with a buttery taste]]>",
+    "contentSnippet": "",
+    "guid": "075850af-edf1-31c7-8193-e8127979e1f8",
+    "categories": [
+      {
+        "_": "topics:things/salad-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/healthy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/aubergine-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/chickpea-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/side-dish-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/vegetarian-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T16:29:05.000Z"
+  },
+  {
+    "creator": "Verity Bowman",
+    "title": "Israel setting up seawater pumps to flood Hamas tunnels",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/06/israel-hamas-war-hostages-latest-news/",
+    "pubDate": "Wed, 06 Dec 2023 16:03:47 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/06/TELEMMGLPICT000359078019_17018618840250_trans_NvBQzQNjv4BqrWYeUU_H0zBKyvljOo6zlm8nGi5dnbzU1Uvp1fqu20E.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Verity Bowman",
+    "content": "<![CDATA[<p>Israeli&nbsp;troops have been pictured setting up pumps to flood Hamas tunnels&nbsp;with water.&nbsp;</p>]]>",
+    "contentSnippet": "",
+    "guid": "05adb46f-90f9-3494-921c-89d4c22d7f7c",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/middle-east",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/benjamin-netanyahu",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/palestine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T16:03:47.000Z"
+  },
+  {
+    "creator": "Chris Price",
+    "title": "Pound hits three-month high against the euro as German economy struggles - latest updates",
+    "link": "https://www.telegraph.co.uk/business/2023/12/06/ftse-100-markets-latest-news-boe-sustainability-report-live/",
+    "pubDate": "Wed, 06 Dec 2023 15:40:05 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/business/2023/12/06/TELEMMGLPICT000359083630_17018635651050_trans_NvBQzQNjv4BqC_LLCXkS_z-CZqgOMP7Be4NJOW97-4gC-TIHNP2xpBw.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Chris Price",
+    "content": "<![CDATA[<p>The pound has hit its strongest level against the euro in three months after Germany’s construction and manufacturing sectors slumped.</p>]]>",
+    "contentSnippet": "",
+    "guid": "d876550d-8a05-38c6-b32a-0af55c17b0db",
+    "categories": [
+      {
+        "_": "topics:things/uk-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/ftse-100",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pound",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/dow-jones-industrial-average",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/cost-of-living",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/global-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:business",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T15:40:05.000Z"
+  },
+  {
+    "creator": "Dominic Penna",
+    "title": "Covid Inquiry latest: First lockdown built on 'uncertain foundation', Boris Johnson admits",
+    "link": "https://www.telegraph.co.uk/news/2023/12/06/covid-inquiry-latest-news-boris-johnson-live/",
+    "pubDate": "Wed, 06 Dec 2023 15:27:10 GMT",
+    "dc:creator": "Dominic Penna",
+    "content": "<![CDATA[<p>The first national lockdown was built on an “uncertain foundation”, Boris Johnson has admitted.</p>]]>",
+    "contentSnippet": "",
+    "guid": "7017d5de-abf1-357d-8d4b-fb7111ab3d7e",
+    "categories": [
+      {
+        "_": "topics:in-the-news/covid-inquiry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/boris-johnson",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T15:27:10.000Z"
+  },
+  {
+    "creator": "Telegraph Sport",
+    "title": "BBC Sports Personality of the Year Award 2023: When is it and who are the nominees?",
+    "link": "https://www.telegraph.co.uk/sport/0/bbc-sports-personality-of-the-year-2023-when-nominees-odds/",
+    "pubDate": "Wed, 06 Dec 2023 15:22:48 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/sport/2023/11/27/TELEMMGLPICT000320342681_17010771664720_trans_NvBQzQNjv4BqmvDsehfjg0AN6-v5Cj0_Vtf11FLKtqwYaxK652uKeQE.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph Sport",
+    "content": "<![CDATA[The Corporation's venerable Spoty prize celebrates its 70th anniversary in December: which channel is it on and what are the latest odds?]]>",
+    "contentSnippet": "",
+    "guid": "8f7705a7-7b26-364b-8499-59e6aefdf063",
+    "categories": [
+      {
+        "_": "topics:organisations/bbc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/katarina-johnson-thompson",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/mary-earps",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/stuart-broad",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/the-races",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jude-bellingham",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T15:22:48.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Spiced citrus shortbread recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/spiced-citrus-shortbread-recipe/",
+    "pubDate": "Wed, 06 Dec 2023 15:06:04 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/12/06/TELEMMGLPICT000359099370_17018751025630_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf_4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "content": "<![CDATA[These simple biscuits are given a festive flavour thanks to the addition of warming spices]]>",
+    "contentSnippet": "",
+    "guid": "31873e5c-037b-38a1-9655-ad071592cde6",
+    "categories": [
+      {
+        "_": "topics:things/shortbread-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/biscuit-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/baking-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/afternoon-tea-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T15:06:04.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Christmas brownies recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/christmas-brownies-recipe/",
+    "pubDate": "Wed, 06 Dec 2023 15:00:04 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/12/05/TELEMMGLPICT000358958261_17017759690100_trans_NvBQzQNjv4BqVXJkSNH0kOL36rJzg8U_TzPzU30KSEuxHqrJ3I8USWY.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "content": "<![CDATA[Starring brandy-soaked sour cherries and cranberries, with walnuts to add crunch]]>",
+    "contentSnippet": "",
+    "guid": "2748c6a0-7b15-3400-8341-641315fa0137",
+    "categories": [
+      {
+        "_": "topics:things/brownie-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/baking-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/chocolate-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/afternoon-tea-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T15:00:04.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Apple and cinnamon scones recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/apple-and-cinnamon-scones-recipe/",
+    "pubDate": "Wed, 06 Dec 2023 14:55:42 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/12/05/TELEMMGLPICT000358958279_17017746829610_trans_NvBQzQNjv4Bq7lG0yBZ95AfEKn6gkKKQYSladG7Ff3b37LuAcfF1y_0.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "content": "<![CDATA[Serve these fruity scones with clotted cream and a good seasonal jam]]>",
+    "contentSnippet": "",
+    "guid": "4cec6a1c-dc88-3b39-a6cf-00a0a9ef19e0",
+    "categories": [
+      {
+        "_": "topics:things/scone-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/baking-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/afternoon-tea-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T14:55:42.000Z"
+  },
+  {
+    "creator": "Diana Henry",
+    "title": "Christmas sandwiches recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/christmas-sandwiches-recipe/",
+    "pubDate": "Wed, 06 Dec 2023 14:53:11 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recipes/2023/12/05/TELEMMGLPICT000358958295_17017730375020_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Diana Henry",
+    "content": "<![CDATA[Homemade stuffing takes these festive sandwiches to another level]]>",
+    "contentSnippet": "",
+    "guid": "3e7968c7-884a-3e20-9d2a-81982887934f",
+    "categories": [
+      {
+        "_": "topics:things/sandwich-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/chicken-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/lunch-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/party-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:diana-henry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T14:53:11.000Z"
+  },
+  {
+    "creator": "Jean Kaseya",
+    "title": "Africa must take control of its vaccine manufacturing to protect against a new pandemic",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/vaccine-manufacturing-africa-pandemic-preparedness/",
+    "pubDate": "Wed, 06 Dec 2023 14:17:43 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/12/06/TELEMMGLPICT000357705934_17018700251220_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jean Kaseya",
+    "content": "<![CDATA[No one is safe, until we are all safe &ndash; we must therefore put vaccine equity at the heart of pandemic preparedness, prevention and response]]>",
+    "contentSnippet": "",
+    "guid": "96e4dc05-f6aa-388e-9f4d-bd3fd6be5284",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/vaccines",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/africa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:opinion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:comment",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T14:17:43.000Z"
+  },
+  {
+    "creator": "Ella Nunn",
+    "title": "Seventeen people killed in Philippines 'killer curve' bus accident",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/06/philippines-asia-killer-curve-bus-accident-watch/",
+    "pubDate": "Wed, 06 Dec 2023 13:29:22 GMT",
+    "dc:creator": "Ella Nunn",
+    "content": "<![CDATA[The bus plunged into a ravine in the province of Antique after the driver lost control]]>",
+    "contentSnippet": "",
+    "guid": "ac6caac1-ff1d-359a-9840-e205af733176",
+    "categories": [
+      {
+        "_": "topics:places/philippines",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/asia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/road-accident",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T13:29:22.000Z"
+  },
+  {
+    "creator": "Maighna Nanu",
+    "title": "Ukraine-Russia war latest: Russian bomber shot down over Snake Island",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/06/ukraine-russia-war-news-live-putin-us-aid-latest/",
+    "pubDate": "Wed, 06 Dec 2023 12:51:21 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/06/TELEMMGLPICT000358991965_17018476998420_trans_NvBQzQNjv4BqxXCI9Wh-V1PVtkHuRtXNlOgacLhbgytlmherpj3DRfI.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Maighna Nanu",
+    "content": "<![CDATA[<p>A Russian bomber was shot down over Snake Island as Kyiv was bombarded with drones overnight.</p>]]>",
+    "contentSnippet": "",
+    "guid": "ce40e9c6-26a2-311e-9862-59a198439f0a",
+    "categories": [
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/ukraine-crisis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/russia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/volodymyr-zelenskyy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T12:51:21.000Z"
+  },
+  {
+    "creator": "Telegraph reporters",
+    "title": "Samir Shah set to be announced as new BBC chairman, sources claim",
+    "link": "https://www.telegraph.co.uk/news/2023/12/06/samir-shah-announced-new-bbc-chairman/",
+    "pubDate": "Wed, 06 Dec 2023 12:15:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/12/06/TELEMMGLPICT000359070326_17018555001050_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph reporters",
+    "content": "<![CDATA[The veteran TV executive is expected to take over from Richard Sharp, who resigned earlier this year]]>",
+    "contentSnippet": "",
+    "guid": "543d2403-1f04-3f31-915d-05801b47258f",
+    "categories": [
+      {
+        "_": "topics:organisations/bbc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/media-outlets",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T12:15:00.000Z"
+  },
+  {
+    "creator": "Lilia Sebouai",
+    "title": "UK expanding mosquito surveillance to counter growing threat of dengue",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/uk-expanding-mosquito-surveillance-counter-spread-dengue/",
+    "pubDate": "Wed, 06 Dec 2023 11:19:37 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/12/06/TELEMMGLPICT000340257476_17018576056540_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Lilia Sebouai",
+    "content": "<![CDATA[Health officials are installing mosquito traps at ports, service stations and truck stops throughout south England]]>",
+    "contentSnippet": "",
+    "guid": "044b0005-3289-3556-81f1-30dcdc697a24",
+    "categories": [
+      {
+        "_": "topics:things/Dengue-fever",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/ukhsa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/mosquitos",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T11:19:37.000Z"
+  },
+  {
+    "creator": "Cara McGoogan",
+    "title": "‘I lost both my sons in the infected blood scandal – whatever compensation will be a complete insult’",
+    "link": "https://www.telegraph.co.uk/news/2023/12/06/james-peach-infected-blood-hiv-sons-compensation-insult/",
+    "pubDate": "Wed, 06 Dec 2023 09:27:27 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/12/05/TELEMMGLPICT000358992401_17018028930410_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Cara McGoogan",
+    "content": "<![CDATA[The Government has finally recognised the scandal of infected blood, but it is little comfort to John Peach whose two sons died]]>",
+    "contentSnippet": "",
+    "guid": "443e677e-978a-3a80-a706-4a94e3216774",
+    "categories": [
+      {
+        "_": "topics:things/hiv",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/health",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/blood",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/house-of-commons",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:daily-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:other-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T09:27:27.000Z"
+  },
+  {
+    "creator": "Sam Dean",
+    "title": "Declan Rice has become Arsenal’s £105m game-winning machine after seizing occasion at Luton",
+    "link": "https://www.telegraph.co.uk/football/2023/12/05/luton-town-vs-arsenal-live-score-updates-premier-league/",
+    "pubDate": "Wed, 06 Dec 2023 00:01:24 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/05/TELEMMGLPICT000359027689_17018150210580_trans_NvBQzQNjv4BqaHd6X3lW3lGv45Ug3tlONZ3XVdg1rRzimPdm_Jg3Voo.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sam Dean",
+    "content": "<![CDATA[<p>Arsenal did not pay £105 million for Declan Rice so he could score last-minute winners. They bought him to mould games, rather than win them. But such is the midfielder’s sheer force of personality, and such is his taste for match-defining moments, that it seems there can be no stopping him when he decides to seize the occasion for his own.</p>]]>",
+    "contentSnippet": "",
+    "guid": "6264f6b9-e129-38a6-a149-90771de18e33",
+    "categories": [
+      {
+        "_": "topics:organisations/luton-town-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/arsenal-fc",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/premier-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-06T00:01:24.000Z"
+  },
+  {
+    "creator": "Tom Garry",
+    "title": "Heartbreak for Lionesses as Olympic dream dies despite 6-0 win over Scotland",
+    "link": "https://www.telegraph.co.uk/football/2023/12/05/england-lionesses-vs-scotland-live-womens-nations-league/",
+    "pubDate": "Tue, 05 Dec 2023 23:34:22 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/football/2023/12/05/TELEMMGLPICT000359024884_17018136940930_trans_NvBQzQNjv4BqopsWLtjmnv0AMAROXgzTrStKdqyxPHHffahTyrI-qJE.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Tom Garry",
+    "content": "<![CDATA[<p>England’s dreams of qualifying for the Olympics on behalf of Team GB were shattered by two late Netherlands goals scored 600 miles away, as they missed out on topping their group on goal-difference despite hammering Scotland 6-0 at Hampden Park.</p>]]>",
+    "contentSnippet": "",
+    "guid": "48902bd6-b75d-337f-9f76-186e169e1209",
+    "categories": [
+      {
+        "_": "topics:organisations/england-womens-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/uefa-nations-league",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/scotland-football-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:womens-football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:womens-sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T23:34:22.000Z"
+  },
+  {
+    "creator": "Charles Hymas",
+    "title": "Ministers threaten to quit over Rwanda flights law",
+    "link": "https://www.telegraph.co.uk/politics/2023/12/05/ministers-threaten-to-quit-over-rwanda-flights-law/",
+    "pubDate": "Tue, 05 Dec 2023 21:55:24 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/12/05/TELEMMGLPICT000356824428_17018110829030_trans_NvBQzQNjv4BqS8LvVGaCov9_zEWH2d7j7ZgojZYlP8f0i9h2tPqCNsM.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Charles Hymas",
+    "content": "<![CDATA[Ten senior Tories prepared to resign if Rishi Sunak presses ahead with hardline plan]]>",
+    "contentSnippet": "",
+    "guid": "294a1c20-cec6-3f20-90f5-e312d05b77d7",
+    "categories": [
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/rwanda",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/migration",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/robert-jenrick",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/suella-braverman",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T21:55:24.000Z"
+  },
+  {
+    "creator": "India McTaggart",
+    "title": "The Crown cast bid farewell at premiere of final episode",
+    "link": "https://www.telegraph.co.uk/royal-family/2023/12/05/the-crown-cast-bid-farewell-premiere-final-episode/",
+    "pubDate": "Tue, 05 Dec 2023 19:16:55 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/royal-family/2023/12/05/TELEMMGLPICT000359005686_17018049289740_trans_NvBQzQNjv4BqxxryREYCtPII-ztC-Q60ECQMGpiNPd9mPPQuBwSCB0s.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "India McTaggart",
+    "content": "<![CDATA[Special black-tie event takes place at Royal Festival Hall, on London&rsquo;s South Bank]]>",
+    "contentSnippet": "",
+    "guid": "787c8d03-2b25-38b9-897d-149678e41927",
+    "categories": [
+      {
+        "_": "topics:things/the-crown",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/the-royal-family",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/netflix",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/princess-diana",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/queen-elizabeth-ii",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/king-charles-iii",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:royal-family",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/art",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T19:16:55.000Z"
+  },
+  {
+    "creator": "Charles Richardson",
+    "title": "Six Nations 2024 referees announced: Who will referee England’s matches?",
+    "link": "https://www.telegraph.co.uk/rugby-union/2023/12/05/six-nations-championship-2024-referees-announced-matches/",
+    "pubDate": "Tue, 05 Dec 2023 18:54:12 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/rugby-union/2023/12/05/TELEMMGLPICT000335494231_17017999708200_trans_NvBQzQNjv4Bqu9d2miJrqdy0WHkNnywGGHSAMUWbLP57EYvvneETxPE.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Charles Richardson",
+    "content": "<![CDATA[Plus, who will be taking charge of the other Six Nations matches &ndash; Ireland v France and Wales v Scotland?]]>",
+    "contentSnippet": "",
+    "guid": "855d1646-8b8a-31f6-b7a5-040e5507152f",
+    "categories": [
+      {
+        "_": "topics:events/six-nations",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/england-rugby-union-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/scotland-rugby-union-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/france-rugby-union-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/wales-rugby-union-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/italy-rugby-union-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:rugby-union",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T18:54:12.000Z"
+  },
+  {
+    "creator": "Dominic Nicholls",
+    "title": "Ukraine: The Latest - Nato 'has three years to prepare for Russian attack'",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/05/nato-has-three-years-to-prepare-for-russian-attack/",
+    "pubDate": "Tue, 05 Dec 2023 18:49:29 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/04/TELEMMGLPICT000358562517_17017077414910_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Dominic Nicholls",
+    "content": "<![CDATA[Every weekday The Telegraph's top journalists analyse the Russian invasion of Ukraine from all angles and tell you what you need to know]]>",
+    "contentSnippet": "",
+    "guid": "2d9a7254-4c23-343f-a35d-1d3bb71d75f7",
+    "categories": [
+      {
+        "_": "topics:things/ukraine-the-latest-podcast",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T18:49:29.000Z"
+  },
+  {
+    "creator": "Chris Price",
+    "title": "EU mulls dropping punitive tariff on UK-made electric cars",
+    "link": "https://www.telegraph.co.uk/business/2023/12/05/ftse-100-markets-news-live-thames-water-us-jobs/",
+    "pubDate": "Tue, 05 Dec 2023 18:31:30 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/business/2023/12/05/TELEMMGLPICT000309032928_17017924560020_trans_NvBQzQNjv4BqdbdK7XKIbOqTZJ8EaUsLx-9hg0Y37QvHYjcZPVg1zsA.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Chris Price",
+    "content": "<![CDATA[<p>The European Commission is set to recommend postponing a controversial tariff on electric cars traded between the UK and Europe by three years, according to a Bloomberg report.</p>]]>",
+    "contentSnippet": "",
+    "guid": "94f4105a-3ab7-3f34-8fe4-7228f2d18b91",
+    "categories": [
+      {
+        "_": "topics:things/uk-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/ftse-100",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pound",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/dow-jones-industrial-average",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/cost-of-living",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/global-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:business",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T18:31:30.000Z"
+  },
+  {
+    "creator": "Will Bolton",
+    "title": "Man arrested after pregnant woman stabbed in Aberfan",
+    "link": "https://www.telegraph.co.uk/news/2023/12/05/aberfan-stabbing-live-pregnant-woman-manhunt-wales-latest/",
+    "pubDate": "Tue, 05 Dec 2023 18:11:29 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/12/05/TELEMMGLPICT000358981587_17018026697950_trans_NvBQzQNjv4BqES0WhgMsErmg72C9l09YW3gaYALc1dyeRw6ZdGqh5go.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Will Bolton",
+    "content": "<![CDATA[<p>Armed police have arrested a 28-year-old man after a pregnant mother-of-two was stabbed repeatedly while dropping her children at school in a village in Wales on Tuesday.</p>]]>",
+    "contentSnippet": "",
+    "guid": "4bd30b35-773b-3269-ab83-90c26da67682",
+    "categories": [
+      {
+        "_": "topics:places/wales",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/knife-crime",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T18:11:29.000Z"
+  },
+  {
+    "creator": "Joshua Hughes",
+    "title": "Tuesday evening news briefing: More 2019 Tory voters will back Reform than Labour at next election",
+    "link": "https://www.telegraph.co.uk/news/2023/12/05/tuesday-evening-news-briefing-more-2019-tory-voters-reform/",
+    "pubDate": "Tue, 05 Dec 2023 17:38:38 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2022/09/23/TELEMMGLPICT000310354963_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Joshua Hughes",
+    "content": "<![CDATA[Also from the Front Page newsletter: Labour warns of &lsquo;increase in rushed marriages&rsquo;. Sign up below.]]>",
+    "contentSnippet": "",
+    "guid": "213345e5-345a-32d2-bd2d-8d9e50b30cc8",
+    "categories": [
+      {
+        "_": "topics:people/prince-harry",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/labour-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/reform-uk",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T17:38:38.000Z"
+  },
+  {
+    "creator": "Olivia Andrews",
+    "title": "Slow cooker pork, apple and cider pie recipe",
+    "link": "https://www.telegraph.co.uk/recipes/0/slow-cooker-recipes-pork-apple-cider-pie/",
+    "pubDate": "Tue, 05 Dec 2023 16:24:10 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/food-and-drink/2019/03/08/TELEMMGLPICT000190368134_trans_NvBQzQNjv4BqbmMp-zB-xhWZu9W8GGg6WGuVQ2xSTrrDgpZPZTrFNHM.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Olivia Andrews",
+    "content": "<![CDATA[A warming dinner for chilly evenings]]>",
+    "contentSnippet": "",
+    "guid": "0638a421-517e-359c-ae1c-e0dd98a41e9c",
+    "categories": [
+      {
+        "_": "topics:things/slow-cooker-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/apple-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pork-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pie-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/savoury-pie-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink/food-and-drink-editors-choice",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:lifestyle",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cookbook",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T16:24:10.000Z"
+  },
+  {
+    "creator": "Dominic Penna",
+    "title": "Rwanda latest news: Cleverly says migrant flights must 'move quickly' after striking new deal",
+    "link": "https://www.telegraph.co.uk/politics/2023/12/05/rishi-sunak-news-latest-rwanda-flights-immigration-jenrick/",
+    "pubDate": "Tue, 05 Dec 2023 16:01:25 GMT",
+    "dc:creator": "Dominic Penna",
+    "content": "<![CDATA[<p>James Cleverly has said Britain must now be able to “move quickly” to start Rwanda deportation migrant flights after a new treaty was agreed with the African nation.</p>]]>",
+    "contentSnippet": "",
+    "guid": "10e06d45-8c55-31c7-8ef0-54dac850e5d3",
+    "categories": [
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/downing-street",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/labour-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/keir-starmer",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T16:01:25.000Z"
+  },
+  {
+    "creator": "Nataliya Vasilyeva",
+    "title": "Gaza fighting ‘most intense’ since war began as IDF enters Khan Younis",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/05/israel-hamas-palestine-news-latest-idf-raids-headquarters/",
+    "pubDate": "Tue, 05 Dec 2023 16:00:19 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/05/TELEMMGLPICT000358952213_17018027067630_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9TWU-KwRaHvlaJXY1texVLQ.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Nataliya Vasilyeva",
+    "content": "<![CDATA[<p>The Israeli army has had its “most intense day” of <a class=\"ck-custom-link\" href=\"https://www.telegraph.co.uk/israel-hamas-war/\">war in Gaza </a>so far, commanders said, as tanks entered the southern city of Khan Younis for the first time while surrounding the strip’s largest refugee camp in the north.</p>]]>",
+    "contentSnippet": "war in Gaza so far, commanders said, as tanks entered the southern city of Khan Younis for the first time while surrounding the strip’s largest refugee camp in the north.\n]]>",
+    "guid": "8e412ed0-afef-376a-9a0c-f3a97543dc96",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/middle-east",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/benjamin-netanyahu",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/palestine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T16:00:19.000Z"
+  },
+  {
+    "creator": "Donal Skehan",
+    "title": "One-pan 'roast' chicken with potatoes, kale and thyme recipe  ",
+    "link": "https://www.telegraph.co.uk/recipes/0/one-pan-roast-chicken-potatoes-kale-thyme-recipe/",
+    "pubDate": "Tue, 05 Dec 2023 15:47:45 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/food-and-drink/2019/11/01/chickendonal_trans_NvBQzQNjv4BqRRSmT6cvkmeECxVzj5L_rO0XE_qwLiP6-oxi2lfTk2E.jpg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Donal Skehan",
+    "content": "<![CDATA[All the flavour of a full Sunday roast, but in a speedy one-pan supper]]>",
+    "contentSnippet": "",
+    "guid": "1a20fc22-fc3b-34a1-b822-30e00b241aa2",
+    "categories": [
+      {
+        "_": "topics:things/dinner-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/one-pot-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/chicken-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink/food-and-drink-editors-choice",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:food-and-drink",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/quick-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/healthy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:lifestyle",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/easy-recipes",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:recipe",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T15:47:45.000Z"
+  },
+  {
+    "creator": "Timothy Sigsworth",
+    "title": "Ukraine-Russia war: Putin snubs British ambassador as he keeps distance 'for sanitary reasons'",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/05/ukraine-russia-war-news-live-nato-poland-putin-zelensky/",
+    "pubDate": "Tue, 05 Dec 2023 15:07:06 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/05/TELEMMGLPICT000358984098_17017885475800_trans_NvBQzQNjv4Bqm2LUNC0Q0toWAKO9iKM9CFLaN9eYSx2Gg9IZjJxTT94.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Timothy Sigsworth",
+    "content": "<![CDATA[<p>Vladimir Putin snubbed the new British ambassador to Moscow as he kept his distance from a gathering of foreign diplomats “for sanitary reasons”.</p>]]>",
+    "contentSnippet": "",
+    "guid": "d55b09e6-2ea1-397b-8b0d-6e3de5bd4674",
+    "categories": [
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/ukraine-crisis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/russia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/volodymyr-zelenskyy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T15:07:06.000Z"
+  },
+  {
+    "creator": "Al Morgan",
+    "title": "The best ski jackets of 2023 reviewed by a ski expert",
+    "link": "https://www.telegraph.co.uk/recommended/leisure/best-ski-jackets/",
+    "pubDate": "Tue, 05 Dec 2023 14:59:44 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2023/12/01/TELEMMGLPICT000358558877_17014453107560_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Al Morgan",
+    "content": "<![CDATA[Tried and tested on the slopes, here are the best ski jackets to keep you warm and dry in 2023, in men's and women's styles for all budgets]]>",
+    "contentSnippet": "",
+    "guid": "3da7b78b-fa5a-3481-add3-75c17404b555",
+    "categories": [
+      {
+        "_": "topics:things/alpine-skiing",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/cross-country-skiing",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/freestyle-skiing",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/snow",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/Snowboard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/leisure",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:skiing",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:travel/ski",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T14:59:44.000Z"
+  },
+  {
+    "creator": "Simon Lewis",
+    "title": "The 14 best mattresses of 2023 tried and tested at home, including hybrid mattresses",
+    "link": "https://www.telegraph.co.uk/health-fitness/mind/best-mattress/",
+    "pubDate": "Tue, 05 Dec 2023 12:36:55 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/health-fitness/2023/06/16/TELEMMGLPICT000339540092_16869168700310_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Simon Lewis",
+    "content": "<![CDATA[We've tested this year's best mattresses for a restful night's sleep, from Simba to Tempur, Emma and Silentnight]]>",
+    "contentSnippet": "",
+    "guid": "4a69557b-b5a5-360c-8db2-2cdc81bed2ed",
+    "categories": [
+      {
+        "_": "topics:things/science-sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T12:36:55.000Z"
+  },
+  {
+    "creator": "Tim Wigmore",
+    "title": "England hit new low as brutal West Indies and Shai Hope tear into Sam Curran",
+    "link": "https://www.telegraph.co.uk/cricket/2023/12/03/west-indies-vs-england-live-first-odi-score-latest-updates/",
+    "pubDate": "Tue, 05 Dec 2023 12:31:06 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/cricket/2023/12/05/TELEMMGLPICT000358793339_17017791189850_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Tim Wigmore",
+    "content": "<![CDATA[<p>Losing six games in the World Cup was bad enough. Now, England’s one-day international side have added an unwanted encore: defeat to a side who did not even qualify. West Indies, vanquished by Zimbabwe, Netherlands and Scotland in the World Cup qualifiers five months ago, added to the turmoil facing England by chasing down 326 at Sir Vivian Richards Stadium.</p>]]>",
+    "contentSnippet": "",
+    "guid": "46a283ce-6460-3d5a-8f96-e2ba04c59370",
+    "categories": [
+      {
+        "_": "topics:organisations/england-cricket-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/west-indies-cricket-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/matthew-mott",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jos-buttler",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cricket",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T12:31:06.000Z"
+  },
+  {
+    "creator": "Rebecca Astill",
+    "title": "The best Christmas gifts 2023: your guide to the 23 top presents on everyone's wish list this year",
+    "link": "https://www.telegraph.co.uk/christmas/best-christmas-gifts-ideas-presents-wishlist/",
+    "pubDate": "Tue, 05 Dec 2023 12:30:10 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2022/11/29/TELEMMGLPICT000317870055_trans_NvBQzQNjv4Bqbe775R1SNzm4sSSdJaF7PFKgqRD8QjI0RaZmbYcesHw.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Rebecca Astill",
+    "content": "<![CDATA[Can't decide what to buy this year? Or don't know what to ask for? Here are the best Christmas gifts for everyone on your list]]>",
+    "contentSnippet": "",
+    "guid": "ffe75cf1-3609-3ec5-8454-86c719575181",
+    "categories": [
+      {
+        "_": "topics:things/christmas-gift-guides",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/christmas-day",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/father-christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/how-to-have-perfect-christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T12:30:10.000Z"
+  },
+  {
+    "creator": "Jack Rear",
+    "title": "‘Andy had this sudden excruciating headache – then went blind’",
+    "link": "https://www.telegraph.co.uk/christmas/2023/12/05/brain-haemorrhage-medical-discharge-raf-benevolent-fund/",
+    "pubDate": "Tue, 05 Dec 2023 10:22:32 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2023/12/04/TELEMMGLPICT000358401816_17016968860810_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jack Rear",
+    "content": "<![CDATA[A tragic incident saw Andy and Helen Layton's lives change beyond recognition, but the RAF Benevolent Fund helped keep the family together]]>",
+    "contentSnippet": "",
+    "guid": "d1cbda51-fb50-3ba5-9591-76b640ed87ec",
+    "categories": [
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/raf-benevolent-fund",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-christmas-charity-appeal-2023",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:daily-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:other-features",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T10:22:32.000Z"
+  },
+  {
+    "creator": "Will Macpherson",
+    "title": "Mitchell Johnson’s attack on David Warner was sparked by a text message",
+    "link": "https://www.telegraph.co.uk/cricket/2023/12/05/mitchell-johnson-vs-david-warner-sparked-by-text-message/",
+    "pubDate": "Tue, 05 Dec 2023 09:12:35 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/cricket/2023/12/05/TELEMMGLPICT000358870803_17017670338330_trans_NvBQzQNjv4Bq0fwJ57jCeZfxOoV9E2WRemaIITNODXNq__2rJZjxWpQ.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Will Macpherson",
+    "content": "<![CDATA[Johnson wrote a deeply critical column about Warner's planned retirement &ndash; he says he did so after a provocative message from the batsman]]>",
+    "contentSnippet": "",
+    "guid": "dd2e1813-3a3c-3e66-b8fe-872c0a917797",
+    "categories": [
+      {
+        "_": "topics:people/david-warner",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/australia-cricket-team",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:cricket",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T09:12:35.000Z"
+  },
+  {
+    "creator": "Our Foreign Staff",
+    "title": "Watch: Massive explosion blows up house near US capital",
+    "link": "https://www.telegraph.co.uk/us/news/2023/12/05/arlington-explosion-house-virginia-dc-suspect-flare/",
+    "pubDate": "Tue, 05 Dec 2023 05:19:14 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/en-us/news/2023/12/05/TELEMMGLPICT000358931694_17017457972460_trans_NvBQzQNjv4BqUqSNHYGcObKf-KUxsZkxG0Wy_sGK6oioMu5BzggyGUY.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Our Foreign Staff",
+    "content": "<![CDATA[The blast came after reports of a suspect firing a flare gun from a property in Arlington, Virginia]]>",
+    "contentSnippet": "",
+    "guid": "2f8ff587-4837-3458-9a1b-532f340647eb",
+    "categories": [
+      {
+        "_": "topics:things/fire",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/crime",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T05:19:14.000Z"
+  },
+  {
+    "creator": "Roger Maynard",
+    "title": "King and Queen plan to visit Australia in 2024",
+    "link": "https://www.telegraph.co.uk/royal-family/2023/12/05/king-charles-queen-camilla-plan-to-visit-australia-nz/",
+    "pubDate": "Tue, 05 Dec 2023 00:28:41 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/royal-family/2023/12/04/TELEMMGLPICT000358127664_17017338856230_trans_NvBQzQNjv4Bq3GpLWECzklI-njwuIQUgrSThyOqAj-Q6qyYzl0KSl0Q.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Roger Maynard",
+    "content": "<![CDATA[Public reaction to the visit could indicate the level of support for the monarchy in the country, where calls for republicanism are growing]]>",
+    "contentSnippet": "",
+    "guid": "ef31a5f0-9601-3ce1-a5ba-d4a8fd12c029",
+    "categories": [
+      {
+        "_": "topics:people/king-charles-iii",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/camilla-queen-consort",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/the-royal-family",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/australia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:royal-family",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-05T00:28:41.000Z"
+  },
+  {
+    "creator": "Charles Hymas",
+    "title": "Cleverly pledges to deliver biggest ever reduction in net migration",
+    "link": "https://www.telegraph.co.uk/politics/2023/12/04/new-measures-slash-net-migration-300000-james-cleverly/",
+    "pubDate": "Mon, 04 Dec 2023 21:15:04 GMT",
+    "dc:creator": "Charles Hymas",
+    "content": "<![CDATA[Home Secretary tells MPs five-point plan will cut number coming to the UK by 300,000]]>",
+    "contentSnippet": "",
+    "guid": "b86adcd4-cfec-3fec-8ef4-4918c12cebbe",
+    "categories": [
+      {
+        "_": "topics:things/immigration",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/migration",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/james-cleverly",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/suella-braverman",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T21:15:04.000Z"
+  },
+  {
+    "creator": "Samuel Montgomery",
+    "title": "UK weather: More than 150 flood alerts as heavy rain to batter Britain",
+    "link": "https://www.telegraph.co.uk/news/2023/12/04/uk-weather-news-latest-flood-warnings-heavy-rain-live/",
+    "pubDate": "Mon, 04 Dec 2023 21:02:56 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2023/12/04/TELEMMGLPICT000358864260_17016958625400_trans_NvBQzQNjv4BqhasgUMiR-rxiRxu9qBoVLdUcsNjZWwQQAqx2KspIOLE.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Samuel Montgomery",
+    "content": "<![CDATA[<p>More than 150 flood alerts have been issued across the country as the Met Office warned of heavy rain and ice.</p>]]>",
+    "contentSnippet": "",
+    "guid": "d1013d22-533c-34eb-a303-52095e6e92b0",
+    "categories": [
+      {
+        "_": "topics:things/weather",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/uk-weather",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/met-office",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/flooding",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T21:02:56.000Z"
+  },
+  {
+    "creator": "Chris Price",
+    "title": "Pension fund ownership of UK stocks hits record low",
+    "link": "https://www.telegraph.co.uk/business/2023/12/04/ftse-100-markets-news-live-gold-price-high-interest-rates/",
+    "pubDate": "Mon, 04 Dec 2023 18:22:10 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/business/2023/12/04/TELEMMGLPICT000358504821_17017020839190_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Chris Price",
+    "content": "<![CDATA[<p>Pension fund’s share of Britain’s stock markets has fallen to a record low, official figures show, as they seek more profitable returns overseas.</p>]]>",
+    "contentSnippet": "",
+    "guid": "0f0f83a5-82fd-36b7-9adf-baa2812f1b07",
+    "categories": [
+      {
+        "_": "topics:things/uk-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/ftse-100",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pound",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/dow-jones-industrial-average",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/cost-of-living",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/global-economy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:business",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T18:22:10.000Z"
+  },
+  {
+    "creator": "Joshua Hughes",
+    "title": "Monday evening news briefing: New measures will slash migration arrivals by 300,000, says Cleverly",
+    "link": "https://www.telegraph.co.uk/news/2023/12/04/monday-evening-news-briefing-new-measure-cleverly-migration/",
+    "pubDate": "Mon, 04 Dec 2023 17:44:27 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/news/2022/09/23/TELEMMGLPICT000310354963_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Joshua Hughes",
+    "content": "<![CDATA[Also from the Front Page newsletter: Covid handouts have made people less willing to work. Sign up below.]]>",
+    "contentSnippet": "",
+    "guid": "8249dabb-b56b-3678-a0d9-8e58ea888e32",
+    "categories": [
+      {
+        "_": "topics:things/uk-weather",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/james-cleverly",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/migration",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T17:44:27.000Z"
+  },
+  {
+    "creator": "Maeve Cullinan",
+    "title": "Child pneumonia cases emerge in Europe as China battles wave of respiratory illness",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/child-pneumonia-europe-france-ireland-denmark-netherlands/",
+    "pubDate": "Mon, 04 Dec 2023 17:23:50 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/12/04/TELEMMGLPICT000357627030_17017101644630_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Maeve Cullinan",
+    "content": "<![CDATA[Ireland and France among several countries to record sharp rise in Mycoplasma pneumoniae]]>",
+    "contentSnippet": "",
+    "guid": "17877c5b-d9f8-309a-8c61-a2ed858b4458",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/pandemics-epidemics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/china",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/asia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/europe",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T17:23:50.000Z"
+  },
+  {
+    "creator": "Dominic Penna",
+    "title": "As it happened: James Cleverly rejects calls to put a cap on migrant numbers",
+    "link": "https://www.telegraph.co.uk/politics/2023/12/04/rishi-sunak-news-latest-bbc-tv-licence-fee-keir-starmer/",
+    "pubDate": "Mon, 04 Dec 2023 17:14:43 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/politics/2023/12/04/TELEMMGLPICT000358881480_17017099803230_trans_NvBQzQNjv4BqUa2thMnvKQadTDM5oFKzfIBaZKwVQaCcGMe8NJ-Iq1g.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Dominic Penna",
+    "content": "<![CDATA[<p>James Cleverly rejected Tory calls to put a cap on the number of migrants coming to Britain every year <a class=\"ck-custom-link\" href=\"https://www.telegraph.co.uk/politics/2023/12/04/new-measures-slash-net-migration-300000-james-cleverly/\">as he set out a new five-point plan designed to reduce arrivals</a>.</p>]]>",
+    "contentSnippet": "as he set out a new five-point plan designed to reduce arrivals.\n]]>",
+    "guid": "e394edbd-ffeb-34dd-a147-ba3520ebb74d",
+    "categories": [
+      {
+        "_": "topics:people/rishi-sunak",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/conservative-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/downing-street",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:organisations/labour-party",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/keir-starmer",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/jeremy-hunt",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:politics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/uk-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T17:14:43.000Z"
+  },
+  {
+    "creator": "Maighna Nanu",
+    "title": "Main road in Gaza a 'battlefield'",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/04/israel-hamas-palestine-south-gaza-war-ceasefire-news-latest/",
+    "pubDate": "Mon, 04 Dec 2023 16:53:26 GMT",
+    "dc:creator": "Maighna Nanu",
+    "content": "<![CDATA[<p>Gaza’s main road is a “battlefield,” the Israel Defense Forces has said, as it claimed it was opening a new humanitarian corridor for civilians to evacuate.</p>]]>",
+    "contentSnippet": "",
+    "guid": "cc34be3d-f282-375c-aa11-90dfa5087107",
+    "categories": [
+      {
+        "_": "topics:in-the-news/israel-hamas-war",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/israel",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/gaza",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/middle-east",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/benjamin-netanyahu",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/palestine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/usa",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T16:53:26.000Z"
+  },
+  {
+    "creator": "Dominic Nicholls",
+    "title": "Ukraine: The Latest - US aid to Ukraine will run out 'by end of month'",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/04/us-aid-to-ukraine-will-run-out-by-end-of-month/",
+    "pubDate": "Mon, 04 Dec 2023 16:36:20 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/04/TELEMMGLPICT000358562517_17017077414910_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Dominic Nicholls",
+    "content": "<![CDATA[Every weekday The Telegraph's top journalists analyse the Russian invasion of Ukraine from all angles and tell you what you need to know]]>",
+    "contentSnippet": "",
+    "guid": "031b02af-bdc7-3886-94dd-c48c4351c4cb",
+    "categories": [
+      {
+        "_": "topics:things/ukraine-the-latest-podcast",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/telegraph-podcasts",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T16:36:20.000Z"
+  },
+  {
+    "creator": "Jessica Salter",
+    "title": "The 26 best Christmas crackers of 2023, from luxury crackers to traditional choices",
+    "link": "https://www.telegraph.co.uk/christmas/best-christmas-crackers/",
+    "pubDate": "Mon, 04 Dec 2023 15:36:34 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/christmas/2023/10/27/TELEMMGLPICT000354563213_16983977417550_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jessica Salter",
+    "content": "<![CDATA[Tried and tested at home, here are the best Christmas crackers of 2023, from M&amp;S to Hotel Chocolat, with not a plastic moustache in sight]]>",
+    "contentSnippet": "",
+    "guid": "cdb2f9db-4f45-39d7-9eb7-e5ef72e032e5",
+    "categories": [
+      {
+        "_": "topics:things/christmas-crackers",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/christmas-day",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-dinner",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/christmas-gift-guides",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/how-to-have-perfect-christmas",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:christmas-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:eg-general",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T15:36:34.000Z"
+  },
+  {
+    "creator": "Maeve Cullinan",
+    "title": "Hand-held sequencing device may help track resistant-malaria in African hotspots",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/hand-held-sequencing-device-track-resistant-malaria-hotspot/",
+    "pubDate": "Mon, 04 Dec 2023 15:05:55 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/12/04/TELEMMGLPICT000162950048_17017008406700_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf_4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Maeve Cullinan",
+    "content": "<![CDATA[The software, being trialled in Ghana, could help identify mutations in the parasite that causes disease]]>",
+    "contentSnippet": "",
+    "guid": "fd87dfad-1c80-3465-bad0-ccde017afbaa",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/malaria",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/mosquitos",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T15:05:55.000Z"
+  },
+  {
+    "creator": "Timothy Sigsworth",
+    "title": "Ukraine-Russia war: Russian casualties in Ukraine 'top 320,000'",
+    "link": "https://www.telegraph.co.uk/world-news/2023/12/04/russia-ukraine-war-news-latest-putin-zelensky-surrender/",
+    "pubDate": "Mon, 04 Dec 2023 15:05:28 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/world-news/2023/12/04/TELEMMGLPICT000358734111_17016875300490_trans_NvBQzQNjv4BqywFt80tUnoDwkX1erFXhtlHmPOpeFd0SyQx9dn7kM_w.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Timothy Sigsworth",
+    "content": "<![CDATA[<p>Russia may have suffered more than 320,000 casualties in Ukraine, the British Ministry of Defence (MoD) has said.</p>]]>",
+    "contentSnippet": "",
+    "guid": "50562004-bece-3987-b931-22448d29e4ce",
+    "categories": [
+      {
+        "_": "topics:in-the-news/russia-ukraine-invasion-live",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:in-the-news/ukraine-crisis",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/russia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/ukraine",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/vladimir-putin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:people/volodymyr-zelenskyy",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T15:05:28.000Z"
+  },
+  {
+    "creator": "Sarah Newey",
+    "title": "World’s first ‘dengue dashboard’ could predict outbreaks months before they happen",
+    "link": "https://www.telegraph.co.uk/global-health/science-and-disease/dengue-dashboard-climate-change-mosquitoes-dieases-viruses/",
+    "pubDate": "Mon, 04 Dec 2023 13:34:24 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2023/12/04/TELEMMGLPICT000356638456_17016963076460_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Sarah Newey",
+    "content": "<![CDATA[As climate change pushes the virus into new territories, scientists work on a new tool to track the pathogen&rsquo;s spread]]>",
+    "contentSnippet": "",
+    "guid": "178464b7-2c63-3f3c-97db-3034bc8de259",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/Dengue-fever",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/mosquitos",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/climate-change",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/viruses",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:science-and-disease",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-04T13:34:24.000Z"
   }
 ]

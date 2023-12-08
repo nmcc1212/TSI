@@ -158,5 +158,149 @@
     "summary": "RA covering the specific regulations to assure the safe operation of specific S2 sub-category RPAS.",
     "id": "https://www.gov.uk/government/publications/regulatory-article-ra-1605-remotely-piloted-air-systems-rpas-class-id#2023-11-30T12:04:56Z",
     "isoDate": "2023-11-30T12:04:56.000Z"
+  },
+  {
+    "title": "Guidance: Management of health and safety in defence: arrangements (JSP 375 volume 1)",
+    "link": "https://www.gov.uk/government/publications/jsp-375-health-and-safety-handbook-volume-2",
+    "pubDate": "2023-12-07T14:39:52.000Z",
+    "summary": "Provides the guidance and best practice that will assist the user to comply management of health and safety in defence. ",
+    "id": "https://www.gov.uk/government/publications/jsp-375-health-and-safety-handbook-volume-2#2023-12-07T14:39:52Z",
+    "isoDate": "2023-12-07T14:39:52.000Z"
+  },
+  {
+    "title": "Guidance: Yoxter Range and dry training area firing notice",
+    "link": "https://www.gov.uk/government/publications/yoxter-range-and-dry-training-area-firing-notice",
+    "pubDate": "2023-12-07T14:39:25.000Z",
+    "summary": "Firing schedule for Yoxter Range and dry training area (YRDTA).",
+    "id": "https://www.gov.uk/government/publications/yoxter-range-and-dry-training-area-firing-notice#2023-12-07T14:39:25Z",
+    "isoDate": "2023-12-07T14:39:25.000Z"
+  },
+  {
+    "title": "Guidance: Langport Range and dry training area firing notice",
+    "link": "https://www.gov.uk/government/publications/langport-range-and-dry-training-area-firing-notice",
+    "pubDate": "2023-12-07T14:39:14.000Z",
+    "summary": "Firing schedule for Langport Range and dry training area (LRDTA).",
+    "id": "https://www.gov.uk/government/publications/langport-range-and-dry-training-area-firing-notice#2023-12-07T14:39:14Z",
+    "isoDate": "2023-12-07T14:39:14.000Z"
+  },
+  {
+    "title": "Guidance: Defence Estate Optimisation (DEO) Portfolio",
+    "link": "https://www.gov.uk/guidance/defence-estate-optimisation-deo-portfolio",
+    "pubDate": "2023-12-07T12:32:06.000Z",
+    "summary": "In November 2016, the Ministry of Defence (MOD) announced a 25-year strategy to modernise the Defence estate to support future capability requirements.",
+    "id": "https://www.gov.uk/guidance/defence-estate-optimisation-deo-portfolio#2023-12-07T12:32:06Z",
+    "isoDate": "2023-12-07T12:32:06.000Z"
+  },
+  {
+    "title": "News story: MOD signs infrastructure contracts at RAF Waddington – the new home of the Red Arrows",
+    "link": "https://www.gov.uk/government/news/mod-signs-infrastructure-contracts-at-raf-waddington-the-new-home-of-the-red-arrows",
+    "pubDate": "2023-12-07T12:27:24.000Z",
+    "summary": "The MOD have signed contracts to provide new and refurbished infrastructure for the Red Arrows at their new home of RAF Waddington. ",
+    "id": "https://www.gov.uk/government/news/mod-signs-infrastructure-contracts-at-raf-waddington-the-new-home-of-the-red-arrows#2023-12-07T12:27:24Z",
+    "isoDate": "2023-12-07T12:27:24.000Z"
+  },
+  {
+    "title": "Policy paper: Defence Operational Energy Strategy",
+    "link": "https://www.gov.uk/government/publications/defence-operational-energy-strategy",
+    "pubDate": "2023-12-07T11:05:56.000Z",
+    "summary": "The Defence Operational Energy Strategy (DOES) sets out how the Ministry of Defence (MOD) will respond to the global energy transition. ",
+    "id": "https://www.gov.uk/government/publications/defence-operational-energy-strategy#2023-12-07T11:05:56Z",
+    "isoDate": "2023-12-07T11:05:56.000Z"
+  },
+  {
+    "title": "Policy paper: Air Operating Concept (AirOpC)",
+    "link": "https://www.gov.uk/government/publications/air-operating-concept-airopc",
+    "pubDate": "2023-12-07T10:43:25.000Z",
+    "summary": "The RAF’s contribution to national defence and its evolution to succeed in a more contested and volatile world.",
+    "id": "https://www.gov.uk/government/publications/air-operating-concept-airopc#2023-12-07T10:43:25Z",
+    "isoDate": "2023-12-07T10:43:25.000Z"
+  },
+  {
+    "title": "Guidance: Kingsbury ranges firing times",
+    "link": "https://www.gov.uk/government/publications/kingsbury-ranges-firing-times",
+    "pubDate": "2023-12-07T10:17:38.000Z",
+    "summary": "Warning notice of firing at Kingsbury ranges.",
+    "id": "https://www.gov.uk/government/publications/kingsbury-ranges-firing-times#2023-12-07T10:17:38Z",
+    "isoDate": "2023-12-07T10:17:38.000Z"
+  },
+  {
+    "title": "Guidance: Sealand ranges firing times",
+    "link": "https://www.gov.uk/government/publications/sealand-ranges-firing-times",
+    "pubDate": "2023-12-07T10:17:08.000Z",
+    "summary": "Warning notice of firing at Sealand ranges.",
+    "id": "https://www.gov.uk/government/publications/sealand-ranges-firing-times#2023-12-07T10:17:08Z",
+    "isoDate": "2023-12-07T10:17:08.000Z"
+  },
+  {
+    "title": "Guidance: Whittington ranges firing times",
+    "link": "https://www.gov.uk/government/publications/whittington-ranges-firing-times",
+    "pubDate": "2023-12-07T10:16:31.000Z",
+    "summary": "Warning notice of firing at Whittington ranges.",
+    "id": "https://www.gov.uk/government/publications/whittington-ranges-firing-times#2023-12-07T10:16:31Z",
+    "isoDate": "2023-12-07T10:16:31.000Z"
+  },
+  {
+    "title": "Guidance: Military low flying: RAF operational low flying training timetable",
+    "link": "https://www.gov.uk/government/publications/operational-low-flying-training-timetable",
+    "pubDate": "2023-12-07T10:11:27.000Z",
+    "summary": "Royal Air Force (RAF) operational low flying training timetables in 3 areas of the UK.",
+    "id": "https://www.gov.uk/government/publications/operational-low-flying-training-timetable#2023-12-07T10:11:27Z",
+    "isoDate": "2023-12-07T10:11:27.000Z"
+  },
+  {
+    "title": "News story: Artificial intelligence companies showcase defence capabilities at inaugural ‘DAIC Connect’ event",
+    "link": "https://www.gov.uk/government/news/artificial-intelligence-companies-showcase-defence-capabilities-at-inaugural-daic-connect-event",
+    "pubDate": "2023-12-07T09:30:09.000Z",
+    "summary": "More than 70 AI companies shared how their innovations can enhance defence’s current and future capabilities at the inaugural DAIC Connect industry event on Monday 27 November.  ",
+    "id": "https://www.gov.uk/government/news/artificial-intelligence-companies-showcase-defence-capabilities-at-inaugural-daic-connect-event#2023-12-07T09:30:09Z",
+    "isoDate": "2023-12-07T09:30:09.000Z"
+  },
+  {
+    "title": "Official Statistics: UK armed forces and UK civilian operational casualty and fatality statistics: data up to 30 September 2023",
+    "link": "https://www.gov.uk/government/statistics/uk-armed-forces-and-uk-civilian-operational-casualty-and-fatality-statistics-data-up-to-30-september-2023",
+    "pubDate": "2023-12-07T09:30:09.000Z",
+    "summary": "Biannual UK armed forces and UK civilian operational casualty and fatality statistics.",
+    "id": "https://www.gov.uk/government/statistics/uk-armed-forces-and-uk-civilian-operational-casualty-and-fatality-statistics-data-up-to-30-september-2023#2023-12-07T09:30:09Z",
+    "isoDate": "2023-12-07T09:30:09.000Z"
+  },
+  {
+    "title": "News story: Defence Secretary visits Israel and Occupied Palestinian Territories to explore options to boost humanitarian aid",
+    "link": "https://www.gov.uk/government/news/defence-secretary-visits-israel-and-occupied-palestinian-territories-to-explore-options-to-boost-humanitarian-aid",
+    "pubDate": "2023-12-07T00:01:11.000Z",
+    "summary": "As part of ongoing diplomatic efforts in the Middle East, the Defence Secretary travels to the Occupied Palestinian Territories (OPTs) and Israel this week. ",
+    "id": "https://www.gov.uk/government/news/defence-secretary-visits-israel-and-occupied-palestinian-territories-to-explore-options-to-boost-humanitarian-aid#2023-12-07T00:01:11Z",
+    "isoDate": "2023-12-07T00:01:11.000Z"
+  },
+  {
+    "title": "FOI release: FOI responses published by MOD: week commencing 4 December 2023",
+    "link": "https://www.gov.uk/government/publications/foi-responses-published-by-mod-week-commencing-4-december-2023",
+    "pubDate": "2023-12-06T11:51:28.000Z",
+    "summary": "Ministry of Defence (MOD) Freedom of Information (FOI) responses released during the week commencing 4 December 2023",
+    "id": "https://www.gov.uk/government/publications/foi-responses-published-by-mod-week-commencing-4-december-2023#2023-12-06T11:51:28Z",
+    "isoDate": "2023-12-06T11:51:28.000Z"
+  },
+  {
+    "title": "News story: Defence Business Services Festive Opening Hours for Customers",
+    "link": "https://www.gov.uk/government/news/defence-business-services-festive-opening-hours-for-customers",
+    "pubDate": "2023-12-06T11:09:43.000Z",
+    "summary": "Opening hours for the Veterans UK Helpline, Joint Personnel Administration Centre, MOD Medals Office and Joint Casualty and Compassionate Centre.",
+    "id": "https://www.gov.uk/government/news/defence-business-services-festive-opening-hours-for-customers#2023-12-06T11:09:43Z",
+    "isoDate": "2023-12-06T11:09:43.000Z"
+  },
+  {
+    "title": "Guidance: Military low flying: MOD sponsored air exercises",
+    "link": "https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises",
+    "pubDate": "2023-12-06T10:27:35.000Z",
+    "summary": "MOD sponsored low flying exercises within the UK low flying system.",
+    "id": "https://www.gov.uk/government/publications/military-low-flying-mod-sponsored-air-exercises#2023-12-06T10:27:35Z",
+    "isoDate": "2023-12-06T10:27:35.000Z"
+  },
+  {
+    "title": "Guidance: Holcombe Moor firing times",
+    "link": "https://www.gov.uk/government/publications/holcombe-moor-firing-times",
+    "pubDate": "2023-12-06T10:16:57.000Z",
+    "summary": "Dates and times when Holcombe Moor's training area is being used for live firing.",
+    "id": "https://www.gov.uk/government/publications/holcombe-moor-firing-times#2023-12-06T10:16:57Z",
+    "isoDate": "2023-12-06T10:16:57.000Z"
   }
 ]
