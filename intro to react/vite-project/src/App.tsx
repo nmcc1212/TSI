@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import NavBar from './navBar.js';
+import NavBar from './navBar';
 import NewsList from './newsList';
 import { SetStateAction, useState } from "react";
 
