@@ -44,9 +44,8 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string }
   useEffect(() => {
     // Filter news locally based on the search query
     const filtered = newsData.filter((item) =>
-    item.title && props.searchQuery &&
-    item.title.toLowerCase().includes(props.searchQuery.toLowerCase())
-  );
+      item.title.toLowerCase().includes(props.searchQuery.toLowerCase())
+    );
     setFilteredNews(filtered);
 
     // Extract words from titles and descriptions
@@ -54,7 +53,7 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string }
     filtered.forEach((item) => {
       const titleWords = item.title.toLowerCase().split(' ');
       const descriptionWords = item.contentSnippet.toLowerCase().split(' ');
-      words.push(...titleWords, ); // ...descriptionWords
+      words.push(...titleWords, ...descriptionWords);
     });
 
     // Count the occurrence of each word
@@ -85,6 +84,10 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string }
     </div>
   );
 }
+
+// ... (rest of the code remains unchanged)
+
+
 interface NewsItemType {
   title: string;
   link: string;

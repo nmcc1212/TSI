@@ -639,5 +639,52 @@
       "UK"
     ],
     "isoDate": "2023-12-14T15:05:45.000Z"
+  },
+  {
+    "creator": "Rhys Jones",
+    "date": "2023-12-15T15:50:04+00:00",
+    "title": "Grenades detonated during Ukraine village council meeting, wounding 26",
+    "link": "https://www.independent.co.uk/tv/news/ukraine-grenades-council-meeting-b2464857.html",
+    "pubDate": "Fri, 15 Dec 2023 15:50:04 GMT",
+    "dc:creator": "Rhys Jones",
+    "dc:date": "2023-12-15T15:50:04+00:00",
+    "content": "<p>Watch the moment a Ukrainian councillor detonates two grenades at a village meeting on Friday, 15 December.</p>",
+    "contentSnippet": "Watch the moment a Ukrainian councillor detonates two grenades at a village meeting on Friday, 15 December.",
+    "guid": "b2464857",
+    "categories": [
+      "News",
+      "Indy TV"
+    ],
+    "isoDate": "2023-12-15T15:50:04.000Z"
+  },
+  {
+    "creator": "Chris Stevenson",
+    "date": "2023-12-15T17:28:53+00:00",
+    "title": "The battle to get £43bn in EU aid to Ukraine after Hungary’s Orban blocks it – and why it’s so important",
+    "link": "https://www.independent.co.uk/news/world/europe/ukraine-war-russia-eu-aid-funds-b2464937.html",
+    "pubDate": "Fri, 15 Dec 2023 17:28:53 GMT",
+    "dc:creator": "Chris Stevenson",
+    "dc:date": "2023-12-15T17:28:53+00:00",
+    "content": "<p>With the US Congress also struggling to agree on sending fresh funds to Kyiv, this is a key moment </p>",
+    "contentSnippet": "With the US Congress also struggling to agree on sending fresh funds to Kyiv, this is a key moment",
+    "guid": "b2464937",
+    "categories": [
+      "Europe",
+      "World"
+    ],
+    "isoDate": "2023-12-15T17:28:53.000Z"
+  },
+  {
+    "creator": "Raf Casert",
+    "date": "2023-12-15T17:11:03+00:00",
+    "title": "The EU's drip-feed of aid frustrates Ukraine, despite the promise of membership talks",
+    "link": "https://www.independent.co.uk/news/ukraine-ap-viktor-orban-russia-brussels-b2464936.html",
+    "pubDate": "Fri, 15 Dec 2023 17:11:03 GMT",
+    "dc:creator": "Raf Casert",
+    "dc:date": "2023-12-15T17:11:03+00:00",
+    "content": "Drop by drop, Ukraine is being supplied with aid and arms from its European allies, at a time when it becomes ever clearer it would take a deluge to turn its war against Russia around",
+    "contentSnippet": "Drop by drop, Ukraine is being supplied with aid and arms from its European allies, at a time when it becomes ever clearer it would take a deluge to turn its war against Russia around",
+    "guid": "b2464936",
+    "isoDate": "2023-12-15T17:11:03.000Z"
   }
 ]
