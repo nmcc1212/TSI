@@ -23,6 +23,7 @@ jobs:
       - name: run tests
         run: |
           cd intro\ to\ react/vite-project
+          ls  
           npm run test
       - uses: sonarsource/sonarqube-scan-action@master
         env:

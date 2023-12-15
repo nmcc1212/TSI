@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
-  <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_navBar.test.js">
-    <testCase name="NavBar component renders the navbar" duration="28"/>
-    <testCase name="NavBar component updates the query state when the search changes" duration="14"/>
-    <testCase name="NavBar component calls sendQueryToParent when the search button is clicked" duration="10"/>
-  </file>
   <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_newsList.test.js">
     <testCase name="NewsList renders loading state initially" duration="2"/>
-    <testCase name="NewsList renders news items after data fetching" duration="27"/>
+    <testCase name="NewsList renders news items after data fetching" duration="28"/>
+  </file>
+  <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_navBar.test.js">
+    <testCase name="NavBar component renders the navbar" duration="23"/>
+    <testCase name="NavBar component updates the query state when the search changes" duration="15"/>
+    <testCase name="NavBar component calls sendQueryToParent when the search button is clicked" duration="7"/>
   </file>
 </testExecutions>
