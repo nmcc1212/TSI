@@ -7174,5 +7174,3038 @@
       }
     ],
     "isoDate": "2023-12-06T00:00:19.000Z"
+  },
+  {
+    "creator": "Constant Méheut and Andrew E. Kramer",
+    "title": "E.U. Accession Talks Lift Morale in Ukraine",
+    "link": "https://www.nytimes.com/2023/12/15/world/europe/ukraine-eu-membership.html",
+    "pubDate": "Fri, 15 Dec 2023 15:33:50 +0000",
+    "dc:creator": "Constant Méheut and Andrew E. Kramer",
+    "content": "The European Union’s willingness to open accession talks will lift morale, but the more immediate prospects for financial support from allies is sobering.",
+    "contentSnippet": "The European Union’s willingness to open accession talks will lift morale, but the more immediate prospects for financial support from allies is sobering.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/europe/ukraine-eu-membership.html",
+    "categories": [
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hungary",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T15:33:50.000Z"
+  },
+  {
+    "creator": "The New York Times",
+    "title": "Israel-Hamas War: Biden Adviser Plays Down Differences With Israel Over War Effort",
+    "link": "https://www.nytimes.com/live/2023/12/15/world/israel-hamas-war-gaza-news",
+    "pubDate": "Fri, 15 Dec 2023 15:32:13 +0000",
+    "dc:creator": "The New York Times",
+    "content": "National Security Adviser Jake Sullivan, in Tel Aviv, sought to demonstrate that the U.S. and Israel are on the same page in the war against Hamas in Gaza.",
+    "contentSnippet": "National Security Adviser Jake Sullivan, in Tel Aviv, sought to demonstrate that the U.S. and Israel are on the same page in the war against Hamas in Gaza.",
+    "guid": "https://www.nytimes.com/live/2023/12/15/world/israel-hamas-war-gaza-news",
+    "isoDate": "2023-12-15T15:32:13.000Z"
+  },
+  {
+    "creator": "Ivan Nechepurenko",
+    "title": "Russia’s Central Bank Raises Rates to 16 Percent",
+    "link": "https://www.nytimes.com/2023/12/15/world/europe/russia-interest-rates-inflation.html",
+    "pubDate": "Fri, 15 Dec 2023 15:14:03 +0000",
+    "dc:creator": "Ivan Nechepurenko",
+    "content": "The bank warned that its tight monetary policy would continue “for a long period” as it attempts slow an economy in danger of overheating.",
+    "contentSnippet": "The bank warned that its tight monetary policy would continue “for a long period” as it attempts slow an economy in danger of overheating.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/europe/russia-interest-rates-inflation.html",
+    "categories": [
+      {
+        "_": "Banking and Financial Institutions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Economic Conditions and Trends",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Interest Rates",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Central Bank of Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Nabiullina, Elvira S",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T15:14:03.000Z"
+  },
+  {
+    "creator": "Emily Anthes",
+    "title": "Bird Flu Is Still Causing Havoc. Here’s The Latest.",
+    "link": "https://www.nytimes.com/2023/12/15/science/birds-flu-h5n1.html",
+    "pubDate": "Fri, 15 Dec 2023 14:55:49 +0000",
+    "dc:creator": "Emily Anthes",
+    "content": "The virus, which recently reached the Antarctic region for the first time, is surging again in North America.",
+    "contentSnippet": "The virus, which recently reached the Antarctic region for the first time, is surging again in North America.",
+    "guid": "https://www.nytimes.com/2023/12/15/science/birds-flu-h5n1.html",
+    "categories": [
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Avian Influenza",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mammals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Birds",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Viruses",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wildlife Die-Offs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Antarctic Regions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "your-feed-health",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "your-feed-animals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T14:55:49.000Z"
+  },
+  {
+    "creator": "Isabel Kershner",
+    "title": "As Israel Weighs Honoring Oct. 7 Victims, Exhibit Memorializes Trance Festival",
+    "link": "https://www.nytimes.com/2023/12/15/world/middleeast/israel-hamas-nova-festival-exhibition.html",
+    "pubDate": "Fri, 15 Dec 2023 14:43:00 +0000",
+    "dc:creator": "Isabel Kershner",
+    "content": "Israelis seeking to memorialize the hundreds killed in the Hamas assault on a trance festival, and help the survivors, retrieved hundreds of objects from the site.",
+    "contentSnippet": "Israelis seeking to memorialize the hundreds killed in the Hamas assault on a trance festival, and help the survivors, retrieved hundreds of objects from the site.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/middleeast/israel-hamas-nova-festival-exhibition.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Assaults",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mass Shootings",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Monuments and Memorials (Structures)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T14:43:00.000Z"
+  },
+  {
+    "creator": "Alan Feuer",
+    "title": "U.S. Officials and García Luna Met Often, Records Show",
+    "link": "https://www.nytimes.com/2023/12/15/world/americas/us-mexico-genaro-garcia-luna.html",
+    "pubDate": "Fri, 15 Dec 2023 14:30:09 +0000",
+    "dc:creator": "Alan Feuer",
+    "content": "Genaro García Luna filed a new trial bid saying the former Mexican official met with U.S. officials more than 180 times and was also “extensively vetted” by the C.I.A. and D.E.A.",
+    "contentSnippet": "Genaro García Luna filed a new trial bid saying the former Mexican official met with U.S. officials more than 180 times and was also “extensively vetted” by the C.I.A. and D.E.A.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/americas/us-mexico-genaro-garcia-luna.html",
+    "categories": [
+      {
+        "_": "Decisions and Verdicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Central Intelligence Agency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Drug Enforcement Administration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Sinaloa Cartel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Garcia Luna, Genaro",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Mexico",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T14:30:09.000Z"
+  },
+  {
+    "creator": "Thomas Gibbons-Neff",
+    "title": "Ukraine Military Recruiters Use Harsh Tactics to Fill Ranks",
+    "link": "https://www.nytimes.com/2023/12/15/world/europe/ukraine-military-recruitment.html",
+    "pubDate": "Fri, 15 Dec 2023 14:20:00 +0000",
+    "dc:creator": "Thomas Gibbons-Neff",
+    "content": "Ukrainian men are reporting incidents of wrongful draft notices, unprofessional medical commissions and coercive mobilization tactics.",
+    "contentSnippet": "Ukrainian men are reporting incidents of wrongful draft notices, unprofessional medical commissions and coercive mobilization tactics.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/europe/ukraine-military-recruitment.html",
+    "categories": [
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Draft and Recruitment (Military)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T14:20:00.000Z"
+  },
+  {
+    "creator": "Damien Cave and Mark Abramson",
+    "title": "U.S. Military Returns to the Jungle, Training for Future Threats",
+    "link": "https://www.nytimes.com/2023/12/15/world/asia/us-military-jungle-training.html",
+    "pubDate": "Fri, 15 Dec 2023 14:13:32 +0000",
+    "dc:creator": "Damien Cave and Mark Abramson",
+    "content": "Far from the deserts of the Middle East, the Army is instructing troops in Hawaii on the skills needed for a potential clash with China.",
+    "contentSnippet": "Far from the deserts of the Middle East, the Army is instructing troops in Hawaii on the skills needed for a potential clash with China.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/asia/us-military-jungle-training.html",
+    "categories": [
+      {
+        "_": "United States Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Army",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United States Marine Corps",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Hawaii",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T14:13:32.000Z"
+  },
+  {
+    "creator": "Megan Specia",
+    "title": "Prince Harry’s Phone Was Hacked by U.K. Tabloid, Judge Rules in Landmark Case",
+    "link": "https://www.nytimes.com/2023/12/15/world/europe/prince-harry-tabloid-hacking-lawsuit-ruling.html",
+    "pubDate": "Fri, 15 Dec 2023 13:38:23 +0000",
+    "dc:creator": "Megan Specia",
+    "content": "The ruling was a major victory for the royal in his long-running campaign against media intrusion into his life — and a blow to Britain’s tabloid press.",
+    "contentSnippet": "The ruling was a major victory for the royal in his long-running campaign against media intrusion into his life — and a blow to Britain’s tabloid press.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/europe/prince-harry-tabloid-hacking-lawsuit-ruling.html",
+    "categories": [
+      {
+        "_": "Royal Families",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Decisions and Verdicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Privacy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Newspapers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mirror Group Newspapers PLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Harry, Duke of Sussex",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T13:38:23.000Z"
+  },
+  {
+    "creator": "Stephen Castle",
+    "title": "Missing Boy Who Was Found in France Is Expected Back in U.K. Soon",
+    "link": "https://www.nytimes.com/2023/12/15/world/europe/alex-batty-missing-boy-france-uk.html",
+    "pubDate": "Fri, 15 Dec 2023 13:36:17 +0000",
+    "dc:creator": "Stephen Castle",
+    "content": "Alex Batty vanished six years ago when he was 11 on a family trip. The police want to question his mother and grandfather about his disappearance.",
+    "contentSnippet": "Alex Batty vanished six years ago when he was 11 on a family trip. The police want to question his mother and grandfather about his disappearance.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/europe/alex-batty-missing-boy-france-uk.html",
+    "categories": [
+      {
+        "_": "Missing Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Police",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "France",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Pyrenees Mountains",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Toulouse (France)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T13:36:17.000Z"
+  },
+  {
+    "creator": "Christopher F. Schuetze",
+    "title": "German Spy Official Goes on Trial Accused of Selling Secrets to Russia",
+    "link": "https://www.nytimes.com/2023/12/14/world/europe/germany-spy-trial-russia.html",
+    "pubDate": "Fri, 15 Dec 2023 13:27:00 +0000",
+    "dc:creator": "Christopher F. Schuetze",
+    "content": "The trial, held under stringent security conditions and expected to last months, caps one of the gravest espionage scandals in recent German history.",
+    "contentSnippet": "The trial, held under stringent security conditions and expected to last months, caps one of the gravest espionage scandals in recent German history.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/europe/germany-spy-trial-russia.html",
+    "categories": [
+      {
+        "_": "Germany",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Classified Information and State Secrets",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Linke, Carsten",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Federal Intelligence Service (Germany)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Federal Security Service",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T13:27:00.000Z"
+  },
+  {
+    "creator": "Victor Mather",
+    "title": "A British Boy, Missing for 6 Years, Turns Up in France",
+    "link": "https://www.nytimes.com/2023/12/14/world/europe/british-boy-alex-batty-missing-found-france.html",
+    "pubDate": "Fri, 15 Dec 2023 13:19:16 +0000",
+    "dc:creator": "Victor Mather",
+    "content": "Alex Batty, of Oldham, England, now a teenager, was found by a delivery driver walking on a rainy night in Chalabre. His mother and grandfather are wanted in connection with his disappearance.",
+    "contentSnippet": "Alex Batty, of Oldham, England, now a teenager, was found by a delivery driver walking on a rainy night in Chalabre. His mother and grandfather are wanted in connection with his disappearance.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/europe/british-boy-alex-batty-missing-found-france.html",
+    "categories": [
+      {
+        "_": "Missing Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "England",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T13:19:16.000Z"
+  },
+  {
+    "creator": "John Yoon",
+    "title": "Israel Recovers the Bodies of 3 Hostages in Gaza",
+    "link": "https://www.nytimes.com/2023/12/15/world/middleeast/israel-hostages-gaza-soldiers-elia-toledano.html",
+    "pubDate": "Fri, 15 Dec 2023 10:47:30 +0000",
+    "dc:creator": "John Yoon",
+    "content": "The Israeli military said it had retrieved the bodies of two soldiers and a civilian who were kidnapped during the Hamas-led attacks on Oct. 7.",
+    "contentSnippet": "The Israeli military said it had retrieved the bodies of two soldiers and a civilian who were kidnapped during the Hamas-led attacks on Oct. 7.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/middleeast/israel-hostages-gaza-soldiers-elia-toledano.html",
+    "categories": [
+      {
+        "_": "Kidnapping and Hostages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War and Armed Conflicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T10:47:30.000Z"
+  },
+  {
+    "creator": "Ben Hubbard",
+    "title": "Displaced Gazans Put Pressure on Egypt’s Border",
+    "link": "https://www.nytimes.com/2023/12/14/world/middleeast/gaza-border-rafah-egypt.html",
+    "pubDate": "Fri, 15 Dec 2023 10:22:25 +0000",
+    "dc:creator": "Ben Hubbard",
+    "content": "Hundreds of thousands of Palestinians have fled to southern Gaza, but they cannot cross into Egypt because the border is heavily fortified and Cairo is determined to keep it closed.",
+    "contentSnippet": "Hundreds of thousands of Palestinians have fled to southern Gaza, but they cannot cross into Egypt because the border is heavily fortified and Cairo is determined to keep it closed.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/middleeast/gaza-border-rafah-egypt.html",
+    "categories": [
+      {
+        "_": "Rafah (Gaza Strip)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Border Barriers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Egypt",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Sinai Peninsula (Egypt)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T10:22:25.000Z"
+  },
+  {
+    "creator": "Tavares Cebola and John Eligon",
+    "title": "Using Dance to Tell the Story of Mozambique’s Struggles",
+    "link": "https://www.nytimes.com/2023/12/15/world/africa/mozambique-dance-choreographer-canda.html",
+    "pubDate": "Fri, 15 Dec 2023 10:03:07 +0000",
+    "dc:creator": "Tavares Cebola and John Eligon",
+    "content": "Mozambique’s most influential contemporary choreographer uses bodies in motion to artfully — and clearly — trace the complex recent history of his country.",
+    "contentSnippet": "Mozambique’s most influential contemporary choreographer uses bodies in motion to artfully — and clearly — trace the complex recent history of his country.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/africa/mozambique-dance-choreographer-canda.html",
+    "categories": [
+      {
+        "_": "Mozambique",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Dancing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Panaibra Gabriel Canda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Content Type: Personal Profile",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Frelimo",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Colonization",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Culture (Arts)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T10:03:07.000Z"
+  },
+  {
+    "creator": "Victoria Kim and Aaron Boxerman",
+    "title": "Sullivan says both the U.S. and Israel expect fighting to slow down eventually.",
+    "link": "https://www.nytimes.com/2023/12/15/world/middleeast/jake-sullivan-will-meet-israels-president-as-the-allies-diverge-on-war-strategy.html",
+    "pubDate": "Fri, 15 Dec 2023 10:02:19 +0000",
+    "dc:creator": "Victoria Kim and Aaron Boxerman",
+    "content": "",
+    "contentSnippet": "",
+    "guid": "https://www.nytimes.com/2023/12/15/world/middleeast/jake-sullivan-will-meet-israels-president-as-the-allies-diverge-on-war-strategy.html",
+    "isoDate": "2023-12-15T10:02:19.000Z"
+  },
+  {
+    "creator": "Aaron Boxerman and Talya Minsberg",
+    "title": "Private Gun Ownership in Israel Spikes After Hamas Attacks",
+    "link": "https://www.nytimes.com/2023/12/15/world/middleeast/israel-gun-ownership-spikes.html",
+    "pubDate": "Fri, 15 Dec 2023 10:02:10 +0000",
+    "dc:creator": "Aaron Boxerman and Talya Minsberg",
+    "content": "In a country already bristling with armed soldiers and reservists, a new sense of insecurity is pushing civilians to seek more personal weapons.",
+    "contentSnippet": "In a country already bristling with armed soldiers and reservists, a new sense of insecurity is pushing civilians to seek more personal weapons.",
+    "guid": "https://www.nytimes.com/2023/12/15/world/middleeast/israel-gun-ownership-spikes.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Firearms",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gun Control",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Jewish Power Party (Otzma Yehudit)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Ben-Gvir, Itamar",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "West Bank",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T10:02:10.000Z"
+  },
+  {
+    "creator": "Matina Stevis-Gridneff and Steven Erlanger",
+    "title": "Hungary Blocks E.U. Aid for Ukraine",
+    "link": "https://www.nytimes.com/2023/12/14/world/europe/eu-ukraine-hungary-aid.html",
+    "pubDate": "Fri, 15 Dec 2023 08:22:38 +0000",
+    "dc:creator": "Matina Stevis-Gridneff and Steven Erlanger",
+    "content": "President Volodymyr Zelensky of Ukraine welcomed the breakthrough as talks on joining the bloc officially opened. Securing more financial aid will have to wait.",
+    "contentSnippet": "President Volodymyr Zelensky of Ukraine welcomed the breakthrough as talks on joining the bloc officially opened. Securing more financial aid will have to wait.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/europe/eu-ukraine-hungary-aid.html",
+    "categories": [
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Orban, Viktor",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hungary",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T08:22:38.000Z"
+  },
+  {
+    "creator": "Johanna Lemola and Emma Bubola",
+    "title": "Finland Closes Border With Russia Again",
+    "link": "https://www.nytimes.com/2023/12/14/world/europe/finland-border-russia.html",
+    "pubDate": "Fri, 15 Dec 2023 08:02:57 +0000",
+    "dc:creator": "Johanna Lemola and Emma Bubola",
+    "content": "The country accused Russia of resuming an effort to funnel mostly African and Middle Eastern migrants into Finland in an effort to destabilize it.",
+    "contentSnippet": "The country accused Russia of resuming an effort to funnel mostly African and Middle Eastern migrants into Finland in an effort to destabilize it.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/europe/finland-border-russia.html",
+    "categories": [
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Illegal Immigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Frontex",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Finland",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T08:02:57.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Friday Briefing",
+    "link": "https://www.nytimes.com/2023/12/15/briefing/gaza-israel-biden-ukraine-hungary.html",
+    "pubDate": "Fri, 15 Dec 2023 05:04:25 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "A U.S. response as conditions deteriorate in Gaza.",
+    "contentSnippet": "A U.S. response as conditions deteriorate in Gaza.",
+    "guid": "https://www.nytimes.com/2023/12/15/briefing/gaza-israel-biden-ukraine-hungary.html",
+    "isoDate": "2023-12-15T05:04:25.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Stories About Wonder, Fireworks and Vegemite",
+    "link": "https://www.nytimes.com/2023/12/14/world/australia/australia-letter-wonder-fireworks-vegemite.html",
+    "pubDate": "Fri, 15 Dec 2023 02:40:26 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "Twelve months of counterprogramming from the Australia bureau.",
+    "contentSnippet": "Twelve months of counterprogramming from the Australia bureau.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/australia/australia-letter-wonder-fireworks-vegemite.html",
+    "categories": [
+      {
+        "_": "Australia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T02:40:26.000Z"
+  },
+  {
+    "creator": "Christopher F. Schuetze",
+    "title": "Germany Accuses Four Men It Links to Hamas of Plotting Attacks on Jews",
+    "link": "https://www.nytimes.com/2023/12/14/world/middleeast/four-men-hamas-attack-plot-jews.html",
+    "pubDate": "Fri, 15 Dec 2023 01:07:58 +0000",
+    "dc:creator": "Christopher F. Schuetze",
+    "content": "Three of the men were taken into custody in Berlin and another was arrested by Dutch police in the port city of Rotterdam, according to Germany’s justice minister.",
+    "contentSnippet": "Three of the men were taken into custody in Berlin and another was arrested by Dutch police in the port city of Rotterdam, according to Germany’s justice minister.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/middleeast/four-men-hamas-attack-plot-jews.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Berlin (Germany)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Rotterdam (Netherlands)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T01:07:58.000Z"
+  },
+  {
+    "creator": "Adam Entous, Aaron Boxerman and Thomas Fuller",
+    "title": "Biden Administration Urges Israel to Scale Down Its War in Gaza",
+    "link": "https://www.nytimes.com/2023/12/14/us/politics/israel-gaza-hamas-us.html",
+    "pubDate": "Fri, 15 Dec 2023 01:05:17 +0000",
+    "dc:creator": "Adam Entous, Aaron Boxerman and Thomas Fuller",
+    "content": "The call for a more targeted phase in the war appeared to be the most definitive effort yet by the United States to restrain Israel in its retaliation against Hamas for the attacks it led on Oct. 7.",
+    "contentSnippet": "The call for a more targeted phase in the war appeared to be the most definitive effort yet by the United States to restrain Israel in its retaliation against Hamas for the attacks it led on Oct. 7.",
+    "guid": "https://www.nytimes.com/2023/12/14/us/politics/israel-gaza-hamas-us.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Netanyahu, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T01:05:17.000Z"
+  },
+  {
+    "creator": "Hiba Yazbek, Ephrat Livni and Aaron Boxerman",
+    "title": "At Least 12 Killed in Israeli Raid in West Bank, Palestinians Say",
+    "link": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-jenin-12-killed.html",
+    "pubDate": "Fri, 15 Dec 2023 00:28:57 +0000",
+    "dc:creator": "Hiba Yazbek, Ephrat Livni and Aaron Boxerman",
+    "content": "Israel said three soldiers were disciplined for video showing some of them singing a Jewish prayer in a mosque in Jenin, where Israeli forces concluded a 60-hour raid.",
+    "contentSnippet": "Israel said three soldiers were disciplined for video showing some of them singing a Jewish prayer in a mosque in Jenin, where Israeli forces concluded a 60-hour raid.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-jenin-12-killed.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mosques",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T00:28:57.000Z"
+  },
+  {
+    "creator": "Flávia Milhorance and Paulo Motoryn",
+    "title": "Brazil’s Congress Weakens Protection of Indigenous Lands, Defying Lula",
+    "link": "https://www.nytimes.com/2023/12/14/world/americas/brazil-indigenous-land-law.html",
+    "pubDate": "Thu, 14 Dec 2023 23:41:28 +0000",
+    "dc:creator": "Flávia Milhorance and Paulo Motoryn",
+    "content": "While Brazil vows to fight climate change, lawmakers approved a law making it harder for Indigenous tribes to block deforestation, overriding a veto by President Luiz Inácio Lula da Silva.",
+    "contentSnippet": "While Brazil vows to fight climate change, lawmakers approved a law making it harder for Indigenous tribes to block deforestation, overriding a veto by President Luiz Inácio Lula da Silva.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/americas/brazil-indigenous-land-law.html",
+    "categories": [
+      {
+        "_": "Indigenous People",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United Nations Framework Convention on Climate Change",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Forests and Forestry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Da Silva, Luiz Inacio Lula",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Amazon Jungle",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Brazil",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T23:41:28.000Z"
+  },
+  {
+    "creator": "Michael D. Shear",
+    "title": "U.S. Naval Officer Is Released From Jail in Japan After Yearslong Effort",
+    "link": "https://www.nytimes.com/2023/12/14/us/politics/alkonis-us-japan.html",
+    "pubDate": "Thu, 14 Dec 2023 23:39:10 +0000",
+    "dc:creator": "Michael D. Shear",
+    "content": "The fallout over the case has strained diplomatic ties between Japan and the United States.",
+    "contentSnippet": "The fallout over the case has strained diplomatic ties between Japan and the United States.",
+    "guid": "https://www.nytimes.com/2023/12/14/us/politics/alkonis-us-japan.html",
+    "categories": [
+      {
+        "_": "Alkonis, Ridge",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Prisons and Prisoners",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Sentences (Criminal)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Japan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Navy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Justice Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Traffic Accidents and Safety",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T23:39:10.000Z"
+  },
+  {
+    "creator": "Christoph Koettl and Christiaan Triebert",
+    "title": "Satellite Imagery and Video Shows Some Gazan Cemeteries Razed by Israeli Forces",
+    "link": "https://www.nytimes.com/2023/12/14/world/middleeast/gaza-cemeteries-damage-israel.html",
+    "pubDate": "Thu, 14 Dec 2023 23:08:50 +0000",
+    "dc:creator": "Christoph Koettl and Christiaan Triebert",
+    "content": "The laws of armed conflict consider the intentional destruction of religious sites without military necessity a possible war crime.",
+    "contentSnippet": "The laws of armed conflict consider the intentional destruction of religious sites without military necessity a possible war crime.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/middleeast/gaza-cemeteries-damage-israel.html",
+    "categories": [
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Jabaliya Refugee Camp (Gaza Strip)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T23:08:50.000Z"
+  },
+  {
+    "creator": "Justin Porter",
+    "title": "Friday Briefing: U.S. Urges Israel to Scale Back Its War",
+    "link": "https://www.nytimes.com/2023/12/14/briefing/israel-hamas-ukraine-eu-china-youtube.html",
+    "pubDate": "Thu, 14 Dec 2023 22:23:40 +0000",
+    "dc:creator": "Justin Porter",
+    "content": "Plus, why you might be an early riser.",
+    "contentSnippet": "Plus, why you might be an early riser.",
+    "guid": "https://www.nytimes.com/2023/12/14/briefing/israel-hamas-ukraine-eu-china-youtube.html",
+    "categories": [
+      {
+        "_": "Far East, South and Southeast Asia and Pacific Areas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "YouTube.com",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T22:23:40.000Z"
+  },
+  {
+    "creator": "Hiba Yazbek",
+    "title": "3-Day Israeli Raid in Jenin Kills at Least 12, Palestinian Officials Say",
+    "link": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-west-bank-jenin-raid.html",
+    "pubDate": "Thu, 14 Dec 2023 22:12:34 +0000",
+    "dc:creator": "Hiba Yazbek",
+    "content": "Residents said Israeli military vehicles left the city on Thursday, signaling an end to the operation inside Jenin, a stronghold of Palestinian resistance in the occupied West Bank.",
+    "contentSnippet": "Residents said Israeli military vehicles left the city on Thursday, signaling an end to the operation inside Jenin, a stronghold of Palestinian resistance in the occupied West Bank.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-west-bank-jenin-raid.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Jenin (West Bank)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "West Bank",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War and Armed Conflicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hospitals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T22:12:34.000Z"
+  },
+  {
+    "creator": "Valerie Hopkins and Anton Troianovski",
+    "title": "Takeaways From Putin’s Address on the Ukraine War and More",
+    "link": "https://www.nytimes.com/2023/12/14/world/europe/putin-speech-russia.html",
+    "pubDate": "Thu, 14 Dec 2023 22:02:33 +0000",
+    "dc:creator": "Valerie Hopkins and Anton Troianovski",
+    "content": "The Russian leader suggested that Western support for Ukraine was drying up and also gave his first comments about Evan Gershkovich, an American reporter detained in Russia.",
+    "contentSnippet": "The Russian leader suggested that Western support for Ukraine was drying up and also gave his first comments about Evan Gershkovich, an American reporter detained in Russia.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/europe/putin-speech-russia.html",
+    "categories": [
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T22:02:33.000Z"
+  },
+  {
+    "creator": "Ephrat Livni and Aaron Boxerman",
+    "title": "Israel Says It Disciplined Soldiers Who Sang a Jewish Prayer at a Mosque in Jenin",
+    "link": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-soldiers-prayer-jenin-mosque.html",
+    "pubDate": "Thu, 14 Dec 2023 21:39:01 +0000",
+    "dc:creator": "Ephrat Livni and Aaron Boxerman",
+    "content": "With tensions in the area already high, the soldiers were “removed from operational activity” because of behavior that stood in “complete opposition” to the Israeli military’s values, it said.",
+    "contentSnippet": "With tensions in the area already high, the soldiers were “removed from operational activity” because of behavior that stood in “complete opposition” to the Israeli military’s values, it said.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-soldiers-prayer-jenin-mosque.html",
+    "categories": [
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Jenin (West Bank)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "West Bank",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T21:39:01.000Z"
+  },
+  {
+    "creator": "Valerie Hopkins and Anton Troianovski",
+    "title": "Putin Suggests He Has a Winning Hand in His War in Ukraine",
+    "link": "https://www.nytimes.com/2023/12/14/world/europe/putin-news-conference-russia-ukraine.html",
+    "pubDate": "Thu, 14 Dec 2023 21:35:14 +0000",
+    "dc:creator": "Valerie Hopkins and Anton Troianovski",
+    "content": "The Russian leader, in his annual news conference, said he was open to peace talks but showed no hint of compromise. “Peace will come when we achieve our goals,” he said.",
+    "contentSnippet": "The Russian leader, in his annual news conference, said he was open to peace talks but showed no hint of compromise. “Peace will come when we achieve our goals,” he said.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/europe/putin-news-conference-russia-ukraine.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gershkovich, Evan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Political Prisoners",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wall Street Journal",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Whelan, Paul N",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T21:35:14.000Z"
+  },
+  {
+    "creator": "Eshe Nelson",
+    "title": "Bank of England Keeps Interest Rates at 5.25%, a 15-Year High",
+    "link": "https://www.nytimes.com/2023/12/14/business/bank-of-england-interest-rates.html",
+    "pubDate": "Thu, 14 Dec 2023 17:29:12 +0000",
+    "dc:creator": "Eshe Nelson",
+    "content": "The Bank of England and European Central Bank both held their benchmark rates steady. Even though inflation has been slowing, they gave no indication of when rates would start to come down.",
+    "contentSnippet": "The Bank of England and European Central Bank both held their benchmark rates steady. Even though inflation has been slowing, they gave no indication of when rates would start to come down.",
+    "guid": "https://www.nytimes.com/2023/12/14/business/bank-of-england-interest-rates.html",
+    "categories": [
+      {
+        "_": "Banking and Financial Institutions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Economic Conditions and Trends",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Inflation (Economics)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Prices (Fares, Fees and Rates)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bank of England",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T17:29:12.000Z"
+  },
+  {
+    "creator": "Claire Moses",
+    "title": "The North Sea Can Be Scary. But Maybe Not TikTok Scary.",
+    "link": "https://www.nytimes.com/2023/12/14/style/north-sea-tiktok.html",
+    "pubDate": "Thu, 14 Dec 2023 16:57:33 +0000",
+    "dc:creator": "Claire Moses",
+    "content": "A trend nobody asked for is here: Terrifying videos of unruly waves.",
+    "contentSnippet": "A trend nobody asked for is here: Terrifying videos of unruly waves.",
+    "guid": "https://www.nytimes.com/2023/12/14/style/north-sea-tiktok.html",
+    "categories": [
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ships and Shipping",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fish and Other Marine Life",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Oceans and Seas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "North Sea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T16:57:33.000Z"
+  },
+  {
+    "creator": "Abdi Latif Dahir",
+    "title": "Second Tanzanian Is Confirmed Killed in Oct. 7 Attacks in Israel",
+    "link": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-hamas-hostage-joshua-mollel.html",
+    "pubDate": "Thu, 14 Dec 2023 16:43:16 +0000",
+    "dc:creator": "Abdi Latif Dahir",
+    "content": "Tanzania’s foreign minister said that Joshua Mollel, an agricultural student, was “immediately killed after being kidnapped by Hamas.”",
+    "contentSnippet": "Tanzania’s foreign minister said that Joshua Mollel, an agricultural student, was “immediately killed after being kidnapped by Hamas.”",
+    "guid": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-hamas-hostage-joshua-mollel.html",
+    "categories": [
+      {
+        "_": "Tanzania",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Agriculture and Farming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Africa",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T16:43:16.000Z"
+  },
+  {
+    "creator": "Isabel Kershner",
+    "title": "To Fight Hamas, Israel’s Leaders Stopped Fighting One Another. For Now.",
+    "link": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-war-cabinet-gaza-netanyahu.html",
+    "pubDate": "Thu, 14 Dec 2023 12:03:30 +0000",
+    "dc:creator": "Isabel Kershner",
+    "content": "A team of rivals joined together in Prime Minister Benjamin Netanyahu’s war cabinet. But beneath the veneer of unity, there are political differences and old resentments.",
+    "contentSnippet": "A team of rivals joined together in Prime Minister Benjamin Netanyahu’s war cabinet. But beneath the veneer of unity, there are political differences and old resentments.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/middleeast/israel-war-cabinet-gaza-netanyahu.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Netanyahu, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gallant, Yoav",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Eisenkot, Gadi",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gantz, Benny",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Dermer, Ron",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Lebanon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "West Bank",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Palestinian Authority",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T12:03:30.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Thursday Briefing",
+    "link": "https://www.nytimes.com/2023/12/14/briefing/climate-summit-israel-ukraine.html",
+    "pubDate": "Thu, 14 Dec 2023 06:24:20 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "An agreement at the U.N. climate summit.",
+    "contentSnippet": "An agreement at the U.N. climate summit.",
+    "guid": "https://www.nytimes.com/2023/12/14/briefing/climate-summit-israel-ukraine.html",
+    "isoDate": "2023-12-14T06:24:20.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Australian Court Throws Out Conviction of Mother Accused of Killing 4 Children",
+    "link": "https://www.nytimes.com/2023/12/13/world/australia/australia-folbigg-conviction-overturned.html",
+    "pubDate": "Thu, 14 Dec 2023 05:29:46 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "Kathleen Folbigg, who spent years in prison, was pardoned in June, after an inquiry found that her children had most likely died of natural causes.",
+    "contentSnippet": "Kathleen Folbigg, who spent years in prison, was pardoned in June, after an inquiry found that her children had most likely died of natural causes.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/australia/australia-folbigg-conviction-overturned.html",
+    "categories": [
+      {
+        "_": "Australia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Decisions and Verdicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Murders, Attempted Murders and Homicides",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Child Abuse and Neglect",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Amnesties, Commutations and Pardons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kathleen Folbigg",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "New South Wales (Australia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T05:29:46.000Z"
+  },
+  {
+    "creator": "Constant Méheut and John Yoon",
+    "title": "Russian Missile Attack on Kyiv Injures Dozens",
+    "link": "https://www.nytimes.com/2023/12/12/world/europe/ukraine-kyiv-missile-strike.html",
+    "pubDate": "Thu, 14 Dec 2023 05:06:49 +0000",
+    "dc:creator": "Constant Méheut and John Yoon",
+    "content": "Ukraine’s military said that it had shot down all the ballistic missiles targeting the capital, but that falling debris caused significant damage.",
+    "contentSnippet": "Ukraine’s military said that it had shot down all the ballistic missiles targeting the capital, but that falling debris caused significant damage.",
+    "guid": "https://www.nytimes.com/2023/12/12/world/europe/ukraine-kyiv-missile-strike.html",
+    "categories": [
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kyiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T05:06:49.000Z"
+  },
+  {
+    "creator": "Hannah Beech, Muktita Suhartono and Lauren DeCicca",
+    "title": "Held Hostage in Gaza, a Thai Worker’s Prayers for Freedom Come True",
+    "link": "https://www.nytimes.com/2023/12/13/world/asia/thailand-hostages-gaza-hamas.html",
+    "pubDate": "Thu, 14 Dec 2023 03:55:16 +0000",
+    "dc:creator": "Hannah Beech, Muktita Suhartono and Lauren DeCicca",
+    "content": "A Thai farmworker clung to hope during her nearly 50 days of captivity in Gaza by befriending a young Israeli girl and dreaming of reuniting with her boyfriend, who had also been abducted.",
+    "contentSnippet": "A Thai farmworker clung to hope during her nearly 50 days of captivity in Gaza by befriending a young Israeli girl and dreaming of reuniting with her boyfriend, who had also been abducted.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/asia/thailand-hostages-gaza-hamas.html",
+    "categories": [
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kidnapping and Hostages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Workers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Buddhism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Monasteries and Monks",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Thai Food (Cuisine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Agriculture and Farming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Thailand",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T03:55:16.000Z"
+  },
+  {
+    "creator": "Zolan Kanno-Youngs and Karoun Demirjian",
+    "title": "Inside the Border Talks That Could Decide the Fate of Ukraine Aid",
+    "link": "https://www.nytimes.com/2023/12/13/us/politics/congress-biden-border-ukraine.html",
+    "pubDate": "Thu, 14 Dec 2023 00:31:54 +0000",
+    "dc:creator": "Zolan Kanno-Youngs and Karoun Demirjian",
+    "content": "Negotiators are racing to reach a deal before Congress is expected to head home for the holidays at the end of the week.",
+    "contentSnippet": "Negotiators are racing to reach a deal before Congress is expected to head home for the holidays at the end of the week.",
+    "guid": "https://www.nytimes.com/2023/12/13/us/politics/congress-biden-border-ukraine.html",
+    "categories": [
+      {
+        "_": "Illegal Immigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Asylum, Right of",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Democratic Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "House of Representatives",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T00:31:54.000Z"
+  },
+  {
+    "creator": "Adam Sella",
+    "title": "10 Israeli Soldiers Killed in Gaza ",
+    "link": "https://www.nytimes.com/2023/12/13/world/middleeast/israel-soldiers-killed-gaza-hamas.html",
+    "pubDate": "Thu, 14 Dec 2023 00:15:46 +0000",
+    "dc:creator": "Adam Sella",
+    "content": "The military said that 10 of its soldiers had died in fighting in the north of the enclave.",
+    "contentSnippet": "The military said that 10 of its soldiers had died in fighting in the north of the enclave.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/middleeast/israel-soldiers-killed-gaza-hamas.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T00:15:46.000Z"
+  },
+  {
+    "creator": "Amanda Taub",
+    "title": "Britain’s dangerous game of constitutional hardball",
+    "link": "https://www.nytimes.com/2023/12/13/world/europe/sunak-rwanda-constitutional-hardball.html",
+    "pubDate": "Wed, 13 Dec 2023 22:40:57 +0000",
+    "dc:creator": "Amanda Taub",
+    "content": "In seeking to override the U.K.’s highest court, Rishi Sunak’s government is following other nations in a trend that can damage democracy, experts say.",
+    "contentSnippet": "In seeking to override the U.K.’s highest court, Rishi Sunak’s government is following other nations in a trend that can damage democracy, experts say.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/europe/sunak-rwanda-constitutional-hardball.html",
+    "categories": [
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Rwanda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Asylum, Right of",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Constitutions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Democracy (Theory and Philosophy)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Illegal Immigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Courts and the Judiciary",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Human Rights and Human Rights Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Legislatures and Parliaments",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conservative Party (Great Britain)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Supreme Court of the United Kingdom",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Sunak, Rishi (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Johnson, Boris",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T22:40:57.000Z"
+  },
+  {
+    "creator": "Patrick Kingsley",
+    "title": "Israel’s Netanyahu, Sparring With Biden on Gaza, Faces Risk and Reward",
+    "link": "https://www.nytimes.com/2023/12/13/world/middleeast/netanyahu-biden-israel-hamas-war.html",
+    "pubDate": "Wed, 13 Dec 2023 20:56:39 +0000",
+    "dc:creator": "Patrick Kingsley",
+    "content": "Israel’s prime minister said he disagreed with President Biden about what should happen in Gaza after the war, and analysts say he might try to use the rift to shore up domestic support.",
+    "contentSnippet": "Israel’s prime minister said he disagreed with President Biden about what should happen in Gaza after the war, and analysts say he might try to use the rift to shore up domestic support.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/middleeast/netanyahu-biden-israel-hamas-war.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Netanyahu, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fatah, Al",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Palestinian Authority",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T20:56:39.000Z"
+  },
+  {
+    "creator": "Meg Felling and Nicolas Axelrod",
+    "title": "‘She Gave Me Hope’: Thai Hostage’s Friendship With an Israeli Child",
+    "link": "https://www.nytimes.com/video/world/asia/100000009221568/thailand-hostages-gaza-hamas.html",
+    "pubDate": "Wed, 13 Dec 2023 20:37:19 +0000",
+    "dc:creator": "Meg Felling and Nicolas Axelrod",
+    "content": "Thai hostage Nutthawaree Munkan was held by Hamas for nearly 50 days. During her time underground, a 5-year-old Israeli child gave her hope that she’d make it out alive.",
+    "contentSnippet": "Thai hostage Nutthawaree Munkan was held by Hamas for nearly 50 days. During her time underground, a 5-year-old Israeli child gave her hope that she’d make it out alive.",
+    "guid": "https://www.nytimes.com/video/world/asia/100000009221568/thailand-hostages-gaza-hamas.html",
+    "categories": [
+      {
+        "_": "Kidnapping and Hostages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Thailand",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T20:37:19.000Z"
+  },
+  {
+    "creator": "Jack Nicas, Natalie Alcoba and Lucía Cholakian Herrera",
+    "title": "Argentina’s New ‘Anarcho-Capitalist’ President Starts Slashing",
+    "link": "https://www.nytimes.com/2023/12/12/world/americas/argentina-javier-milei-cuts.html",
+    "pubDate": "Wed, 13 Dec 2023 20:05:08 +0000",
+    "dc:creator": "Jack Nicas, Natalie Alcoba and Lucía Cholakian Herrera",
+    "content": "Javier Milei has railed against Argentina’s government for years. In his first week in charge, he’s begun cutting it down.",
+    "contentSnippet": "Javier Milei has railed against Argentina’s government for years. In his first week in charge, he’s begun cutting it down.",
+    "guid": "https://www.nytimes.com/2023/12/12/world/americas/argentina-javier-milei-cuts.html",
+    "categories": [
+      {
+        "_": "Argentina",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Milei, Javier",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Economic Conditions and Trends",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Inflation (Economics)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Infrastructure (Public Works)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Layoffs and Job Reductions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Currency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T20:05:08.000Z"
+  },
+  {
+    "creator": "Andrew Higgins",
+    "title": "With a New Leader, Poland Prepares for a Course Change in Europe",
+    "link": "https://www.nytimes.com/2023/12/13/world/europe/donald-tusk-poland-eu.html",
+    "pubDate": "Wed, 13 Dec 2023 18:07:47 +0000",
+    "dc:creator": "Andrew Higgins",
+    "content": "Prime Minister Donald Tusk is sworn in and vows to try to invigorate flagging European support for Ukraine and push for “full mobilization” against Russia’s military assault.",
+    "contentSnippet": "Prime Minister Donald Tusk is sworn in and vows to try to invigorate flagging European support for Ukraine and push for “full mobilization” against Russia’s military assault.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/europe/donald-tusk-poland-eu.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Tusk, Donald",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Orban, Viktor",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Morawiecki, Mateusz",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Poland",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T18:07:47.000Z"
+  },
+  {
+    "creator": "Livia Albeck-Ripka",
+    "title": "Canadian Town Hosts Passengers From Diverted Delta Flight",
+    "link": "https://www.nytimes.com/2023/12/13/world/canada/delta-flight-diverted-newfoundland.html",
+    "pubDate": "Wed, 13 Dec 2023 16:42:14 +0000",
+    "dc:creator": "Livia Albeck-Ripka",
+    "content": "The flight was forced to land because of a “mechanical issue,” the company said, leaving hundreds of passengers stranded.",
+    "contentSnippet": "The flight was forced to land because of a “mechanical issue,” the company said, leaving hundreds of passengers stranded.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/canada/delta-flight-diverted-newfoundland.html",
+    "categories": [
+      {
+        "_": "Airlines and Airplanes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "September 11 (2001)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Airports",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Delta Air Lines Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Canada",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Labrador (Canada)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Newfoundland (Canada)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T16:42:14.000Z"
+  },
+  {
+    "creator": "Victoria Kim",
+    "title": "The U.S. criticizes Israel for ‘indiscriminate’ bombing in Gaza.",
+    "link": "https://www.nytimes.com/2023/12/13/world/middleeast/us-criticizes-israel-for-indiscriminate-bombing-in-gaza.html",
+    "pubDate": "Wed, 13 Dec 2023 15:23:23 +0000",
+    "dc:creator": "Victoria Kim",
+    "content": "bombing approach in Gaza.",
+    "contentSnippet": "bombing approach in Gaza.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/middleeast/us-criticizes-israel-for-indiscriminate-bombing-in-gaza.html",
+    "isoDate": "2023-12-13T15:23:23.000Z"
+  },
+  {
+    "creator": "Alan Rappeport",
+    "title": "World Bank Warns Record Debt Burdens Haunt Developing Economies",
+    "link": "https://www.nytimes.com/2023/12/13/us/politics/world-bank-debt-developing-nations.html",
+    "pubDate": "Wed, 13 Dec 2023 14:30:07 +0000",
+    "dc:creator": "Alan Rappeport",
+    "content": "Surging interest rates and waning financing options threaten a “lost decade” for poor countries.",
+    "contentSnippet": "Surging interest rates and waning financing options threaten a “lost decade” for poor countries.",
+    "guid": "https://www.nytimes.com/2023/12/13/us/politics/world-bank-debt-developing-nations.html",
+    "categories": [
+      {
+        "_": "Developing Countries",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "World Bank",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Credit and Debt",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Poverty",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Interest Rates",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T14:30:07.000Z"
+  },
+  {
+    "creator": "Paul Sonne and Andrew E. Kramer",
+    "title": "Ukraine Faces Critical Tests as It Duels With Russia for Stamina",
+    "link": "https://www.nytimes.com/2023/12/13/world/europe/ukraine-under-pressure-russia.html",
+    "pubDate": "Wed, 13 Dec 2023 14:16:02 +0000",
+    "dc:creator": "Paul Sonne and Andrew E. Kramer",
+    "content": "With Western support for Kyiv softening and Congress holding up urgently needed aid, Vladimir Putin’s bet on outlasting Ukraine and its allies is looking stronger.",
+    "contentSnippet": "With Western support for Kyiv softening and Congress holding up urgently needed aid, Vladimir Putin’s bet on outlasting Ukraine and its allies is looking stronger.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/europe/ukraine-under-pressure-russia.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "North Atlantic Treaty Organization",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Johnson, Mike (1972- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T14:16:02.000Z"
+  },
+  {
+    "creator": "Steven Erlanger",
+    "title": "Under Rules of War, ‘Proportionality’ in Gaza Is Not About Evening the Score",
+    "link": "https://www.nytimes.com/2023/12/13/world/middleeast/israel-gaza-proportionality-law-of-war.html",
+    "pubDate": "Wed, 13 Dec 2023 13:55:32 +0000",
+    "dc:creator": "Steven Erlanger",
+    "content": "The concept, important for determining the legality of an act of war, is about weighing civilian harm against military objectives, not about achieving a balanced number of casualties.",
+    "contentSnippet": "The concept, important for determining the legality of an act of war, is about weighing civilian harm against military objectives, not about achieving a balanced number of casualties.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/middleeast/israel-gaza-proportionality-law-of-war.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War Crimes, Genocide and Crimes Against Humanity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United Nations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T13:55:32.000Z"
+  },
+  {
+    "creator": "Cara Buckley",
+    "title": "In Real vs. Fake Christmas Tree Debate: Consider the Wildlife",
+    "link": "https://www.nytimes.com/2023/12/13/climate/christmas-tree-farms-wildlife.html",
+    "pubDate": "Wed, 13 Dec 2023 11:38:58 +0000",
+    "dc:creator": "Cara Buckley",
+    "content": "It may seem counterintuitive to support the annual culling of trees, but environmentalists say Christmas tree farms have ecological benefits.",
+    "contentSnippet": "It may seem counterintuitive to support the annual culling of trees, but environmentalists say Christmas tree farms have ecological benefits.",
+    "guid": "https://www.nytimes.com/2023/12/13/climate/christmas-tree-farms-wildlife.html",
+    "categories": [
+      {
+        "_": "Global Warming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Forests and Forestry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Christmas Trees",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conservation of Resources",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Endangered and Extinct Species",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Birds",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T11:38:58.000Z"
+  },
+  {
+    "creator": "Farnaz Fassihi",
+    "title": "U.N. General Assembly Votes for Israel-Hamas Cease-Fire, Countering U.S. Veto",
+    "link": "https://www.nytimes.com/2023/12/12/world/middleeast/un-general-assembly-israel-cease-fire.html",
+    "pubDate": "Wed, 13 Dec 2023 08:50:49 +0000",
+    "dc:creator": "Farnaz Fassihi",
+    "content": "About three-quarters of the body’s members voted in favor of the nonbinding resolution. The result underscored the isolation of Israel and the United States.",
+    "contentSnippet": "About three-quarters of the body’s members voted in favor of the nonbinding resolution. The result underscored the isolation of Israel and the United States.",
+    "guid": "https://www.nytimes.com/2023/12/12/world/middleeast/un-general-assembly-israel-cease-fire.html",
+    "categories": [
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Netanyahu, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "General Assembly (UN)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United Nations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T08:50:49.000Z"
+  },
+  {
+    "creator": "Yan Zhuang",
+    "title": "Tropical Cyclone Jasper Nears Australia Amid Wave of Extreme Weather",
+    "link": "https://www.nytimes.com/2023/12/12/world/australia/cyclone-jasper-queensland-australia.html",
+    "pubDate": "Wed, 13 Dec 2023 07:53:37 +0000",
+    "dc:creator": "Yan Zhuang",
+    "content": "The storm is part of a stretch of wild weather the continent has been experiencing, which includes heat waves, fires and floods.",
+    "contentSnippet": "The storm is part of a stretch of wild weather the continent has been experiencing, which includes heat waves, fires and floods.",
+    "guid": "https://www.nytimes.com/2023/12/12/world/australia/cyclone-jasper-queensland-australia.html",
+    "categories": [
+      {
+        "_": "Australia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Cyclones",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bureau of Meteorology (Australia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Weather",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Heat and Heat Waves",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T07:53:37.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Wednesday Briefing",
+    "link": "https://www.nytimes.com/2023/12/13/briefing/biden-israel-sunak-rwanda.html",
+    "pubDate": "Wed, 13 Dec 2023 05:11:59 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "President Biden’s warning to Israel.",
+    "contentSnippet": "President Biden’s warning to Israel.",
+    "guid": "https://www.nytimes.com/2023/12/13/briefing/biden-israel-sunak-rwanda.html",
+    "isoDate": "2023-12-13T05:11:59.000Z"
+  },
+  {
+    "creator": "Motoko Rich, Hikari Hida and Chang W. Lee",
+    "title": "Japan Wants a Stronger Military. Can It Find Enough Troops?",
+    "link": "https://www.nytimes.com/2023/12/13/world/asia/japan-military.html",
+    "pubDate": "Wed, 13 Dec 2023 05:01:54 +0000",
+    "dc:creator": "Motoko Rich, Hikari Hida and Chang W. Lee",
+    "content": "A shrinking, aging population poses an obstacle as the nation tries to counter security threats from China and North Korea.",
+    "contentSnippet": "A shrinking, aging population poses an obstacle as the nation tries to counter security threats from China and North Korea.",
+    "guid": "https://www.nytimes.com/2023/12/13/world/asia/japan-military.html",
+    "categories": [
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cyberwarfare and Defense",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Population",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Draft and Recruitment (Military)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Japan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T05:01:54.000Z"
+  },
+  {
+    "creator": "Talya Minsberg and Ephrat Livni",
+    "title": "Israel Announces Discovery of 2 Hostages’ Bodies in Gaza",
+    "link": "https://www.nytimes.com/2023/12/12/world/middleeast/israel-hostages-bodies-gaza.html",
+    "pubDate": "Tue, 12 Dec 2023 22:18:24 +0000",
+    "dc:creator": "Talya Minsberg and Ephrat Livni",
+    "content": "The remains of Eden Zakaria, 27, and Master Sgt. Ziv Dado, 36, were repatriated to Israel, officials said.",
+    "contentSnippet": "The remains of Eden Zakaria, 27, and Master Sgt. Ziv Dado, 36, were repatriated to Israel, officials said.",
+    "guid": "https://www.nytimes.com/2023/12/12/world/middleeast/israel-hostages-bodies-gaza.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kidnapping and Hostages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-12T22:18:24.000Z"
+  },
+  {
+    "creator": "Jonathan Wolfe",
+    "title": "Wednesday Briefing: Biden Says Israel Is Losing Support",
+    "link": "https://www.nytimes.com/2023/12/12/briefing/israel-gaza-ukraine.html",
+    "pubDate": "Tue, 12 Dec 2023 21:01:20 +0000",
+    "dc:creator": "Jonathan Wolfe",
+    "content": "Plus, Volodymyr Zelensky pleaded for more aid in Washington.",
+    "contentSnippet": "Plus, Volodymyr Zelensky pleaded for more aid in Washington.",
+    "guid": "https://www.nytimes.com/2023/12/12/briefing/israel-gaza-ukraine.html",
+    "isoDate": "2023-12-12T21:01:20.000Z"
   }
 ]

@@ -9,10 +9,11 @@ interface NewsItem {
   isoDate: string;
 }
 
-function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string; }>) {
+function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string }>) {
   const [newsData, setNewsData] = useState<NewsItem[]>([]);
   const [filteredNews, setFilteredNews] = useState<NewsItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [trendingWords, setTrendingWords] = useState<string[]>([]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -22,7 +23,9 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string; 
           const response = await axios.post('http://localhost:50111/api/fetchNews', {
             rssFeedUrls: props.rssFeedUrls,
           });
-          const sortedNews = response.data.sort((a: NewsItem, b: NewsItem) => new Date(b.isoDate).getTime() - new Date(a.isoDate).getTime());
+          const sortedNews = response.data.sort(
+            (a: NewsItem, b: NewsItem) => new Date(b.isoDate).getTime() - new Date(a.isoDate).getTime()
+          );
           setNewsData(sortedNews);
         }
       } catch (error) {
@@ -40,10 +43,29 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string; 
 
   useEffect(() => {
     // Filter news locally based on the search query
-    const filtered = newsData.filter(item =>
-      item.title.toLowerCase().includes(props.searchQuery.toLowerCase())
-    );
+    const filtered = newsData.filter((item) =>
+    item.title && props.searchQuery &&
+    item.title.toLowerCase().includes(props.searchQuery.toLowerCase())
+  );
     setFilteredNews(filtered);
+
+    // Extract words from titles and descriptions
+    const words: string[] = [];
+    filtered.forEach((item) => {
+      const titleWords = item.title.toLowerCase().split(' ');
+      const descriptionWords = item.contentSnippet.toLowerCase().split(' ');
+      words.push(...titleWords, ); // ...descriptionWords
+    });
+
+    // Count the occurrence of each word
+    const wordCount: { [key: string]: number } = {};
+    words.forEach((word) => {
+      wordCount[word] = (wordCount[word] || 0) + 1;
+    });
+
+    // Get the trending words
+    const trending = Object.keys(wordCount).sort((a, b) => wordCount[b] - wordCount[a]).slice(0, 5);
+    setTrendingWords(trending);
   }, [newsData, props.searchQuery]);
 
   if (isLoading) {
@@ -51,14 +73,18 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string; 
   }
 
   return (
-    <div className="grid grid-cols-3 gap-10 ml-10 overflow-scroll">
-      {filteredNews.map(item => (
-        <NewsItem key={uuidv4()} item={item} />
-      ))}
+    <div>
+      <div className="mb-4">
+        <h2 className="text-xl font-bold">Trending Words: {trendingWords.join(', ')}</h2>
+      </div>
+      <div className="grid grid-cols-3 gap-10 ml-10 overflow-scroll">
+        {filteredNews.map((item) => (
+          <NewsItem key={uuidv4()} item={item} />
+        ))}
+      </div>
     </div>
   );
 }
-
 interface NewsItemType {
   title: string;
   link: string;

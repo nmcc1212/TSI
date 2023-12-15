@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1702653668459" clover="3.2.0">
-  <project timestamp="1702653668459" name="All files">
+<coverage generated="1702654841069" clover="3.2.0">
+  <project timestamp="1702654841069" name="All files">
     <metrics statements="49" coveredstatements="47" conditionals="6" coveredconditionals="5" methods="13" coveredmethods="12" elements="68" coveredelements="64" complexity="0" loc="49" ncloc="49" packages="1" files="3" classes="3"/>
     <file name="App.tsx" path="/Users/nial/Documents/TSI/intro to react/vite-project/src/App.tsx">
       <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>

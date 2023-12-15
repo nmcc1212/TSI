@@ -6271,5 +6271,60 @@
       }
     ],
     "isoDate": "2023-12-15T14:56:29.000Z"
+  },
+  {
+    "creator": "Alex Williams",
+    "title": "Vera Molnar, Pioneer of Computer Art, Dies at 99",
+    "link": "https://www.nytimes.com/2023/12/15/arts/vera-molnar-dead.html",
+    "pubDate": "Fri, 15 Dec 2023 15:25:31 +0000",
+    "dc:creator": "Alex Williams",
+    "content": "Experimenting with algorithms, she began to employ the principles of computation in her work even before she gained access to an actual computer.",
+    "contentSnippet": "Experimenting with algorithms, she began to employ the principles of computation in her work even before she gained access to an actual computer.",
+    "guid": "https://www.nytimes.com/2023/12/15/arts/vera-molnar-dead.html",
+    "categories": [
+      {
+        "_": "Molnar, Vera",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Deaths (Obituaries)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Art",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Paris (France)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hungary",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Sotheby's",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T15:25:31.000Z"
   }
 ]

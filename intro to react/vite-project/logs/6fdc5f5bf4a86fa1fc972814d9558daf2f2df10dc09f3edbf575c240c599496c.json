@@ -1678,5 +1678,49 @@
       "FCC"
     ],
     "isoDate": "2023-12-14T17:57:10.000Z"
+  },
+  {
+    "creator": "Kyle Orland",
+    "title": "These AI-generated news anchors are freaking me out",
+    "link": "https://arstechnica.com/?p=1991279",
+    "pubDate": "Fri, 15 Dec 2023 15:57:14 +0000",
+    "content:encoded": "<div id=\"rss-wrap\">\n<figure class=\"intro-image intro-left\">\n  <img src=\"https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom-800x450.jpg\" alt=\"Max Headroom as prophecy.\">\n      <p class=\"caption\" style=\"font-size:0.8em\"><a href=\"https://cdn.arstechnica.net/wp-content/uploads/2023/12/channel1-vs-max-headroom.jpg\" class=\"enlarge-link\" data-height=\"1440\" data-width=\"2561\">Enlarge</a> <span class=\"sep\">/</span> Max Headroom as prophecy. (credit: Aurich Lawson | Channel 1)</p>  </figure>\n\n\n\n\n\n\n<div><a name=\"page-1\"></a></div>\n<p>Here at Ars, we've long covered the <a href=\"https://arstechnica.com/information-technology/2022/09/bruce-willis-sells-deepfake-rights-to-his-likeness-for-commercial-use/\">interesting</a> <a href=\"https://arstechnica.com/ai/2023/08/google-record-labels-working-on-deal-covering-musical-deepfakes/\">potential</a> and <a href=\"https://arstechnica.com/tech-policy/2023/11/deepfake-nudes-of-high-schoolers-spark-police-probe-in-nj/\">significant</a> <a href=\"https://arstechnica.com/information-technology/2023/10/tom-hanks-warns-of-ai-generated-doppelganger-in-instagram-plea/\">peril</a> (and <a href=\"https://arstechnica.com/information-technology/2023/09/meta-launches-consumer-ai-chatbots-with-celebrity-avatars-in-its-social-apps/\">occasional silliness</a>) of AI-generated video featuring <a href=\"https://arstechnica.com/information-technology/2023/06/fbi-warns-of-increasing-use-of-ai-generated-deepfakes-in-sextortion-schemes/\">increasingly realistic</a> human avatars. Heck, we even went to the trouble of <a href=\"https://arstechnica.com/science/2019/12/how-i-created-a-deepfake-of-mark-zuckerberg-and-star-treks-data/\">making our own \"deepfake\" Mark Zuckerberg back in 2019</a>, when the underlying technology wasn't nearly as robust as it is today.</p>\n<p>But even with all that background, startup <a href=\"https://www.channel1.ai/\">Channel 1</a>'s vision of a near-future where AI-generated avatars read you the news was a bit of a shock to the system. The company's <a href=\"https://twitter.com/channel1_ai/status/1734591810033373231\">recent proof-of-concept \"showcase\" newscast</a> reveals just how far AI-generated videos of humans have come in a short time and how those realistic avatars could shake up a lot more than just the job market for talking heads.</p>\n<h2>“...the newscasters have been changed to protect the innocent”</h2>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\">\n<p dir=\"ltr\" lang=\"en\">See the highest quality AI footage in the world.</p>\n<p><img src=\"https://s.w.org/images/core/emoji/14.0.0/72x72/1f92f.png\" alt=\"🤯\" class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\"> - Our generated anchors deliver stories that are informative, heartfelt and entertaining.</p>\n<p>Watch the showcase episode of our upcoming news network now. <a href=\"https://t.co/61TaG6Kix3\">pic.twitter.com/61TaG6Kix3</a></p>\n<p>— Channel 1 (@channel1_ai) <a href=\"https://twitter.com/channel1_ai/status/1734591810033373231?ref_src=twsrc%5Etfw\">December 12, 2023</a></p></blockquote>\n<p>To be clear, Channel 1 isn't <a href=\"https://www.fastcompany.com/90549441/how-to-prevent-deepfakes\">trying to fool people with \"deepfakes\" of existing news anchors</a> or anything like that. In the first few seconds of its sample newscast, it identifies its talking heads as a \"team of AI-generated reporters.\" A few seconds later, one of those talking heads explains further: \"You can hear us and see our lips moving, but no one was recorded saying what we're all saying. I'm powered by sophisticated systems behind the scenes.\"</p></div><p><a href=\"https://arstechnica.com/?p=1991279#p3\">Read 20 remaining paragraphs</a> | <a href=\"https://arstechnica.com/?p=1991279&comments=1\">Comments</a></p>",
+    "content:encodedSnippet": "Enlarge / Max Headroom as prophecy. (credit: Aurich Lawson | Channel 1)\n  \n\n\n\n\n\n\n\nHere at Ars, we've long covered the interesting potential and significant peril (and occasional silliness) of AI-generated video featuring increasingly realistic human avatars. Heck, we even went to the trouble of making our own \"deepfake\" Mark Zuckerberg back in 2019, when the underlying technology wasn't nearly as robust as it is today.\nBut even with all that background, startup Channel 1's vision of a near-future where AI-generated avatars read you the news was a bit of a shock to the system. The company's recent proof-of-concept \"showcase\" newscast reveals just how far AI-generated videos of humans have come in a short time and how those realistic avatars could shake up a lot more than just the job market for talking heads.\n“...the newscasters have been changed to protect the innocent”\nSee the highest quality AI footage in the world.\n - Our generated anchors deliver stories that are informative, heartfelt and entertaining.\nWatch the showcase episode of our upcoming news network now. pic.twitter.com/61TaG6Kix3\n— Channel 1 (@channel1_ai) December 12, 2023\n\nTo be clear, Channel 1 isn't trying to fool people with \"deepfakes\" of existing news anchors or anything like that. In the first few seconds of its sample newscast, it identifies its talking heads as a \"team of AI-generated reporters.\" A few seconds later, one of those talking heads explains further: \"You can hear us and see our lips moving, but no one was recorded saying what we're all saying. I'm powered by sophisticated systems behind the scenes.\"\n\nRead 20 remaining paragraphs | Comments",
+    "dc:creator": "Kyle Orland",
+    "comments": "https://arstechnica.com/ai/2023/12/these-ai-generated-news-anchors-are-freaking-me-out/#comments",
+    "content": "Channel 1's eerily real newscasters suggest a tumultuous future for online video.",
+    "contentSnippet": "Channel 1's eerily real newscasters suggest a tumultuous future for online video.",
+    "guid": "https://arstechnica.com/?p=1991279",
+    "categories": [
+      "AI",
+      "Tech",
+      "anchors",
+      "Channel 1",
+      "nescasters",
+      "news",
+      "TV news"
+    ],
+    "isoDate": "2023-12-15T15:57:14.000Z"
+  },
+  {
+    "creator": "Financial Times",
+    "title": "Elon Musk told bankers they wouldn’t lose any money on Twitter purchase",
+    "link": "https://arstechnica.com/?p=1991371",
+    "pubDate": "Fri, 15 Dec 2023 15:06:22 +0000",
+    "content:encoded": "<div id=\"rss-wrap\">\n<figure class=\"intro-image intro-left\">\n  <img src=\"https://cdn.arstechnica.net/wp-content/uploads/2023/03/muak-twitter-800x534.jpg\" alt=\"Elon Musk and a twitter logo\">\n      <p class=\"caption\" style=\"font-size:0.8em\"><a href=\"https://cdn.arstechnica.net/wp-content/uploads/2023/03/muak-twitter.jpg\" class=\"enlarge-link\" data-height=\"683\" data-width=\"1024\">Enlarge</a> (credit: <a rel=\"nofollow\" class=\"caption-link\" href=\"https://www.gettyimages.com/detail/news-photo/in-this-photo-illustration-the-image-of-elon-musk-is-news-photo/1243763422\">Anadolu Agency via Getty Images</a>)</p>  </figure>\n\n\n\n\n\n\n<div><a name=\"page-1\"></a></div>\n<p>Elon Musk privately told some of the bankers who lent him $13 billion to fund his leveraged buyout of Twitter that they would not lose any money on the deal, according to five people familiar with the matter.</p>\n<p>The verbal guarantees were made by Musk to banks as a way to reassure the lenders as the value of the social media site, now rebranded as X, fell sharply after he completed the acquisition last year.</p>\n<p>Despite the assurances, the seven banks that lent money to the billionaire for his buyout—Morgan Stanley, Bank of America, Barclays, MUFG, BNP Paribas, Mizuho and Société Générale—are facing serious losses on the debt if and when they eventually sell it.</p></div><p><a href=\"https://arstechnica.com/?p=1991371#p3\">Read 16 remaining paragraphs</a> | <a href=\"https://arstechnica.com/?p=1991371&comments=1\">Comments</a></p>",
+    "content:encodedSnippet": "Enlarge (credit: Anadolu Agency via Getty Images)\n  \n\n\n\n\n\n\n\nElon Musk privately told some of the bankers who lent him $13 billion to fund his leveraged buyout of Twitter that they would not lose any money on the deal, according to five people familiar with the matter.\nThe verbal guarantees were made by Musk to banks as a way to reassure the lenders as the value of the social media site, now rebranded as X, fell sharply after he completed the acquisition last year.\nDespite the assurances, the seven banks that lent money to the billionaire for his buyout—Morgan Stanley, Bank of America, Barclays, MUFG, BNP Paribas, Mizuho and Société Générale—are facing serious losses on the debt if and when they eventually sell it.\n\nRead 16 remaining paragraphs | Comments",
+    "dc:creator": "Financial Times",
+    "comments": "https://arstechnica.com/tech-policy/2023/12/elon-musk-told-bankers-they-wouldnt-lose-any-money-on-twitter-purchase/#comments",
+    "content": "Lenders unlikely to get even 60 cents on the dollar for the bonds and loans. ",
+    "contentSnippet": "Lenders unlikely to get even 60 cents on the dollar for the bonds and loans.",
+    "guid": "https://arstechnica.com/?p=1991371",
+    "categories": [
+      "Policy",
+      "Elon Musk",
+      "syndication",
+      "Twitter",
+      "X"
+    ],
+    "isoDate": "2023-12-15T15:06:22.000Z"
   }
 ]
