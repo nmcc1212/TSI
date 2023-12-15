@@ -22,8 +22,8 @@ jobs:
         run: sudo npm install -g jest
       - name: run tests
         run: |
-          cd /intro to react/vite-project
-          sudo npm test
+          cd ./intro to react/vite-project
+          sudo npm run test
       - uses: sonarsource/sonarqube-scan-action@master
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
