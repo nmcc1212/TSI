@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
-  <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_navBar.test.js">
-    <testCase name="NavBar component renders the navbar" duration="29"/>
-    <testCase name="NavBar component updates the query state when the search changes" duration="15"/>
-    <testCase name="NavBar component calls sendQueryToParent when the search button is clicked" duration="8"/>
-  </file>
   <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_newsList.test.js">
-    <testCase name="NewsList renders loading state initially" duration="2"/>
-    <testCase name="NewsList renders news items after data fetching" duration="29"/>
+    <testCase name="NewsList renders loading state initially" duration="5"/>
+    <testCase name="NewsList renders news items after data fetching" duration="51"/>
+  </file>
+  <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_navBar.test.js">
+    <testCase name="NavBar component renders the navbar" duration="27"/>
+    <testCase name="NavBar component updates the query state when the search changes" duration="15"/>
+    <testCase name="NavBar component calls sendQueryToParent when the search button is clicked" duration="7"/>
   </file>
   <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_app.test.js">
     <testCase name="App component renders App component" duration="48"/>
-    <testCase name="App component navigates to Ukraine News when the route is changed" duration="69"/>
-    <testCase name="App component navigates to World News when the route is changed" duration="36"/>
+    <testCase name="App component navigates to Ukraine News when the route is changed" duration="67"/>
+    <testCase name="App component navigates to World News when the route is changed" duration="37"/>
   </file>
 </testExecutions>

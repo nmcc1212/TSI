@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { v4 as uuidv4 } from 'uuid';
+import nlp from 'compromise';
 
 interface NewsItem {
   title: string;
@@ -51,8 +52,8 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string }
     // Extract words from titles and descriptions
     const words: string[] = [];
     filtered.forEach((item) => {
-      const titleWords = item.title.toLowerCase().split(' ');
-      const descriptionWords = item.contentSnippet.toLowerCase().split(' ');
+      const titleWords = nlp(item.title.toLowerCase()).topics().out('array');
+      const descriptionWords = nlp(item.contentSnippet.toLowerCase()).topics().out('array');
       words.push(...titleWords, ...descriptionWords);
     });
 
@@ -63,8 +64,14 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string }
     });
 
     // Get the trending words
-    const trending = Object.keys(wordCount).sort((a, b) => wordCount[b] - wordCount[a]).slice(0, 5);
+    const commonWords = [   'a', 'an', 'and', 'are', 'as', 'at', 'be', 'but', 'by',   'for', 'if', 'in', 'into', 'is', 'it', 'no', 'not', 'of',   'on', 'or', 'such', 'that', 'the', 'their', 'then', 'there', ' ', 'these', 'they', 'this', 'to', 'was', 'will', 'with', 'from', '[link]', '[comments]', 'submitted', ' ']
+    const trending = Object.keys(wordCount)
+      .filter((word) => !commonWords.includes(word) && word.trim() !== '')
+      .sort((a, b) => wordCount[b] - wordCount[a])
+      .slice(0, 5);
+  
     setTrendingWords(trending);
+
   }, [newsData, props.searchQuery]);
 
   if (isLoading) {
@@ -84,19 +91,8 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string }
     </div>
   );
 }
-
-// ... (rest of the code remains unchanged)
-
-
-interface NewsItemType {
-  title: string;
-  link: string;
-  contentSnippet: string;
-  isoDate: string;
-}
-
 interface Props {
-  item: NewsItemType;
+  item: NewsItem;
 }
 
 const NewsItem = ({ item }: Props) => {
