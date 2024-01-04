@@ -1119,5 +1119,1778 @@
       }
     ],
     "isoDate": "2023-12-02T15:18:34.000Z"
+  },
+  {
+    "creator": "Christopher F. Schuetze",
+    "title": "German Spy Official Goes on Trial Accused of Selling Secrets to Russia",
+    "link": "https://www.nytimes.com/2023/12/14/world/europe/germany-spy-trial-russia.html",
+    "pubDate": "Fri, 15 Dec 2023 13:27:00 +0000",
+    "dc:creator": "Christopher F. Schuetze",
+    "content": "The trial, held under stringent security conditions and expected to last months, caps one of the gravest espionage scandals in recent German history.",
+    "contentSnippet": "The trial, held under stringent security conditions and expected to last months, caps one of the gravest espionage scandals in recent German history.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/europe/germany-spy-trial-russia.html",
+    "categories": [
+      {
+        "_": "Germany",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Classified Information and State Secrets",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Linke, Carsten",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Federal Intelligence Service (Germany)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Federal Security Service",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T13:27:00.000Z"
+  },
+  {
+    "creator": "Karoun Demirjian",
+    "title": "Schumer Delays Holiday Break, Pressing for Border Deal to Unlock Ukraine Aid",
+    "link": "https://www.nytimes.com/2023/12/14/us/senate-holiday-border-deal-ukraine.html",
+    "pubDate": "Fri, 15 Dec 2023 01:41:25 +0000",
+    "dc:creator": "Karoun Demirjian",
+    "content": "The majority leader said he would keep the Senate in session to allow time for an elusive immigration compromise, as Democrats criticized the G.O.P.-led House for leaving without helping Ukraine.",
+    "contentSnippet": "The majority leader said he would keep the Senate in session to allow time for an elusive immigration compromise, as Democrats criticized the G.O.P.-led House for leaving without helping Ukraine.",
+    "guid": "https://www.nytimes.com/2023/12/14/us/senate-holiday-border-deal-ukraine.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Democratic Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Homeland Security Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T01:41:25.000Z"
+  },
+  {
+    "creator": "Valerie Hopkins and Anton Troianovski",
+    "title": "Putin Suggests He Has a Winning Hand in His War in Ukraine",
+    "link": "https://www.nytimes.com/2023/12/14/world/europe/putin-news-conference-russia-ukraine.html",
+    "pubDate": "Thu, 14 Dec 2023 21:35:14 +0000",
+    "dc:creator": "Valerie Hopkins and Anton Troianovski",
+    "content": "The Russian leader, in his annual news conference, said he was open to peace talks but showed no hint of compromise. “Peace will come when we achieve our goals,” he said.",
+    "contentSnippet": "The Russian leader, in his annual news conference, said he was open to peace talks but showed no hint of compromise. “Peace will come when we achieve our goals,” he said.",
+    "guid": "https://www.nytimes.com/2023/12/14/world/europe/putin-news-conference-russia-ukraine.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gershkovich, Evan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Political Prisoners",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wall Street Journal",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Whelan, Paul N",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-14T21:35:14.000Z"
+  },
+  {
+    "creator": "Anatoly Kurmanaev",
+    "title": "How The Times Reported on the Convicts Sustaining Russia’s Invasion",
+    "link": "https://www.nytimes.com/2023/12/13/insider/russian-prisoner-soldiers-investigation.html",
+    "pubDate": "Wed, 13 Dec 2023 22:23:04 +0000",
+    "dc:creator": "Anatoly Kurmanaev",
+    "content": "A team of Times journalists has provided the most comprehensive look yet at the largest military recruitment of inmates since World War II.",
+    "contentSnippet": "A team of Times journalists has provided the most comprehensive look yet at the largest military recruitment of inmates since World War II.",
+    "guid": "https://www.nytimes.com/2023/12/13/insider/russian-prisoner-soldiers-investigation.html",
+    "categories": [
+      {
+        "_": "Amnesties, Commutations and Pardons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Crime and Criminals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Prisons and Prisoners",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T22:23:04.000Z"
+  },
+  {
+    "title": "Putin ‘Banking On’ U.S. Failing to Deliver Aid to Ukraine, Biden Says",
+    "link": "https://www.nytimes.com/video/world/europe/100000009222541/putin-banking-on-us-failing-to-deliver-aid-to-ukraine-biden-says.html",
+    "pubDate": "Wed, 13 Dec 2023 14:19:19 +0000",
+    "content": "President Biden said he approved more aid for critical equipment for Ukraine.",
+    "contentSnippet": "President Biden said he approved more aid for critical equipment for Ukraine.",
+    "guid": "https://www.nytimes.com/video/world/europe/100000009222541/putin-banking-on-us-failing-to-deliver-aid-to-ukraine-biden-says.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-13T14:19:19.000Z"
+  },
+  {
+    "creator": "Sabrina Tavernise, Luke Vander Ploeg, Shannon Lin, Lexie Diao, Michael Benoist, Marion Lozano, Dan Powell and Chris Wood",
+    "title": "Ukraine’s Counteroffensive Fizzled. U.S. Funding May Be Next.",
+    "link": "https://www.nytimes.com/2023/12/12/podcasts/the-daily/ukraine-aid.html",
+    "pubDate": "Tue, 12 Dec 2023 11:00:16 +0000",
+    "dc:creator": "Sabrina Tavernise, Luke Vander Ploeg, Shannon Lin, Lexie Diao, Michael Benoist, Marion Lozano, Dan Powell and Chris Wood",
+    "content": "President Volodymyr Zelensky has arrived in Washington at a critical moment, both on the battlefield and on Capitol Hill.",
+    "contentSnippet": "President Volodymyr Zelensky has arrived in Washington at a critical moment, both on the battlefield and on Capitol Hill.",
+    "guid": "https://www.nytimes.com/2023/12/12/podcasts/the-daily/ukraine-aid.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-12T11:00:16.000Z"
+  },
+  {
+    "creator": "Michael D. Shear and Karoun Demirjian",
+    "title": "Zelensky to Meet With Biden in Washington With U.S. Aid to Ukraine in Doubt",
+    "link": "https://www.nytimes.com/2023/12/10/us/politics/zelensky-washington-biden-congress.html",
+    "pubDate": "Sun, 10 Dec 2023 22:45:36 +0000",
+    "dc:creator": "Michael D. Shear and Karoun Demirjian",
+    "content": "Officials announced that the Ukrainian president would travel to Washington on Tuesday for a last-ditch lobbying effort with President Biden and members of Congress.",
+    "contentSnippet": "Officials announced that the Ukrainian president would travel to Washington on Tuesday for a last-ditch lobbying effort with President Biden and members of Congress.",
+    "guid": "https://www.nytimes.com/2023/12/10/us/politics/zelensky-washington-biden-congress.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Johnson, Mike (1972- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-10T22:45:36.000Z"
+  },
+  {
+    "creator": "Jonathan Swan, Charlie Savage and Maggie Haberman",
+    "title": "Fears of a NATO Withdrawal Rise as Trump Seeks a Return to Power",
+    "link": "https://www.nytimes.com/2023/12/09/us/politics/trump-2025-nato.html",
+    "pubDate": "Sat, 09 Dec 2023 10:00:27 +0000",
+    "dc:creator": "Jonathan Swan, Charlie Savage and Maggie Haberman",
+    "content": "Current and former European diplomats said there was growing concern a second Trump presidency could mean an American retreat from the continent and a gutting of NATO.",
+    "contentSnippet": "Current and former European diplomats said there was growing concern a second Trump presidency could mean an American retreat from the continent and a gutting of NATO.",
+    "guid": "https://www.nytimes.com/2023/12/09/us/politics/trump-2025-nato.html",
+    "categories": [
+      {
+        "_": "Presidential Election of 2024",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Trump, Donald J",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "North Atlantic Treaty Organization",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Treaties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-09T10:00:27.000Z"
+  },
+  {
+    "creator": "Andrew Das and Tariq Panja",
+    "title": "Athletes From Russia and Belarus Are Cleared to Compete at Paris Olympics",
+    "link": "https://www.nytimes.com/2023/12/08/world/europe/olympics-russian-athletes-paris.html",
+    "pubDate": "Fri, 08 Dec 2023 20:34:55 +0000",
+    "dc:creator": "Andrew Das and Tariq Panja",
+    "content": "A decision by the International Olympic Committee paves the way for individuals from the two countries to take part over the objections of Ukraine and others.",
+    "contentSnippet": "A decision by the International Olympic Committee paves the way for individuals from the two countries to take part over the objections of Ukraine and others.",
+    "guid": "https://www.nytimes.com/2023/12/08/world/europe/olympics-russian-athletes-paris.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Athletics and Sports",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Olympic Games",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Olympic Committee",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Bach, Thomas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Paris (France)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Belarus",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-08T20:34:55.000Z"
+  },
+  {
+    "creator": "Constant Méheut and Daria Mitiuk",
+    "title": "‘It’s State Propaganda’: Ukrainians Shun TV News as War Drags on",
+    "link": "https://www.nytimes.com/2024/01/03/world/europe/ukraine-war-tv-news-telemarathon.html",
+    "pubDate": "Wed, 03 Jan 2024 20:30:13 +0000",
+    "dc:creator": "Constant Méheut and Daria Mitiuk",
+    "content": "A government-approved news program intended to counter Russian disinformation and boost morale is coming under criticism for painting a rosy picture of the war.",
+    "contentSnippet": "A government-approved news program intended to counter Russian disinformation and boost morale is coming under criticism for painting a rosy picture of the war.",
+    "guid": "https://www.nytimes.com/2024/01/03/world/europe/ukraine-war-tv-news-telemarathon.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Censorship",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Freedom of Speech and Expression",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Television Sets and Media Devices",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-03T20:30:13.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "Buildings Smolder After Russian Air Attacks on Kyiv",
+    "link": "https://www.nytimes.com/video/world/europe/100000009247023/buildings-smolder-after-russian-air-attacks-on-kyiv.html",
+    "pubDate": "Wed, 03 Jan 2024 15:24:18 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "First responders put out fires after Russia bombarded the Ukrainian capital with missiles and drones.",
+    "contentSnippet": "First responders put out fires after Russia bombarded the Ukrainian capital with missiles and drones.",
+    "guid": "https://www.nytimes.com/video/world/europe/100000009247023/buildings-smolder-after-russian-air-attacks-on-kyiv.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kyiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-03T15:24:18.000Z"
+  },
+  {
+    "creator": "Constant Méheut and Anatoly Kurmanaev",
+    "title": "Russian Missiles Hammer Kyiv in Large-Scale Attack on Ukraine",
+    "link": "https://www.nytimes.com/2024/01/02/world/europe/missiles-ukraine-war-attack-russia.html",
+    "pubDate": "Tue, 02 Jan 2024 17:48:12 +0000",
+    "dc:creator": "Constant Méheut and Anatoly Kurmanaev",
+    "content": "Russia said that Ukraine retaliated hours later with missile attacks on Russian territory, part of an escalating cycle of air assaults between the two countries.",
+    "contentSnippet": "Russia said that Ukraine retaliated hours later with missile attacks on Russian territory, part of an escalating cycle of air assaults between the two countries.",
+    "guid": "https://www.nytimes.com/2024/01/02/world/europe/missiles-ukraine-war-attack-russia.html",
+    "categories": [
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Drones (Pilotless Planes)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Missiles and Missile Defense Systems",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kyiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-02T17:48:12.000Z"
+  },
+  {
+    "creator": "Anatoly Kurmanaev and Constant Méheut",
+    "title": "Putin Vows to Keep Up Bombardment After a Russian City Is Hit",
+    "link": "https://www.nytimes.com/2024/01/01/world/europe/ukraine-russia-putin-belgorod.html",
+    "pubDate": "Mon, 01 Jan 2024 23:48:31 +0000",
+    "dc:creator": "Anatoly Kurmanaev and Constant Méheut",
+    "content": "President Vladimir V. Putin of Russia says his country will continue targeting Ukrainian cities in retaliation for a deadly attack on the city of Belgorod on Saturday.",
+    "contentSnippet": "President Vladimir V. Putin of Russia says his country will continue targeting Ukrainian cities in retaliation for a deadly attack on the city of Belgorod on Saturday.",
+    "guid": "https://www.nytimes.com/2024/01/01/world/europe/ukraine-russia-putin-belgorod.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Belgorod (Russia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kharkiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Lviv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-01T23:48:31.000Z"
+  },
+  {
+    "creator": "Constant Méheut and Anton Troianovski",
+    "title": "Putin and Zelensky Address Their Citizens on New Year’s Eve",
+    "link": "https://www.nytimes.com/2023/12/31/world/europe/russia-ukraine-kharkiv-airstrikes.html",
+    "pubDate": "Mon, 01 Jan 2024 05:02:44 +0000",
+    "dc:creator": "Constant Méheut and Anton Troianovski",
+    "content": "The message of resilience offered by Ukraine’s leader, Volodymyr Zelensky’s message, contrasted sharply with that of President Vladimir V. Putin, who glossed over the war in an effort to project a sense of normality.",
+    "contentSnippet": "The message of resilience offered by Ukraine’s leader, Volodymyr Zelensky’s message, contrasted sharply with that of President Vladimir V. Putin, who glossed over the war in an effort to project a sense of normality.",
+    "guid": "https://www.nytimes.com/2023/12/31/world/europe/russia-ukraine-kharkiv-airstrikes.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Drones (Pilotless Planes)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Belgorod (Russia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kyiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kharkiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-01T05:02:44.000Z"
+  },
+  {
+    "creator": "Marc Santora",
+    "title": "Ukraine Intensifies Guerrilla Tactics, Targeting Trains",
+    "link": "https://www.nytimes.com/2023/12/31/world/europe/ukraine-russia-train-sabotage.html",
+    "pubDate": "Sun, 31 Dec 2023 17:24:24 +0000",
+    "dc:creator": "Marc Santora",
+    "content": "As conventional forces struggle to break through defensive lines, both sides are increasingly turning to guerrilla tactics.",
+    "contentSnippet": "As conventional forces struggle to break through defensive lines, both sides are increasingly turning to guerrilla tactics.",
+    "guid": "https://www.nytimes.com/2023/12/31/world/europe/ukraine-russia-train-sabotage.html",
+    "categories": [
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Railroads",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bridges and Tunnels",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-31T17:24:24.000Z"
+  },
+  {
+    "creator": "Constant Méheut and Ivan Nechepurenko",
+    "title": "Ukrainian Missile Attack on Belgorod Kills at Least 18, Officials Say",
+    "link": "https://www.nytimes.com/2023/12/30/world/europe/ukraine-russia-belgorod-attacks.html",
+    "pubDate": "Sun, 31 Dec 2023 08:02:46 +0000",
+    "dc:creator": "Constant Méheut and Ivan Nechepurenko",
+    "content": "The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest single attack on Russian soil since the start of the war.",
+    "contentSnippet": "The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest single attack on Russian soil since the start of the war.",
+    "guid": "https://www.nytimes.com/2023/12/30/world/europe/ukraine-russia-belgorod-attacks.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Belgorod (Russia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-31T08:02:46.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "How a Russian Barrage Evaded Ukraine’s Defenses to Wreak Deadly Chaos",
+    "link": "https://www.nytimes.com/2023/12/30/world/europe/russia-ukraine-missiles-kyiv.html",
+    "pubDate": "Sun, 31 Dec 2023 07:55:08 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "In one of the war’s largest bombardments, 35 missiles slipped through Ukraine’s air cover on Friday, killing dozens. Ukraine responded with shelling on the Russian region of Belgorod, killing at least 22.",
+    "contentSnippet": "In one of the war’s largest bombardments, 35 missiles slipped through Ukraine’s air cover on Friday, killing dozens. Ukraine responded with shelling on the Russian region of Belgorod, killing at least 22.",
+    "guid": "https://www.nytimes.com/2023/12/30/world/europe/russia-ukraine-missiles-kyiv.html",
+    "categories": [
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Missiles and Missile Defense Systems",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Drones (Pilotless Planes)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-31T07:55:08.000Z"
+  },
+  {
+    "creator": "Carlotta Gall, Oleksandr Chubko, Cora Engelbrecht and Daniel Berehulak",
+    "title": "Ukraine's Stolen Children: Forced Separations and Abductions by Russia",
+    "link": "https://www.nytimes.com/interactive/2023/12/26/world/europe/ukraine-war-children-russia.html",
+    "pubDate": "Sun, 31 Dec 2023 02:20:04 +0000",
+    "dc:creator": "Carlotta Gall, Oleksandr Chubko, Cora Engelbrecht and Daniel Berehulak",
+    "content": "Thousands of young Ukrainians were separated from their parents by the Russian authorities in the early stages of the war. They are among the most forlorn victims of the invasion.",
+    "contentSnippet": "Thousands of young Ukrainians were separated from their parents by the Russian authorities in the early stages of the war. They are among the most forlorn victims of the invasion.",
+    "guid": "https://www.nytimes.com/interactive/2023/12/26/world/europe/ukraine-war-children-russia.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War Crimes, Genocide and Crimes Against Humanity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-31T02:20:04.000Z"
+  },
+  {
+    "creator": "Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik",
+    "title": "How Russia Silences Dissent about the Ukraine War",
+    "link": "https://www.nytimes.com/interactive/2023/12/29/world/europe/russia-ukraine-war-censorship.html",
+    "pubDate": "Sat, 30 Dec 2023 17:25:55 +0000",
+    "dc:creator": "Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik",
+    "content": "A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.",
+    "contentSnippet": "A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.",
+    "guid": "https://www.nytimes.com/interactive/2023/12/29/world/europe/russia-ukraine-war-censorship.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Surveillance of Citizens by Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Censorship",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Freedom of Speech and Expression",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-30T17:25:55.000Z"
+  },
+  {
+    "creator": "Lara Jakes",
+    "title": "As War Rages in Ukraine, Denmark Turns an Office Park Back Into an Arsenal",
+    "link": "https://www.nytimes.com/2023/12/30/world/europe/ukraine-war-denmark-ammunition.html",
+    "pubDate": "Sat, 30 Dec 2023 10:00:20 +0000",
+    "dc:creator": "Lara Jakes",
+    "content": "The conflict and surging arms production in Russia have spurred demand for ammunition manufacturing across Europe.",
+    "contentSnippet": "The conflict and surging arms production in Russia have spurred demand for ammunition manufacturing across Europe.",
+    "guid": "https://www.nytimes.com/2023/12/30/world/europe/ukraine-war-denmark-ammunition.html",
+    "categories": [
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Factories and Manufacturing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Denmark",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Arms Trade",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-30T10:00:20.000Z"
+  },
+  {
+    "creator": "Constant Méheut and Daria Mitiuk",
+    "title": "At Least 30 Killed in Ukraine After Russian Missile Attacks",
+    "link": "https://www.nytimes.com/2023/12/29/world/europe/russia-ukraine-missile-attacks.html",
+    "pubDate": "Sat, 30 Dec 2023 02:56:19 +0000",
+    "dc:creator": "Constant Méheut and Daria Mitiuk",
+    "content": "The missile and drone attacks killed at least 30 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.",
+    "contentSnippet": "The missile and drone attacks killed at least 30 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.",
+    "guid": "https://www.nytimes.com/2023/12/29/world/europe/russia-ukraine-missile-attacks.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-30T02:56:19.000Z"
+  },
+  {
+    "creator": "The New York Times",
+    "title": "Russia Launches Widespread Air Attack on Ukrainian Cities",
+    "link": "https://www.nytimes.com/video/world/europe/100000009244007/kyiv-strike-ukraine-russia.html",
+    "pubDate": "Fri, 29 Dec 2023 16:23:49 +0000",
+    "dc:creator": "The New York Times",
+    "content": "Ukrainian officials said more than two dozen people were killed in missile and drone attacks across the country over several hours.",
+    "contentSnippet": "Ukrainian officials said more than two dozen people were killed in missile and drone attacks across the country over several hours.",
+    "guid": "https://www.nytimes.com/video/world/europe/100000009244007/kyiv-strike-ukraine-russia.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-29T16:23:49.000Z"
+  },
+  {
+    "creator": "Andrew E. Kramer",
+    "title": "Christmas Moves to Dec. 25 in Ukraine, Another Rebuff of Russia",
+    "link": "https://www.nytimes.com/2023/12/25/world/europe/ukraine-russia-christmas-ukrainian-orthodox-church.html",
+    "pubDate": "Fri, 29 Dec 2023 13:03:25 +0000",
+    "dc:creator": "Andrew E. Kramer",
+    "content": "The Ukrainian Orthodox Church formally changed the main date for the festivities, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.",
+    "contentSnippet": "The Ukrainian Orthodox Church formally changed the main date for the festivities, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.",
+    "guid": "https://www.nytimes.com/2023/12/25/world/europe/ukraine-russia-christmas-ukrainian-orthodox-church.html",
+    "categories": [
+      {
+        "_": "Christmas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Orthodox Church",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukrainian Orthodox Church",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-29T13:03:25.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "Russia Retakes Some Land Hard Won by Ukraine During Counteroffensive",
+    "link": "https://www.nytimes.com/2023/12/28/world/europe/russia-ukraine-war.html",
+    "pubDate": "Thu, 28 Dec 2023 15:41:01 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "Russia’s recent progress around the southern village of Robotyne is a sobering development for Ukraine amid dwindling Western military aid.",
+    "contentSnippet": "Russia’s recent progress around the southern village of Robotyne is a sobering development for Ukraine amid dwindling Western military aid.",
+    "guid": "https://www.nytimes.com/2023/12/28/world/europe/russia-ukraine-war.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Robotyne (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Arms Trade",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-28T15:41:01.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "Ukraine Attacks Novocherkassk, a Russian Warship, in Crimea",
+    "link": "https://www.nytimes.com/2023/12/26/world/europe/ukraine-crimea-russia-warship-novocherkassk.html",
+    "pubDate": "Wed, 27 Dec 2023 09:04:43 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "A major military success at sea against Russia’s Black Sea Fleet was tempered by Ukraine’s acknowledgment that it had all but retreated from the city of Marinka.",
+    "contentSnippet": "A major military success at sea against Russia’s Black Sea Fleet was tempered by Ukraine’s acknowledgment that it had all but retreated from the city of Marinka.",
+    "guid": "https://www.nytimes.com/2023/12/26/world/europe/ukraine-crimea-russia-warship-novocherkassk.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Marinka (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Black Sea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Crimea (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-27T09:04:43.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "Ukraine Says It Downed 5 Russian Planes, as Moscow Claims It Seized a Town",
+    "link": "https://www.nytimes.com/2023/12/25/world/europe/ukraine-downs-planes-russia-claims-town.html",
+    "pubDate": "Tue, 26 Dec 2023 04:23:34 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "Russia said it now had full control of the eastern town of Marinka. On Tuesday, Ukraine claimed to have destroyed a Russian ship.",
+    "contentSnippet": "Russia said it now had full control of the eastern town of Marinka. On Tuesday, Ukraine claimed to have destroyed a Russian ship.",
+    "guid": "https://www.nytimes.com/2023/12/25/world/europe/ukraine-downs-planes-russia-claims-town.html",
+    "categories": [
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Military Aircraft",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Airlines and Airplanes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Missiles and Missile Defense Systems",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-26T04:23:34.000Z"
+  },
+  {
+    "creator": "Patricia Cohen",
+    "title": "Red Sea Shipping Halt Is Latest Risk to Global Economy",
+    "link": "https://www.nytimes.com/2023/12/24/business/economy/global-economic-risks-red-sea.html",
+    "pubDate": "Sun, 24 Dec 2023 22:12:55 +0000",
+    "dc:creator": "Patricia Cohen",
+    "content": "Next year could see increasing volatility as persistent military conflicts and economic uncertainty influence voting in national elections across the globe.",
+    "contentSnippet": "Next year could see increasing volatility as persistent military conflicts and economic uncertainty influence voting in national elections across the globe.",
+    "guid": "https://www.nytimes.com/2023/12/24/business/economy/global-economic-risks-red-sea.html",
+    "categories": [
+      {
+        "_": "United States Economy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Economic Conditions and Trends",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Presidential Election of 2024",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Prices (Fares, Fees and Rates)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Oil (Petroleum) and Gasoline",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Trade and World Market",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Supply Chain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Freight (Cargo)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Houthis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Red Sea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Middle East",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-24T22:12:55.000Z"
+  },
+  {
+    "creator": "Marc Santora",
+    "title": "He Was Ready to Die, but Not to Surrender",
+    "link": "https://www.nytimes.com/2023/12/24/world/europe/ukraine-mariupol-azpvstal.html",
+    "pubDate": "Sun, 24 Dec 2023 10:00:46 +0000",
+    "dc:creator": "Marc Santora",
+    "content": "How a Ukrainian soldier escaped from the embattled Azovstal steel complex in Mariupol and sneaked 125 miles to Ukrainian territory.",
+    "contentSnippet": "How a Ukrainian soldier escaped from the embattled Azovstal steel complex in Mariupol and sneaked 125 miles to Ukrainian territory.",
+    "guid": "https://www.nytimes.com/2023/12/24/world/europe/ukraine-mariupol-azpvstal.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mariupol (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Azovstal",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "Azov brigade",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2023-12-24T10:00:46.000Z"
+  },
+  {
+    "creator": "Andrew Higgins",
+    "title": "Putin’s Drive to Rewrite History Snares a Retired Lithuanian Judge",
+    "link": "https://www.nytimes.com/2024/01/04/world/europe/putin-russia-lithuania-judge.html",
+    "pubDate": "Thu, 04 Jan 2024 10:04:03 +0000",
+    "dc:creator": "Andrew Higgins",
+    "content": "A few years ago, Kornelija Maceviciene ruled against Soviet officers for a brutal crackdown on pro-independence protesters in her country in 1991. That has made her a target for a Russian court.",
+    "contentSnippet": "A few years ago, Kornelija Maceviciene ruled against Soviet officers for a brutal crackdown on pro-independence protesters in her country in 1991. That has made her a target for a Russian court.",
+    "guid": "https://www.nytimes.com/2024/01/04/world/europe/putin-russia-lithuania-judge.html",
+    "categories": [
+      {
+        "_": "Decisions and Verdicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Demonstrations, Protests and Riots",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Lithuania",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "USSR (Former Soviet Union)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-04T10:04:03.000Z"
   }
 ]

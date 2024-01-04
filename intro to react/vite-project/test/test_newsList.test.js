@@ -46,7 +46,7 @@ describe('NewsList', () => {
     await act(async () => {
       render(<NewsList rssFeedUrls={['https://example.com/feed']} searchQuery="" />);
     });
-  
+
     expect(screen.queryByText('Loading...')).toBeNull();
   
     // Check that the news items are rendered

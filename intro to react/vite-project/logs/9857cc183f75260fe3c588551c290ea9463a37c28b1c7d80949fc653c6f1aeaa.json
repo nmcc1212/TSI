@@ -6271,5 +6271,1436 @@
       }
     ],
     "isoDate": "2023-12-15T14:56:29.000Z"
+  },
+  {
+    "creator": "Alex Williams",
+    "title": "Vera Molnar, Pioneer of Computer Art, Dies at 99",
+    "link": "https://www.nytimes.com/2023/12/15/arts/vera-molnar-dead.html",
+    "pubDate": "Fri, 15 Dec 2023 15:25:31 +0000",
+    "dc:creator": "Alex Williams",
+    "content": "Experimenting with algorithms, she began to employ the principles of computation in her work even before she gained access to an actual computer.",
+    "contentSnippet": "Experimenting with algorithms, she began to employ the principles of computation in her work even before she gained access to an actual computer.",
+    "guid": "https://www.nytimes.com/2023/12/15/arts/vera-molnar-dead.html",
+    "categories": [
+      {
+        "_": "Molnar, Vera",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Deaths (Obituaries)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Art",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Paris (France)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Hungary",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Sotheby's",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-15T15:25:31.000Z"
+  },
+  {
+    "creator": "Sopan Deb",
+    "title": "Boy, 13, Is Believed to Be the First to ‘Beat’ Tetris",
+    "link": "https://www.nytimes.com/2024/01/03/arts/tetris-beat-blue-scuti.html",
+    "pubDate": "Thu, 04 Jan 2024 07:20:30 +0000",
+    "dc:creator": "Sopan Deb",
+    "content": "Willis Gibson, a competitive Tetris player prodigy from Oklahoma, advanced so far in the original Nintendo version of the game that it froze. “I can’t feel my fingers,” he said afterward.",
+    "contentSnippet": "Willis Gibson, a competitive Tetris player prodigy from Oklahoma, advanced so far in the original Nintendo version of the game that it froze. “I can’t feel my fingers,” he said afterward.",
+    "guid": "https://www.nytimes.com/2024/01/03/arts/tetris-beat-blue-scuti.html",
+    "categories": [
+      {
+        "_": "Tetris (Video Game)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "Computer and Video Games",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Records and Achievements",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Nintendo Co Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Oklahoma",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-04T07:20:30.000Z"
+  },
+  {
+    "creator": "Neal E. Boudette",
+    "title": "Auto Sales Are Expected to Slow After a Strong 2023",
+    "link": "https://www.nytimes.com/2024/01/03/business/economy/auto-sales-general-motors.html",
+    "pubDate": "Thu, 04 Jan 2024 04:01:06 +0000",
+    "dc:creator": "Neal E. Boudette",
+    "content": "Automakers sold more cars in 2023 than a year ago as supply chain chaos ended, but sales are now under pressure from higher interest rates.",
+    "contentSnippet": "Automakers sold more cars in 2023 than a year ago as supply chain chaos ended, but sales are now under pressure from higher interest rates.",
+    "guid": "https://www.nytimes.com/2024/01/03/business/economy/auto-sales-general-motors.html",
+    "categories": [
+      {
+        "_": "United States Economy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Electric and Hybrid Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Automobiles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Company Reports",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Shortages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "General Motors",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Prices (Fares, Fees and Rates)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Discount Selling",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Two Thousand Twenty Three",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Supply Chain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Batteries",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Toyota Motor Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-04T04:01:06.000Z"
+  },
+  {
+    "creator": "Zachary Small",
+    "title": "Museum World Hit by Cyberattack on Widely Used Software ",
+    "link": "https://www.nytimes.com/2024/01/03/arts/design/museum-cyberattack.html",
+    "pubDate": "Wed, 03 Jan 2024 23:30:41 +0000",
+    "dc:creator": "Zachary Small",
+    "content": "Hackers targeted software that many museums use to show their collections online and to manage sensitive information.",
+    "contentSnippet": "Hackers targeted software that many museums use to show their collections online and to manage sensitive information.",
+    "guid": "https://www.nytimes.com/2024/01/03/arts/design/museum-cyberattack.html",
+    "categories": [
+      {
+        "_": "Museums",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Art",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computer Security",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cyberattacks and Hackers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computer Network Outages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Loeb, Frances Lehman, Art Center",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Rubin Museum of Art",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Museum of Fine Arts (Boston)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Crystal Bridges",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-03T23:30:41.000Z"
+  },
+  {
+    "creator": "Noam Scheiber",
+    "title": "SpaceX Illegally Fired Workers Critical of Musk, NLRB Says",
+    "link": "https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html",
+    "pubDate": "Wed, 03 Jan 2024 20:37:11 +0000",
+    "dc:creator": "Noam Scheiber",
+    "content": "The National Labor Relations Board said the rocket company had wrongly dismissed eight people for a letter raising concerns about the chief executive.",
+    "contentSnippet": "The National Labor Relations Board said the rocket company had wrongly dismissed eight people for a letter raising concerns about the chief executive.",
+    "guid": "https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html",
+    "categories": [
+      {
+        "_": "Workplace Hazards and Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space Exploration Technologies Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "National Labor Relations Board",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Sexual Harassment",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Labor and Jobs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Letters",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Tesla Motors Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Twitter",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Shotwell, Gwynne",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-03T20:37:11.000Z"
+  },
+  {
+    "creator": "Edward Wong and Amy Qin",
+    "title": "Asian American Officials Cite Unfair Scrutiny and Lost Jobs in China Spy Tensions",
+    "link": "https://www.nytimes.com/2023/12/31/us/politics/china-spy-asian-americans.html",
+    "pubDate": "Tue, 02 Jan 2024 23:09:04 +0000",
+    "dc:creator": "Edward Wong and Amy Qin",
+    "content": "National security employees with ties to Asia say U.S. counterintelligence officers wrongly regard them as potential spies and ban them from jobs.",
+    "contentSnippet": "National security employees with ties to Asia say U.S. counterintelligence officers wrongly regard them as potential spies and ban them from jobs.",
+    "guid": "https://www.nytimes.com/2023/12/31/us/politics/china-spy-asian-americans.html",
+    "categories": [
+      {
+        "_": "Asian-Americans",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Chinese-Americans",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Discrimination",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Diplomatic Service, Embassies and Consulates",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hiring and Promotion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "State Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Defense Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Federal Bureau of Investigation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Foreign Service (US)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Commerce Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-02T23:09:04.000Z"
+  },
+  {
+    "creator": "Becky Hughes",
+    "title": "A 9-Month Cruise Is TikTok’s Favorite New ‘Reality Show’",
+    "link": "https://www.nytimes.com/2023/12/31/travel/tiktok-royal-caribbean-cruise.html",
+    "pubDate": "Tue, 02 Jan 2024 20:06:10 +0000",
+    "dc:creator": "Becky Hughes",
+    "content": "Social media users, gripped by the potential for drama on Royal Caribbean’s world cruise, have turned the ship’s unwitting passengers into “cast members” overnight.",
+    "contentSnippet": "Social media users, gripped by the potential for drama on Royal Caribbean’s world cruise, have turned the ship’s unwitting passengers into “cast members” overnight.",
+    "guid": "https://www.nytimes.com/2023/12/31/travel/tiktok-royal-caribbean-cruise.html",
+    "categories": [
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cruises",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Travel and Vacations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Royal Caribbean Cruises Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-02T20:06:10.000Z"
+  },
+  {
+    "creator": "Michael Roston",
+    "title": "A Stunning Eclipse, a Moon Race and Other Space Events in 2024",
+    "link": "https://www.nytimes.com/2024/01/02/science/space-astronomy-events-2024.html",
+    "pubDate": "Tue, 02 Jan 2024 14:46:19 +0000",
+    "dc:creator": "Michael Roston",
+    "content": "In April, people across North America will be able to gaze at a stunning total eclipse. And astronauts may get closer to that promised moon landing.",
+    "contentSnippet": "In April, people across North America will be able to gaze at a stunning total eclipse. And astronauts may get closer to that promised moon landing.",
+    "guid": "https://www.nytimes.com/2024/01/02/science/space-astronomy-events-2024.html",
+    "categories": [
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Solar System",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Eclipses",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rocket Science and Propulsion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Europa (Moon of Jupiter)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Moon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mars (Planet)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Asteroids",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Blue Origin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Boeing Company",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "European Space Agency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Intuitive Machines LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "National Aeronautics and Space Administration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Space Exploration Technologies Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United Launch Alliance",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-02T14:46:19.000Z"
+  },
+  {
+    "creator": "Adam Liptak",
+    "title": "Chief Justice Roberts Sees Promise and Danger of A.I. in the Courts",
+    "link": "https://www.nytimes.com/2023/12/31/us/john-roberts-supreme-court.html",
+    "pubDate": "Mon, 01 Jan 2024 02:05:12 +0000",
+    "dc:creator": "Adam Liptak",
+    "content": "In his year-end report, Chief Justice John G. Roberts Jr. focused on the new technology while steering clear of Supreme Court ethics and Donald J. Trump’s criminal cases.",
+    "contentSnippet": "In his year-end report, Chief Justice John G. Roberts Jr. focused on the new technology while steering clear of Supreme Court ethics and Donald J. Trump’s criminal cases.",
+    "guid": "https://www.nytimes.com/2023/12/31/us/john-roberts-supreme-court.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Courts and the Judiciary",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ethics and Official Misconduct",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Supreme Court (US)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Roberts, John G Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-01T02:05:12.000Z"
+  },
+  {
+    "creator": "Kashmir Hill",
+    "title": "How Tracking and Technology in Cars Is Being Weaponized by Abusive Partners",
+    "link": "https://www.nytimes.com/2023/12/31/technology/car-trackers-gps-abuse.html",
+    "pubDate": "Sun, 31 Dec 2023 08:00:24 +0000",
+    "dc:creator": "Kashmir Hill",
+    "content": "Apps that remotely track and control cars are being weaponized by abusive partners. Car manufacturers have been slow to respond, according to victims and experts.",
+    "contentSnippet": "Apps that remotely track and control cars are being weaponized by abusive partners. Car manufacturers have been slow to respond, according to victims and experts.",
+    "guid": "https://www.nytimes.com/2023/12/31/technology/car-trackers-gps-abuse.html",
+    "categories": [
+      {
+        "_": "Automobiles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Privacy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Stalking (Crime)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cyberharassment",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-31T08:00:24.000Z"
+  },
+  {
+    "creator": "Michael Forsythe and Gabriel J.X. Dance",
+    "title": "Un estudiante mantuvo en secreto una criptomina de 6 millones de dólares",
+    "link": "https://www.nytimes.com/es/2023/12/30/espanol/criptomina-secreto-texas-china.html",
+    "pubDate": "Sat, 30 Dec 2023 10:02:18 +0000",
+    "dc:creator": "Michael Forsythe and Gabriel J.X. Dance",
+    "content": "Una disputa legal en un pequeño pueblo de Texas revela inesperadamente cómo los ciudadanos chinos pueden mover dinero a Estados Unidos sin llamar la atención de las autoridades de ninguno de los dos países.",
+    "contentSnippet": "Una disputa legal en un pequeño pueblo de Texas revela inesperadamente cómo los ciudadanos chinos pueden mover dinero a Estados Unidos sin llamar la atención de las autoridades de ninguno de los dos países.",
+    "guid": "https://www.nytimes.com/es/2023/12/30/espanol/criptomina-secreto-texas-china.html",
+    "categories": [
+      {
+        "_": "Bitcoin (Currency)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "BitRush Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Binance",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Tether Operations Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Texas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-30T10:02:18.000Z"
+  },
+  {
+    "creator": "J. Edward Moreno",
+    "title": "Boom in A.I. Prompts a Test of Copyright Law",
+    "link": "https://www.nytimes.com/2023/12/30/business/media/copyright-law-ai-media.html",
+    "pubDate": "Sat, 30 Dec 2023 10:01:57 +0000",
+    "dc:creator": "J. Edward Moreno",
+    "content": "The use of content from news and information providers to train artificial intelligence systems may force a reassessment of where to draw legal lines.",
+    "contentSnippet": "The use of content from news and information providers to train artificial intelligence systems may force a reassessment of where to draw legal lines.",
+    "guid": "https://www.nytimes.com/2023/12/30/business/media/copyright-law-ai-media.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Copyrights and Copyright Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Intellectual Property",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Newspapers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "New York Times",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2023-12-30T10:01:57.000Z"
+  },
+  {
+    "creator": "Leslie Katz",
+    "title": "An Artist in Residence on A.I.’s Territory",
+    "link": "https://www.nytimes.com/2023/12/30/technology/openai-artist-alexander-reben.html",
+    "pubDate": "Sat, 30 Dec 2023 10:00:48 +0000",
+    "dc:creator": "Leslie Katz",
+    "content": "Alexander Reben is taking his tech-savvy perspective to OpenAI, a company that some in the art world believe is a threat to their future.",
+    "contentSnippet": "Alexander Reben is taking his tech-savvy perspective to OpenAI, a company that some in the art world believe is a threat to their future.",
+    "guid": "https://www.nytimes.com/2023/12/30/technology/openai-artist-alexander-reben.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Content Type: Personal Profile",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Art",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Culture (Arts)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Copyrights and Copyright Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Reben, Alexander",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2023-12-30T10:00:48.000Z"
+  },
+  {
+    "creator": "Siobhan Roberts",
+    "title": "Need a Home for 80,000 Puzzles? Try an Italian Castle.",
+    "link": "https://www.nytimes.com/2023/12/29/science/puzzles-mechanical-miller.html",
+    "pubDate": "Sat, 30 Dec 2023 02:12:05 +0000",
+    "dc:creator": "Siobhan Roberts",
+    "content": "Earlier this year, George and Roxanne Miller relocated the world’s largest collection of mechanical puzzles from their home in Florida. But first they took a road trip.",
+    "contentSnippet": "Earlier this year, George and Roxanne Miller relocated the world’s largest collection of mechanical puzzles from their home in Florida. But first they took a road trip.",
+    "guid": "https://www.nytimes.com/2023/12/29/science/puzzles-mechanical-miller.html",
+    "categories": [
+      {
+        "_": "Collectors and Collections",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Puzzles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palaces and Castles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Content Type: Personal Profile",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Design",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Road Trips",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Panicale (Italy)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-30T02:12:05.000Z"
+  },
+  {
+    "creator": "Peter Eavis and Mark Abramson",
+    "title": "California Pushes Electric Trucks as the Future of Freight",
+    "link": "https://www.nytimes.com/2023/12/28/business/energy-environment/electric-trucks-port-california.html",
+    "pubDate": "Fri, 29 Dec 2023 21:36:46 +0000",
+    "dc:creator": "Peter Eavis and Mark Abramson",
+    "content": "A mainstay of cargo transport will be phased out at ports as California bans new registrations of carbon-fuel trucks in favor of nonpolluting ones.",
+    "contentSnippet": "A mainstay of cargo transport will be phased out at ports as California bans new registrations of carbon-fuel trucks in favor of nonpolluting ones.",
+    "guid": "https://www.nytimes.com/2023/12/28/business/energy-environment/electric-trucks-port-california.html",
+    "categories": [
+      {
+        "_": "California",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Trucks and Trucking",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Electric and Hybrid Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Freight (Cargo)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ports",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Diesel Power",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Port of Los Angeles (Calif)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Nikola Motor Co",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fuel Emissions (Transportation)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Infrastructure (Public Works)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-29T21:36:46.000Z"
+  },
+  {
+    "creator": "Benjamin Mullin",
+    "title": "Inside the News Industry’s Uneasy Negotiations With OpenAI",
+    "link": "https://www.nytimes.com/2023/12/29/business/media/media-openai-chatgpt.html",
+    "pubDate": "Fri, 29 Dec 2023 13:05:31 +0000",
+    "dc:creator": "Benjamin Mullin",
+    "content": "Several major publishers have been in talks to license content to the creator of ChatGPT, but agreement on the price and terms has been elusive.",
+    "contentSnippet": "Several major publishers have been in talks to license content to the creator of ChatGPT, but agreement on the price and terms has been elusive.",
+    "guid": "https://www.nytimes.com/2023/12/29/business/media/media-openai-chatgpt.html",
+    "categories": [
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Newspapers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Copyrights and Copyright Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Prices (Fares, Fees and Rates)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "New York Times",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Associated Press",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Wall Street Journal",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Washington Post",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Atlanta Journal-Constitution",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Springer, Axel, Verlag AG",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Axel Springer Verlag AG",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "News Media Alliance",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "News Corporation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-29T13:05:31.000Z"
+  },
+  {
+    "creator": "Jonathan O’Callaghan",
+    "title": "The First Secret Asteroid Mission Won’t Be the Last",
+    "link": "https://www.nytimes.com/2023/12/27/science/secret-asteroid-mission-astroforge.html",
+    "pubDate": "Thu, 28 Dec 2023 20:23:17 +0000",
+    "dc:creator": "Jonathan O’Callaghan",
+    "content": "AstroForge, a private company, wants to mine a space rock, but it doesn’t want the competition to find out which one.",
+    "contentSnippet": "AstroForge, a private company, wants to mine a space rock, but it doesn’t want the competition to find out which one.",
+    "guid": "https://www.nytimes.com/2023/12/27/science/secret-asteroid-mission-astroforge.html",
+    "categories": [
+      {
+        "_": "AstroForge Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Asteroids",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mines and Mining",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Solar System",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rocket Science and Propulsion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-28T20:23:17.000Z"
+  },
+  {
+    "creator": "Mike Ives",
+    "title": "Apple Watch Sales to Resume, for Now",
+    "link": "https://www.nytimes.com/2023/12/28/technology/apple-watch-banned-appeals-court.html",
+    "pubDate": "Thu, 28 Dec 2023 19:23:53 +0000",
+    "dc:creator": "Mike Ives",
+    "content": "The company pulled two watches from stores after losing a patent case, but an appeals court temporarily paused enforcement of that ruling while the legal battle continues.",
+    "contentSnippet": "The company pulled two watches from stores after losing a patent case, but an appeals court temporarily paused enforcement of that ruling while the legal battle continues.",
+    "guid": "https://www.nytimes.com/2023/12/28/technology/apple-watch-banned-appeals-court.html",
+    "categories": [
+      {
+        "_": "Apple Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Watches and Clocks",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wearable Computing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Inventions and Patents",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Shopping and Retail",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Decisions and Verdicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "California",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2023-12-28T19:23:53.000Z"
+  },
+  {
+    "creator": "David Berreby",
+    "title": "ChatGPT Helps, and Worries, Business Consultants, Study Finds",
+    "link": "https://www.nytimes.com/2023/12/28/science/chatgpt-business-consultants.html",
+    "pubDate": "Thu, 28 Dec 2023 10:01:52 +0000",
+    "dc:creator": "David Berreby",
+    "content": "The A.I. tool helped most with creative tasks. With more analytical work, however, the technology led to more mistakes.",
+    "contentSnippet": "The A.I. tool helped most with creative tasks. With more analytical work, however, the technology led to more mistakes.",
+    "guid": "https://www.nytimes.com/2023/12/28/science/chatgpt-business-consultants.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Consultants",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Creativity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Boston Consulting Group",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-28T10:01:52.000Z"
+  },
+  {
+    "creator": "Jason Farago",
+    "title": "A.I. Can Make Art That Feels Human. Whose Fault Is That?",
+    "link": "https://www.nytimes.com/2023/12/28/arts/design/artists-artificial-intelligence.html",
+    "pubDate": "Thu, 28 Dec 2023 10:01:24 +0000",
+    "dc:creator": "Jason Farago",
+    "content": "A fake Drake/Weeknd mash-up is not a threat to our species’s culture. It’s a warning: We can’t let our imaginations shrink to machine size.",
+    "contentSnippet": "A fake Drake/Weeknd mash-up is not a threat to our species’s culture. It’s a warning: We can’t let our imaginations shrink to machine size.",
+    "guid": "https://www.nytimes.com/2023/12/28/arts/design/artists-artificial-intelligence.html",
+    "categories": [
+      {
+        "_": "Art",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Two Thousand Twenty Three",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Culture (Arts)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-28T10:01:24.000Z"
+  },
+  {
+    "creator": "Michael M. Grynbaum and Ryan Mac",
+    "title": "New York Times Sues OpenAI and Microsoft Over Use of Copyrighted Work",
+    "link": "https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html",
+    "pubDate": "Wed, 27 Dec 2023 22:03:21 +0000",
+    "dc:creator": "Michael M. Grynbaum and Ryan Mac",
+    "content": "Millions of articles from The New York Times were used to train chatbots that now compete with it, the lawsuit said.",
+    "contentSnippet": "Millions of articles from The New York Times were used to train chatbots that now compete with it, the lawsuit said.",
+    "guid": "https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html",
+    "categories": [
+      {
+        "_": "New York Times",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Newspapers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Copyrights and Copyright Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Compensation for Damages (Law)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2023-12-27T22:03:21.000Z"
   }
 ]
