@@ -22,7 +22,7 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string }
         setIsLoading(true);
         if (Array.isArray(props.rssFeedUrls)) {
           // console.log('Making request to:', 'http://localhost:50111/api/fetchNews');
-          const response = await axios.post('http://localhost:50111/api/fetchNews', {
+          const response = await axios.post('http://100.125.70.69:50111/api/fetchNews', {
             rssFeedUrls: props.rssFeedUrls,
           });
           const sortedNews = response.data.sort(
