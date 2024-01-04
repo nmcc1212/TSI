@@ -53,5 +53,45 @@ describe('NewsList', () => {
     expect(screen.getByText('Mock News Title 1')).toBeInTheDocument();
     expect(screen.getByText('Mock News Title 2')).toBeInTheDocument();
   });
-  
+  test('should console.error on failed axios request', async () => {
+    const consoleErrorSpy = jest.spyOn(console, 'error').mockImplementation(() => {});
+
+    // Mocking a failed axios request
+    axios.post.mockRejectedValue(new Error('Fake error'));
+
+    render(<NewsList rssFeedUrls={['url1', 'url2']} searchQuery="query" />);
+
+    // Wait for the component to finish rendering
+    await screen.findByText('Loading...');
+
+    // Wait for the axios request to complete
+    await new Promise((resolve) => setTimeout(resolve, 0));
+
+    expect(consoleErrorSpy).toHaveBeenCalledWith('Error fetching data:', expect.any(Error));
+    
+    consoleErrorSpy.mockRestore();
+  });
+  test('should handle items with missing title or contentSnippet', async () => {
+    const mockNewsData = [
+      { title: 'Title 1', contentSnippet: 'Content 1', isoDate: '2022-01-01' },
+      { title: '', contentSnippet: 'Content 2', isoDate: '2022-01-02' }, // Missing title
+      { title: 'Title 3', contentSnippet: '', isoDate: '2022-01-03' }, // Missing contentSnippet
+    ];
+
+    axios.post.mockResolvedValueOnce({ data: mockNewsData });
+
+    const { findByText } = render(<NewsList rssFeedUrls={['url1', 'url2']} searchQuery="query" />);
+
+    // Wait for the component to finish rendering
+    await findByText('Loading...');
+
+    // Wait for the axios request to complete
+    await new Promise((resolve) => setTimeout(resolve, 0));
+
+    // Assert that only the first item is displayed in the rendered component
+    expect(await findByText('Title 1')).toBeInTheDocument();
+    expect(await findByText('Title 2')).not.toBeInTheDocument(); // Missing title
+    expect(await findByText('Title 3')).not.toBeInTheDocument(); // Missing contentSnippet
+  });
 });
+

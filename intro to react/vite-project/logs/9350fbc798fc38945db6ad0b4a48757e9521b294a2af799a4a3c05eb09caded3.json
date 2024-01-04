@@ -2892,5 +2892,60 @@
       }
     ],
     "isoDate": "2024-01-04T10:04:03.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "A Trophy in Ruins: Evidence Grows That Russia Controls Marinka",
+    "link": "https://www.nytimes.com/2024/01/04/world/europe/ukraine-war-marinka-russia.html",
+    "pubDate": "Thu, 04 Jan 2024 13:39:23 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "Ukraine said it was defending territory behind the eastern frontline town. Its capture would be Russia’s most significant territorial advance in Ukraine in more than six months.",
+    "contentSnippet": "Ukraine said it was defending territory behind the eastern frontline town. Its capture would be Russia’s most significant territorial advance in Ukraine in more than six months.",
+    "guid": "https://www.nytimes.com/2024/01/04/world/europe/ukraine-war-marinka-russia.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Donbas (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Donetsk (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Marinka (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-04T13:39:23.000Z"
   }
 ]

@@ -21,6 +21,7 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[]; searchQuery: string }
       try {
         setIsLoading(true);
         if (Array.isArray(props.rssFeedUrls)) {
+          // console.log('Making request to:', 'http://localhost:50111/api/fetchNews');
           const response = await axios.post('http://localhost:50111/api/fetchNews', {
             rssFeedUrls: props.rssFeedUrls,
           });

@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
   <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_navBar.test.js">
-    <testCase name="NavBar component renders the navbar" duration="26"/>
-    <testCase name="NavBar component updates the query state when the search changes" duration="15"/>
-    <testCase name="NavBar component calls sendQueryToParent when the search button is clicked" duration="7"/>
-  </file>
-  <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_newsList.test.js">
-    <testCase name="NewsList renders loading state initially" duration="2"/>
-    <testCase name="NewsList renders news items after data fetching" duration="66"/>
+    <testCase name="NavBar component renders the navbar" duration="20"/>
+    <testCase name="NavBar component updates the query state when the search changes" duration="12"/>
+    <testCase name="NavBar component calls sendQueryToParent when the search button is clicked" duration="5"/>
   </file>
   <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_app.test.js">
-    <testCase name="App component renders App component" duration="48"/>
-    <testCase name="App component navigates to Ukraine News when the route is changed" duration="63"/>
-    <testCase name="App component navigates to World News when the route is changed" duration="35"/>
+    <testCase name="App component renders App component" duration="40"/>
+    <testCase name="App component navigates to Ukraine News when the route is changed" duration="58"/>
+    <testCase name="App component navigates to World News when the route is changed" duration="30"/>
+  </file>
+  <file path="/Users/nial/Documents/TSI/intro to react/vite-project/test/test_newsList.test.js">
+    <testCase name="NewsList renders loading state initially" duration="8"/>
+    <testCase name="NewsList renders news items after data fetching" duration="53"/>
+    <testCase name="NewsList should console.error on failed axios request" duration="8"/>
+    <testCase name="NewsList should handle items with missing title or contentSnippet" duration="1022">
+      <failure message="Error: Unable to find an element with the text: Title 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible."><![CDATA[Error: Unable to find an element with the text: Title 1. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.
+
+Ignored nodes: comments, script, style
+<body>
+  <div>
+    <div>
+      <div
+        class="mb-4"
+      >
+        <h2
+          class="text-xl font-bold"
+        >
+          Trending Words: 
+        </h2>
+      </div>
+      <div
+        class="grid grid-cols-3 gap-10 ml-10 overflow-scroll"
+      />
+    </div>
+  </div>
+</body>
+    at waitForWrapper (/Users/nial/Documents/TSI/intro to react/vite-project/node_modules/@testing-library/dom/dist/wait-for.js:162:27)
+    at /Users/nial/Documents/TSI/intro to react/vite-project/node_modules/@testing-library/dom/dist/query-helpers.js:86:33
+    at Object.findByText (/Users/nial/Documents/TSI/intro to react/vite-project/test/test_newsList.test.js:92:18)]]></failure>
+    </testCase>
   </file>
 </testExecutions>

@@ -2223,5 +2223,30 @@
       "laptops"
     ],
     "isoDate": "2024-01-04T11:00:26.000Z"
+  },
+  {
+    "creator": "Jonathan M. Gitlin",
+    "title": "Technical headaches put the brakes on GM’s big EV push",
+    "link": "https://arstechnica.com/?p=1993652",
+    "pubDate": "Thu, 04 Jan 2024 14:32:23 +0000",
+    "content:encoded": "<div id=\"rss-wrap\">\n<figure class=\"intro-image intro-left\">\n  <img src=\"https://cdn.arstechnica.net/wp-content/uploads/2023/10/UltiumCells09-800x534.jpg\" alt=\"Ultium batteries and components Monday, December 13, 2021 at the General Motors Brownstown Battery facility in Brownstown Charter Township, Michigan. (Photo by Santa Fabio for General Motors)\">\n      <p class=\"caption\" style=\"font-size:0.8em\"><a href=\"https://cdn.arstechnica.net/wp-content/uploads/2023/10/UltiumCells09.jpg\" class=\"enlarge-link\" data-height=\"854\" data-width=\"1280\">Enlarge</a> <span class=\"sep\">/</span> A GM Ultium battery pack like that found in the Lyriq.  (credit: Santa Fabio for General Motors)</p>  </figure>\n\n\n\n\n\n\n<div><a name=\"page-1\"></a></div>\n<p>General Motors ended 2023 as the number one automaker in the United States, selling 2.6 million new vehicles during those 12 months. That's a 14.1 percent increase from its performance in 2022, and comfortably eclipses the 2.3 million cars that Toyota sold during the same period. It had a strong year in terms of electric vehicle sales too—up 93 percent year-on-year.</p>\n<p>But a quick look at the data reveals a somewhat less rosy picture. Yes, it was a banner year for GM EVs, with 75,883 deliveries in 2023. But only because of the <a href=\"https://arstechnica.com/cars/2021/02/chevrolet-gives-the-bolt-ev-a-facelift-a-stretch-and-a-price-cut/\">Chevrolet Bolt EV</a> and <a href=\"https://arstechnica.com/cars/2022/11/the-2023-chevrolet-bolt-euv-is-an-extremely-useful-vehicle/\">Bolt EUV</a>. Chevy delivered 62,045 Bolts in 2023, a 62.8 percent increase on the 38,120 Bolts it sold in 2022.</p>\n<p>But as Ars <a href=\"https://arstechnica.com/cars/2023/04/gm-confirms-chevy-bolt-will-die-this-year-making-way-for-electric-pickups/\">has detailed in the past</a>, the Bolt is no more. Production ended at the Orion Assembly plant in Michigan on December 18, and GM is laying off 945 workers at the plant as it retools the factory to make electric trucks like the <a href=\"https://arstechnica.com/cars/2022/01/chevrolet-shows-off-the-2024-silverado-ev-its-first-electric-pickup/\">Chevy Silverado EV</a> and <a href=\"https://arstechnica.com/cars/2022/10/gmc-unveils-its-first-electric-truck-the-sierra-ev-due-in-early-2024/\">GMC Sierra EV</a>.</p></div><p><a href=\"https://arstechnica.com/?p=1993652#p3\">Read 12 remaining paragraphs</a> | <a href=\"https://arstechnica.com/?p=1993652&comments=1\">Comments</a></p>",
+    "content:encodedSnippet": "Enlarge / A GM Ultium battery pack like that found in the Lyriq.  (credit: Santa Fabio for General Motors)\n  \n\n\n\n\n\n\n\nGeneral Motors ended 2023 as the number one automaker in the United States, selling 2.6 million new vehicles during those 12 months. That's a 14.1 percent increase from its performance in 2022, and comfortably eclipses the 2.3 million cars that Toyota sold during the same period. It had a strong year in terms of electric vehicle sales too—up 93 percent year-on-year.\nBut a quick look at the data reveals a somewhat less rosy picture. Yes, it was a banner year for GM EVs, with 75,883 deliveries in 2023. But only because of the Chevrolet Bolt EV and Bolt EUV. Chevy delivered 62,045 Bolts in 2023, a 62.8 percent increase on the 38,120 Bolts it sold in 2022.\nBut as Ars has detailed in the past, the Bolt is no more. Production ended at the Orion Assembly plant in Michigan on December 18, and GM is laying off 945 workers at the plant as it retools the factory to make electric trucks like the Chevy Silverado EV and GMC Sierra EV.\n\nRead 12 remaining paragraphs | Comments",
+    "dc:creator": "Jonathan M. Gitlin",
+    "comments": "https://arstechnica.com/cars/2024/01/general-motors-is-still-struggling-with-new-evs-data-show/#comments",
+    "content": "GM sold a record number of EVs in 2023, but only thanks to the Bolt EV and Bolt EUV.",
+    "contentSnippet": "GM sold a record number of EVs in 2023, but only thanks to the Bolt EV and Bolt EUV.",
+    "guid": "https://arstechnica.com/?p=1993652",
+    "categories": [
+      "Cars",
+      "Cadillac Lyriq",
+      "Chevrolet Blazer EV",
+      "Chevrolet Bolt",
+      "Chevrolet silverado EV",
+      "General Motors",
+      "GM",
+      "GMC Hummer EV",
+      "Ultium"
+    ],
+    "isoDate": "2024-01-04T14:32:23.000Z"
   }
 ]

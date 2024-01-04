@@ -77,6 +77,12 @@ function App() {
                       <NewsList rssFeedUrls={defenceUrls} searchQuery={searchQuery} />
                     </div>
                    } />
+                   <Route path="/AllNews" element={
+                    <div key="AllNews">
+                      <h1 className="mb-4 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">All News</h1>
+                      <NewsList rssFeedUrls={techUrls.concat(ukraineUrls, ukUrls, worldUrls, hackerUrls, slashDotUrls, defenceUrls)} searchQuery={searchQuery} />
+                    </div>
+                   } />
                 </Route>
               </Routes>
             </BrowserRouter>

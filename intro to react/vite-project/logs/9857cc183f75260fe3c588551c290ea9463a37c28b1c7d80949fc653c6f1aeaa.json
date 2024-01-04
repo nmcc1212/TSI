@@ -7702,5 +7702,42 @@
       }
     ],
     "isoDate": "2023-12-27T22:03:21.000Z"
+  },
+  {
+    "creator": "Emmett Lindner",
+    "title": "Happy Puppies and Silly Geese: Pushing the Limits of A.I. Absurdity",
+    "link": "https://www.nytimes.com/2024/01/04/technology/ai-chatgpt-images-memes.html",
+    "pubDate": "Thu, 04 Jan 2024 15:23:23 +0000",
+    "dc:creator": "Emmett Lindner",
+    "content": "A recent update to ChatGPT made it easier to create images. It wasn’t long before some began pushing the chatbot to its limits.",
+    "contentSnippet": "A recent update to ChatGPT made it easier to create images. It wasn’t long before some began pushing the chatbot to its limits.",
+    "guid": "https://www.nytimes.com/2024/01/04/technology/ai-chatgpt-images-memes.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Yudkowsky, Eliezer",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-04T15:23:23.000Z"
   }
 ]
