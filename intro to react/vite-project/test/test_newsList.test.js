@@ -71,27 +71,37 @@ describe('NewsList', () => {
     
     consoleErrorSpy.mockRestore();
   });
-  test('should handle items with missing title or contentSnippet', async () => {
-    const mockNewsData = [
-      { title: 'Title 1', contentSnippet: 'Content 1', isoDate: '2022-01-01' },
-      { title: '', contentSnippet: 'Content 2', isoDate: '2022-01-02' }, // Missing title
-      { title: 'Title 3', contentSnippet: '', isoDate: '2022-01-03' }, // Missing contentSnippet
+  test ('should filter news items by search query', async () => {
+      axios.post.mockResolvedValueOnce({ data: mockData });
+      await act (async () => {
+          render(<NewsList rssFeedUrls={['mock-url']} searchQuery="Mock News Title 1" />);
+      });
+      expect(screen.getByText('Mock News Title 1')).toBeInTheDocument();
+      expect(screen.queryByText('Mock News Title 2')).not.toBeInTheDocument();
+    });
+  test('should set treding words to commoun words', async () => {
+    const mockTrends = [
+      {
+        title: 'Mock News Title 1',
+        link: 'https://example.com/news1',
+        contentSnippet: 'Microsoft London',
+        isoDate: '2023-01-01T12:00:00Z',
+      },
+      {
+        title: 'Mock News Title 2',
+        link: 'https://example.com/news2',
+        contentSnippet: 'London Microsoft',
+        isoDate: '2023-01-02T12:00:00Z',
+      },
     ];
-
-    axios.post.mockResolvedValueOnce({ data: mockNewsData });
-
-    const { findByText } = render(<NewsList rssFeedUrls={['url1', 'url2']} searchQuery="query" />);
-
-    // Wait for the component to finish rendering
-    await findByText('Loading...');
-
-    // Wait for the axios request to complete
-    await new Promise((resolve) => setTimeout(resolve, 0));
-
-    // Assert that only the first item is displayed in the rendered component
-    expect(await findByText('Title 1')).toBeInTheDocument();
-    expect(await findByText('Title 2')).not.toBeInTheDocument(); // Missing title
-    expect(await findByText('Title 3')).not.toBeInTheDocument(); // Missing contentSnippet
+    axios.post.mockResolvedValueOnce({ data: mockTrends });
+    await act(async () => {
+      render(<NewsList rssFeedUrls={['mock-url']} searchQuery="" />);
+    });
+    const container = screen.getByTestId('trending-words');
+    expect(container).toBeInTheDocument('Microsoft');
+    expect(container).toBeInTheDocument('London');
   });
 });
+
 

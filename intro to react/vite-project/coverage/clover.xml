@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1704382653249" clover="3.2.0">
-  <project timestamp="1704382653249" name="All files">
-    <metrics statements="65" coveredstatements="60" conditionals="12" coveredconditionals="8" methods="17" coveredmethods="13" elements="94" coveredelements="81" complexity="0" loc="65" ncloc="65" packages="1" files="3" classes="3"/>
+<coverage generated="1704453019512" clover="3.2.0">
+  <project timestamp="1704453019512" name="All files">
+    <metrics statements="65" coveredstatements="63" conditionals="12" coveredconditionals="10" methods="17" coveredmethods="16" elements="94" coveredelements="89" complexity="0" loc="65" ncloc="65" packages="1" files="3" classes="3"/>
     <file name="App.tsx" path="/Users/nial/Documents/TSI/intro to react/vite-project/src/App.tsx">
       <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
       <line num="8" count="3" type="stmt"/>
@@ -29,52 +29,52 @@
       <line num="21" count="7" type="stmt"/>
     </file>
     <file name="newsList.tsx" path="/Users/nial/Documents/TSI/intro to react/vite-project/src/newsList.tsx">
-      <metrics statements="45" coveredstatements="41" conditionals="12" coveredconditionals="8" methods="12" coveredmethods="9"/>
-      <line num="14" count="17" type="stmt"/>
-      <line num="15" count="17" type="stmt"/>
-      <line num="16" count="17" type="stmt"/>
-      <line num="17" count="17" type="stmt"/>
-      <line num="19" count="17" type="stmt"/>
-      <line num="20" count="8" type="stmt"/>
-      <line num="21" count="6" type="stmt"/>
-      <line num="22" count="6" type="stmt"/>
-      <line num="23" count="6" type="cond" truecount="1" falsecount="1"/>
-      <line num="25" count="6" type="stmt"/>
-      <line num="28" count="2" type="stmt"/>
+      <metrics statements="45" coveredstatements="44" conditionals="12" coveredconditionals="10" methods="12" coveredmethods="12"/>
+      <line num="14" count="22" type="stmt"/>
+      <line num="15" count="21" type="stmt"/>
+      <line num="16" count="21" type="stmt"/>
+      <line num="17" count="21" type="stmt"/>
+      <line num="19" count="21" type="stmt"/>
+      <line num="20" count="10" type="stmt"/>
+      <line num="21" count="7" type="stmt"/>
+      <line num="22" count="7" type="stmt"/>
+      <line num="23" count="7" type="cond" truecount="1" falsecount="1"/>
+      <line num="25" count="7" type="stmt"/>
+      <line num="28" count="3" type="stmt"/>
       <line num="29" count="3" type="stmt"/>
-      <line num="31" count="2" type="stmt"/>
+      <line num="31" count="3" type="stmt"/>
       <line num="34" count="1" type="stmt"/>
-      <line num="36" count="3" type="stmt"/>
-      <line num="41" count="8" type="cond" truecount="2" falsecount="0"/>
-      <line num="42" count="6" type="stmt"/>
-      <line num="46" count="17" type="stmt"/>
-      <line num="48" count="8" type="stmt"/>
-      <line num="49" count="5" type="stmt"/>
-      <line num="51" count="8" type="stmt"/>
-      <line num="54" count="8" type="stmt"/>
-      <line num="55" count="8" type="stmt"/>
-      <line num="56" count="2" type="cond" truecount="3" falsecount="1"/>
+      <line num="36" count="4" type="stmt"/>
+      <line num="41" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="42" count="7" type="stmt"/>
+      <line num="46" count="21" type="stmt"/>
+      <line num="48" count="10" type="stmt"/>
+      <line num="49" count="6" type="stmt"/>
+      <line num="51" count="10" type="stmt"/>
+      <line num="54" count="10" type="stmt"/>
+      <line num="55" count="10" type="stmt"/>
+      <line num="56" count="5" type="cond" truecount="3" falsecount="1"/>
       <line num="57" count="0" type="stmt"/>
-      <line num="59" count="2" type="stmt"/>
-      <line num="60" count="2" type="stmt"/>
-      <line num="61" count="2" type="stmt"/>
-      <line num="65" count="8" type="stmt"/>
-      <line num="66" count="8" type="stmt"/>
-      <line num="67" count="0" type="cond" truecount="0" falsecount="2"/>
-      <line num="71" count="8" type="stmt"/>
-      <line num="72" count="0" type="stmt"/>
-      <line num="73" count="0" type="stmt"/>
-      <line num="76" count="8" type="stmt"/>
-      <line num="80" count="17" type="cond" truecount="2" falsecount="0"/>
-      <line num="81" count="12" type="stmt"/>
-      <line num="84" count="5" type="stmt"/>
-      <line num="91" count="2" type="stmt"/>
-      <line num="101" count="2" type="stmt"/>
-      <line num="102" count="2" type="stmt"/>
+      <line num="59" count="5" type="stmt"/>
+      <line num="60" count="5" type="stmt"/>
+      <line num="61" count="5" type="stmt"/>
+      <line num="65" count="10" type="stmt"/>
+      <line num="66" count="10" type="stmt"/>
+      <line num="67" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="71" count="10" type="stmt"/>
+      <line num="72" count="3" type="stmt"/>
+      <line num="73" count="2" type="stmt"/>
+      <line num="76" count="10" type="stmt"/>
+      <line num="80" count="21" type="cond" truecount="2" falsecount="0"/>
+      <line num="81" count="14" type="stmt"/>
+      <line num="84" count="7" type="stmt"/>
+      <line num="91" count="5" type="stmt"/>
       <line num="103" count="2" type="stmt"/>
-      <line num="105" count="2" type="stmt"/>
-      <line num="108" count="2" type="stmt"/>
-      <line num="110" count="2" type="stmt"/>
+      <line num="104" count="5" type="stmt"/>
+      <line num="105" count="5" type="stmt"/>
+      <line num="107" count="5" type="stmt"/>
+      <line num="110" count="5" type="stmt"/>
+      <line num="112" count="5" type="stmt"/>
     </file>
   </project>
 </coverage>
