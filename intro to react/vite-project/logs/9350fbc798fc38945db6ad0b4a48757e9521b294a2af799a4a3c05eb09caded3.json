@@ -2947,5 +2947,109 @@
       }
     ],
     "isoDate": "2024-01-04T13:39:23.000Z"
+  },
+  {
+    "creator": "German Lopez",
+    "title": "Beyond the Front Lines",
+    "link": "https://www.nytimes.com/2024/01/05/briefing/ukraine-russia-war-new-phase.html",
+    "pubDate": "Fri, 05 Jan 2024 11:27:25 +0000",
+    "dc:creator": "German Lopez",
+    "content": "The war in Ukraine has entered a new phase.",
+    "contentSnippet": "The war in Ukraine has entered a new phase.",
+    "guid": "https://www.nytimes.com/2024/01/05/briefing/ukraine-russia-war-new-phase.html",
+    "categories": [
+      {
+        "_": "internal-storyline-no",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-05T11:27:25.000Z"
+  },
+  {
+    "creator": "Michael D. Shear and David E. Sanger",
+    "title": "White House Says North Korea Providing Russia With Ballistic Missiles",
+    "link": "https://www.nytimes.com/2024/01/04/us/politics/north-korea-russia-missiles.html",
+    "pubDate": "Thu, 04 Jan 2024 21:23:15 +0000",
+    "dc:creator": "Michael D. Shear and David E. Sanger",
+    "content": "Russia has rebuilt its own domestic supply of cruise missiles, but to keep up with the intensity of the barrage against Ukraine, it has been turning to North Korea and Iran.",
+    "contentSnippet": "Russia has rebuilt its own domestic supply of cruise missiles, but to keep up with the intensity of the barrage against Ukraine, it has been turning to North Korea and Iran.",
+    "guid": "https://www.nytimes.com/2024/01/04/us/politics/north-korea-russia-missiles.html",
+    "categories": [
+      {
+        "_": "Missiles and Missile Defense Systems",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kim Jong-un",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Kirby, John F",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "North Korea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-04T21:23:15.000Z"
   }
 ]

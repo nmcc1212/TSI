@@ -7739,5 +7739,54 @@
       }
     ],
     "isoDate": "2024-01-04T15:23:23.000Z"
+  },
+  {
+    "creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Kate LoPresti, Jen Poyant, Daniel Ramirez, Dan Powell, Marion Lozano, Rowan Niemisto and Pat McCusker",
+    "title": "The Times Sues OpenAI, a Debate Over iMessage and Our New Year’s Tech Resolutions",
+    "link": "https://www.nytimes.com/2024/01/05/podcasts/nyt-lawsuit-openai-imessage-new-years-tech.html",
+    "pubDate": "Fri, 05 Jan 2024 10:02:43 +0000",
+    "dc:creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Kate LoPresti, Jen Poyant, Daniel Ramirez, Dan Powell, Marion Lozano, Rowan Niemisto and Pat McCusker",
+    "content": "“This is sort of the big kahuna.”",
+    "contentSnippet": "“This is sort of the big kahuna.”",
+    "guid": "https://www.nytimes.com/2024/01/05/podcasts/nyt-lawsuit-openai-imessage-new-years-tech.html",
+    "categories": [
+      {
+        "_": "Science and Technology",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "New York Times",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Beeper Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-05T10:02:43.000Z"
   }
 ]
