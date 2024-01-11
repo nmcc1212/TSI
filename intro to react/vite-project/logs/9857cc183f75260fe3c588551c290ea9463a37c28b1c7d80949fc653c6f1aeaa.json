@@ -7788,5 +7788,1796 @@
       }
     ],
     "isoDate": "2024-01-05T10:02:43.000Z"
+  },
+  {
+    "creator": "David Yaffe-Bellany",
+    "title": "$3 Billion of New Bitcoin Funds Change Hands in First Trading Day",
+    "link": "https://www.nytimes.com/2024/01/11/technology/bitcoin-etf-trading.html",
+    "pubDate": "Thu, 11 Jan 2024 20:01:02 +0000",
+    "dc:creator": "David Yaffe-Bellany",
+    "content": "The products, known as exchange-traded funds, were approved by federal regulators this week, a watershed moment for the crypto industry.",
+    "contentSnippet": "The products, known as exchange-traded funds, were approved by federal regulators this week, a watershed moment for the crypto industry.",
+    "guid": "https://www.nytimes.com/2024/01/11/technology/bitcoin-etf-trading.html",
+    "categories": [
+      {
+        "_": "Virtual Currency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bitcoin (Currency)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Nasdaq Composite Index",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "BlackRock Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Coinbase Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Securities and Exchange Commission",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gensler, Gary S",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-11T20:01:02.000Z"
+  },
+  {
+    "creator": "Mike Isaac",
+    "title": "Discord Cuts 17% of Workers in Latest Tech Layoffs",
+    "link": "https://www.nytimes.com/2024/01/11/technology/discord-tech-layoffs.html",
+    "pubDate": "Thu, 11 Jan 2024 19:33:09 +0000",
+    "dc:creator": "Mike Isaac",
+    "content": "In an internal memo, Discord said it had grown five times its size since 2020.",
+    "contentSnippet": "In an internal memo, Discord said it had grown five times its size since 2020.",
+    "guid": "https://www.nytimes.com/2024/01/11/technology/discord-tech-layoffs.html",
+    "categories": [
+      {
+        "_": "Layoffs and Job Reductions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Labor and Jobs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computer and Video Games",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Discord Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Citron, Jason",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-11T19:33:09.000Z"
+  },
+  {
+    "creator": "Kashmir Hill",
+    "title": "Federal Regulator Questions Carmakers About Unwanted Tracking via Their Apps",
+    "link": "https://www.nytimes.com/2024/01/11/technology/fcc-car-apps-stalking.html",
+    "pubDate": "Thu, 11 Jan 2024 19:10:03 +0000",
+    "dc:creator": "Kashmir Hill",
+    "content": "The Federal Communications Commission is concerned about abusive partners using connected car apps to harass and track their victims.",
+    "contentSnippet": "The Federal Communications Commission is concerned about abusive partners using connected car apps to harass and track their victims.",
+    "guid": "https://www.nytimes.com/2024/01/11/technology/fcc-car-apps-stalking.html",
+    "categories": [
+      {
+        "_": "Automobiles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Stalking (Crime)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Domestic Violence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Federal Communications Commission",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Rosenworcel, Jessica",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-11T19:10:03.000Z"
+  },
+  {
+    "creator": "Nico Grant",
+    "title": "Google Cuts Hundreds of Jobs in Engineering and Other Divisions",
+    "link": "https://www.nytimes.com/2024/01/11/technology/google-layoffs.html",
+    "pubDate": "Thu, 11 Jan 2024 18:50:02 +0000",
+    "dc:creator": "Nico Grant",
+    "content": "The company, which has been working to trim expenses, laid off employees who worked on core engineering, the Google Assistant product and hardware such as the Pixel phone.",
+    "contentSnippet": "The company, which has been working to trim expenses, laid off employees who worked on core engineering, the Google Assistant product and hardware such as the Pixel phone.",
+    "guid": "https://www.nytimes.com/2024/01/11/technology/google-layoffs.html",
+    "categories": [
+      {
+        "_": "Layoffs and Job Reductions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Engineering and Engineers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Alphabet Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-11T18:50:02.000Z"
+  },
+  {
+    "creator": "Natasha Singer",
+    "title": "AI and Education: Will Chatbots Soon Tutor Your Children?",
+    "link": "https://www.nytimes.com/2024/01/11/technology/ai-chatbots-khan-education-tutoring.html",
+    "pubDate": "Thu, 11 Jan 2024 10:00:33 +0000",
+    "dc:creator": "Natasha Singer",
+    "content": "New A.I. tools could enable a Silicon Valley dream: bots that customize learning for pupils. Prior attempts have not lived up to the hype.",
+    "contentSnippet": "New A.I. tools could enable a Silicon Valley dream: bots that customize learning for pupils. Prior attempts have not lived up to the hype.",
+    "guid": "https://www.nytimes.com/2024/01/11/technology/ai-chatbots-khan-education-tutoring.html",
+    "categories": [
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "tutoring bots",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "Education (K-12)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "education technology",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "Khanmigo",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "personalized learning",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "E-Learning",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Khan Academy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Khan Lab School",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Khan, Sal (1976- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-11T10:00:33.000Z"
+  },
+  {
+    "creator": "Tiffany Hsu and Yiwen Lu",
+    "title": "No, Taylor Swift no está vendiendo ollas Le Creuset",
+    "link": "https://www.nytimes.com/es/2024/01/11/espanol/ciencia-y-tecnologia/taylor-swift-le-creuset.html",
+    "pubDate": "Thu, 11 Jan 2024 08:00:19 +0000",
+    "dc:creator": "Tiffany Hsu and Yiwen Lu",
+    "content": "El supuesto patrocinio de Swift a los productos de la empresa, que ha aparecido en anuncios publicados en Facebook y otros medios, es falso.",
+    "contentSnippet": "El supuesto patrocinio de Swift a los productos de la empresa, que ha aparecido en anuncios publicados en Facebook y otros medios, es falso.",
+    "guid": "https://www.nytimes.com/es/2024/01/11/espanol/ciencia-y-tecnologia/taylor-swift-le-creuset.html",
+    "categories": [
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Celebrities",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Online Advertising",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Frauds and Swindling",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Voice and Speech",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Swift, Taylor",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Le Creuset of America",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-11T08:00:19.000Z"
+  },
+  {
+    "creator": "David Yaffe-Bellany",
+    "title": "SEC Approves New Bitcoin ETFs, in Boon for Crypto Industry",
+    "link": "https://www.nytimes.com/2024/01/10/technology/sec-bitcoin-approval-exchange-traded-funds.html",
+    "pubDate": "Wed, 10 Jan 2024 23:06:41 +0000",
+    "dc:creator": "David Yaffe-Bellany",
+    "content": "The Securities and Exchange Commission authorized financial firms to offer a Bitcoin investment product that some hope will accelerate adoption of the technology.",
+    "contentSnippet": "The Securities and Exchange Commission authorized financial firms to offer a Bitcoin investment product that some hope will accelerate adoption of the technology.",
+    "guid": "https://www.nytimes.com/2024/01/10/technology/sec-bitcoin-approval-exchange-traded-funds.html",
+    "categories": [
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bitcoin (Currency)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Exchange Traded Funds",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Securities and Exchange Commission",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gensler, Gary S",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-10T23:06:41.000Z"
+  },
+  {
+    "creator": "Yiwen Lu",
+    "title": "Amazon Cuts Hundreds of Jobs at Studios and Twitch",
+    "link": "https://www.nytimes.com/2024/01/10/technology/amazon-layoffs-studios-twitch.html",
+    "pubDate": "Wed, 10 Jan 2024 19:31:32 +0000",
+    "dc:creator": "Yiwen Lu",
+    "content": "The layoffs add to a growing number of cuts in the tech industry this past year.",
+    "contentSnippet": "The layoffs add to a growing number of cuts in the tech industry this past year.",
+    "guid": "https://www.nytimes.com/2024/01/10/technology/amazon-layoffs-studios-twitch.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Layoffs and Job Reductions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Labor and Jobs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Amazon.com Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Metro-Goldwyn-Mayer Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Twitch Interactive Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Clancy, Dan (1964- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-10T19:31:32.000Z"
+  },
+  {
+    "creator": "Cade Metz",
+    "title": "OpenAI Unveils App Store for Customized Versions of ChatGPT",
+    "link": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
+    "pubDate": "Wed, 10 Jan 2024 19:01:29 +0000",
+    "dc:creator": "Cade Metz",
+    "content": "People who subscribe to OpenAI’s ChatGPT Plus service will be able to browse the new store for tailored chatbots that perform different tasks.",
+    "contentSnippet": "People who subscribe to OpenAI’s ChatGPT Plus service will be able to browse the new store for tailored chatbots that perform different tasks.",
+    "guid": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Software",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-10T19:01:29.000Z"
+  },
+  {
+    "creator": "Karen Weise, Cade Metz and David McCabe",
+    "title": "Microsoft Debates What to Do With A.I. Lab in China",
+    "link": "https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html",
+    "pubDate": "Wed, 10 Jan 2024 15:28:22 +0000",
+    "dc:creator": "Karen Weise, Cade Metz and David McCabe",
+    "content": "Amid U.S.-China tensions, the company has faced questions over whether operating an advanced research lab in Beijing is politically tenable.",
+    "contentSnippet": "Amid U.S.-China tensions, the company has faced questions over whether operating an advanced research lab in Beijing is politically tenable.",
+    "guid": "https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Software",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Laboratories and Scientific Equipment",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computer Vision",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gates, Bill",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Lee, Kai-Fu",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Nadella, Satya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Smith, Bradford L",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-10T15:28:22.000Z"
+  },
+  {
+    "creator": "Brian X. Chen",
+    "title": "The Best and Worst of Tech: Smartphones, Self-Driving Cars, More",
+    "link": "https://www.nytimes.com/2024/01/10/technology/personaltech/tech-smartphones-self-driving-cars.html",
+    "pubDate": "Wed, 10 Jan 2024 14:00:11 +0000",
+    "dc:creator": "Brian X. Chen",
+    "content": "The best tech, from universal power charging to foldable phones, solved practical problems. But the worst tech, including self-driving cars and cryptocurrency, put us in harm’s way.",
+    "contentSnippet": "The best tech, from universal power charging to foldable phones, solved practical problems. But the worst tech, including self-driving cars and cryptocurrency, put us in harm’s way.",
+    "guid": "https://www.nytimes.com/2024/01/10/technology/personaltech/tech-smartphones-self-driving-cars.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Virtual Currency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Smartphones",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Driverless and Semiautonomous Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Text Messaging",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "iPhone",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cruise LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Two Thousand Twenty Four",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wireless Communications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Two Thousand Twenty Three",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cellular Telephones",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Apple Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "HK FTX Trading Ltd (Futures Exchange)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Waymo",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Bankman-Fried, Sam",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-10T14:00:11.000Z"
+  },
+  {
+    "creator": "Don Clark and Ana Swanson",
+    "title": "The Next Front in the U.S.-China Battle Over Chips",
+    "link": "https://www.nytimes.com/2024/01/10/technology/risc-v-china-united-states-chips-security.html",
+    "pubDate": "Wed, 10 Jan 2024 10:01:26 +0000",
+    "dc:creator": "Don Clark and Ana Swanson",
+    "content": "A U.S.-born chip technology called RISC-V has become critical to China’s ambitions. Washington is debating whether and how to limit the technology.",
+    "contentSnippet": "A U.S.-born chip technology called RISC-V has become critical to China’s ambitions. Washington is debating whether and how to limit the technology.",
+    "guid": "https://www.nytimes.com/2024/01/10/technology/risc-v-china-united-states-chips-security.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computer Chips",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Open-Source Software",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Commerce Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Communist Party of China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-10T10:01:26.000Z"
+  },
+  {
+    "creator": "Benjamin Mullin",
+    "title": "Editor of The Los Angeles Times Steps Down",
+    "link": "https://www.nytimes.com/2024/01/09/business/media/la-times-editor-resigns.html",
+    "pubDate": "Tue, 09 Jan 2024 22:09:31 +0000",
+    "dc:creator": "Benjamin Mullin",
+    "content": "Kevin Merida, who took over the job in 2021, said in an internal note that his last day would be on Friday.",
+    "contentSnippet": "Kevin Merida, who took over the job in 2021, said in an internal note that his last day would be on Friday.",
+    "guid": "https://www.nytimes.com/2024/01/09/business/media/la-times-editor-resigns.html",
+    "categories": [
+      {
+        "_": "Appointments and Executive Changes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Newspapers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Los Angeles Times",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Merida, Kevin (1957- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-09T22:09:31.000Z"
+  },
+  {
+    "creator": "Tiffany Hsu and Yiwen Lu",
+    "title": "No, That’s Not Taylor Swift Peddling Le Creuset Cookware",
+    "link": "https://www.nytimes.com/2024/01/09/technology/taylor-swift-le-creuset-ai-deepfake.html",
+    "pubDate": "Tue, 09 Jan 2024 19:44:04 +0000",
+    "dc:creator": "Tiffany Hsu and Yiwen Lu",
+    "content": "The singer did not promote a giveaway of the popular cookware, but an artificially generated version of her voice suggested otherwise.",
+    "contentSnippet": "The singer did not promote a giveaway of the popular cookware, but an artificially generated version of her voice suggested otherwise.",
+    "guid": "https://www.nytimes.com/2024/01/09/technology/taylor-swift-le-creuset-ai-deepfake.html",
+    "categories": [
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Celebrities",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Online Advertising",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Frauds and Swindling",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Video Recordings, Downloads and Streaming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Voice and Speech",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Swift, Taylor",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Le Creuset of America",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-09T19:44:04.000Z"
+  },
+  {
+    "creator": "Kenneth Chang",
+    "title": "Vulcan Rocket Aces Its First Launch",
+    "link": "https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html",
+    "pubDate": "Tue, 09 Jan 2024 19:10:23 +0000",
+    "dc:creator": "Kenneth Chang",
+    "content": "Despite problems with one of its payloads, the new launcher’s flight was flawless, showing the potential of several vehicles that could chip away at SpaceX’s dominance.",
+    "contentSnippet": "Despite problems with one of its payloads, the new launcher’s flight was flawless, showing the potential of several vehicles that could chip away at SpaceX’s dominance.",
+    "guid": "https://www.nytimes.com/2024/01/08/science/vulcan-rocket-launch-moon.html",
+    "categories": [
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Astrobotic Technology Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United Launch Alliance",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "National Aeronautics and Space Administration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Space Exploration Technologies Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Moon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rocket Science and Propulsion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-09T19:10:23.000Z"
+  },
+  {
+    "creator": "Cade Metz",
+    "title": "OpenAI Says New York Times Lawsuit Against It Is ‘Without Merit’",
+    "link": "https://www.nytimes.com/2024/01/08/technology/openai-new-york-times-lawsuit.html",
+    "pubDate": "Tue, 09 Jan 2024 18:55:26 +0000",
+    "dc:creator": "Cade Metz",
+    "content": "The artificial intelligence start-up said that it collaborated with news organizations and that The Times, which accused it of copyright infringement, was not telling the full story.",
+    "contentSnippet": "The artificial intelligence start-up said that it collaborated with news organizations and that The Times, which accused it of copyright infringement, was not telling the full story.",
+    "guid": "https://www.nytimes.com/2024/01/08/technology/openai-new-york-times-lawsuit.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Copyrights and Copyright Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "ChatGPT",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "New York Times",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-09T18:55:26.000Z"
+  },
+  {
+    "creator": "Edward Wong, Mark Mazzetti and Paul Mozur",
+    "title": "A.I. Giant Tied to China Under Scrutiny",
+    "link": "https://www.nytimes.com/2024/01/09/us/politics/ai-china-uae-g42.html",
+    "pubDate": "Tue, 09 Jan 2024 12:36:40 +0000",
+    "dc:creator": "Edward Wong, Mark Mazzetti and Paul Mozur",
+    "content": "A congressional committee made the demand of the Commerce Department after The Times reported on concerns among U.S. intelligence officials over the Emirati company, G42.",
+    "contentSnippet": "A congressional committee made the demand of the Commerce Department after The Times reported on concerns among U.S. intelligence officials over the Emirati company, G42.",
+    "guid": "https://www.nytimes.com/2024/01/09/us/politics/ai-china-uae-g42.html",
+    "categories": [
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Surveillance of Citizens by Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Classified Information and State Secrets",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Embargoes and Sanctions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Commerce Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United Arab Emirates",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "House of Representatives",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Yitu Technology",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "ToTok (Mobile App)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Dark Matter LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-09T12:36:40.000Z"
+  },
+  {
+    "creator": "Lyndie Chiou",
+    "title": "How Astronomers Are Saving Astronomy From Satellites — For Now",
+    "link": "https://www.nytimes.com/2024/01/09/science/astronomy-telescopes-satellites-spacex-starlink.html",
+    "pubDate": "Tue, 09 Jan 2024 12:15:43 +0000",
+    "dc:creator": "Lyndie Chiou",
+    "content": "Even the most powerful telescopes are in peril as orbits above Earth fill with thousands of new satellites. But scientists aren’t ready to give up the night sky.",
+    "contentSnippet": "Even the most powerful telescopes are in peril as orbits above Earth fill with thousands of new satellites. But scientists aren’t ready to give up the night sky.",
+    "guid": "https://www.nytimes.com/2024/01/09/science/astronomy-telescopes-satellites-spacex-starlink.html",
+    "categories": [
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Satellites",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Telescopes and Observatories",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Starlink Satellite Constellation (SpaceX)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "National Science Foundation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Space Exploration Technologies Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Kuiper Systems (Amazon.com Inc)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-09T12:15:43.000Z"
+  },
+  {
+    "creator": "Shannon Hall",
+    "title": "The New Space Race Is Causing New Pollution Problems",
+    "link": "https://www.nytimes.com/2024/01/09/science/rocket-pollution-spacex-satellites.html",
+    "pubDate": "Tue, 09 Jan 2024 12:15:18 +0000",
+    "dc:creator": "Shannon Hall",
+    "content": "Earth’s stratosphere has never seen the amounts of emissions and waste from rockets and satellites that a booming space economy will leave behind.",
+    "contentSnippet": "Earth’s stratosphere has never seen the amounts of emissions and waste from rockets and satellites that a booming space economy will leave behind.",
+    "guid": "https://www.nytimes.com/2024/01/09/science/rocket-pollution-spacex-satellites.html",
+    "categories": [
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rocket Science and Propulsion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Satellites",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fuel Emissions (Transportation)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Air Pollution",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ozone",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Radiation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Waste Materials and Disposal",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Starlink Satellite Constellation (SpaceX)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Space Exploration Technologies Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Kuiper Systems (Amazon.com Inc)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "OneWeb Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-09T12:15:18.000Z"
+  },
+  {
+    "creator": "Yiwen Lu",
+    "title": "Unity Software to Cut 25% of Its Work Force",
+    "link": "https://www.nytimes.com/2024/01/08/technology/unity-software-job-cuts.html",
+    "pubDate": "Tue, 09 Jan 2024 01:00:32 +0000",
+    "dc:creator": "Yiwen Lu",
+    "content": "The cuts follow a tough year in which the tech industry laid off tens of thousands of workers.",
+    "contentSnippet": "The cuts follow a tough year in which the tech industry laid off tens of thousands of workers.",
+    "guid": "https://www.nytimes.com/2024/01/08/technology/unity-software-job-cuts.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Layoffs and Job Reductions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Labor and Jobs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Xerox Corporation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Riccitiello, John",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "San Francisco (Calif)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-09T01:00:32.000Z"
+  },
+  {
+    "creator": "Kenneth Chang",
+    "title": "Moon Lander Malfunctions After Launch, Raising Questions for NASA",
+    "link": "https://www.nytimes.com/2024/01/08/science/nasa-moon-lander-malfunction-peregrine.html",
+    "pubDate": "Mon, 08 Jan 2024 21:36:28 +0000",
+    "dc:creator": "Kenneth Chang",
+    "content": "After a flawless launch to orbit, the privately built robotic Peregrine lander is unlikely to reach the lunar surface because of a failure in its propulsion system.",
+    "contentSnippet": "After a flawless launch to orbit, the privately built robotic Peregrine lander is unlikely to reach the lunar surface because of a failure in its propulsion system.",
+    "guid": "https://www.nytimes.com/2024/01/08/science/nasa-moon-lander-malfunction-peregrine.html",
+    "categories": [
+      {
+        "_": "Astrobotic Technology Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Moon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rocket Science and Propulsion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "National Aeronautics and Space Administration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-08T21:36:28.000Z"
+  },
+  {
+    "creator": "Sapna Maheshwari",
+    "title": "TikTok Quietly Curtails Data Tool Used by Critics",
+    "link": "https://www.nytimes.com/2024/01/08/business/media/tiktok-data-tool-israel-hamas-war.html",
+    "pubDate": "Mon, 08 Jan 2024 19:19:43 +0000",
+    "dc:creator": "Sapna Maheshwari",
+    "content": "People and groups had harnessed the tool to scrutinize content on the site related to the Israel-Hamas war and other topics.",
+    "contentSnippet": "People and groups had harnessed the tool to scrutinize content on the site related to the Israel-Hamas war and other topics.",
+    "guid": "https://www.nytimes.com/2024/01/08/business/media/tiktok-data-tool-israel-hamas-war.html",
+    "categories": [
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Beijing Bytedance Technology Co Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Network Contagion Research Institute",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-08T19:19:43.000Z"
+  },
+  {
+    "creator": "Cade Metz",
+    "title": "How 2024 Will Be A.I.’s ‘Leap Forward’",
+    "link": "https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html",
+    "pubDate": "Mon, 08 Jan 2024 10:01:08 +0000",
+    "dc:creator": "Cade Metz",
+    "content": "A.I. is set to advance at a rapid rate, becoming more powerful and spreading into the physical world.",
+    "contentSnippet": "A.I. is set to advance at a rapid rate, becoming more powerful and spreading into the physical world.",
+    "guid": "https://www.nytimes.com/2024/01/08/technology/ai-robots-chatbots-2024.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Two Thousand Twenty Four",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Robots and Robotics",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Altman, Samuel H",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Manyika, James",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Cohere Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Meta Platforms Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Microsoft Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "OpenAI Labs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-08T10:01:08.000Z"
+  },
+  {
+    "creator": "Seth Kugel",
+    "title": "Help! An Employee of Budget Kept My Phone and I Can Prove It.",
+    "link": "https://www.nytimes.com/2024/01/08/travel/help-an-employee-of-budget-kept-my-phone-and-i-can-prove-it.html",
+    "pubDate": "Mon, 08 Jan 2024 10:00:52 +0000",
+    "dc:creator": "Seth Kugel",
+    "content": "After misplacing his iPhone while returning a rental car, a traveler tracked down the device and presented strong evidence to the agency that a worker took it — to no avail.",
+    "contentSnippet": "After misplacing his iPhone while returning a rental car, a traveler tracked down the device and presented strong evidence to the agency that a worker took it — to no avail.",
+    "guid": "https://www.nytimes.com/2024/01/08/travel/help-an-employee-of-budget-kept-my-phone-and-i-can-prove-it.html",
+    "categories": [
+      {
+        "_": "Automobile Renting and Leasing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Budget Rent A Car Corp",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Avis Budget Group Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Alamo Rent a Car",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Robberies and Thefts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "iPhone",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Content Type: Service",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Lost and Found Property",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-08T10:00:52.000Z"
+  },
+  {
+    "creator": "Stuart A. Thompson",
+    "title": "Dark Corners of the Web Offer a Glimpse at A.I.’s Nefarious Future",
+    "link": "https://www.nytimes.com/2024/01/08/technology/ai-4chan-online-harassment.html",
+    "pubDate": "Mon, 08 Jan 2024 08:00:12 +0000",
+    "dc:creator": "Stuart A. Thompson",
+    "content": "In the hands of anonymous internet users, A.I. tools can create waves of harassing and racist material. It’s already happening on the anonymous message board 4chan.",
+    "contentSnippet": "In the hands of anonymous internet users, A.I. tools can create waves of harassing and racist material. It’s already happening on the anonymous message board 4chan.",
+    "guid": "https://www.nytimes.com/2024/01/08/technology/ai-4chan-online-harassment.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cyberharassment",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "4chan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Center for Countering Digital Hate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-08T08:00:12.000Z"
+  },
+  {
+    "creator": "Kashmir Hill",
+    "title": "Switching to a Flip Phone Helped Me Cut Down on My Smartphone Addiction",
+    "link": "https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html",
+    "pubDate": "Sat, 06 Jan 2024 15:58:08 +0000",
+    "dc:creator": "Kashmir Hill",
+    "content": "Was it inconvenient? Yes. Did T9 texting drive me crazy? Definitely. Was it worth doing? Absolutely.",
+    "contentSnippet": "Was it inconvenient? Yes. Did T9 texting drive me crazy? Definitely. Was it worth doing? Absolutely.",
+    "guid": "https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html",
+    "categories": [
+      {
+        "_": "Smartphones",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "iPhone",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Text Messaging",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Brain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Addiction (Psychology)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Apple Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-06T15:58:08.000Z"
+  },
+  {
+    "creator": "David McCabe and Tripp Mickle",
+    "title": "U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple",
+    "link": "https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html",
+    "pubDate": "Fri, 05 Jan 2024 19:28:23 +0000",
+    "dc:creator": "David McCabe and Tripp Mickle",
+    "content": "Justice Department officials are in the late stages of investigating the iPhone maker, focusing on how Apple has used its other products and services to defend against threats to its core business.",
+    "contentSnippet": "Justice Department officials are in the late stages of investigating the iPhone maker, focusing on how Apple has used its other products and services to defend against threats to its core business.",
+    "guid": "https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html",
+    "categories": [
+      {
+        "_": "Antitrust Laws and Competition Issues",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Apple Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "iPhone",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Smartphones",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Justice Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Regulation and Deregulation of Industry",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-05T19:28:23.000Z"
   }
 ]

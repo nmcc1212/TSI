@@ -3051,5 +3051,645 @@
       }
     ],
     "isoDate": "2024-01-04T21:23:15.000Z"
+  },
+  {
+    "creator": "Lara Jakes and Christopher F. Schuetze",
+    "title": "Zelensky Visits Baltic Nations to Rally Support for Ukraine",
+    "link": "https://www.nytimes.com/2024/01/10/world/europe/ukraine-war-support-europe.html",
+    "pubDate": "Wed, 10 Jan 2024 14:02:04 +0000",
+    "dc:creator": "Lara Jakes and Christopher F. Schuetze",
+    "content": "President Volodymyr Zelensky of Ukraine is likely to find strong backing on a trip to the Baltic States, but other nations are increasingly wary.",
+    "contentSnippet": "President Volodymyr Zelensky of Ukraine is likely to find strong backing on a trip to the Baltic States, but other nations are increasingly wary.",
+    "guid": "https://www.nytimes.com/2024/01/10/world/europe/ukraine-war-support-europe.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Arms Trade",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Baltic Region",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "European Union",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "European Commission",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "North Atlantic Treaty Organization",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-10T14:02:04.000Z"
+  },
+  {
+    "creator": "Jennifer Szalai",
+    "title": "Book Review: ‘Our Enemies Will Vanish,’ by Yaroslav Trofimov",
+    "link": "https://www.nytimes.com/2024/01/10/books/review/our-enemies-will-vanish-yaroslav-trofimov.html",
+    "pubDate": "Wed, 10 Jan 2024 10:01:11 +0000",
+    "dc:creator": "Jennifer Szalai",
+    "content": "Yaroslav Trofimov grew up in Kyiv. “Our Enemies Will Vanish” records his experience as a journalist for The Wall Street Journal assigned to cover the war.",
+    "contentSnippet": "Yaroslav Trofimov grew up in Kyiv. “Our Enemies Will Vanish” records his experience as a journalist for The Wall Street Journal assigned to cover the war.",
+    "guid": "https://www.nytimes.com/2024/01/10/books/review/our-enemies-will-vanish-yaroslav-trofimov.html",
+    "categories": [
+      {
+        "_": "Books and Literature",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Trofimov, Yaroslav",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Our Enemies Will Vanish: The Russian Invasion and Ukraine's War of Independence (Book)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-10T10:01:11.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "Russian Missiles Pound Ukraine, Officials Say",
+    "link": "https://www.nytimes.com/2024/01/08/world/europe/ukraine-russia-missiles.html",
+    "pubDate": "Mon, 08 Jan 2024 20:05:51 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "The attack killed at least four people, wounded many others and caused heavy damage. It came as Moscow has intensified air assaults in recent days.",
+    "contentSnippet": "The attack killed at least four people, wounded many others and caused heavy damage. It came as Moscow has intensified air assaults in recent days.",
+    "guid": "https://www.nytimes.com/2024/01/08/world/europe/ukraine-russia-missiles.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kryvyi Rih (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kharkiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-08T20:05:51.000Z"
+  },
+  {
+    "creator": "Reuters and The Associated Press",
+    "title": "Ukrainian Residential Buildings Destroyed by Russian Air Assault",
+    "link": "https://www.nytimes.com/video/world/europe/100000009255111/ukraine-russia-missile-attack.html",
+    "pubDate": "Mon, 08 Jan 2024 20:05:10 +0000",
+    "dc:creator": "Reuters and The Associated Press",
+    "content": "Some civilians sheltered in subway stations as Russia launched a widespread missile attack on regions across Ukraine.",
+    "contentSnippet": "Some civilians sheltered in subway stations as Russia launched a widespread missile attack on regions across Ukraine.",
+    "guid": "https://www.nytimes.com/video/world/europe/100000009255111/ukraine-russia-missile-attack.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-08T20:05:10.000Z"
+  },
+  {
+    "creator": "Carlotta Gall, Vladyslav Golovin and Mauricio Lima",
+    "title": "Exhausted, on the Defensive and at ‘Hell’s Gate’ in Ukraine",
+    "link": "https://www.nytimes.com/2024/01/08/world/europe/ukraine-troops-exhausted-defensive.html",
+    "pubDate": "Mon, 08 Jan 2024 14:08:16 +0000",
+    "dc:creator": "Carlotta Gall, Vladyslav Golovin and Mauricio Lima",
+    "content": "The country’s forces along a broad stretch of the front say that, with Russia pushing forward, the war has never been so dangerous.",
+    "contentSnippet": "The country’s forces along a broad stretch of the front say that, with Russia pushing forward, the war has never been so dangerous.",
+    "guid": "https://www.nytimes.com/2024/01/08/world/europe/ukraine-troops-exhausted-defensive.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Drones (Pilotless Planes)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Zaporizhzhia (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Donetsk (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-08T14:08:16.000Z"
+  },
+  {
+    "creator": "Tyler Hicks and Marc Santora",
+    "title": "‘Two Men Down’: For Ukrainian Medics, It Was Time to Move",
+    "link": "https://www.nytimes.com/2024/01/07/world/europe/ukraine-medics-war-russia.html",
+    "pubDate": "Mon, 08 Jan 2024 03:38:12 +0000",
+    "dc:creator": "Tyler Hicks and Marc Santora",
+    "content": "They are the first line of treatment for soldiers wounded on the battlefield, racing against time to try to save lives.",
+    "contentSnippet": "They are the first line of treatment for soldiers wounded on the battlefield, racing against time to try to save lives.",
+    "guid": "https://www.nytimes.com/2024/01/07/world/europe/ukraine-medics-war-russia.html",
+    "categories": [
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-08T03:38:12.000Z"
+  },
+  {
+    "creator": "David E. Sanger and Steven Erlanger",
+    "title": "From Lebanon to the Red Sea, a Broader Conflict With Iran Looms",
+    "link": "https://www.nytimes.com/2024/01/07/us/politics/iran-us-israel-conflict.html",
+    "pubDate": "Sun, 07 Jan 2024 21:02:38 +0000",
+    "dc:creator": "David E. Sanger and Steven Erlanger",
+    "content": "With its proxies attacking from many vantage points and its nuclear program suddenly revived, Iran is posing a new challenge to the West — this time with Russia and China on its side.",
+    "contentSnippet": "With its proxies attacking from many vantage points and its nuclear program suddenly revived, Iran is posing a new challenge to the West — this time with Russia and China on its side.",
+    "guid": "https://www.nytimes.com/2024/01/07/us/politics/iran-us-israel-conflict.html",
+    "categories": [
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Nuclear Weapons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Hezbollah",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Houthis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Iran",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-07T21:02:38.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "Ukraine Says Russian Attacks Kill 11 Civilians",
+    "link": "https://www.nytimes.com/2024/01/06/world/europe/ukraine-russia-missile-strikes-donetsk.html",
+    "pubDate": "Sat, 06 Jan 2024 20:45:20 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "Ukrainian officials said missile assaults had struck private houses, trapping residents under the rubble, and that the dead included five children.",
+    "contentSnippet": "Ukrainian officials said missile assaults had struck private houses, trapping residents under the rubble, and that the dead included five children.",
+    "guid": "https://www.nytimes.com/2024/01/06/world/europe/ukraine-russia-missile-strikes-donetsk.html",
+    "categories": [
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rescues",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Donetsk (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Pokrovsk (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-06T20:45:20.000Z"
+  },
+  {
+    "creator": "Marc Santora",
+    "title": "Ukraine’s Patriot Defenses at Work: Shuddering Booms and Bursts of Light",
+    "link": "https://www.nytimes.com/2024/01/06/world/europe/ukraine-patriots-us.html",
+    "pubDate": "Sat, 06 Jan 2024 16:38:54 +0000",
+    "dc:creator": "Marc Santora",
+    "content": "The American-provided air-defense systems have helped Ukraine defend itself against Russian assaults, but Washington has warned that it will not be able to keep them supplied for much longer.",
+    "contentSnippet": "The American-provided air-defense systems have helped Ukraine defend itself against Russian assaults, but Washington has warned that it will not be able to keep them supplied for much longer.",
+    "guid": "https://www.nytimes.com/2024/01/06/world/europe/ukraine-patriots-us.html",
+    "categories": [
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Missiles and Missile Defense Systems",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Military Aircraft",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-06T16:38:54.000Z"
+  },
+  {
+    "creator": "Ivan Nechepurenko",
+    "title": "Putin Aims to Strengthen Russia’s Military by Easing Citizenship for Foreigners",
+    "link": "https://www.nytimes.com/2024/01/05/world/europe/putin-russia-army-foreigners-citizenship.html",
+    "pubDate": "Fri, 05 Jan 2024 14:02:08 +0000",
+    "dc:creator": "Ivan Nechepurenko",
+    "content": "President Vladimir V. Putin is seeking to strengthen his military to fight in Ukraine while avoiding a potentially unpopular mobilization of Russians.",
+    "contentSnippet": "President Vladimir V. Putin is seeking to strengthen his military to fight in Ukraine while avoiding a potentially unpopular mobilization of Russians.",
+    "guid": "https://www.nytimes.com/2024/01/05/world/europe/putin-russia-army-foreigners-citizenship.html",
+    "categories": [
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Citizenship and Naturalization",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Workers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Draft and Recruitment (Military)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-05T14:02:08.000Z"
   }
 ]
