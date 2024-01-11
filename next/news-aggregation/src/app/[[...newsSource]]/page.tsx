@@ -10,9 +10,9 @@ const defenceUrls: string[] = ["https://defence-blog.com/topics/uk/feed/","https
   
 
 export default function page({ params }) {
-    if (params.newsSource.length > 1) {
-        <h1>ERROR</h1>
-    }
+    // if (params.newsSource.length > 1) {
+    //     <h1>ERROR</h1>
+    // }
     if (!params.newsSource) {
         params.newsSource = "TechNews"
     }
