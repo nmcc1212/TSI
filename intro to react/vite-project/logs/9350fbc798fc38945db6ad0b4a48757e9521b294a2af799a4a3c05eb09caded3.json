@@ -3691,5 +3691,66 @@
       }
     ],
     "isoDate": "2024-01-05T14:02:08.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "U.K. to Pledge $3 Billion in Military Aid to Ukraine",
+    "link": "https://www.nytimes.com/2024/01/12/world/europe/uk-ukraine-military-aid.html",
+    "pubDate": "Fri, 12 Jan 2024 10:44:17 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "The British package is part of an effort to offer reassurance to Kyiv amid concerns about a potential shortfall in Western support.",
+    "contentSnippet": "The British package is part of an effort to offer reassurance to Kyiv amid concerns about a potential shortfall in Western support.",
+    "guid": "https://www.nytimes.com/2024/01/12/world/europe/uk-ukraine-military-aid.html",
+    "categories": [
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sunak, Rishi (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Kyiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-12T10:44:17.000Z"
   }
 ]

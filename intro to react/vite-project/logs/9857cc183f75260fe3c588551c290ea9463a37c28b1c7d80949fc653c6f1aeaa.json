@@ -9579,5 +9579,248 @@
       }
     ],
     "isoDate": "2024-01-05T19:28:23.000Z"
+  },
+  {
+    "creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Marion Lozano, Diane Wong and Pat McCusker",
+    "title": "Why Casey Left Substack, Elon Musk and Drugs, and an A.I. Antibiotic Discovery",
+    "link": "https://www.nytimes.com/2024/01/12/podcasts/hard-fork-substack-controversy-musk-drugs.html",
+    "pubDate": "Fri, 12 Jan 2024 10:02:26 +0000",
+    "dc:creator": "Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Dan Powell, Marion Lozano, Diane Wong and Pat McCusker",
+    "content": "It’s a drug episode.",
+    "contentSnippet": "It’s a drug episode.",
+    "guid": "https://www.nytimes.com/2024/01/12/podcasts/hard-fork-substack-controversy-musk-drugs.html",
+    "categories": [
+      {
+        "_": "Science and Technology",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Substack Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Drugs (Pharmaceuticals)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wall Street Journal",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Massachusetts Institute of Technology",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Harvard University",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Antibiotics",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Neo Nazi Groups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Right-Wing Extremism and Alt-Right",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-12T10:02:26.000Z"
+  },
+  {
+    "creator": "David Streitfeld",
+    "title": "U.S. Criminally Charges EBay in Cyberstalking Case",
+    "link": "https://www.nytimes.com/2024/01/11/technology/ebay-cyberstalking-charges.html",
+    "pubDate": "Fri, 12 Jan 2024 02:28:18 +0000",
+    "dc:creator": "David Streitfeld",
+    "content": "The case involves eBay employees trying to intimidate a Massachusetts couple who write and produce an e-commerce newsletter. The company will pay a criminal penalty of $3 million.",
+    "contentSnippet": "The case involves eBay employees trying to intimidate a Massachusetts couple who write and produce an e-commerce newsletter. The company will pay a criminal penalty of $3 million.",
+    "guid": "https://www.nytimes.com/2024/01/11/technology/ebay-cyberstalking-charges.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Threats and Threatening Messages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Stalking (Crime)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deferred Prosecution Agreements",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "eBay Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Justice Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Baugh, James",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Wenig, Devin N",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-12T02:28:18.000Z"
+  },
+  {
+    "creator": "Jack Ewing",
+    "title": "Hertz Sells 20,000 Electric Cars After Being Burned by Tesla’s Price Cuts",
+    "link": "https://www.nytimes.com/2024/01/11/business/hertz-electric-vehicles-tesla.html",
+    "pubDate": "Thu, 11 Jan 2024 22:32:11 +0000",
+    "dc:creator": "Jack Ewing",
+    "content": "The rental car company blamed the sharp drop in the value of electric vehicles and higher repair costs for its decision to sell 20,000 cars.",
+    "contentSnippet": "The rental car company blamed the sharp drop in the value of electric vehicles and higher repair costs for its decision to sell 20,000 cars.",
+    "guid": "https://www.nytimes.com/2024/01/11/business/hertz-electric-vehicles-tesla.html",
+    "categories": [
+      {
+        "_": "Electric and Hybrid Vehicles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Automobile Renting and Leasing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Automobiles",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Oil (Petroleum) and Gasoline",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Prices (Fares, Fees and Rates)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Appraisals and Valuation (Property)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fuel Efficiency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hertz Global Holdings Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Tesla Motors Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Musk, Elon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Traffic Accidents and Safety",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Discount Selling",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fuel Emissions (Transportation)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Barrasso, John",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-11T22:32:11.000Z"
   }
 ]

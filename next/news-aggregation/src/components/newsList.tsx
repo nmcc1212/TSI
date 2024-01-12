@@ -91,8 +91,8 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[];
       </div>
       <div className="grid grid-cols-3 gap-10 ml-10 overflow-scroll">
         {filteredNews.map((item) => (
-          <div data-testid="news-items">
-            <NewsItem key={uuidv4()} item={item} />
+          <div data-testid="news-items" key={uuidv4()} >
+            <NewsItem item={item} />
           </div>
         ))}
       </div>
