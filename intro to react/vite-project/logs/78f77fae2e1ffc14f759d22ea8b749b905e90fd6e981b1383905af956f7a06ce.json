@@ -17695,5 +17695,3289 @@
     "contentSnippet": "Israel’s next phase of the war in Gaza.",
     "guid": "https://www.nytimes.com/2024/01/09/briefing/israel-gaza-france-prime-minister.html",
     "isoDate": "2024-01-09T05:31:14.000Z"
+  },
+  {
+    "creator": "The New York Times",
+    "title": "Israel-Hamas War: U.S. Strikes Houthis Again as Tensions in Region Rise",
+    "link": "https://www.nytimes.com/live/2024/01/18/world/israel-hamas-news",
+    "pubDate": "Thu, 18 Jan 2024 12:20:59 +0000",
+    "dc:creator": "The New York Times",
+    "content": "The U.S. has attacked Houthi targets four times in the past week as it tries to limit the Iran-backed group’s ability to strike ships in the Red Sea.",
+    "contentSnippet": "The U.S. has attacked Houthi targets four times in the past week as it tries to limit the Iran-backed group’s ability to strike ships in the Red Sea.",
+    "guid": "https://www.nytimes.com/live/2024/01/18/world/israel-hamas-news",
+    "isoDate": "2024-01-18T12:20:59.000Z"
+  },
+  {
+    "creator": "Salman Masood",
+    "title": "Pakistan Retaliates With Strikes Inside Iran as Tensions Boil",
+    "link": "https://www.nytimes.com/2024/01/17/world/asia/pakistan-iran-strike.html",
+    "pubDate": "Thu, 18 Jan 2024 12:17:38 +0000",
+    "dc:creator": "Salman Masood",
+    "content": "The exchange of attacks came as the upheaval sweeping the Middle East threatened to expand.",
+    "contentSnippet": "The exchange of attacks came as the upheaval sweeping the Middle East threatened to expand.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/asia/pakistan-iran-strike.html",
+    "categories": [
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T12:17:38.000Z"
+  },
+  {
+    "creator": "Lara Jakes and David E. Sanger",
+    "title": "Iran’s Missile Capability Is Forcing the West to Weigh a Response",
+    "link": "https://www.nytimes.com/2024/01/18/world/middleeast/iran-missile-program.html",
+    "pubDate": "Thu, 18 Jan 2024 11:32:14 +0000",
+    "dc:creator": "Lara Jakes and David E. Sanger",
+    "content": "Last year, the world discovered that Iran’s drones were becoming world-class threats and a favorite of the Russians. Now, its revived missile fleet is drawing attention, too.",
+    "contentSnippet": "Last year, the world discovered that Iran’s drones were becoming world-class threats and a favorite of the Russians. Now, its revived missile fleet is drawing attention, too.",
+    "guid": "https://www.nytimes.com/2024/01/18/world/middleeast/iran-missile-program.html",
+    "categories": [
+      {
+        "_": "Iran",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Missiles and Missile Defense Systems",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Syria",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Islamic Revolutionary Guards Corps",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Iraq",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Middle East",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Abu Dhabi (United Arab Emirates)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Baluchistan (Pakistan)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War and Armed Conflicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Arms Trade",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Embargoes and Sanctions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "internal-storyline-no",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T11:32:14.000Z"
+  },
+  {
+    "creator": "Sui-Lee Wee",
+    "title": "In a Rare Move, Singapore Charges Official With Corruption",
+    "link": "https://www.nytimes.com/2024/01/18/world/asia/singapore-iswaran-corruption-charges.html",
+    "pubDate": "Thu, 18 Jan 2024 10:56:20 +0000",
+    "dc:creator": "Sui-Lee Wee",
+    "content": "Accused of accepting tickets to “Hamilton,” air travel and soccer games in Britain, the transport official resigned before he pleaded not guilty in court.",
+    "contentSnippet": "Accused of accepting tickets to “Hamilton,” air travel and soccer games in Britain, the transport official resigned before he pleaded not guilty in court.",
+    "guid": "https://www.nytimes.com/2024/01/18/world/asia/singapore-iswaran-corruption-charges.html",
+    "categories": [
+      {
+        "_": "Singapore",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Corruption (Institutional)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T10:56:20.000Z"
+  },
+  {
+    "creator": "Ceylan Yeginsu",
+    "title": "Where Are People Going This Year?",
+    "link": "https://www.nytimes.com/2024/01/18/travel/destinations-2024.html",
+    "pubDate": "Thu, 18 Jan 2024 10:01:06 +0000",
+    "dc:creator": "Ceylan Yeginsu",
+    "content": "Popular spots from years past are still favorites, but 2023’s crowds and heat waves are sparking interest in alternative destinations.",
+    "contentSnippet": "Popular spots from years past are still favorites, but 2023’s crowds and heat waves are sparking interest in alternative destinations.",
+    "guid": "https://www.nytimes.com/2024/01/18/travel/destinations-2024.html",
+    "categories": [
+      {
+        "_": "Travel and Vacations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Eclipses",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Scandinavia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T10:01:06.000Z"
+  },
+  {
+    "creator": "Paige McClanahan",
+    "title": "Will My Next Trip Be by Train Instead of Plane?",
+    "link": "https://www.nytimes.com/2024/01/18/travel/new-train-routes.html",
+    "pubDate": "Thu, 18 Jan 2024 10:00:55 +0000",
+    "dc:creator": "Paige McClanahan",
+    "content": "In Europe, Asia and the U.S., new and expanded train service is making rail a viable alternative to flying.",
+    "contentSnippet": "In Europe, Asia and the U.S., new and expanded train service is making rail a viable alternative to flying.",
+    "guid": "https://www.nytimes.com/2024/01/18/travel/new-train-routes.html",
+    "categories": [
+      {
+        "_": "Railroads",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Travel and Vacations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "High-Speed Rail Projects",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United States",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Japan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Malaysia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T10:00:55.000Z"
+  },
+  {
+    "creator": "Christopher Cottrell and Natasha Frost",
+    "title": "How Violent Riots Engulfed Papua New Guinea’s Capital",
+    "link": "https://www.nytimes.com/2024/01/18/world/asia/papua-new-guinea-unrest-poverty.html",
+    "pubDate": "Thu, 18 Jan 2024 06:57:49 +0000",
+    "dc:creator": "Christopher Cottrell and Natasha Frost",
+    "content": "A wage dispute prompted violent unrest in the Pacific nation, which experts call evidence of the effects of its demographic challenges.",
+    "contentSnippet": "A wage dispute prompted violent unrest in the Pacific nation, which experts call evidence of the effects of its demographic challenges.",
+    "guid": "https://www.nytimes.com/2024/01/18/world/asia/papua-new-guinea-unrest-poverty.html",
+    "categories": [
+      {
+        "_": "Papua New Guinea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Demonstrations, Protests and Riots",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Marape, James",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Economic Conditions and Trends",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Poverty",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Youth",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T06:57:49.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Thursday Briefing",
+    "link": "https://www.nytimes.com/2024/01/18/briefing/iran-strikes-gaza-hospital.html",
+    "pubDate": "Thu, 18 Jan 2024 05:07:24 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "Missile strikes by Iran.",
+    "contentSnippet": "Missile strikes by Iran.",
+    "guid": "https://www.nytimes.com/2024/01/18/briefing/iran-strikes-gaza-hospital.html",
+    "isoDate": "2024-01-18T05:07:24.000Z"
+  },
+  {
+    "creator": "Simon Romero, Jody García and Daniele Volpe",
+    "title": "In Guatemala, New Utopian Neighborhood? Or a Testament to Inequality?",
+    "link": "https://www.nytimes.com/2024/01/18/world/americas/cayala-guatemala.html",
+    "pubDate": "Thu, 18 Jan 2024 05:01:28 +0000",
+    "dc:creator": "Simon Romero, Jody García and Daniele Volpe",
+    "content": "The development of Cayalá is utopian, serene and prizewinning. As an elite stronghold in one of Latin America’s most unequal nations, it is also divisive.",
+    "contentSnippet": "The development of Cayalá is utopian, serene and prizewinning. As an elite stronghold in one of Latin America’s most unequal nations, it is also divisive.",
+    "guid": "https://www.nytimes.com/2024/01/18/world/americas/cayala-guatemala.html",
+    "categories": [
+      {
+        "_": "Income Inequality",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Urban Areas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Architecture",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Guatemala City (Guatemala)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Guatemala",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Arevalo, Bernardo (1958- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T05:01:28.000Z"
+  },
+  {
+    "creator": "Melissa Eddy",
+    "title": "Germany’s Economy Stalls Amid Falling Output and Political Bickering",
+    "link": "https://www.nytimes.com/2024/01/18/world/europe/german-economy-standstill.html",
+    "pubDate": "Thu, 18 Jan 2024 05:01:21 +0000",
+    "dc:creator": "Melissa Eddy",
+    "content": "The economy shrank last year and is not predicted to grow much in 2024. Farmers are angry, industrial output is falling and the government is bickering.",
+    "contentSnippet": "The economy shrank last year and is not predicted to grow much in 2024. Farmers are angry, industrial output is falling and the government is bickering.",
+    "guid": "https://www.nytimes.com/2024/01/18/world/europe/german-economy-standstill.html",
+    "categories": [
+      {
+        "_": "Economic Conditions and Trends",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Strikes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Demonstrations, Protests and Riots",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gross National Product (GNP)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Factories and Manufacturing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Group of Twenty",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Scholz, Olaf (1958- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Germany",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T05:01:21.000Z"
+  },
+  {
+    "creator": "Karoun Demirjian and Erica L. Green",
+    "title": "Johnson Casts Doubt on Border Deal to Unlock Ukraine Aid, Defying Biden",
+    "link": "https://www.nytimes.com/2024/01/17/us/politics/johnson-biden-border-ukraine.html",
+    "pubDate": "Thu, 18 Jan 2024 02:37:29 +0000",
+    "dc:creator": "Karoun Demirjian and Erica L. Green",
+    "content": "A White House meeting between the president and congressional leaders did little to break the stalemate over aid to Ukraine, as the Republican speaker insisted on a tougher immigration crackdown.",
+    "contentSnippet": "A White House meeting between the president and congressional leaders did little to break the stalemate over aid to Ukraine, as the Republican speaker insisted on a tougher immigration crackdown.",
+    "guid": "https://www.nytimes.com/2024/01/17/us/politics/johnson-biden-border-ukraine.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "House of Representatives",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Johnson, Mike (1972- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T02:37:29.000Z"
+  },
+  {
+    "creator": "Simon Romero",
+    "title": "U.S. Moves to Bar Alejandro Giammattei, Ex-Guatemalan Leader",
+    "link": "https://www.nytimes.com/2024/01/17/world/americas/us-guatemala-giammattei-barred.html",
+    "pubDate": "Thu, 18 Jan 2024 01:57:13 +0000",
+    "dc:creator": "Simon Romero",
+    "content": "The decision against Alejandro Giammattei, who is accused of accepting bribes, signaled U.S. support for a new anticorruption drive in Guatemala.",
+    "contentSnippet": "The decision against Alejandro Giammattei, who is accused of accepting bribes, signaled U.S. support for a new anticorruption drive in Guatemala.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/americas/us-guatemala-giammattei-barred.html",
+    "categories": [
+      {
+        "_": "Guatemala",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Giammattei, Alejandro",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "State Department",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bribery and Kickbacks",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Corruption (Institutional)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Arevalo, Bernardo (1958- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Elections",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T01:57:13.000Z"
+  },
+  {
+    "creator": "Sui-Lee Wee",
+    "title": "Explosion at Thailand Fireworks Factory Kills at Least 20",
+    "link": "https://www.nytimes.com/2024/01/17/world/asia/thailand-fireworks-factory-explosion.html",
+    "pubDate": "Thu, 18 Jan 2024 01:55:43 +0000",
+    "dc:creator": "Sui-Lee Wee",
+    "content": "The blast leveled the facility and was the second such deadly accident in the country since 2022. The police are investigating the cause.",
+    "contentSnippet": "The blast leveled the facility and was the second such deadly accident in the country since 2022. The police are investigating the cause.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/asia/thailand-fireworks-factory-explosion.html",
+    "categories": [
+      {
+        "_": "Accidents and Safety",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Factories and Manufacturing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Thailand",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T01:55:43.000Z"
+  },
+  {
+    "creator": "Adam Rasgon, Aaron Boxerman and Thomas Fuller",
+    "title": "Palestinians Flee Gaza Hospital Refuge as Fighting Intensifies",
+    "link": "https://www.nytimes.com/2024/01/17/world/middleeast/israel-hamas-gaza-hospital.html",
+    "pubDate": "Thu, 18 Jan 2024 01:00:14 +0000",
+    "dc:creator": "Adam Rasgon, Aaron Boxerman and Thomas Fuller",
+    "content": "Israel and Hamas are battling near a hospital in Khan Younis, near where the military said it had detected mortar fire. About 7,000 people had sought shelter on the hospital grounds, the U.N. said.",
+    "contentSnippet": "Israel and Hamas are battling near a hospital in Khan Younis, near where the military said it had detected mortar fire. About 7,000 people had sought shelter on the hospital grounds, the U.N. said.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/middleeast/israel-hamas-gaza-hospital.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hospitals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sinwar, Yehya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Blinken, Antony J",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Palestinian Authority",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Nasser Medical Center",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T01:00:14.000Z"
+  },
+  {
+    "creator": "John Yoon and Victor Mather",
+    "title": "Heavy Snow and Freezing Rain Ground Hundreds of Flights in Germany",
+    "link": "https://www.nytimes.com/2024/01/17/world/europe/germany-flights-canceled-weather.html",
+    "pubDate": "Wed, 17 Jan 2024 22:55:04 +0000",
+    "dc:creator": "John Yoon and Victor Mather",
+    "content": "About 700 flights were canceled on Wednesday at Germany’s largest airport because of severe weather. Departures resumed later in the day.",
+    "contentSnippet": "About 700 flights were canceled on Wednesday at Germany’s largest airport because of severe weather. Departures resumed later in the day.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/europe/germany-flights-canceled-weather.html",
+    "categories": [
+      {
+        "_": "Airports",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Frankfurt (Germany)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Weather",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Snow and Snowstorms",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Frankfurt Airport",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Munich (Germany)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Deutsche Lufthansa AG",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T22:55:04.000Z"
+  },
+  {
+    "creator": "Stephen Castle and Mark Landler",
+    "title": "Sunak’s Rwanda Immigration Plan Passes Vote in U.K. Parliament",
+    "link": "https://www.nytimes.com/2024/01/17/world/europe/britain-immigration-vote-rwanda.html",
+    "pubDate": "Wed, 17 Jan 2024 22:53:35 +0000",
+    "dc:creator": "Stephen Castle and Mark Landler",
+    "content": "The British prime minister’s plan to send refugees to Rwanda passed a critical vote, but more hurdles lie ahead.",
+    "contentSnippet": "The British prime minister’s plan to send refugees to Rwanda passed a critical vote, but more hurdles lie ahead.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/europe/britain-immigration-vote-rwanda.html",
+    "categories": [
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Great Britain Withdrawal from EU (Brexit)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conservative Party (Great Britain)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "House of Lords (Great Britain)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Labour Party (Great Britain)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Sunak, Rishi (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Starmer, Keir",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Rwanda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T22:53:35.000Z"
+  },
+  {
+    "creator": "Michael Crowley",
+    "title": "U.S. to Return Houthis to Terrorism List",
+    "link": "https://www.nytimes.com/2024/01/16/us/politics/houthis-terrorism-designation.html",
+    "pubDate": "Wed, 17 Jan 2024 22:50:16 +0000",
+    "dc:creator": "Michael Crowley",
+    "content": "The move is a partial return to a tougher Trump administration stance toward the Iran-backed group, which has attacked commercial ships in the Red Sea and the Gulf of Aden.",
+    "contentSnippet": "The move is a partial return to a tougher Trump administration stance toward the Iran-backed group, which has attacked commercial ships in the Red Sea and the Gulf of Aden.",
+    "guid": "https://www.nytimes.com/2024/01/16/us/politics/houthis-terrorism-designation.html",
+    "categories": [
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Humanitarian Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Blinken, Antony J",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Trump, Donald J",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Red Sea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Yemen",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Houthis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T22:50:16.000Z"
+  },
+  {
+    "creator": "Valeriya Safronova",
+    "title": "Nadya Tolokonnikova of Pussy Riot Marries John Caldwell",
+    "link": "https://www.nytimes.com/2024/01/17/style/nadya-tolokonnikova-john-caldwell-pussy-riot-wedding.html",
+    "pubDate": "Wed, 17 Jan 2024 22:05:14 +0000",
+    "dc:creator": "Valeriya Safronova",
+    "content": "Nadya Tolokonnikova, a founding member of Pussy Riot, and John Caldwell have always prioritized being “helpful,” he said, over being happy.",
+    "contentSnippet": "Nadya Tolokonnikova, a founding member of Pussy Riot, and John Caldwell have always prioritized being “helpful,” he said, over being happy.",
+    "guid": "https://www.nytimes.com/2024/01/17/style/nadya-tolokonnikova-john-caldwell-pussy-riot-wedding.html",
+    "categories": [
+      {
+        "_": "Weddings and Engagements",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Tolokonnikova, Nadezhda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T22:05:14.000Z"
+  },
+  {
+    "creator": "Mark Landler and Stephen Castle",
+    "title": "Why Rishi Sunak’s Conservatives Have Splintered Into Factions",
+    "link": "https://www.nytimes.com/2024/01/17/world/europe/sunak-parliament-conservatives-five-families.html",
+    "pubDate": "Wed, 17 Jan 2024 21:46:34 +0000",
+    "dc:creator": "Mark Landler and Stephen Castle",
+    "content": "The biggest challenge to Britain’s prime minister comes from his own divided party, which is triggering resignations and a mutiny over immigration.",
+    "contentSnippet": "The biggest challenge to Britain’s prime minister comes from his own divided party, which is triggering resignations and a mutiny over immigration.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/europe/sunak-parliament-conservatives-five-families.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Illegal Immigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conservative Party (Great Britain)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Asylum, Right of",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Decisions and Verdicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Francois, Mark (1965- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sunak, Rishi (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Timothy, Nicholas (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Braverman, Suella",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Johnson, Boris",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "England",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Europe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Rwanda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T21:46:34.000Z"
+  },
+  {
+    "creator": "Mark Landler",
+    "title": "Kate, Princess of Wales, Is in the Hospital After Abdominal Surgery",
+    "link": "https://www.nytimes.com/2024/01/17/world/europe/princess-kate-middleton-abdominal-surgery.html",
+    "pubDate": "Wed, 17 Jan 2024 21:43:21 +0000",
+    "dc:creator": "Mark Landler",
+    "content": "Kensington Palace said Catherine, the wife of Prince William, would not return to public duties until after Easter. Separately, King Charles will receive prostate treatment next week.",
+    "contentSnippet": "Kensington Palace said Catherine, the wife of Prince William, would not return to public duties until after Easter. Separately, King Charles will receive prostate treatment next week.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/europe/princess-kate-middleton-abdominal-surgery.html",
+    "categories": [
+      {
+        "_": "Royal Families",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Catherine, Duchess of Cambridge",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "William, Duke of Cambridge",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Charles III, King of the United Kingdom",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T21:43:21.000Z"
+  },
+  {
+    "creator": "Anushka Patil and Adam Rasgon",
+    "title": "Gaza’s Phone and Internet Service Is Down for a Sixth Day",
+    "link": "https://www.nytimes.com/2024/01/17/world/middleeast/gaza-telecom-blackout.html",
+    "pubDate": "Wed, 17 Jan 2024 21:32:18 +0000",
+    "dc:creator": "Anushka Patil and Adam Rasgon",
+    "content": "It is the longest blackout since the start of the war, according to the strip’s main communications company, which says it is unable to make repairs amid the fighting.",
+    "contentSnippet": "It is the longest blackout since the start of the war, according to the strip’s main communications company, which says it is unable to make repairs amid the fighting.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/middleeast/gaza-telecom-blackout.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Communications and Media Blackouts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Khan Younis (Gaza Strip)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T21:32:18.000Z"
+  },
+  {
+    "creator": "Vivian Yee and Farnaz Fassihi",
+    "title": "Iran Says It Won’t Hold Back on Using Military Power After Strikes",
+    "link": "https://www.nytimes.com/2024/01/17/world/middleeast/iran-missiles-pakistan-iraq.html",
+    "pubDate": "Wed, 17 Jan 2024 21:21:14 +0000",
+    "dc:creator": "Vivian Yee and Farnaz Fassihi",
+    "content": "The country has hit targets in Syria, Iraq and Pakistan with missiles this week, signaling to hard-line supporters that it is not passive in the face of threats.",
+    "contentSnippet": "The country has hit targets in Syria, Iraq and Pakistan with missiles this week, signaling to hard-line supporters that it is not passive in the face of threats.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/middleeast/iran-missiles-pakistan-iraq.html",
+    "categories": [
+      {
+        "_": "Iran",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Pakistan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Iraq",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Islamic State in Iraq and Syria (ISIS)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Middle East",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Baluchistan (Pakistan)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Syria",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Khamenei, Ali",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T21:21:14.000Z"
+  },
+  {
+    "creator": "Amelia Nierenberg",
+    "title": "Thursday Briefing: Iran Raises Military Threats",
+    "link": "https://www.nytimes.com/2024/01/17/world/asia/iran-pakistan-iraq-china-asia.html",
+    "pubDate": "Wed, 17 Jan 2024 21:04:39 +0000",
+    "dc:creator": "Amelia Nierenberg",
+    "content": "Also, how language affects memory as we age.",
+    "contentSnippet": "Also, how language affects memory as we age.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/asia/iran-pakistan-iraq-china-asia.html",
+    "categories": [
+      {
+        "_": "Far East, South and Southeast Asia and Pacific Areas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T21:04:39.000Z"
+  },
+  {
+    "creator": "Aurelien Breeden",
+    "title": "France Rejects Genocide Accusations Against Israel in Gaza",
+    "link": "https://www.nytimes.com/2024/01/17/world/middleeast/france-israel-genocide-gaza.html",
+    "pubDate": "Wed, 17 Jan 2024 20:28:13 +0000",
+    "dc:creator": "Aurelien Breeden",
+    "content": "“To accuse the Jewish state of genocide is to cross a moral threshold,” France’s foreign minister said on Wednesday.",
+    "contentSnippet": "“To accuse the Jewish state of genocide is to cross a moral threshold,” France’s foreign minister said on Wednesday.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/middleeast/france-israel-genocide-gaza.html",
+    "categories": [
+      {
+        "_": "Macron, Emmanuel (1977- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Sejourne, Stephane",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "International Court of Justice (UN)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United Nations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "France",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Middle East",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "South Africa",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War Crimes, Genocide and Crimes Against Humanity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T20:28:13.000Z"
+  },
+  {
+    "creator": "Siobhan Roberts",
+    "title": "A.I.’s Latest Challenge: the Math Olympics",
+    "link": "https://www.nytimes.com/2024/01/17/science/ai-computers-mathematics-olympiad.html",
+    "pubDate": "Wed, 17 Jan 2024 19:49:55 +0000",
+    "dc:creator": "Siobhan Roberts",
+    "content": "Watch out, nerdy high schoolers, AlphaGeometry is coming for your mathematical lunch.",
+    "contentSnippet": "Watch out, nerdy high schoolers, AlphaGeometry is coming for your mathematical lunch.",
+    "guid": "https://www.nytimes.com/2024/01/17/science/ai-computers-mathematics-olympiad.html",
+    "categories": [
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mathematics",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "DeepMind Technologies Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Tao, Terence (1975- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "California",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T19:49:55.000Z"
+  },
+  {
+    "creator": "Safak Timur",
+    "title": "Softer Penalty for Somali Leader’s Son After Fatal Crash Prompts Outrage in Turkey",
+    "link": "https://www.nytimes.com/2024/01/17/world/europe/somalia-president-son-turkey-crash.html",
+    "pubDate": "Wed, 17 Jan 2024 18:47:51 +0000",
+    "dc:creator": "Safak Timur",
+    "content": "After a crash that killed a motorcycle courier, a son of Somalia’s president faced prison. Now it will be a fine of about $900.",
+    "contentSnippet": "After a crash that killed a motorcycle courier, a son of Somalia’s president faced prison. Now it will be a fine of about $900.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/europe/somalia-president-son-turkey-crash.html",
+    "categories": [
+      {
+        "_": "Traffic Accidents and Safety",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Amnesties, Commutations and Pardons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mohamud, Hassan Sheikh",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Somalia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Turkey",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T18:47:51.000Z"
+  },
+  {
+    "creator": "Mark Landler",
+    "title": "King Charles to Have ‘Corrective Procedure’ for Enlarged Prostate Next Week",
+    "link": "https://www.nytimes.com/2024/01/17/world/europe/king-charles-surgery-prostate.html",
+    "pubDate": "Wed, 17 Jan 2024 17:42:30 +0000",
+    "dc:creator": "Mark Landler",
+    "content": "The announcement from Buckingham Palace came shortly after the news that Catherine, Princess of Wales, had abdominal surgery on Tuesday.",
+    "contentSnippet": "The announcement from Buckingham Palace came shortly after the news that Catherine, Princess of Wales, had abdominal surgery on Tuesday.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/europe/king-charles-surgery-prostate.html",
+    "categories": [
+      {
+        "_": "Prostate Gland",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Royal Families",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Charles III, King of the United Kingdom",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T17:42:30.000Z"
+  },
+  {
+    "creator": "Ali Watkins",
+    "title": "In Norway, a Proposed Ban on Foreign Adoptions Rattles All Sides of a Heated Debate",
+    "link": "https://www.nytimes.com/2024/01/17/world/europe/foreign-adoptions-ban-norway-denmark.html",
+    "pubDate": "Wed, 17 Jan 2024 16:50:39 +0000",
+    "dc:creator": "Ali Watkins",
+    "content": "A policy body recommended this week that the country halt all foreign adoptions amid allegations of stolen children, falsified paperwork and for-profit adoption schemes.",
+    "contentSnippet": "A policy body recommended this week that the country halt all foreign adoptions amid allegations of stolen children, falsified paperwork and for-profit adoption schemes.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/europe/foreign-adoptions-ban-norway-denmark.html",
+    "categories": [
+      {
+        "_": "Norway",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Adoptions",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Denmark",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T16:50:39.000Z"
+  },
+  {
+    "creator": "Mohamed Ahmed and Emma Bubola",
+    "title": "Kenyan Cult Leader Will Face 191 Charges of Child Murder",
+    "link": "https://www.nytimes.com/2024/01/17/world/africa/kenya-cult-leader-murders-mackenzie.html",
+    "pubDate": "Wed, 17 Jan 2024 16:23:22 +0000",
+    "dc:creator": "Mohamed Ahmed and Emma Bubola",
+    "content": "The authorities say Paul Nthenge Mackenzie told his followers to starve themselves and their children to death in the Shakahola Forest, where hundreds of bodies have been exhumed.",
+    "contentSnippet": "The authorities say Paul Nthenge Mackenzie told his followers to starve themselves and their children to death in the Shakahola Forest, where hundreds of bodies have been exhumed.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/africa/kenya-cult-leader-murders-mackenzie.html",
+    "categories": [
+      {
+        "_": "Evangelical Movement",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Religious Cults",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Doomsday",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mackenzie, Paul Nthenge",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Kenya",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Malindi (Kenya)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T16:23:22.000Z"
+  },
+  {
+    "creator": "Delger Erdenesanaa",
+    "title": "Greenland’s Ice Sheet May Be Losing 20% More Ice Than Previously Measured",
+    "link": "https://www.nytimes.com/2024/01/17/climate/greenland-ice-sheet-melting.html",
+    "pubDate": "Wed, 17 Jan 2024 16:22:03 +0000",
+    "dc:creator": "Delger Erdenesanaa",
+    "content": "The island is shedding 20 percent more than previously estimated, a study found, potentially threatening ocean currents that help to regulate global temperatures.",
+    "contentSnippet": "The island is shedding 20 percent more than previously estimated, a study found, potentially threatening ocean currents that help to regulate global temperatures.",
+    "guid": "https://www.nytimes.com/2024/01/17/climate/greenland-ice-sheet-melting.html",
+    "categories": [
+      {
+        "_": "Global Warming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Glaciers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Research",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Nature (Journal)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Oceans and Seas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Greene, Chad",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T16:22:03.000Z"
+  },
+  {
+    "creator": "Salman Masood",
+    "title": "After Iran Strikes, Pakistan Weighs Options for Response",
+    "link": "https://www.nytimes.com/2024/01/17/world/asia/iran-pakistan-strike.html",
+    "pubDate": "Wed, 17 Jan 2024 14:05:26 +0000",
+    "dc:creator": "Salman Masood",
+    "content": "Retaliation could risk drawing the country, which is already mired in political and economic crises, into Middle East upheaval that it has so far avoided.",
+    "contentSnippet": "Retaliation could risk drawing the country, which is already mired in political and economic crises, into Middle East upheaval that it has so far avoided.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/asia/iran-pakistan-strike.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Iran",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Pakistan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T14:05:26.000Z"
+  },
+  {
+    "creator": "Constant Méheut",
+    "title": "Polish Truckers Lift Border Blockade With Ukraine",
+    "link": "https://www.nytimes.com/2024/01/17/world/europe/ukraine-poland-truckers-blockade.html",
+    "pubDate": "Wed, 17 Jan 2024 11:49:57 +0000",
+    "dc:creator": "Constant Méheut",
+    "content": "The suspension of the protest until March, while its leaders talk with the Polish government, promises some relief for Ukraine’s flagging economy.",
+    "contentSnippet": "The suspension of the protest until March, while its leaders talk with the Polish government, promises some relief for Ukraine’s flagging economy.",
+    "guid": "https://www.nytimes.com/2024/01/17/world/europe/ukraine-poland-truckers-blockade.html",
+    "categories": [
+      {
+        "_": "Trucks and Trucking",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Economic Conditions and Trends",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kyiv (Ukraine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Poland",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T11:49:57.000Z"
+  },
+  {
+    "creator": "Ceylan Yeginsu",
+    "title": "3-Year Cruise Passengers Seek Fraud Charges Over Cancellation",
+    "link": "https://www.nytimes.com/2024/01/17/travel/criminal-complaint-three-year-cruise.html",
+    "pubDate": "Wed, 17 Jan 2024 11:36:55 +0000",
+    "dc:creator": "Ceylan Yeginsu",
+    "content": "After more than a month of missed deadlines for refunds, a group of hard-hit passengers who signed up for the failed Life at Sea cruise are pursuing legal intervention.",
+    "contentSnippet": "After more than a month of missed deadlines for refunds, a group of hard-hit passengers who signed up for the failed Life at Sea cruise are pursuing legal intervention.",
+    "guid": "https://www.nytimes.com/2024/01/17/travel/criminal-complaint-three-year-cruise.html",
+    "categories": [
+      {
+        "_": "Travel and Vacations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Suits and Litigation (Civil)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cruises",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Life at Sea Cruise",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "Miray International Cruises & Management",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T11:36:55.000Z"
+  },
+  {
+    "creator": "Alissa J. Rubin",
+    "title": "Iranian Strikes in Iraq and Pakistan Inflame Regional Tensions",
+    "link": "https://www.nytimes.com/2024/01/16/world/middleeast/iraq-us-europe-iran-attack-kurdistan.html",
+    "pubDate": "Wed, 17 Jan 2024 10:44:04 +0000",
+    "dc:creator": "Alissa J. Rubin",
+    "content": "Iran says its missile strikes were aimed at militant groups behind attacks on its territory, but Pakistan and Iraq rejected that explanation.",
+    "contentSnippet": "Iran says its missile strikes were aimed at militant groups behind attacks on its territory, but Pakistan and Iraq rejected that explanation.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/middleeast/iraq-us-europe-iran-attack-kurdistan.html",
+    "categories": [
+      {
+        "_": "War and Armed Conflicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kurds",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Islamic Revolutionary Guards Corps",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Islamic State in Iraq and Syria (ISIS)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Erbil (Iraq)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Iran",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Iraq",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Pakistan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Middle East",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T10:44:04.000Z"
+  },
+  {
+    "creator": "Emma Bubola",
+    "title": "New Zealand Lawmaker Golriz Ghahraman Resigns After Shoplifting Allegations",
+    "link": "https://www.nytimes.com/2024/01/16/world/asia/new-zealand-lawmaker-shoplifting-golriz-ghahraman.html",
+    "pubDate": "Wed, 17 Jan 2024 10:30:45 +0000",
+    "dc:creator": "Emma Bubola",
+    "content": "Golriz Ghahraman was the first refugee to be sworn in as a member of the country’s Parliament. She did not directly address the accusations but said her behavior “fell short.”",
+    "contentSnippet": "Golriz Ghahraman was the first refugee to be sworn in as a member of the country’s Parliament. She did not directly address the accusations but said her behavior “fell short.”",
+    "guid": "https://www.nytimes.com/2024/01/16/world/asia/new-zealand-lawmaker-shoplifting-golriz-ghahraman.html",
+    "categories": [
+      {
+        "_": "New Zealand",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Shoplifting and Employee Theft (Retail)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Legislatures and Parliaments",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ghahraman, Golriz",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T10:30:45.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Wednesday Briefing",
+    "link": "https://www.nytimes.com/2024/01/17/briefing/yemen-attacks-trump-zelensky-davos.html",
+    "pubDate": "Wed, 17 Jan 2024 05:05:58 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "U.S. attacks in Yemen.",
+    "contentSnippet": "U.S. attacks in Yemen.",
+    "guid": "https://www.nytimes.com/2024/01/17/briefing/yemen-attacks-trump-zelensky-davos.html",
+    "isoDate": "2024-01-17T05:05:58.000Z"
+  },
+  {
+    "creator": "Eric Schmitt and Saeed Al-Batati",
+    "title": "U.S. Strikes Houthi Targets in Yemen for a Third Time",
+    "link": "https://www.nytimes.com/2024/01/16/world/middleeast/us-strikes-houthis-yemen.html",
+    "pubDate": "Wed, 17 Jan 2024 04:37:12 +0000",
+    "dc:creator": "Eric Schmitt and Saeed Al-Batati",
+    "content": "The American strikes destroyed four missiles that posed a threat to ships in the Red Sea, the Pentagon said. They came on the third day in a row the Houthis have defiantly fired at passing ships.",
+    "contentSnippet": "The American strikes destroyed four missiles that posed a threat to ships in the Red Sea, the Pentagon said. They came on the third day in a row the Houthis have defiantly fired at passing ships.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/middleeast/us-strikes-houthis-yemen.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "War and Armed Conflicts",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ships and Shipping",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Houthis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Yemen",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Iran",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Red Sea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T04:37:12.000Z"
+  },
+  {
+    "creator": "Carol Rosenberg",
+    "title": "Malaysian Prisoners Plead Guilty to Conspiring in 2002 Bali Bombing",
+    "link": "https://www.nytimes.com/2024/01/16/us/politics/bali-bombing-case.html",
+    "pubDate": "Wed, 17 Jan 2024 02:31:08 +0000",
+    "dc:creator": "Carol Rosenberg",
+    "content": "The men, who have been held by the United States for two decades as lieutenants to a Southeast Asian terrorist, entered pleas at Guantánamo Bay.",
+    "contentSnippet": "The men, who have been held by the United States for two decades as lieutenants to a Southeast Asian terrorist, entered pleas at Guantánamo Bay.",
+    "guid": "https://www.nytimes.com/2024/01/16/us/politics/bali-bombing-case.html",
+    "categories": [
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Prisons and Prisoners",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "September 11 (2001)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Detainees",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Torture",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Military Tribunals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Al Qaeda",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Central Intelligence Agency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Jemaah Islamiyah",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Biden, Joseph R Jr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "bin Laden, Osama",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Bali (Indonesia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Guantanamo Bay Naval Base (Cuba)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Jakarta (Indonesia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T02:31:08.000Z"
+  },
+  {
+    "creator": "Catie Edmondson",
+    "title": "Senate Advances Stopgap Bill to Avert a Partial Shutdown",
+    "link": "https://www.nytimes.com/2024/01/16/world/europe/senate-government-shutdown-bill.html",
+    "pubDate": "Wed, 17 Jan 2024 02:15:21 +0000",
+    "dc:creator": "Catie Edmondson",
+    "content": "The lopsided vote reflected broad backing for the measure in the Senate. It faces a more fraught reception in the House, where hard-right Republicans are opposed.",
+    "contentSnippet": "The lopsided vote reflected broad backing for the measure in the Senate. It faces a more fraught reception in the House, where hard-right Republicans are opposed.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/europe/senate-government-shutdown-bill.html",
+    "categories": [
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Shutdowns (Institutional)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Federal Budget (US)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Republican Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "House Freedom Caucus",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Johnson, Mike (1972- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Schumer, Charles E",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T02:15:21.000Z"
+  },
+  {
+    "creator": "Roger Cohen",
+    "title": "Macron Vows to Break France’s Taboos and Fight the Far Right",
+    "link": "https://www.nytimes.com/2024/01/16/world/europe/macron-france-taboos.html",
+    "pubDate": "Wed, 17 Jan 2024 01:26:54 +0000",
+    "dc:creator": "Roger Cohen",
+    "content": "The president also said during a televised appearance he would fight to the last to prevent the far-right leader Marine Le Pen from succeeding him.",
+    "contentSnippet": "The president also said during a televised appearance he would fight to the last to prevent the far-right leader Marine Le Pen from succeeding him.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/europe/macron-france-taboos.html",
+    "categories": [
+      {
+        "_": "France",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Macron, Emmanuel (1977- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Le Pen, Marine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T01:26:54.000Z"
+  },
+  {
+    "creator": "Karoun Demirjian",
+    "title": "Senate Rejects Israel Human Rights Measure, but Skepticism on Aid Persists",
+    "link": "https://www.nytimes.com/2024/01/16/us/politics/senate-israel-aid.html",
+    "pubDate": "Wed, 17 Jan 2024 01:19:22 +0000",
+    "dc:creator": "Karoun Demirjian",
+    "content": "Senators voted to kill a resolution that would have ordered the administration to assess whether Israel has violated human rights. But the debate highlighted Democratic resistance to providing unfettered aid.",
+    "contentSnippet": "Senators voted to kill a resolution that would have ordered the administration to assess whether Israel has violated human rights. But the debate highlighted Democratic resistance to providing unfettered aid.",
+    "guid": "https://www.nytimes.com/2024/01/16/us/politics/senate-israel-aid.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Human Rights and Human Rights Violations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Foreign Aid",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Democratic Party",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Senate",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Sanders, Bernard",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T01:19:22.000Z"
+  },
+  {
+    "creator": "Aaron Boxerman and Adam Rasgon",
+    "title": "Hamas Rocket Barrage Stirs Debate in Israel Over Direction of War",
+    "link": "https://www.nytimes.com/2024/01/16/world/middleeast/hamas-rocket-barrage-israel-war.html",
+    "pubDate": "Wed, 17 Jan 2024 01:00:13 +0000",
+    "dc:creator": "Aaron Boxerman and Adam Rasgon",
+    "content": "Right-wing lawmakers said the attack on Tuesday showed the folly of withdrawing some troops from the Gaza Strip, while Israel’s government faces international pressure to scale back further.",
+    "contentSnippet": "Right-wing lawmakers said the attack on Tuesday showed the folly of withdrawing some troops from the Gaza Strip, while Israel’s government faces international pressure to scale back further.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/middleeast/hamas-rocket-barrage-israel-war.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ben-Gvir, Itamar",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gallant, Yoav",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Netanyahu, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Ziv, Israel (1957- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kidnapping and Hostages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-17T01:00:13.000Z"
+  },
+  {
+    "creator": "Cassandra Vinograd",
+    "title": "2 Planes Collide at Japan Airport Amid Heavy Snow, Weeks After Tokyo Episode",
+    "link": "https://www.nytimes.com/2024/01/16/world/asia/japan-hokkaido-planes.html",
+    "pubDate": "Tue, 16 Jan 2024 23:02:05 +0000",
+    "dc:creator": "Cassandra Vinograd",
+    "content": "Nobody was injured in the episode on Tuesday, which took place on the country’s northern island of Hokkaido amid heavy snow.",
+    "contentSnippet": "Nobody was injured in the episode on Tuesday, which took place on the country’s northern island of Hokkaido amid heavy snow.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/asia/japan-hokkaido-planes.html",
+    "categories": [
+      {
+        "_": "Airlines and Airplanes",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Aviation Accidents, Safety and Disasters",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Snow and Snowstorms",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hokkaido (Japan)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Japan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "South Korea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Tokyo (Japan)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Cathay Pacific Airways Limited",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T23:02:05.000Z"
+  },
+  {
+    "creator": "Amelia Nierenberg",
+    "title": "Wednesday Briefing: Trump’s Momentum After Iowa",
+    "link": "https://www.nytimes.com/2024/01/16/world/asia/iowa-trump-hamas-korea-asia.html",
+    "pubDate": "Tue, 16 Jan 2024 22:51:52 +0000",
+    "dc:creator": "Amelia Nierenberg",
+    "content": "Also, the afterlife of a Japanese marvel.",
+    "contentSnippet": "Also, the afterlife of a Japanese marvel.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/asia/iowa-trump-hamas-korea-asia.html",
+    "categories": [
+      {
+        "_": "Far East, South and Southeast Asia and Pacific Areas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T22:51:52.000Z"
+  },
+  {
+    "creator": "Eric Schmitt",
+    "title": "2 Missing Navy SEALs Were Stopping Weapons Going to Yemen From Iran",
+    "link": "https://www.nytimes.com/2024/01/16/world/middleeast/navy-seals-houthis-iran.html",
+    "pubDate": "Tue, 16 Jan 2024 19:29:56 +0000",
+    "dc:creator": "Eric Schmitt",
+    "content": "The seized items, including missile guidance systems and warheads, were for the Iran-backed Houthi militia, which has been targeting ships in the Red Sea, the Pentagon said.",
+    "contentSnippet": "The seized items, including missile guidance systems and warheads, were for the Iran-backed Houthi militia, which has been targeting ships in the Red Sea, the Pentagon said.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/middleeast/navy-seals-houthis-iran.html",
+    "categories": [
+      {
+        "_": "United States Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Houthis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Navy Seals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "United States Navy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Iran",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Red Sea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Yemen",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Somalia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T19:29:56.000Z"
+  },
+  {
+    "creator": "Victor Mather",
+    "title": "Was Bobi Really the World’s Oldest Dog? His Guinness Record Is in Doubt.",
+    "link": "https://www.nytimes.com/2024/01/16/world/europe/worlds-oldest-dog-bobi.html",
+    "pubDate": "Tue, 16 Jan 2024 19:15:45 +0000",
+    "dc:creator": "Victor Mather",
+    "content": "His owner’s claim that Bobi, a Rafeiro do Alentejo from Portugal, was more than 31 drew skepticism. His title is on hold pending an investigation.",
+    "contentSnippet": "His owner’s claim that Bobi, a Rafeiro do Alentejo from Portugal, was more than 31 drew skepticism. His title is on hold pending an investigation.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/europe/worlds-oldest-dog-bobi.html",
+    "categories": [
+      {
+        "_": "Dogs",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Records and Achievements",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Guinness World Records",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Portugal",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Guinness World Records (Book)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "Longevity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Pets",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T19:15:45.000Z"
+  },
+  {
+    "creator": "Richard Sandomir",
+    "title": "Zvi Zamir, Israeli Spy Chief in a Critical Period, Dies at 98",
+    "link": "https://www.nytimes.com/2024/01/16/world/middleeast/zvi-zamir-dead.html",
+    "pubDate": "Tue, 16 Jan 2024 18:15:08 +0000",
+    "dc:creator": "Richard Sandomir",
+    "content": "He led the Mossad’s response to the massacre of 11 Israelis at the 1972 Olympics. A year later, he learned that Egypt and Syria were about to attack Israel.",
+    "contentSnippet": "He led the Mossad’s response to the massacre of 11 Israelis at the 1972 Olympics. A year later, he learned that Egypt and Syria were about to attack Israel.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/middleeast/zvi-zamir-dead.html",
+    "categories": [
+      {
+        "_": "Zamir, Zvi (1925-2024)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Espionage and Intelligence Services",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Olympic Games (1972)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Arab-Israeli War (1973)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mossad",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Black September Organization",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Munich (Germany)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Munich (Movie)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl"
+        }
+      },
+      {
+        "_": "Deaths (Obituaries)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T18:15:08.000Z"
+  },
+  {
+    "creator": "Andrew E. Kramer, Jim Tankersley and Jordyn Holman",
+    "title": "Zelensky Calls for Peace, Not More Weapons, in Davos",
+    "link": "https://www.nytimes.com/2024/01/16/world/europe/ukraine-zelensky-davos-switzerland-peace.html",
+    "pubDate": "Tue, 16 Jan 2024 17:40:53 +0000",
+    "dc:creator": "Andrew E. Kramer, Jim Tankersley and Jordyn Holman",
+    "content": "In a speech in Switzerland, the Ukrainian president asked for more sanctions on Moscow, but he did not appeal for weaponry for new offenses.",
+    "contentSnippet": "In a speech in Switzerland, the Ukrainian president asked for more sanctions on Moscow, but he did not appeal for weaponry for new offenses.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/europe/ukraine-zelensky-davos-switzerland-peace.html",
+    "categories": [
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Peace Process",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "World Economic Forum",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Zelensky, Volodymyr",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Switzerland",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T17:40:53.000Z"
+  },
+  {
+    "creator": "Megan Specia",
+    "title": "Three Myths Around the U.K.’s Rwanda Plan for Asylum Seekers",
+    "link": "https://www.nytimes.com/2024/01/16/world/europe/uk-rwanda-asylum.html",
+    "pubDate": "Tue, 16 Jan 2024 17:10:08 +0000",
+    "dc:creator": "Megan Specia",
+    "content": "The British government’s plan to send asylum seekers to Africa is back in Parliament this week. Here’s a guide to some of the difficult realities behind the issue.",
+    "contentSnippet": "The British government’s plan to send asylum seekers to Africa is back in Parliament this week. Here’s a guide to some of the difficult realities behind the issue.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/europe/uk-rwanda-asylum.html",
+    "categories": [
+      {
+        "_": "Illegal Immigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Asylum, Right of",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rumors and Misinformation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T17:10:08.000Z"
+  },
+  {
+    "creator": "Nadav Gavrielov",
+    "title": "Israeli Teenager Recounts Her Time as a Hostage in Gaza",
+    "link": "https://www.nytimes.com/2024/01/16/world/middleeast/israel-hostage-hamas-gaza.html",
+    "pubDate": "Tue, 16 Jan 2024 15:30:29 +0000",
+    "dc:creator": "Nadav Gavrielov",
+    "content": "Hila Rotem Shoshani, 13, is the youngest of the hostages freed from Gaza to speak out about the harsh conditions in which they were held.",
+    "contentSnippet": "Hila Rotem Shoshani, 13, is the youngest of the hostages freed from Gaza to speak out about the harsh conditions in which they were held.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/middleeast/israel-hostage-hamas-gaza.html",
+    "categories": [
+      {
+        "_": "Kidnapping and Hostages",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T15:30:29.000Z"
+  },
+  {
+    "creator": "Adam Goldman, Ronen Bergman, Patrick Kingsley and Gal Koplewitz",
+    "title": "Israel Unearths More of a Subterranean Fortress Under Gaza",
+    "link": "https://www.nytimes.com/2024/01/16/us/politics/israel-gaza-tunnels.html",
+    "pubDate": "Tue, 16 Jan 2024 15:00:20 +0000",
+    "dc:creator": "Adam Goldman, Ronen Bergman, Patrick Kingsley and Gal Koplewitz",
+    "content": "The Israeli military has been surprised by the extent, depth and quality of the tunnel network beneath Gaza.",
+    "contentSnippet": "The Israeli military has been surprised by the extent, depth and quality of the tunnel network beneath Gaza.",
+    "guid": "https://www.nytimes.com/2024/01/16/us/politics/israel-gaza-tunnels.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bridges and Tunnels",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T15:00:20.000Z"
+  },
+  {
+    "creator": "Showkat Nanda and Sameer Yasir",
+    "title": "Winter Without Snow Is Devastating Indian Kashmir’s Ski Tourism",
+    "link": "https://www.nytimes.com/2024/01/16/world/asia/no-snow-gulmarg-india.html",
+    "pubDate": "Tue, 16 Jan 2024 14:43:57 +0000",
+    "dc:creator": "Showkat Nanda and Sameer Yasir",
+    "content": "A dry winter has been devastating to Gulmarg, one of Asia’s highest ski resorts, in Indian-controlled Kashmir.",
+    "contentSnippet": "A dry winter has been devastating to Gulmarg, one of Asia’s highest ski resorts, in Indian-controlled Kashmir.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/asia/no-snow-gulmarg-india.html",
+    "categories": [
+      {
+        "_": "Travel and Vacations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Snow and Snowstorms",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Winter (Season)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Global Warming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Skiing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Weather",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gulmarg (Jammu and Kashmir)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T14:43:57.000Z"
+  },
+  {
+    "creator": "Megan Specia",
+    "title": "UK Moves to Ban the Islamist Group Hizb ut-Tahrir",
+    "link": "https://www.nytimes.com/2024/01/15/world/middleeast/uk-ban-hizb-ut-tahrir-terror.html",
+    "pubDate": "Tue, 16 Jan 2024 13:42:27 +0000",
+    "dc:creator": "Megan Specia",
+    "content": "The government said it would designate the international Islamist political group a terrorist organization, citing what it said was Hizb ut-Tahrir’s praise for the Oct. 7 attack on Israel.",
+    "contentSnippet": "The government said it would designate the international Islamist political group a terrorist organization, citing what it said was Hizb ut-Tahrir’s praise for the Oct. 7 attack on Israel.",
+    "guid": "https://www.nytimes.com/2024/01/15/world/middleeast/uk-ban-hizb-ut-tahrir-terror.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hizb ut-Tahrir",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cameron, David",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Blair, Tony",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Cleverly, James",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Tugendhat, Tom",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T13:42:27.000Z"
+  },
+  {
+    "creator": "Alissa J. Rubin",
+    "title": "Iran Hits Iraq and Syria With Missiles, Citing Terrorist Attack",
+    "link": "https://www.nytimes.com/2024/01/15/world/middleeast/iran-iraq-syria-attack.html",
+    "pubDate": "Tue, 16 Jan 2024 13:31:49 +0000",
+    "dc:creator": "Alissa J. Rubin",
+    "content": "Explosions shook Erbil, a city in northern Iraq, and at least four civilians were killed, local officials said. Syrian targets were also hit, Iran’s Revolutionary Guards said.",
+    "contentSnippet": "Explosions shook Erbil, a city in northern Iraq, and at least four civilians were killed, local officials said. Syrian targets were also hit, Iran’s Revolutionary Guards said.",
+    "guid": "https://www.nytimes.com/2024/01/15/world/middleeast/iran-iraq-syria-attack.html",
+    "categories": [
+      {
+        "_": "Iran",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Islamic Revolutionary Guards Corps",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Erbil (Iraq)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Iraq",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Syria",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Kurdistan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Islamic State in Iraq and Syria (ISIS)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T13:31:49.000Z"
+  },
+  {
+    "creator": "Choe Sang-Hun",
+    "title": "​North Korea Says It No Longer Wants to Reunify With South Korea",
+    "link": "https://www.nytimes.com/2024/01/16/world/asia/north-korea-reunification-policy.html",
+    "pubDate": "Tue, 16 Jan 2024 09:23:16 +0000",
+    "dc:creator": "Choe Sang-Hun",
+    "content": "Abandoning the longtime goal, however unlikely, Kim Jong-un, the North’s leader, instead threatened to subjugate South Korea in war.",
+    "contentSnippet": "Abandoning the longtime goal, however unlikely, Kim Jong-un, the North’s leader, instead threatened to subjugate South Korea in war.",
+    "guid": "https://www.nytimes.com/2024/01/16/world/asia/north-korea-reunification-policy.html",
+    "categories": [
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Korean War",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Kim Jong-un",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "North Korea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "South Korea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Yoon Suk-yeol",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T09:23:16.000Z"
+  },
+  {
+    "creator": "Matthew Mpoke Bigg, Vivek Shankar and Thomas Fuller",
+    "title": "Houthis Attack More Ships in Red Sea After U.S.-Led Strikes in Yemen",
+    "link": "https://www.nytimes.com/2024/01/15/world/middleeast/houthis-ships-red-sea.html",
+    "pubDate": "Tue, 16 Jan 2024 05:27:54 +0000",
+    "dc:creator": "Matthew Mpoke Bigg, Vivek Shankar and Thomas Fuller",
+    "content": "The Iranian-backed militants launched a fresh round of attacks days after their military sites were hit by U.S. and British forces.",
+    "contentSnippet": "The Iranian-backed militants launched a fresh round of attacks days after their military sites were hit by U.S. and British forces.",
+    "guid": "https://www.nytimes.com/2024/01/15/world/middleeast/houthis-ships-red-sea.html",
+    "categories": [
+      {
+        "_": "Israel-Gaza War (2023- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Houthis",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Yemen",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Ships and Shipping",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Red Sea",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Suez Canal",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Hamas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gaza Strip",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Defense and Military Forces",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Palestinians",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Freight (Cargo)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Great Britain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Sunak, Rishi (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Netanyahu, Benjamin",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Gallant, Yoav",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Israel",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-16T05:27:54.000Z"
+  },
+  {
+    "creator": "Natasha Frost",
+    "title": "Tuesday Briefing",
+    "link": "https://www.nytimes.com/2024/01/16/briefing/houthis-attacks-trump-emmys.html",
+    "pubDate": "Tue, 16 Jan 2024 05:16:37 +0000",
+    "dc:creator": "Natasha Frost",
+    "content": "A Houthi attack on a U.S.-owned ship.",
+    "contentSnippet": "A Houthi attack on a U.S.-owned ship.",
+    "guid": "https://www.nytimes.com/2024/01/16/briefing/houthis-attacks-trump-emmys.html",
+    "isoDate": "2024-01-16T05:16:37.000Z"
+  },
+  {
+    "creator": "Amelia Nierenberg",
+    "title": "Tuesday Briefing: Houthis Attack a U.S. Ship",
+    "link": "https://www.nytimes.com/2024/01/15/world/asia/houthis-missiles-us-ship-taiwan-asia.html",
+    "pubDate": "Mon, 15 Jan 2024 20:52:49 +0000",
+    "dc:creator": "Amelia Nierenberg",
+    "content": "Also, the Iowa caucuses and Indigenous tourism.",
+    "contentSnippet": "Also, the Iowa caucuses and Indigenous tourism.",
+    "guid": "https://www.nytimes.com/2024/01/15/world/asia/houthis-missiles-us-ship-taiwan-asia.html",
+    "categories": [
+      {
+        "_": "Far East, South and Southeast Asia and Pacific Areas",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-01-15T20:52:49.000Z"
   }
 ]

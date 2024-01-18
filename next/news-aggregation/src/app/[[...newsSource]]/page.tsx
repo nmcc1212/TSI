@@ -16,7 +16,7 @@ const sources = {
     "WorldNews": worldUrls,
     "HackerNews": hackerUrls,
     "AllNews": techUrls.concat(ukraineUrls, ukUrls, worldUrls, hackerUrls),
-    "Defence": defenceUrls
+    "DefenceNews": defenceUrls
 
 }
 
