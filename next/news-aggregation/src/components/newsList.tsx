@@ -11,7 +11,8 @@ interface NewsItem {
   isoDate: string;
 }
 
-function NewsList(props: Readonly<{ rssFeedUrls: string[]; 
+function NewsList(props: Readonly<{
+  rssFeedUrls: string[];
   // searchQuery: string 
 }>) {
   const [newsData, setNewsData] = useState<NewsItem[]>([]);
@@ -25,7 +26,7 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[];
         setIsLoading(true);
         if (Array.isArray(props.rssFeedUrls)) {
           const response = await axios.post('http://localhost:50111/api/fetchNews', {
-          // const response = await axios.post('http://100.125.70.69:50111/api/fetchNews', {
+            // const response = await axios.post('http://100.125.70.69:50111/api/fetchNews', {
             rssFeedUrls: props.rssFeedUrls,
           });
           const sortedNews = response.data.sort(
@@ -75,7 +76,7 @@ function NewsList(props: Readonly<{ rssFeedUrls: string[];
       .filter((word) => word.trim() !== '')
       .sort((a, b) => wordCount[b] - wordCount[a])
       .slice(0, 5);
-  
+
     setTrendingWords(trending);
 
   }, [newsData, props.searchQuery]);
@@ -113,8 +114,8 @@ const NewsItem = ({ item }: Props) => {
   const formattedDate = new Date(isoDate).toLocaleString();
 
   return (
-    <a href={link} target="_blank" rel="noreferrer" className="flex-grow border-2 h-80 flex overflow-auto flex-col block w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
-      <p className="mb-4 select-text text-lg font-normal font-bold text-black-500 dark:text-gray-400">{title}</p>  {/* title */}
+    <a href={link} target="_blank" rel="noreferrer" className="flex-grow border-2 h-80  overflow-auto flex-col block w-sm p-6 bg-white border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+      <p className="mb-4 select-text text-lg font-bold text-black-500 dark:text-gray-400">{title}</p>  {/* title */}
       <p className="mb-3 select-text text-gray-500 dark:text-gray-400">{desc}</p> {/* description */}
       <p className="mb-1 select-text text-gray-500 dark:text-gray-400">Published: {formattedDate}</p> {/* formatted date */}
     </a>

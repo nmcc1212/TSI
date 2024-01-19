@@ -6,17 +6,17 @@ import { useState } from "react";
 // };
 
 const NavBar = () => {
-    // const [query, setQuery] = useState("");
-  
-    // const sendQuery = () => {
-    //   sendQueryToParent(query);
-    // };
-  
-    // const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    //   const newQuery = event.target.value;
-    //   setQuery(newQuery);
-    //   sendQueryToParent(newQuery);
-    // };
+  // const [query, setQuery] = useState("");
+
+  // const sendQuery = () => {
+  //   sendQueryToParent(query);
+  // };
+
+  // const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+  //   const newQuery = event.target.value;
+  //   setQuery(newQuery);
+  //   sendQueryToParent(newQuery);
+  // };
 
   return (
     <div className="">
@@ -87,14 +87,14 @@ const NavBar = () => {
                     type="text"
                     className="block w-full px-4 h-5 py-2 text-purple-700 bg-white border rounded-md focus:border-purple-400 focus:ring-purple-300 focus:outline-none focus:ring focus:ring-opacity-40"
                     placeholder="Search..."
-                    // value={query}
-                    // onChange={handleChange}
+                  // value={query}
+                  // onChange={handleChange}
                   />
                   <button
                     type="button"
                     className="px-4 text-white bg-purple-600 border-l rounded"
                     aria-label="Search"
-                    // onClick={sendQuery}
+                  // onClick={sendQuery}
                   >
                     Search
                   </button>

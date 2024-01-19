@@ -10743,5 +10743,340 @@
       }
     ],
     "isoDate": "2024-01-18T17:28:58.000Z"
+  },
+  {
+    "creator": "Kenneth Chang",
+    "title": "Astrobotic’s Peregrine Moon Lander Burns Up in Earth’s Atmosphere",
+    "link": "https://www.nytimes.com/2024/01/18/science/moon-lander-peregrine-nasa.html",
+    "pubDate": "Fri, 19 Jan 2024 01:33:37 +0000",
+    "dc:creator": "Kenneth Chang",
+    "content": "The Astrobotic Peregrine spacecraft launched last week for a lunar landing, but a propulsion malfunction left it unable to complete its mission.",
+    "contentSnippet": "The Astrobotic Peregrine spacecraft launched last week for a lunar landing, but a propulsion malfunction left it unable to complete its mission.",
+    "guid": "https://www.nytimes.com/2024/01/18/science/moon-lander-peregrine-nasa.html",
+    "categories": [
+      {
+        "_": "Astrobotic Technology Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "National Aeronautics and Space Administration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Moon",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Rocket Science and Propulsion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-01-19T01:33:37.000Z"
+  },
+  {
+    "creator": "Kenneth Chang",
+    "title": "SpaceX and Axiom Launch Ax-3 Mission to International Space Station: Video",
+    "link": "https://www.nytimes.com/2024/01/18/science/axiom-launch-astronauts-spacex.html",
+    "pubDate": "Fri, 19 Jan 2024 00:19:11 +0000",
+    "dc:creator": "Kenneth Chang",
+    "content": "A SpaceX launch to the International Space Station led by the company Axiom Space illustrates how traditional and private space efforts are mixing.",
+    "contentSnippet": "A SpaceX launch to the International Space Station led by the company Axiom Space illustrates how traditional and private space efforts are mixing.",
+    "guid": "https://www.nytimes.com/2024/01/18/science/axiom-launch-astronauts-spacex.html",
+    "categories": [
+      {
+        "_": "Axiom Space Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "International Space Station",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Private Spaceflight",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "European Space Agency",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Rocket Science and Propulsion",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Space and Astronomy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Lopez-Alegria, Michael",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Italy",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Sweden",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Turkey",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gezeravci, Alper (1979- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Villadei, Walter (1974- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Wandt, Marcus (1980- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-19T00:19:11.000Z"
+  },
+  {
+    "creator": "Benjamin Mullin and Katie Robertson",
+    "title": "Billionaires Wanted to Save the News Industry. They’re Losing a Fortune.",
+    "link": "https://www.nytimes.com/2024/01/18/business/media/billionaires-news-media-owners.html",
+    "pubDate": "Thu, 18 Jan 2024 23:50:02 +0000",
+    "dc:creator": "Benjamin Mullin and Katie Robertson",
+    "content": "Time magazine, The Washington Post and The Los Angeles Times — owned by Marc Benioff, Jeff Bezos and Dr. Patrick Soon-Shiong — are still losing money.",
+    "contentSnippet": "Time magazine, The Washington Post and The Los Angeles Times — owned by Marc Benioff, Jeff Bezos and Dr. Patrick Soon-Shiong — are still losing money.",
+    "guid": "https://www.nytimes.com/2024/01/18/business/media/billionaires-news-media-owners.html",
+    "categories": [
+      {
+        "_": "News and News Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Newspapers",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "High Net Worth Individuals",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Amazon.com Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Los Angeles Times",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Washington Post",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Time (Magazine)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Benioff, Marc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Bezos, Jeffrey P",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Soon-Shiong, Patrick",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-18T23:50:02.000Z"
+  },
+  {
+    "creator": "Tripp Mickle",
+    "title": "Apple Takes a Humble Approach to Launching Its Newest Device",
+    "link": "https://www.nytimes.com/2024/01/19/technology/apple-vision-pro-augmented-reality.html",
+    "pubDate": "Fri, 19 Jan 2024 10:03:30 +0000",
+    "dc:creator": "Tripp Mickle",
+    "content": "The Vision Pro augmented reality device goes on sale Friday. Don’t expect Apple to host a splashy event to promote it.",
+    "contentSnippet": "The Vision Pro augmented reality device goes on sale Friday. Don’t expect Apple to host a splashy event to promote it.",
+    "guid": "https://www.nytimes.com/2024/01/19/technology/apple-vision-pro-augmented-reality.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Wearable Computing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Augmented Reality (Computers)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Advertising and Marketing",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Apple Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Meta Platforms Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "National Football League",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Cook, Timothy D",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-01-19T10:03:30.000Z"
+  },
+  {
+    "creator": "Kevin Roose, Casey Newton, David Yaffe-Bellany, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Elisheba Ittoop, Marion Lozano, Rowan Niemisto and Dan Powell",
+    "title": "The A.I. Election, Bitcoin’s Wall Street Debut and TikTok’s Doodad Era",
+    "link": "https://www.nytimes.com/2024/01/19/podcasts/ai-elections-bitcoin-tiktok.html",
+    "pubDate": "Fri, 19 Jan 2024 10:02:26 +0000",
+    "dc:creator": "Kevin Roose, Casey Newton, David Yaffe-Bellany, Davis Land, Rachel Cohn, Jen Poyant, Alyssa Moxley, Elisheba Ittoop, Marion Lozano, Rowan Niemisto and Dan Powell",
+    "content": "“Two truly terrible ways to make money this week.”",
+    "contentSnippet": "“Two truly terrible ways to make money this week.”",
+    "guid": "https://www.nytimes.com/2024/01/19/podcasts/ai-elections-bitcoin-tiktok.html",
+    "categories": [
+      {
+        "_": "Science and Technology",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Artificial Intelligence",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Meta",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "YouTube.com",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Google Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Exchange Traded Funds",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Bitcoin (Currency)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-01-19T10:02:26.000Z"
   }
 ]
