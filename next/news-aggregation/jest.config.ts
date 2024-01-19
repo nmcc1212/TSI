@@ -9,6 +9,7 @@ const createJestConfig = nextJest({
 const config: Config = {
     coverageProvider: 'v8',
     testEnvironment: 'jsdom',
+    collectCoverage: true,
+    testResultsProcessor: 'jest-sonar-reporter',
 };
-
 export default createJestConfig(config);
