@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "@types/node": "^20.9.0"
+  },
+  "dependencies": {
+    "mongoose": "^8.1.1",
+    "ts-node": "^10.9.2"
   }
 }
