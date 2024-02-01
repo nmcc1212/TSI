@@ -1,0 +1,1 @@
+CREATE VIEW PostCountPerUser AS SELECT Users.UserID, Users.Username, COUNT(Posts.PostID) AS PostCount FROM Users LEFT JOIN Posts ON Users.UserID = Posts.UserID GROUP BY Users.UserID, Users.Username
