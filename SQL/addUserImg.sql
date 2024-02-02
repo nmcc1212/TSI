@@ -1,0 +1,1 @@
+-- alter table Users add column imgUrl varchar(1000);
