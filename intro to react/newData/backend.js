@@ -27,16 +27,27 @@ const NewsItemSchema = new mongoose.Schema({
   title: {String,required: true},
   contentSnippet: {String,required: true},
   date: {Date, required: true},
+  sourceID: {String, required: true},
+});
+
+const SourcesSchema = new mongoose.Schema({
+  id: {Number, required: true},
+  name: {String, required: true},
+  url: {String, required: true},
+  category: {String, required: true},
 });
 
 
 
-app.post('/api/fetchNews', async (req, res) => {
+app.get('/api/fetchNews', async (req, res) => {
   try {
-    const rssFeedUrls = req.body.rssFeedUrls;
-    console.log(`Fetching and parsing RSS feeds from: ${rssFeedUrls}`);
+    const category = req.query.category;
 
-    let mergedData = [];
+    // lookup the RSS feed URLs for the given category
+    const sources = await mongoose.model('Sources', SourcesSchema)
+    const rssFeedUrls = sources.find({category}).lean().exec();
+    
+    console.log(`Fetching and parsing RSS feeds from: ${rssFeedUrls}`);
 
     for (const element of rssFeedUrls) {
       const response = await axios.get(`http://127.0.0.1:50110?feedURL=${element}`);
@@ -45,40 +56,26 @@ app.post('/api/fetchNews', async (req, res) => {
 
       const hash = crypto.createHash('sha256');
       hash.update(element);
-      const collectionName = `${hash.digest('hex')}`;
+      const sourceID = `${hash.digest('hex')}`;
 
-      const logsDir = 'logs';
-      if (!fs.existsSync(logsDir)) {
-        fs.mkdirSync(logsDir);
+      for (item in newsItems) {
+        item.sourceID = sourceID;
       }
 
-      let loggedData = [];
+      const News = mongoose.model('News', NewsItemSchema);
+      // Get the existing data from the database
+      const existingData = await News
+        .find({ sourceID })
+        .lean()
+        .exec();
 
-      try {
-        // Retrieve data from MongoDB
-        const NewsItem = mongoose.model(collectionName, NewsItemSchema);
-        const existingData = await NewsItem.find({});
-        loggedData = existingData.map(item => item.toObject());
-      } catch (error) {
-        // Handle the error or leave it as an empty array
-      }
+      // Add new items to the database
+      await News.insertMany(newsItems.filter(item => !existingData.some(existingItem => existingItem.link === item.link)));
 
-      const uniqueItemsSet = new Set(loggedData.map(item => item.link));
-
-      newsItems.forEach(item => {
-        if (!uniqueItemsSet.has(item.link)) {
-          // Save data to MongoDB
-          NewsItem.create(item);
-          loggedData.push(item);
-          uniqueItemsSet.add(item.link);
-        }
-      });
-
-      // Concatenate news items to mergedData
-      mergedData = mergedData.concat(loggedData);
+      returnData = await News.find({sourceID}).lean().exec();
     }
 
-    res.json(mergedData);
+    res.json(returnData);
   } catch (error) {
     console.error('Error fetching and processing data:', error);
     res.status(500).json({ error: 'An error occurred' });

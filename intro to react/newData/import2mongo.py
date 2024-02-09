@@ -15,7 +15,7 @@ directory = 'intro to react/newData'
 for filename in os.listdir(directory):
     print (filename)
     if filename.endswith('.json'):
-        collection_name = os.path.splitext(filename)[0]  # Get the filename without the extension.
+        collection_name = "news" # Get the filename without the extension.
         collection = db[collection_name]  # Use the filename as the collection name.
 
         # Open the JSON file and read the data.
