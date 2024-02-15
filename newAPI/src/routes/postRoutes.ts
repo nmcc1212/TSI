@@ -51,7 +51,7 @@ postRouter.patch("/_id", async (req: Request, res: Response) => {
   try {
     const _id = req.params._id;
     const content = req.body.content;
-    const post = await Post.findOne({ _id: _id });
+    const post = await Post.findOne({ _id });
     if (!post) {
       return res.status(404).json({ message: "Post not found" });
     }
