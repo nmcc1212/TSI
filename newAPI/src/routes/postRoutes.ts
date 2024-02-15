@@ -1,9 +1,9 @@
 import { Router, Response, Request } from "express";
 import Post from "../schemas/postsSchema";
-import User from "../schemas/usersSchema";
 import authenticateUser from "../middlewares/userAuth";
 const postRouter = Router();
 
+// auth required, returns all posts, can filter by userID or _id
 postRouter.get("/", async (req: Request, res: Response) => {
   if (req.query.userID !== undefined) {
     const posts = await Post.find({ userID: req.query.userID });
@@ -17,6 +17,8 @@ postRouter.get("/", async (req: Request, res: Response) => {
   return res.json(posts);
 });
 
+// auth required, _id required in params
+// TODO check if auth user is the same as post user
 postRouter.delete(
   "/:_id",
   authenticateUser,
@@ -39,8 +41,8 @@ postRouter.delete(
     }
   }
 );
-
-postRouter.patch("/_id", async (req: Request, res: Response) => {
+//  auth required, _id required in url, content required in body,returns updated post
+postRouter.patch("/:_id", authenticateUser, async (req: Request, res: Response) => {
   if (!req.params._id) {
     return res.status(400).json({ message: "_id is required" });
   }
@@ -54,6 +56,12 @@ postRouter.patch("/_id", async (req: Request, res: Response) => {
     if (!post) {
       return res.status(404).json({ message: "Post not found" });
     }
+    if (!req.user) {
+      return res.status(401).json({ message: "Unauthorized" });
+    }
+    if (post.userID !== req.user.id) {
+      return res.status(401).json({ message: "Unauthorized" });
+    }
     post.content = content;
     const updatedPost = await post.save();
     res.json(updatedPost);
@@ -63,6 +71,8 @@ postRouter.patch("/_id", async (req: Request, res: Response) => {
   }
 });
 
+// content and userID required in body, returns created post
+// TODO check if add user auth and check if userID is same as auth user
 postRouter.post("/", async (req: Request, res: Response) => {
   if (!req.body.content) {
     return res.status(400).json({ message: "Content is required" });
@@ -83,6 +93,9 @@ postRouter.post("/", async (req: Request, res: Response) => {
   }
 });
 
+
+// auth required, _id required in params, gets userID thru auth, returns updated post
+// TODO check if auth user is the same as post user
 postRouter.post(
   "/:postId/likes",
   authenticateUser,
@@ -102,8 +115,8 @@ postRouter.post(
       }
       const timestamp = new Date();
       post.likes.push({ userID: userID, timestamp });
-      await post.save();
-      res.json({ message: "Post liked" });
+      const likedPost = await post.save();
+      res.json(likedPost);
     } catch (error) {
       res.status(500).json({ message: "Internal server error" });
       console.error(error);
