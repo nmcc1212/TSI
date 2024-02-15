@@ -23,7 +23,6 @@ postRouter.delete(
   async (req: Request, res: Response) => {
     try {
       const _id = req.params._id;
-
       if (!req.params._id) {
         return res.status(400).json({ message: "_id is required" });
       }
