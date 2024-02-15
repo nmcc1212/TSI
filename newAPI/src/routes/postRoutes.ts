@@ -28,10 +28,17 @@ postRouter.delete(
       if (!req.params._id) {
         return res.status(400).json({ message: "_id is required" });
       }
-
+      if (!req.user) {
+        return res.status(401).json({ message: "Unauthorized" });
+      }
       const post = await Post.findOne({ _id: _id });
       if (!post) {
         return res.status(404).json({ message: "Post not found" });
+      }
+      if (post.userID !== req.user.id) {
+        const message = "User " + req.user.id + " is not authorized to delete this post owned by " + post.userID;
+        console.log (post.userID, req.user.id)
+        return res.status(401).json(message);
       }
       await post.deleteOne();
       res.json({ message: "Post deleted" });
@@ -42,34 +49,38 @@ postRouter.delete(
   }
 );
 //  auth required, _id required in url, content required in body,returns updated post
-postRouter.patch("/:_id", authenticateUser, async (req: Request, res: Response) => {
-  if (!req.params._id) {
-    return res.status(400).json({ message: "_id is required" });
-  }
-  if (!req.body.content) {
-    return res.status(400).json({ message: "Content is required" });
-  }
-  try {
-    const _id = req.params._id;
-    const content = req.body.content;
-    const post = await Post.findOne({ _id });
-    if (!post) {
-      return res.status(404).json({ message: "Post not found" });
+postRouter.patch(
+  "/:_id",
+  authenticateUser,
+  async (req: Request, res: Response) => {
+    if (!req.params._id) {
+      return res.status(400).json({ message: "_id is required" });
     }
-    if (!req.user) {
-      return res.status(401).json({ message: "Unauthorized" });
+    if (!req.body.content) {
+      return res.status(400).json({ message: "Content is required" });
     }
-    if (post.userID !== req.user.id) {
-      return res.status(401).json({ message: "Unauthorized" });
+    try {
+      const _id = req.params._id;
+      const content = req.body.content;
+      const post = await Post.findOne({ _id });
+      if (!post) {
+        return res.status(404).json({ message: "Post not found" });
+      }
+      if (!req.user) {
+        return res.status(401).json({ message: "Unauthorized" });
+      }
+      if (post.userID !== req.user.id) {
+        return res.status(401).json({ message: "Unauthorized" });
+      }
+      post.content = content;
+      const updatedPost = await post.save();
+      res.json(updatedPost);
+    } catch (error) {
+      res.status(500).json({ message: "Internal server error" });
+      console.error(error);
     }
-    post.content = content;
-    const updatedPost = await post.save();
-    res.json(updatedPost);
-  } catch (error) {
-    res.status(500).json({ message: "Internal server error" });
-    console.error(error);
   }
-});
+);
 
 // content and userID required in body, returns created post
 // TODO check if add user auth and check if userID is same as auth user
@@ -93,11 +104,10 @@ postRouter.post("/", async (req: Request, res: Response) => {
   }
 });
 
-
 // auth required, _id required in params, gets userID thru auth, returns updated post
 // TODO check if auth user is the same as post user
 postRouter.post(
-  "/:postId/likes",
+  "/:_id/likes",
   authenticateUser,
   async (req: Request, res: Response) => {
     if (!req.params._id) {
@@ -108,6 +118,7 @@ postRouter.post(
       if (!req.user) {
         return res.status(401).json({ message: "Unauthorized" });
       }
+
       const userID = req.user.id;
       const post = await Post.findOne({ _id });
       if (!post) {

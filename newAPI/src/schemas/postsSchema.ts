@@ -4,13 +4,11 @@ const commentSchema = new Schema({
     userID: { type: Number, required: true},
     content: { type: String, required: true},
     timestamp: { type: Date, required: true},
-    postID: { type: Number, required: false}
 })
 
 const likesSchema = new Schema({
     userID: { type: Number, required: true},
     timestamp: { type: Date, required: true},
-    postID: { type: Number, required: true}
 })
 
 const postSchema = new Schema({
