@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
+  <file path="/Users/nial/TSI/next/news-aggregation/test/test_navBar.test.js">
+    <testCase name="NavBar component renders the navbar" duration="25"/>
+  </file>
   <file path="/Users/nial/TSI/next/news-aggregation/test/test_newsList.test.js">
     <testCase name="NewsList renders loading state initially" duration="4"/>
-    <testCase name="NewsList renders news items after data fetching" duration="99"/>
-    <testCase name="NewsList should console.error on failed axios request" duration="8"/>
-    <testCase name="NewsList should filter news items by search query" duration="7"/>
-    <testCase name="NewsList should set treding words to commoun words" duration="11"/>
-  </file>
-  <file path="/Users/nial/TSI/next/news-aggregation/test/test_navBar.test.js">
-    <testCase name="NavBar component renders the navbar" duration="21"/>
+    <testCase name="NewsList renders news items after data fetching" duration="87"/>
+    <testCase name="NewsList should console.error on failed axios request" duration="9"/>
+    <testCase name="NewsList should filter news items by search query" duration="6"/>
+    <testCase name="NewsList should set treding words to commoun words" duration="7"/>
   </file>
   <file path="/Users/nial/TSI/next/news-aggregation/test/test_app.test.js">
-    <testCase name="App component renders App component" duration="28"/>
-    <testCase name="App component navigates to Ukraine News when the route is changed" duration="55"/>
-    <testCase name="App component navigates to World News when the route is changed" duration="26"/>
+    <testCase name="App component renders App component" duration="38"/>
+    <testCase name="App component navigates to Ukraine News when the route is changed" duration="64"/>
+    <testCase name="App component navigates to World News when the route is changed" duration="30"/>
   </file>
 </testExecutions>
