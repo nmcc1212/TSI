@@ -35,8 +35,12 @@ postRouter.delete(
         return res.status(404).json({ message: "Post not found" });
       }
       if (post.userID !== req.user.id) {
-        const message = "User " + req.user.id + " is not authorized to delete this post owned by " + post.userID;
-        console.log (post.userID, req.user.id)
+        const message =
+          "User " +
+          req.user.id +
+          " is not authorized to delete this post owned by " +
+          post.userID;
+        console.log(post.userID, req.user.id);
         return res.status(401).json(message);
       }
       await post.deleteOne();
@@ -87,12 +91,12 @@ postRouter.post("/", authenticateUser, async (req: Request, res: Response) => {
     return res.status(400).json({ message: "Content is required" });
   }
   if (!req.user) {
-    console.log(req.user)
+    console.log(req.user);
     return res.status(401).json({ message: "Unauthorized" });
   }
   try {
     const content = req.body.content;
-    const userID = req.user.id
+    const userID = req.user.id;
     let timestamp = new Date();
     const post = new Post({ content, userID, timestamp });
     const createdPost = await post.save();
