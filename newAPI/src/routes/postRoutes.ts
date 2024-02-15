@@ -106,7 +106,6 @@ postRouter.post("/", async (req: Request, res: Response) => {
 });
 
 // auth required, _id required in params, gets userID thru auth, returns updated post
-// TODO check if auth user is the same as post user
 postRouter.post(
   "/:_id/likes",
   authenticateUser,
@@ -124,6 +123,9 @@ postRouter.post(
       const post = await Post.findOne({ _id });
       if (!post) {
         return res.status(404).json({ message: "Post not found" });
+      }
+      if (post.userID !== req.user.id) {
+        return res.status(401).json({ message: "Unauthorized" });
       }
       const timestamp = new Date();
       post.likes.push({ userID: userID, timestamp });
