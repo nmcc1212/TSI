@@ -1,6 +1,7 @@
 import { Response, Request, NextFunction } from "express";
 import User from "../schemas/usersSchema";
 
+
 async function authenticateUser(req: Request, res: Response, next: NextFunction) {
     if (!req.body.username || !req.body.password) {
         return res.status(400).json({ message: 'Username and password are required' });
@@ -12,6 +13,7 @@ async function authenticateUser(req: Request, res: Response, next: NextFunction)
         if (!user || password != user.password) {
             return res.status(401).json({ message: 'Unauthorized' });
         }
+        req.user = user.username;
         next();
     }
     catch (error) {
