@@ -2,119 +2,114 @@ import { Router, Response, Request } from "express";
 import Post from "../schemas/postsSchema";
 import User from "../schemas/usersSchema";
 import authenticateUser from "../middlewares/userAuth";
-import { time } from "console";
 const postRouter = Router();
 
 postRouter.get("/", async (req: Request, res: Response) => {
-    if (req.query.userID !== undefined) {
-        const posts = await Post.find({ userID: req.query.userID });
-        return res.json(posts);
-    }
-    if (req.query.postId !== undefined) {
-        const post = await Post.findOne({id: req.query.postId});
-        return res.json(post);
-    }
-    const posts = await Post.find();
+  if (req.query.userID !== undefined) {
+    const posts = await Post.find({ userID: req.query.userID });
     return res.json(posts);
+  }
+  if (req.query._id !== undefined) {
+    const post = await Post.findOne({ _id: req.query._id });
+    return res.json(post);
+  }
+  const posts = await Post.find();
+  return res.json(posts);
 });
 
-postRouter.delete('/:postID',authenticateUser, async (req: Request, res: Response) => {
-
+postRouter.delete(
+  "/:_id",
+  authenticateUser,
+  async (req: Request, res: Response) => {
     try {
-        const postID = req.params.postID;
+      const _id = req.params._id;
 
-        if (!req.params.postID) {
-            return res.status(400).json({ message: 'Post ID is required' });
-        }
+      if (!req.params._id) {
+        return res.status(400).json({ message: "_id is required" });
+      }
 
-        const post = await Post.findOne({ id: postID});
-        if (!post) {
-            return res.status(404).json({ message: 'Post not found' });
-        }   
-        await post.deleteOne();
-        res.json({ message: 'Post deleted' });
-
+      const post = await Post.findOne({ _id: _id });
+      if (!post) {
+        return res.status(404).json({ message: "Post not found" });
+      }
+      await post.deleteOne();
+      res.json({ message: "Post deleted" });
     } catch (error) {
-        res.status(500).json({ message: 'Internal server error' });
-        console.error(error);
+      res.status(500).json({ message: "Internal server error" });
+      console.error(error);
     }
+  }
+);
+
+postRouter.patch("/_id", async (req: Request, res: Response) => {
+  if (!req.params._id) {
+    return res.status(400).json({ message: "_id is required" });
+  }
+  if (!req.body.content) {
+    return res.status(400).json({ message: "Content is required" });
+  }
+  try {
+    const _id = req.params._id;
+    const content = req.body.content;
+    const post = await Post.findOne({ _id: _id });
+    if (!post) {
+      return res.status(404).json({ message: "Post not found" });
+    }
+    post.content = content;
+    const updatedPost = await post.save();
+    res.json(updatedPost);
+  } catch (error) {
+    res.status(500).json({ message: "Internal server error" });
+    console.error(error);
+  }
 });
 
-postRouter.patch('/updatePost/:postId', async (req: Request, res: Response) => {
-    if (!req.body.username || !req.body.password) {
-        return res.status(400).json({ message: 'Username and password are required' });
-    }
-    if (!req.params.postId) {
-        return res.status(400).json({ message: 'Post ID is required' });
-    }
-    if (!req.body.content) {
-        return res.status(400).json({ message: 'Content is required' });
+postRouter.post("/", async (req: Request, res: Response) => {
+  if (!req.body.content) {
+    return res.status(400).json({ message: "Content is required" });
+  }
+  if (!req.body.userID) {
+    return res.status(400).json({ message: "User ID is required" });
+  }
+  try {
+    const content = req.body.content;
+    const userID = req.body.userID;
+    let timestamp = new Date();
+    const post = new Post({ content, userID, timestamp });
+    const createdPost = await post.save();
+    res.json(createdPost);
+  } catch (error) {
+    res.status(500).json({ message: "Internal server error" });
+    console.error(error);
+  }
+});
+
+postRouter.post(
+  "/:postId/likes",
+  authenticateUser,
+  async (req: Request, res: Response) => {
+    if (!req.params._id) {
+      return res.status(400).json({ message: "_id is required" });
     }
     try {
-        const { username, password } = req.body;
-        const postId = req.params.postId;
-        const content = req.body.content;
-  
-        const user = await User.findOne({ username });
-
-        if (!user || password != user.password) {
-            return res.status(401).json({ message: 'Unauthorized' });
-        }
-        const post = await Post.findOne({ id: postId });
-        if (!post) {
-            return res.status(404).json({ message: 'Post not found' });
-        }
-        post.content = content;
-        await post.save();
-        res.json({ message: 'Post updated' });
-
+      const _id = req.params._id;
+      if (!req.user) {
+        return res.status(401).json({ message: "Unauthorized" });
+      }
+      const userID = req.user.id;
+      const post = await Post.findOne({ _id });
+      if (!post) {
+        return res.status(404).json({ message: "Post not found" });
+      }
+      const timestamp = new Date();
+      post.likes.push({ userID: userID, timestamp });
+      await post.save();
+      res.json({ message: "Post liked" });
     } catch (error) {
-        res.status(500).json({ message: 'Internal server error' });
-        console.error(error);
+      res.status(500).json({ message: "Internal server error" });
+      console.error(error);
     }
-});
-
-postRouter.post('/createPost', async (req: Request, res: Response) => {
-    if (!req.body.content) {
-        return res.status(400).json({ message: 'Content is required' });
-    }
-    if (!req.body.userID) {
-        return res.status(400).json({ message: 'User ID is required' });
-    }
-    try {
-        const content = req.body.content;
-        const userID = req.body.userID;
-        let timestamp = new Date();
-        const post = new Post({ content, userID, timestamp});
-        await post.save();
-        res.json({ message: 'Post created' });
-
-    } catch (error) {
-        res.status(500).json({ message: 'Internal server error' });
-        console.error(error);
-    }
-});
-
-postRouter.post('/likePost/:postId',authenticateUser, async (req: Request, res: Response) => {
-    if (!req.params.postId) {
-        return res.status(400).json({ message: 'Post ID is required' });
-    }
-    try {
-        const postId = req.params.postId;
-        const user = req.body.user;
-        const post = await Post.findOne({ id: postId });
-        if (!post) {
-            return res.status(404).json({ message: 'Post not found' });
-        }
-        const timestamp = new Date();
-        post.likes.push({ userID: user.id, timestamp });
-        await post.save();
-        res.json({ message: 'Post liked' });
-
-    } catch (error) {
-        res.status(500).json({ message: 'Internal server error' });
-        console.error(error);
-    }
-});
+  }
+);
 
 export default postRouter;
