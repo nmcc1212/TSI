@@ -13,7 +13,7 @@ async function authenticateUser(req: Request, res: Response, next: NextFunction)
         if (!user || password != user.password) {
             return res.status(401).json({ message: 'Unauthorized' });
         }
-        req.user = user.username;
+        req.user = user.toObject();
         next();
     }
     catch (error) {
