@@ -14,6 +14,8 @@ userRouter.post("/", async (req: Request, res: Response) => {
     const username = req.body.username;
     const plainPassword = req.body.password;
 
+    const hashedPassword = await bcrypt.hash(plainPassword, 10);
+
     const usernameExists = await User.findOne({username});
     if (usernameExists) {
         return res.status(400).json({ message: 'username already exists' });
@@ -26,7 +28,7 @@ userRouter.post("/", async (req: Request, res: Response) => {
     const user = new User({
         username: username,
         email: email,
-        password: plainPassword,
+        password: hashedPassword,
     });
     console.log("Created new user: ", user, "with id: ", user._id, "and email: ", user.email), "and password: ", user.password;
     await user.save();
