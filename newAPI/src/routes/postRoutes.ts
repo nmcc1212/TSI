@@ -81,15 +81,13 @@ postRouter.patch(
   }
 );
 
-// content and userID required in body, returns created post
-postRouter.post("/", async (req: Request, res: Response) => {
+// content required in body, returns created post
+postRouter.post("/", authenticateUser, async (req: Request, res: Response) => {
   if (!req.body.content) {
     return res.status(400).json({ message: "Content is required" });
   }
-  if (!req.body.userID) {
-    return res.status(400).json({ message: "User ID is required" });
-  }
   if (!req.user) {
+    console.log(req.user)
     return res.status(401).json({ message: "Unauthorized" });
   }
   try {
