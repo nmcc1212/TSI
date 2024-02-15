@@ -18,7 +18,6 @@ postRouter.get("/", async (req: Request, res: Response) => {
 });
 
 // auth required, _id required in params
-// TODO check if auth user is the same as post user
 postRouter.delete(
   "/:_id",
   authenticateUser,
@@ -83,7 +82,6 @@ postRouter.patch(
 );
 
 // content and userID required in body, returns created post
-// TODO check if add user auth and check if userID is same as auth user
 postRouter.post("/", async (req: Request, res: Response) => {
   if (!req.body.content) {
     return res.status(400).json({ message: "Content is required" });
@@ -91,9 +89,12 @@ postRouter.post("/", async (req: Request, res: Response) => {
   if (!req.body.userID) {
     return res.status(400).json({ message: "User ID is required" });
   }
+  if (!req.user) {
+    return res.status(401).json({ message: "Unauthorized" });
+  }
   try {
     const content = req.body.content;
-    const userID = req.body.userID;
+    const userID = req.user.id
     let timestamp = new Date();
     const post = new Post({ content, userID, timestamp });
     const createdPost = await post.save();
