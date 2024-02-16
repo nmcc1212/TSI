@@ -18,6 +18,9 @@ jobs:
           tags: tag:ci
       - name: Login to Postman CLI
         run: postman login --with-api-key ${{ secrets.POSTMAN_API_KEY }}
-      - name: Run API tests
+      - name: Run posts tests
         run: |
           postman collection run 32854919-ced710d2-8af1-4f36-bdc1-027dce3c78af -i 32854919-68fb46d3-8dcf-4965-ae19-063315b21e38
+      - name: run users tests
+        run: |
+          postman collection run 32854919-ced710d2-8af1-4f36-bdc1-027dce3c78af -i 32854919-df352302-1081-4e05-beb5-b6e62127eb13
