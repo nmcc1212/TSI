@@ -23,12 +23,11 @@ userRouter.post("/", async (req: Request, res: Response) => {
   if (usernameExists) {
     return res.status(400).json({ message: "username already exists" });
   }
-  // check if email already exists
   const emailExists = await User.findOne({ email });
   if (emailExists) {
     return res.status(400).json({ message: "email already exists" });
   }
-  const newID = (await User.countDocuments()) + 1;
+  const newID = (await User.find({}).sort([['userID', -1]]))[0]
   const user = new User({
     id: newID,
     username: username,
@@ -68,16 +67,16 @@ userRouter.get("/", async (req: Request, res: Response) => {
     return res.json(users);
   }
 });
-// can take email or username or possword as query parameter
+// can take email or username must have password as body
 userRouter.patch("/", authenticateUser, async (req: Request, res: Response) => {
   if (
-    req.body.email === undefined &&
-    req.body.username === undefined &&
+    (req.body.email === undefined ||
+    req.body.username === undefined) &&
     req.body.password === undefined
   ) {
     return res
       .status(400)
-      .json({ message: "email, username, or password is required" });
+      .json({ message: "email or username, and password is required" });
   }
   if (req.body.length > 1) {
     return res
@@ -134,6 +133,19 @@ userRouter.patch("/", authenticateUser, async (req: Request, res: Response) => {
     const updatedUser = await user.save();
     return res.json(updatedUser);
   }
+});
+
+// must have username and password as body
+userRouter.delete("/", authenticateUser, async (req: Request, res: Response) => {
+  if (!req.user) {
+    return res.status(401).json({ message: "Unauthorized" });
+  }
+  const user = await User.findOne({ id: req.user.id });
+  if (!user) {
+    return res.status(404).json({ message: "User not found" });
+  }
+  await user.deleteOne();
+  res.json({ message: "Post deleted" });
 });
 
 export default userRouter;
