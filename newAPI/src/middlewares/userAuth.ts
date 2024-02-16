@@ -7,15 +7,15 @@ async function authenticateUser(
   res: Response,
   next: NextFunction
 ) {
-  if (!req.body.auth) {
-    return res.status(400).json({ message: "Auth object is required" });
-  }
-  if (!req.body.auth.username || !req.body.auth.password) {
-    return res
-      .status(400)
-      .json({ message: "Username and password are required" });
-  }
   try {
+    if (!req.body.auth) {
+      return res.status(400).json({ message: "Auth object is required" });
+    }
+    if (!req.body.auth.username || !req.body.auth.password) {
+      return res
+        .status(400)
+        .json({ message: "Username and password are required" });
+    }
     const username = req.body.auth.username;
     if (!username) {
       return res.status(400).json({ message: "Username is required" });
