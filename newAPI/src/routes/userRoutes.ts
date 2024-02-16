@@ -148,7 +148,8 @@ const deleteValidation = [
 // must have username and password in auth
 userRouter.delete(
   "/:id",
-  deleteValidation,authenticateUser,
+  deleteValidation,
+  authenticateUser,
   async (req: Request, res: Response) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
