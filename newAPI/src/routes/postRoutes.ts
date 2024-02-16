@@ -123,7 +123,7 @@ const postValidation = [
   body("content").notEmpty().withMessage("Content is required"),
 ];
 // content required in body, returns created post
-postRouter.post("/", authenticateUser, async (req: Request, res: Response) => {
+postRouter.post("/", authenticateUser, postValidation, async (req: Request, res: Response) => {
   if (!req.body.content) {
     return res.status(400).json({ message: "Content is required" });
   }
