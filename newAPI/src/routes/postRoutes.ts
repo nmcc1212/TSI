@@ -39,8 +39,8 @@ const deleteValidation = [
 ];
 postRouter.delete(
   "/:_id",
-  authenticateUser,
   deleteValidation,
+  authenticateUser,
   async (req: Request, res: Response) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
@@ -89,8 +89,8 @@ const patchValidation = [
 //  auth required, _id required in url, content required in body,returns updated post
 postRouter.patch(
   "/:_id",
-  authenticateUser,
   patchValidation,
+  authenticateUser,
   async (req: Request, res: Response) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
@@ -138,8 +138,8 @@ const postValidation = [
 // content required in body, returns created post
 postRouter.post(
   "/",
-  authenticateUser,
   postValidation,
+  authenticateUser,
   async (req: Request, res: Response) => {
     if (!req.body.content) {
       return res.status(400).json({ message: "Content is required" });
@@ -162,14 +162,22 @@ postRouter.post(
   }
 );
 
-// auth required, _id required in params, gets userID thru auth, returns updated post
+const likesValidation = [
+  param("_id").isMongoId().withMessage("Invalid _id format"),
+  body("auth").isObject().withMessage("Auth object is required"),
+  body("auth.username")
+    .notEmpty()
+    .withMessage("Username is required in auth object"),
+  body("auth.password")
+    .notEmpty()
+    .withMessage("Password is required in auth object"),
+];
+// auth required, _id required in params, gets userID thru auth, returns liked post
 postRouter.post(
   "/:_id/likes",
+  likesValidation,
   authenticateUser,
   async (req: Request, res: Response) => {
-    if (!req.params._id) {
-      return res.status(400).json({ message: "_id is required" });
-    }
     try {
       const _id = req.params._id;
       if (!req.user) {

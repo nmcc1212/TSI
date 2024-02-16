@@ -98,8 +98,8 @@ const patchValidation = [
 ];
 userRouter.patch(
   "/:id",
-  authenticateUser,
   patchValidation,
+  authenticateUser,
   async (req: Request, res: Response) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
@@ -148,8 +148,7 @@ const deleteValidation = [
 // must have username and password in auth
 userRouter.delete(
   "/:id",
-  authenticateUser,
-  deleteValidation,
+  deleteValidation,authenticateUser,
   async (req: Request, res: Response) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {

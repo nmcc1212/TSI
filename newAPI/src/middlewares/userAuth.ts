@@ -7,6 +7,9 @@ async function authenticateUser(
   res: Response,
   next: NextFunction
 ) {
+  if (!req.body.auth) {
+    return res.status(400).json({ message: "Auth object is required" });
+  }
   if (!req.body.auth.username || !req.body.auth.password) {
     return res
       .status(400)
