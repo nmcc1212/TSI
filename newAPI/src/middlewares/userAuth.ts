@@ -14,7 +14,13 @@ async function authenticateUser(
   }
   try {
     const username = req.body.auth.username;
+    if (!username) {
+      return res.status(400).json({ message: "Username is required" });
+    }
     const password = req.body.auth.password;
+    if (!password) {
+      return res.status(400).json({ message: "Password is required" });
+    }
     const user = await User.findOne({ username });
 
     if (!user) {

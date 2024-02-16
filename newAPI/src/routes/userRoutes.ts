@@ -31,7 +31,8 @@ userRouter.post("/", async (req: Request, res: Response) => {
   if (emailExists) {
     return res.status(400).json({ message: "email already exists" });
   }
-  const newID = (await User.find({}).sort([["userID", -1]]))[0];
+  const newID = (await User.find({}).sort([["id", "desc"]]))[0].id + 1;
+  console.log("newID: ", newID);
   const user = new User({
     id: newID,
     username: username,
@@ -72,7 +73,7 @@ userRouter.get("/", async (req: Request, res: Response) => {
   }
 });
 // can take email, username or password in body, must username and password in auth
-userRouter.patch("/", authenticateUser, async (req: Request, res: Response) => {
+userRouter.patch("/:id", authenticateUser, async (req: Request, res: Response) => {
   if (!req.user) {
     return res.status(401).json({ message: "Unauthorized" });
   }
@@ -103,7 +104,7 @@ userRouter.patch("/", authenticateUser, async (req: Request, res: Response) => {
 
 // must have username and password in auth
 userRouter.delete(
-  "/",
+  "/:id",
   authenticateUser,
   async (req: Request, res: Response) => {
     if (!req.user) {
@@ -114,7 +115,7 @@ userRouter.delete(
       return res.status(404).json({ message: "User not found" });
     }
     await user.deleteOne();
-    res.json({ message: "Post deleted" });
+    res.json({ message: "User deleted" });
   }
 );
 
