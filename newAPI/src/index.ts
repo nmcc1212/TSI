@@ -7,16 +7,14 @@ import postRouter from "./routes/postRoutes";
 import userRouter from "./routes/userRoutes";
 import loggerMiddleware from "./middlewares/logger";
 
-
-
 const app = express();
 const port = 3101;
 
 app.use(express.json());
 app.use(loggerMiddleware);
 
-app.use("/posts",postRouter);
-app.use("/users",userRouter);
+app.use("/posts", postRouter);
+app.use("/users", userRouter);
 
 async function main() {
   await mongoose.connect("mongodb://100.125.70.69:27017/socialAPI", {
