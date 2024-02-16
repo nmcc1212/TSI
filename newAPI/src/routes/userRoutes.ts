@@ -11,7 +11,6 @@ const PostValidation = [
   body("email").isEmail().withMessage("Invalid email format"),
   body("password").notEmpty().withMessage("Password is required"),
 ];
-
 // username, email, and password required
 userRouter.post("/", PostValidation, async (req: Request, res: Response) => {
   const errors = validationResult(req);

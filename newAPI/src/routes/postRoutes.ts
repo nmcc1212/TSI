@@ -1,10 +1,20 @@
 import { Router, Response, Request } from "express";
+import { body, validationResult, query, param } from "express-validator";
 import Post from "../schemas/postsSchema";
 import authenticateUser from "../middlewares/userAuth";
 const postRouter = Router();
 
-// auth required, returns all posts, can filter by userID or _id
-postRouter.get("/", async (req: Request, res: Response) => {
+
+const getValidation = [
+  query("userID").optional(), // Add validation for other query parameters as needed
+  query("_id").optional().isMongoId().withMessage("Invalid _id format"),
+];
+// returns all posts, can filter by userID or _id
+postRouter.get("/", getValidation, async (req: Request, res: Response) => {
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return res.status(400).json({ errors: errors.array() });
+  }
   if (req.query.userID !== undefined) {
     const posts = await Post.find({ userID: req.query.userID });
     return res.json(posts);
@@ -18,10 +28,20 @@ postRouter.get("/", async (req: Request, res: Response) => {
 });
 
 // auth required, _id required in params
+const deleteValidation = [
+  param("_id").isMongoId().withMessage("Invalid _id format"),
+  body("auth").isObject().withMessage("Auth object is required"),
+  body("auth.username").notEmpty().withMessage("Username is required in auth object"),
+  body("auth.password").notEmpty().withMessage("Password is required in auth object"),
+];
 postRouter.delete(
   "/:_id",
-  authenticateUser,
+  authenticateUser, deleteValidation,
   async (req: Request, res: Response) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
     try {
       const _id = req.params._id;
       if (!req.params._id) {
@@ -51,11 +71,22 @@ postRouter.delete(
     }
   }
 );
+const patchValidation = [
+  param("_id").isMongoId().withMessage("Invalid _id format"),
+  body("auth").isObject().withMessage("Auth object is required"),
+  body("auth.username").notEmpty().withMessage("Username is required in auth object"),
+  body("auth.password").notEmpty().withMessage("Password is required in auth object"),
+  body("content").notEmpty().withMessage("Content needed"), // Add validation for other fields as needed
+];
 //  auth required, _id required in url, content required in body,returns updated post
 postRouter.patch(
   "/:_id",
-  authenticateUser,
+  authenticateUser, patchValidation,
   async (req: Request, res: Response) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
     if (!req.params._id) {
       return res.status(400).json({ message: "_id is required" });
     }
@@ -85,6 +116,12 @@ postRouter.patch(
   }
 );
 
+const postValidation = [
+  body("auth").isObject().withMessage("Auth object is required"),
+  body("auth.username").notEmpty().withMessage("Username is required in auth object"),
+  body("auth.password").notEmpty().withMessage("Password is required in auth object"),
+  body("content").notEmpty().withMessage("Content is required"),
+];
 // content required in body, returns created post
 postRouter.post("/", authenticateUser, async (req: Request, res: Response) => {
   if (!req.body.content) {
