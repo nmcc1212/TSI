@@ -17,6 +17,7 @@ async function authenticateUser(
     const user = await User.findOne({ username });
 
     if (!user) {
+      console.log("User not found");
       return res.status(401).json({ message: "Unauthorized" });
     }
     const passwordMatch = await bcrypt.compare(password, user.password);
