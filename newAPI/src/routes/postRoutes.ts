@@ -4,7 +4,6 @@ import Post from "../schemas/postsSchema";
 import authenticateUser from "../middlewares/userAuth";
 const postRouter = Router();
 
-
 const getValidation = [
   query("userID").optional(), // Add validation for other query parameters as needed
   query("_id").optional().isMongoId().withMessage("Invalid _id format"),
@@ -31,12 +30,17 @@ postRouter.get("/", getValidation, async (req: Request, res: Response) => {
 const deleteValidation = [
   param("_id").isMongoId().withMessage("Invalid _id format"),
   body("auth").isObject().withMessage("Auth object is required"),
-  body("auth.username").notEmpty().withMessage("Username is required in auth object"),
-  body("auth.password").notEmpty().withMessage("Password is required in auth object"),
+  body("auth.username")
+    .notEmpty()
+    .withMessage("Username is required in auth object"),
+  body("auth.password")
+    .notEmpty()
+    .withMessage("Password is required in auth object"),
 ];
 postRouter.delete(
   "/:_id",
-  authenticateUser, deleteValidation,
+  authenticateUser,
+  deleteValidation,
   async (req: Request, res: Response) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
@@ -74,14 +78,19 @@ postRouter.delete(
 const patchValidation = [
   param("_id").isMongoId().withMessage("Invalid _id format"),
   body("auth").isObject().withMessage("Auth object is required"),
-  body("auth.username").notEmpty().withMessage("Username is required in auth object"),
-  body("auth.password").notEmpty().withMessage("Password is required in auth object"),
+  body("auth.username")
+    .notEmpty()
+    .withMessage("Username is required in auth object"),
+  body("auth.password")
+    .notEmpty()
+    .withMessage("Password is required in auth object"),
   body("content").notEmpty().withMessage("Content needed"), // Add validation for other fields as needed
 ];
 //  auth required, _id required in url, content required in body,returns updated post
 postRouter.patch(
   "/:_id",
-  authenticateUser, patchValidation,
+  authenticateUser,
+  patchValidation,
   async (req: Request, res: Response) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
@@ -118,31 +127,40 @@ postRouter.patch(
 
 const postValidation = [
   body("auth").isObject().withMessage("Auth object is required"),
-  body("auth.username").notEmpty().withMessage("Username is required in auth object"),
-  body("auth.password").notEmpty().withMessage("Password is required in auth object"),
+  body("auth.username")
+    .notEmpty()
+    .withMessage("Username is required in auth object"),
+  body("auth.password")
+    .notEmpty()
+    .withMessage("Password is required in auth object"),
   body("content").notEmpty().withMessage("Content is required"),
 ];
 // content required in body, returns created post
-postRouter.post("/", authenticateUser, postValidation, async (req: Request, res: Response) => {
-  if (!req.body.content) {
-    return res.status(400).json({ message: "Content is required" });
+postRouter.post(
+  "/",
+  authenticateUser,
+  postValidation,
+  async (req: Request, res: Response) => {
+    if (!req.body.content) {
+      return res.status(400).json({ message: "Content is required" });
+    }
+    if (!req.user) {
+      console.log(req.user);
+      return res.status(401).json({ message: "Unauthorized" });
+    }
+    try {
+      const content = req.body.content;
+      const userID = req.user.id;
+      let timestamp = new Date();
+      const post = new Post({ content, userID, timestamp });
+      const createdPost = await post.save();
+      res.json(createdPost);
+    } catch (error) {
+      res.status(500).json({ message: "Internal server error" });
+      console.error(error);
+    }
   }
-  if (!req.user) {
-    console.log(req.user);
-    return res.status(401).json({ message: "Unauthorized" });
-  }
-  try {
-    const content = req.body.content;
-    const userID = req.user.id;
-    let timestamp = new Date();
-    const post = new Post({ content, userID, timestamp });
-    const createdPost = await post.save();
-    res.json(createdPost);
-  } catch (error) {
-    res.status(500).json({ message: "Internal server error" });
-    console.error(error);
-  }
-});
+);
 
 // auth required, _id required in params, gets userID thru auth, returns updated post
 postRouter.post(
