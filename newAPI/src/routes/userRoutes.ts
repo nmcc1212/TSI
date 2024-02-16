@@ -16,8 +16,12 @@ userRouter.post("/", async (req: Request, res: Response) => {
   const email = req.body.email;
   const username = req.body.username;
   const plainPassword = req.body.password;
-
+  const emailRegex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;
   const hashedPassword = await bcrypt.hash(plainPassword, 10);
+
+  if (!emailRegex.test(email)) {
+    return res.status(400).json({ message: "Invalid email format" });
+  }
 
   const usernameExists = await User.findOne({ username });
   if (usernameExists) {
@@ -26,9 +30,6 @@ userRouter.post("/", async (req: Request, res: Response) => {
   const emailExists = await User.findOne({ email });
   if (emailExists) {
     return res.status(400).json({ message: "email already exists" });
-  }
-  if (req.body.email.doesNotMatch(/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/)) {
-    return res.status(400).json({ message: "Invalid email" });
   }
   const newID = (await User.find({}).sort([["userID", -1]]))[0];
   const user = new User({
@@ -79,7 +80,9 @@ userRouter.patch("/", authenticateUser, async (req: Request, res: Response) => {
     return res.status(400).json({ message: "No fields to update" });
   }
   if (req.body.length > 1) {
-    return res.status(400).json({ message: "Only one field can be updated at a time" });
+    return res
+      .status(400)
+      .json({ message: "Only one field can be updated at a time" });
   }
   const user = await User.findOne({ id: req.user.id });
   if (!user) {
@@ -87,21 +90,18 @@ userRouter.patch("/", authenticateUser, async (req: Request, res: Response) => {
   }
   if (req.body.username) {
     user.username = req.body.username;
-  }
-  else if (req.body.email) {
+  } else if (req.body.email) {
     user.email = req.body.email;
-  }
-  else if (req.body.password) {
+  } else if (req.body.password) {
     user.password = await bcrypt.hash(req.body.password, 10);
-  }
-  else {
+  } else {
     return res.status(400).json({ message: "No fields to update" });
   }
   const updatedUser = await user.save();
   res.json(updatedUser);
 });
 
-// must have username and password as body
+// must have username and password in auth
 userRouter.delete(
   "/",
   authenticateUser,
