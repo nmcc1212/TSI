@@ -27,6 +27,9 @@ userRouter.post("/", async (req: Request, res: Response) => {
   if (emailExists) {
     return res.status(400).json({ message: "email already exists" });
   }
+  if (req.body.email.doesNotMatch(/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/)) {
+    return res.status(400).json({ message: "Invalid email" });
+  }
   const newID = (await User.find({}).sort([["userID", -1]]))[0];
   const user = new User({
     id: newID,
