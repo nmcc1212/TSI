@@ -1,28 +1,27 @@
 import { Router, Response, Request } from "express";
+import { body, validationResult, query, param } from "express-validator";
 import User from "../schemas/usersSchema";
 import authenticateUser from "../middlewares/userAuth";
 import bcrypt from "bcrypt";
 
 const userRouter = Router();
 
+const PostValidation = [
+  body("username").notEmpty().withMessage("Username is required"),
+  body("email").isEmail().withMessage("Invalid email format"),
+  body("password").notEmpty().withMessage("Password is required"),
+];
+
 // username, email, and password required
-userRouter.post("/", async (req: Request, res: Response) => {
-  if (!req.body.username)
-    return res.status(400).json({ message: "username is required" });
-  if (!req.body.email)
-    return res.status(400).json({ message: "email is required" });
-  if (!req.body.password)
-    return res.status(400).json({ message: "password is required" });
-  // check if user already exists
+userRouter.post("/", PostValidation, async (req: Request, res: Response) => {
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return res.status(400).json({ errors: errors.array() });
+  }
   const email = req.body.email;
   const username = req.body.username;
   const plainPassword = req.body.password;
-  const emailRegex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;
   const hashedPassword = await bcrypt.hash(plainPassword, 10);
-
-  if (!emailRegex.test(email)) {
-    return res.status(400).json({ message: "Invalid email format" });
-  }
 
   const usernameExists = await User.findOne({ username });
   if (usernameExists) {
@@ -54,8 +53,19 @@ userRouter.post("/", async (req: Request, res: Response) => {
   res.json(newUser);
 });
 
+const getValidation = [
+  query("_id").optional().isMongoId().withMessage("Invalid _id format"),
+  query("email").optional().isEmail().withMessage("Invalid email format"),
+  query("username").optional(),
+  query("id").optional().isInt().withMessage("Invalid id format"),
+];
+
 // can take _id, id, email, or username as query parameter
-userRouter.get("/", async (req: Request, res: Response) => {
+userRouter.get("/", getValidation, async (req: Request, res: Response) => {
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return res.status(400).json({ errors: errors.array() });
+  }
   if (req.query._id !== undefined) {
     let users = await User.find({ _id: req.query._id });
     return res.json(users);
@@ -74,10 +84,28 @@ userRouter.get("/", async (req: Request, res: Response) => {
   }
 });
 // can take email, username or password in body, must username and password in auth
+const patchValidation = [
+  param("id").isInt().withMessage("Invalid id format"),
+  body("username").optional(),
+  body("email").optional().isEmail().withMessage("Invalid email format"),
+  body("password").optional(),
+  body("auth").isObject().withMessage("Auth object is required"),
+  body("auth.username")
+    .notEmpty()
+    .withMessage("Username is required in auth object"),
+  body("auth.password")
+    .notEmpty()
+    .withMessage("Password is required in auth object"),
+];
 userRouter.patch(
   "/:id",
   authenticateUser,
+  patchValidation,
   async (req: Request, res: Response) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
     if (!req.user) {
       return res.status(401).json({ message: "Unauthorized" });
     }
@@ -107,11 +135,27 @@ userRouter.patch(
   }
 );
 
+const deleteValidation = [
+  param("id").isInt().withMessage("Invalid id format"),
+  body("auth").isObject().withMessage("Auth object is required"),
+  body("auth.username")
+    .notEmpty()
+    .withMessage("Username is required in auth object"),
+  body("auth.password")
+    .notEmpty()
+    .withMessage("Password is required in auth object"),
+];
+
 // must have username and password in auth
 userRouter.delete(
   "/:id",
   authenticateUser,
+  deleteValidation,
   async (req: Request, res: Response) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
     if (!req.user) {
       return res.status(401).json({ message: "Unauthorized" });
     }
