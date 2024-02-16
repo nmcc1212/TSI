@@ -7,13 +7,14 @@ async function authenticateUser(
   res: Response,
   next: NextFunction
 ) {
-  if (!req.body.username || !req.body.password) {
+  if (!req.body.auth.username || !req.body.auth.password) {
     return res
       .status(400)
       .json({ message: "Username and password are required" });
   }
   try {
-    const { username, password } = req.body;
+    const username = req.body.auth.username;
+    const password = req.body.auth.password;
     const user = await User.findOne({ username });
 
     if (!user) {

@@ -27,7 +27,7 @@ userRouter.post("/", async (req: Request, res: Response) => {
   if (emailExists) {
     return res.status(400).json({ message: "email already exists" });
   }
-  const newID = (await User.find({}).sort([['userID', -1]]))[0]
+  const newID = (await User.find({}).sort([["userID", -1]]))[0];
   const user = new User({
     id: newID,
     username: username,
@@ -67,85 +67,52 @@ userRouter.get("/", async (req: Request, res: Response) => {
     return res.json(users);
   }
 });
-// can take email or username must have password as body
+// can take email, username or password in body, must username and password in auth
 userRouter.patch("/", authenticateUser, async (req: Request, res: Response) => {
-  if (
-    (req.body.email === undefined ||
-    req.body.username === undefined) &&
-    req.body.password === undefined
-  ) {
-    return res
-      .status(400)
-      .json({ message: "email or username, and password is required" });
-  }
-  if (req.body.length > 1) {
-    return res
-      .status(400)
-      .json({ message: "only one field can be updated at a time" });
-  }
   if (!req.user) {
     return res.status(401).json({ message: "Unauthorized" });
+  }
+  if (!req.body.username && !req.body.email && !req.body.password) {
+    return res.status(400).json({ message: "No fields to update" });
+  }
+  if (req.body.length > 1) {
+    return res.status(400).json({ message: "Only one field can be updated at a time" });
   }
   const user = await User.findOne({ id: req.user.id });
   if (!user) {
     return res.status(404).json({ message: "User not found" });
   }
-  if (req.body.email !== undefined) {
-    const email = req.body.email;
-    if (email === user.email) {
-      return res
-        .status(400)
-        .json({ message: "email is the same as current email" });
-    }
-    const emailExists = await User.findOne({ email });
-    if (emailExists) {
-      return res.status(400).json({ message: "email already exists" });
-    }
-    user.email = email;
-    const updatedUser = await user.save();
-    return res.json(updatedUser);
+  if (req.body.username) {
+    user.username = req.body.username;
   }
-  if (req.body.username !== undefined) {
-    const username = req.body.username;
-    if (username === user.username) {
-      return res
-        .status(400)
-        .json({ message: "username is the same as current username" });
-    }
-    const usernameExists = await User.findOne({ username });
-    if (usernameExists) {
-      return res.status(400).json({ message: "username already exists" });
-    }
-    user.username = username;
-    const updatedUser = await user.save();
-    return res.json(updatedUser);
+  else if (req.body.email) {
+    user.email = req.body.email;
   }
-  if (req.body.password !== undefined) {
-    const plainPassword = req.body.password;
-    const passwordMatch = await bcrypt.compare(plainPassword, user.password);
-    if (passwordMatch) {
-      return res
-        .status(400)
-        .json({ message: "password is the same as current password" });
-    }
-    const hashedPassword = await bcrypt.hash(plainPassword, 10);
-    user.password = hashedPassword;
-    const updatedUser = await user.save();
-    return res.json(updatedUser);
+  else if (req.body.password) {
+    user.password = await bcrypt.hash(req.body.password, 10);
   }
+  else {
+    return res.status(400).json({ message: "No fields to update" });
+  }
+  const updatedUser = await user.save();
+  res.json(updatedUser);
 });
 
 // must have username and password as body
-userRouter.delete("/", authenticateUser, async (req: Request, res: Response) => {
-  if (!req.user) {
-    return res.status(401).json({ message: "Unauthorized" });
+userRouter.delete(
+  "/",
+  authenticateUser,
+  async (req: Request, res: Response) => {
+    if (!req.user) {
+      return res.status(401).json({ message: "Unauthorized" });
+    }
+    const user = await User.findOne({ id: req.user.id });
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+    await user.deleteOne();
+    res.json({ message: "Post deleted" });
   }
-  const user = await User.findOne({ id: req.user.id });
-  if (!user) {
-    return res.status(404).json({ message: "User not found" });
-  }
-  await user.deleteOne();
-  res.json({ message: "Post deleted" });
-});
+);
 
 export default userRouter;
