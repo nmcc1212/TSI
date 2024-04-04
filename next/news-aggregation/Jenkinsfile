@@ -9,6 +9,11 @@ pipeline {
                 sh 'npm install'
             }
         }
+        stage('debug') {
+            steps {
+                sh 'echo pwd'
+            }
+        }
         parrallel {
             stage('Run API') {
                 steps {
