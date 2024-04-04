@@ -1,1 +1,2 @@
-kill $(cat .pidfile)
+if [ -f .pidfile ]; then
+    kill $(cat .pidfile)
