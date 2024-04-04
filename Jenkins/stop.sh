@@ -1,2 +1,5 @@
 if [ -f .pidfile ]; then
-    kill $(cat .pidfile)
+    for pid in $(cat .pidfile); do
+        kill $pid
+        echo "Killed $pid"
+    done
