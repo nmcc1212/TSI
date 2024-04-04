@@ -12,6 +12,7 @@ pipeline {
         stage('debug') {
             steps {
                 sh 'pwd'
+                sh 'ls -la'
             }
         }
         stage('run website') {
