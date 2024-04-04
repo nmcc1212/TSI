@@ -7,6 +7,12 @@ pipeline {
         stage('Install') {
             steps {
                 sh 'npm install'
+                dir ('next/news-aggregation') {
+                    sh 'npm install'
+                }
+                dir ('newAPI') {
+                    sh 'npm install'
+                }
             }
         }
         stage('debug') {
