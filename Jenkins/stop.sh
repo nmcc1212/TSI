@@ -3,3 +3,4 @@ if [ -f .pidfile ]; then
         kill $pid
         echo "Killed $pid"
     done
+fi
