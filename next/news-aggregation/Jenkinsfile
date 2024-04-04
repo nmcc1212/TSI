@@ -15,7 +15,7 @@ pipeline {
             }
         }
         stage('run website') {
-            parrallel {
+            parallel {
                 stage('Run API') {
                     steps {
                         dir('newAPI/src') {
