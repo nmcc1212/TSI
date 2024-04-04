@@ -11,7 +11,7 @@ pipeline {
         }
         stage('debug') {
             steps {
-                sh 'echo pwd'
+                sh 'pwd'
             }
         }
         stage('run website') {
