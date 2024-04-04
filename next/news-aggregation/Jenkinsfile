@@ -14,8 +14,7 @@ pipeline {
                 sh 'echo pwd'
             }
         }
-        stage('run website')
-        stages{
+        stage('run website') {
             parrallel {
                 stage('Run API') {
                     steps {
