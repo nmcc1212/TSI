@@ -14,22 +14,25 @@ pipeline {
                 sh 'echo pwd'
             }
         }
-        parrallel {
-            stage('Run API') {
-                steps {
-                    dir('newAPI/src') {
-                        sh 'ts-node index.ts'
+        stage('run website')
+        stages{
+            parrallel {
+                stage('Run API') {
+                    steps {
+                        dir('newAPI/src') {
+                            sh 'ts-node index.ts'
+                        }
                     }
                 }
-            }
-            stage('Run Web Site') {
-                steps {
-                    dir('next/news-aggregation') {
-                        sh 'npm run dev'
+                stage('Run Web Site') {
+                    steps {
+                        dir('next/news-aggregation') {
+                            sh 'npm run dev'
+                        }
                     }
                 }
+            input message: 'Finished using the web site? (Click "Proceed" to continue)'
             }
-        input message: 'Finished using the web site? (Click "Proceed" to continue)'
         }
     }
 }
