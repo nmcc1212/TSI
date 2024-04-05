@@ -5,8 +5,6 @@ pipeline {
     }
     environment {
         // SSH_KEY = credentials('nial-ssh-aws') // Credential ID for SSH private key
-        REMOTE_USER = 'ubuntu' // User to SSH into the EC2 instance
-        REMOTE_HOST = '13.49.230.240' // Public IP or hostname of your EC2 instance
     }
     stages {
         stage('Install') {
@@ -40,7 +38,7 @@ pipeline {
             steps {
                 script {
                     sshagent(['nial-ssh-creds']) {
-                        sh "ssh ubuntu@13.49.230.240 'cd TSI && git pull'"
+                        sh "ssh -o StrictHostKeyChecking=no ubuntu@13.49.230.240 'cd TSI && git pull'"
                     }
                 }
             }
@@ -49,7 +47,7 @@ pipeline {
             steps {
                 script {
                     sshagent(['nial-ssh-creds']) {
-                        sh "ssh ubuntu@13.49.230.240 'screen && cd TSI/next/news-aggregation && npm install && npm run dev'"
+                        sh "ssh -o StrictHostKeyChecking=no ubuntu@13.49.230.240 'screen && cd TSI/next/news-aggregation && npm install && npm run dev'"
                     }
                 }
             }
