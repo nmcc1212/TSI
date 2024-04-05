@@ -4,7 +4,7 @@
 
 import React from 'react';
 import { render, screen, fireEvent} from '@testing-library/react';
-import NavBar from '../src/components/NavBar';
+import NavBar from '../src/components/navBar';
 import '@testing-library/jest-dom'
 
 
