@@ -3,9 +3,6 @@ pipeline {
     tools {
         nodejs "NodeJS"
     }
-    environment {
-        // SSH_KEY = credentials('nial-ssh-aws') // Credential ID for SSH private key
-    }
     stages {
         stage('Install') {
             steps {
