@@ -5,7 +5,7 @@ import '@testing-library/jest-dom'
 import React from 'react';
 import { render, screen, act } from '@testing-library/react';
 import axios from 'axios';
-import NewsList from '../src/components/NewsList'
+import NewsList from '../src/components/newsList'
 
 // Mocking axios
 jest.mock('axios');
