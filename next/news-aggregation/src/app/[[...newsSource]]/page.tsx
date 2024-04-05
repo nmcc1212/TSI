@@ -1,5 +1,5 @@
 import '../index.css';
-import NewsList from '../../components/NewsList';
+import NewsList from '../../components/newsList';
 
 const techUrls: string[] = ["https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", "http://rss.slashdot.org/Slashdot/slashdot", "http://feeds.arstechnica.com/arstechnica/index/", "https://www.reddit.com/r/tech/top/.rss", "https://www.reddit.com/r/technews/top/.rss", "https://www.reddit.com/r/technology/top/.rss"]
 const ukraineUrls: string[] = ["https://www.independent.co.uk/topic/ukraine/rss", "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/news-event/ukraine-russia/rss.xml", "https://www.ft.com/war-in-ukraine?format=rss", "https://yahoo.com/news/rss/world", "https://abcnews.go.com/abcnews/internationalheadlines",]
