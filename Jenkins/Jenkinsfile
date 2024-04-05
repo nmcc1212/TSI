@@ -24,7 +24,7 @@ pipeline {
         stage ('sonarqube') {
             steps {
                 script {
-                    def scannerHome = tool 'SonarQubeScanner';
+                    def scannerHome = tool 'SonarQube';
                     withSonarQubeEnv('newnewtitanium') {
                         sh "${scannerHome}/bin/sonar-scanner"
                     }
