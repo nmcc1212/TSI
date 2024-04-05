@@ -3,6 +3,13 @@ pipeline {
     tools {
         nodejs "NodeJS"
     }
+    environment {
+        SSH_KEY = credentials('nial-ssh-aws') // Credential ID for SSH private key
+        REMOTE_USER = 'ubuntu' // User to SSH into the EC2 instance
+        REMOTE_HOST = '13.49.230.240' // Public IP or hostname of your EC2 instance
+        REMOTE_DIR = '/var/www/html/react-app' // Directory on the EC2 instance to deploy the app
+        REACT_APP_BUILD_DIR = 'build' // Build directory of your React app
+    }
     stages {
         stage('Install') {
             steps {
@@ -28,6 +35,20 @@ pipeline {
                     withSonarQubeEnv('newnewtitanium') {
                         sh "${scannerHome}/bin/sonar-scanner"
                     }
+                }
+            }
+        }
+        stage('build') {
+            steps {
+                dir ('next/news-aggregation') {
+                    sh 'npm run build'
+                }
+            }
+        }
+        stage deploy {
+            steps {
+                dir ('next/news-aggregation') {
+                    sh 'scp -i ${key} -r build/* root@newnewtitanium:/var/www/html'
                 }
             }
         }
