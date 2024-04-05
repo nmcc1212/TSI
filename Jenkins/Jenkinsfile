@@ -7,8 +7,6 @@ pipeline {
         SSH_KEY = credentials('nial-ssh-aws') // Credential ID for SSH private key
         REMOTE_USER = 'ubuntu' // User to SSH into the EC2 instance
         REMOTE_HOST = '13.49.230.240' // Public IP or hostname of your EC2 instance
-        REMOTE_DIR = '/var/www/html/react-app' // Directory on the EC2 instance to deploy the app
-        REACT_APP_BUILD_DIR = 'build' // Build directory of your React app
     }
     stages {
         stage('Install') {
@@ -45,20 +43,20 @@ pipeline {
                 }
             }
         }
-        stage ('Deploy') {
+        stage('Remote git pull') {
             steps {
                 script {
                     sshagent(['nial-ssh-creds']) {
-                        sh "scp -i ${SSH_KEY} -r ${REACT_APP_BUILD_DIR} ${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_DIR}"
+                        sh "ssh -i ${SSH_KEY} ${REMOTE_USER}@${REMOTE_HOST} 'cd TSI && git pull'"
                     }
                 }
             }
         }
-        stage('Restart Server') {
+        stage('Deploy') {
             steps {
                 script {
                     sshagent(['nial-ssh-creds']) {
-                        sh "ssh -i ${SSH_KEY} ${REMOTE_USER}@${REMOTE_HOST} 'sudo systemctl restart nginx'"
+                        sh "ssh -i ${SSH_KEY} ${REMOTE_USER}@${REMOTE_HOST} 'screen && cd TSI/next/news-aggregation && npm run dev'"
                     }
                 }
             }
