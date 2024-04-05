@@ -25,7 +25,6 @@ pipeline {
             steps {
                 withSonarQubeEnv('newnewtitanium') {
                         sh "${scannerHome}/bin/sonar-scanner"
-                    }
                 }
             }
         }
