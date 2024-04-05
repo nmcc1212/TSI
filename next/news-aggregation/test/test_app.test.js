@@ -6,7 +6,7 @@ import React from 'react';
 import userEvent from '@testing-library/user-event';
 import '@testing-library/jest-dom';
 import Page from '../src/app/[[...newsSource]]/page';
-import NavBar from '../src/components/NavBar';
+import NavBar from '../src/components/navBar';
 
 describe('App component', () => {
   test('renders App component', () => {
