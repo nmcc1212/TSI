@@ -40,7 +40,7 @@ pipeline {
             steps {
                 script {
                     sshagent(['nial-ssh-creds']) {
-                        sh "ssh -i ${SSH_KEY} ${REMOTE_USER}@${REMOTE_HOST} 'cd TSI && git pull'"
+                        sh "ssh -i ${SSH_KEY} ubuntu@13.49.230.240 'cd TSI && git pull'"
                     }
                 }
             }
@@ -49,7 +49,7 @@ pipeline {
             steps {
                 script {
                     sshagent(['nial-ssh-creds']) {
-                        sh "ssh -i ${SSH_KEY} ${REMOTE_USER}@${REMOTE_HOST} 'screen && cd TSI/next/news-aggregation && npm run dev'"
+                        sh "ssh -i ${SSH_KEY} ubuntu@13.49.230.240 'screen && cd TSI/next/news-aggregation && npm run dev'"
                     }
                 }
             }
