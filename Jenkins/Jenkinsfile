@@ -4,7 +4,7 @@ pipeline {
         nodejs "NodeJS"
     }
     environment {
-        SSH_KEY = credentials('nial-ssh-aws') // Credential ID for SSH private key
+        // SSH_KEY = credentials('nial-ssh-aws') // Credential ID for SSH private key
         REMOTE_USER = 'ubuntu' // User to SSH into the EC2 instance
         REMOTE_HOST = '13.49.230.240' // Public IP or hostname of your EC2 instance
     }
@@ -39,14 +39,18 @@ pipeline {
         stage('Remote git pull') {
             steps {
                 script {
-                    sh "ssh -i ${SSH_KEY} ubuntu@13.49.230.240 'cd TSI && git pull'"
+                    sshagent(['nial-ssh-creds']) {
+                        sh "ssh ubuntu@13.49.230.240 'cd TSI && git pull'"
+                    }
                 }
             }
         }
         stage('Deploy') {
             steps {
                 script {
-                    sh "ssh -i ${SSH_KEY} ubuntu@13.49.230.240 'screen && cd TSI/next/news-aggregation && npm install && npm run dev'"
+                    sshagent(['nial-ssh-creds']) {
+                        sh "ssh ubuntu@13.49.230.240 'screen && cd TSI/next/news-aggregation && npm install && npm run dev'"
+                    }
                 }
             }
         }
