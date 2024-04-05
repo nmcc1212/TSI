@@ -23,8 +23,11 @@ pipeline {
         }
         stage ('sonarqube') {
             steps {
-                withSonarQubeEnv('newnewtitanium') {
+                script {
+                    def scannerHome = tool 'SonarQubeScanner';
+                    withSonarQubeEnv('newnewtitanium') {
                         sh "${scannerHome}/bin/sonar-scanner"
+                    }
                 }
             }
         }
