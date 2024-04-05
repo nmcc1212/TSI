@@ -62,6 +62,7 @@ pipeline {
                     }
                 }
             }
+        }
         stage('jest') {
             steps {
                 dir ('next/news-aggregation') {
