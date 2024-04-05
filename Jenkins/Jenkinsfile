@@ -21,6 +21,14 @@ pipeline {
                 sh 'ls -la'
             }
         }
+        stage ('sonarqube') {
+            steps {
+                withSonarQubeEnv('newnewtitanium') {
+                        sh "${scannerHome}/bin/sonar-scanner"
+                    }
+                }
+            }
+        }
         stage('run website') {
             steps {
                 sh './Jenkins/start.sh'
