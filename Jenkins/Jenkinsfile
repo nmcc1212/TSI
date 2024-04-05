@@ -47,11 +47,21 @@ pipeline {
         }
         stage deploy {
             steps {
-                dir ('next/news-aggregation') {
-                    sh 'scp -i ${key} -r build/* root@newnewtitanium:/var/www/html'
+                script {
+                    sshagent(['nial-ssh-creds']) {
+                        sh "scp -i ${SSH_KEY} -r ${REACT_APP_BUILD_DIR} ${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_DIR}"
+                    }
                 }
             }
         }
+        stage('Restart Server') {
+            steps {
+                script {
+                    sshagent(['nial-ssh-creds']) {
+                        sh "ssh -i ${SSH_KEY} ${REMOTE_USER}@${REMOTE_HOST} 'sudo systemctl restart nginx'"
+                    }
+                }
+            }
         stage('jest') {
             steps {
                 dir ('next/news-aggregation') {
