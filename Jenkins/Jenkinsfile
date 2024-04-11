@@ -49,6 +49,16 @@ pipeline {
                 }
             }
         }
+        stage('OWASP ZAP')
+            steps {
+                script {
+                    startZap(
+                        host: '13.49.230.240',
+                        port: 80,
+                        zapHome: '/opt/zaproxy',
+                    )
+                }
+            }
         stage('jest') {
             steps {
                 dir ('next/news-aggregation') {
