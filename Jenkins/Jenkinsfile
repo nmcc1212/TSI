@@ -31,34 +31,34 @@ pipeline {
                 }
             }
         }
-        stage('Remote git pull') {
-            steps {
-                script {
-                    sshagent(['nial-ssh-creds']) {
-                        sh "ssh -o StrictHostKeyChecking=no ubuntu@13.49.230.240 'cd TSI && git pull'"
-                    }
-                }
-            }
-        }
-        stage('Deploy') {
-            steps {
-                script {
-                    sshagent(['nial-ssh-creds']) {
-                        sh "ssh -o StrictHostKeyChecking=no ubuntu@13.49.230.240 'screen -d -m && cd TSI/next/news-aggregation && npm install && sudo npm run dev -- -p 80 -H 0.0.0.0'"
-                    }
-                }
-            }
-        }
-        stage('OWASP ZAP')
-            steps {
-                script {
-                    startZap(
-                        host: '13.49.230.240',
-                        port: 80,
-                        zapHome: '/opt/zaproxy',
-                    )
-                }
-            }
+        // stage('Remote git pull') {
+        //     steps {
+        //         script {
+        //             sshagent(['nial-ssh-creds']) {
+        //                 sh "ssh -o StrictHostKeyChecking=no ubuntu@13.49.230.240 'cd TSI && git pull'"
+        //             }
+        //         }
+        //     }
+        // }
+        // stage('Deploy') {
+        //     steps {
+        //         script {
+        //             sshagent(['nial-ssh-creds']) {
+        //                 sh "ssh -o StrictHostKeyChecking=no ubuntu@13.49.230.240 'screen -d -m && cd TSI/next/news-aggregation && npm install && sudo npm run dev -- -p 80 -H 0.0.0.0'"
+        //             }
+        //         }
+        //     }
+        // }
+        // stage('OWASP ZAP')
+        //     steps {
+        //         script {
+        //             startZap(
+        //                 host: '13.49.230.240',
+        //                 port: 80,
+        //                 zapHome: '/opt/zaproxy',
+        //             )
+        //         }
+        //     }
         stage('jest') {
             steps {
                 dir ('next/news-aggregation') {
