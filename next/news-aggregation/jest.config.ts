@@ -11,5 +11,11 @@ const config: Config = {
     testEnvironment: 'jsdom',
     collectCoverage: true,
     testResultsProcessor: 'jest-sonar-reporter',
+    "reporters": [
+        "default",
+        ["./node_modules/jest-html-reporter", {
+            "pageTitle": "Nial's Amazing Test Report"
+        }]
+    ]
 };
 export default createJestConfig(config);
