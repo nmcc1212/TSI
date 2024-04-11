@@ -66,12 +66,12 @@ pipeline {
                 }
             }
         }
+    }
     post {
         always {
             archiveArtifacts artifacts: 'next/news-aggregation/__tests__/coverage/lcov-report/**', allowEmptyArchive: true
             archiveArtifacts artifacts: 'next/news-aggregation/test-report.html' , allowEmptyArchive: true
             junit 'next/news-aggregation/test-report.xml'
-            }
         }
     }
 }
