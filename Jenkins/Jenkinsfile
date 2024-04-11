@@ -64,6 +64,8 @@ pipeline {
                 dir ('next/news-aggregation') {
                     sh 'npm test'
                 }
+            }
+        }
     post {
         always {
             archiveArtifacts artifacts: 'next/news-aggregation/__tests__/coverage/lcov-report/**', allowEmptyArchive: true
