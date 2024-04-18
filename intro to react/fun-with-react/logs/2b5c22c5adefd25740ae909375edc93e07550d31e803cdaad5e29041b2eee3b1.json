@@ -12440,5 +12440,71 @@
       }
     ],
     "isoDate": "2024-04-12T16:24:35.000Z"
+  },
+  {
+    "creator": "Robbie Collin",
+    "title": "Jeanne du Barry: is this Johnny Depp’s glorious comeback? Er, non",
+    "link": "https://www.telegraph.co.uk/films/0/cannes-2023-jeanne-du-barry-review-johnny-depp/",
+    "pubDate": "Thu, 18 Apr 2024 09:00:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/films/2023/05/16/TELEMMGLPICT000335208555_trans_NvBQzQNjv4BqZ43A_gzONo7UzhcinmaIACHJQxYXBdQYg7YCpTzaZt8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Robbie Collin",
+    "content": "<![CDATA[Depp shows zero regal gravitas as the French king Louis XV in this stale and draughty period romance]]>",
+    "contentSnippet": "",
+    "guid": "2c760cc2-ece2-3c6c-beca-7529bf565274",
+    "categories": [
+      {
+        "_": "topics:people/johnny-depp",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/celebrity-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:film",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:robbie-collin",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:film/film-top-stories",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:culture",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:review",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:00:00.000Z"
   }
 ]

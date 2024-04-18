@@ -7412,5 +7412,176 @@
       }
     ],
     "isoDate": "2024-04-15T16:27:36.000Z"
+  },
+  {
+    "creator": "Craig Mod",
+    "title": "A Japanese Village Wants Tourists to Come for Heat, Soot and Steel",
+    "link": "https://www.nytimes.com/2024/04/18/travel/yoshida-japan-steel-furnace.html",
+    "pubDate": "Thu, 18 Apr 2024 09:02:43 +0000",
+    "dc:creator": "Craig Mod",
+    "content": "To lure visitors, residents of Yoshida, famed for its high-quality steel, are inviting tourists to help produce it.",
+    "contentSnippet": "To lure visitors, residents of Yoshida, famed for its high-quality steel, are inviting tourists to help produce it.",
+    "guid": "https://www.nytimes.com/2024/04/18/travel/yoshida-japan-steel-furnace.html",
+    "categories": [
+      {
+        "_": "Travel and Vacations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Steel and Iron",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Japan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Swords",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:02:43.000Z"
+  },
+  {
+    "creator": "Neil MacFarquhar and Eric Schmitt",
+    "title": "An ISIS Terror Group Draws Half Its Recruits From Tiny Tajikistan",
+    "link": "https://www.nytimes.com/2024/04/18/world/europe/tajikistan-isis-k-terrorism.html",
+    "pubDate": "Thu, 18 Apr 2024 09:02:14 +0000",
+    "dc:creator": "Neil MacFarquhar and Eric Schmitt",
+    "content": "Young migrants from the former Soviet republic were accused of an attack on a concert hall in Moscow that killed 145 people.",
+    "contentSnippet": "Young migrants from the former Soviet republic were accused of an attack on a concert hall in Moscow that killed 145 people.",
+    "guid": "https://www.nytimes.com/2024/04/18/world/europe/tajikistan-isis-k-terrorism.html",
+    "categories": [
+      {
+        "_": "Tajikistan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Tajiks (Ethnic Group)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Islamic State Khorasan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Islamic State in Iraq and Syria (ISIS)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Moscow Concert Hall Shooting (March 2024)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Muslims and Islam",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Immigration and Emigration",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Poverty",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Putin, Vladimir V",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Rahmon, Emomali",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:02:14.000Z"
+  },
+  {
+    "creator": "Livia Albeck-Ripka",
+    "title": "Dubai Flooding Photos and Video: Heavy Rains in UAE and Oman Kill at Least 19",
+    "link": "https://www.nytimes.com/2024/04/17/world/middleeast/dubai-airport-oman-flooding.html",
+    "pubDate": "Thu, 18 Apr 2024 01:32:00 +0000",
+    "dc:creator": "Livia Albeck-Ripka",
+    "content": "The heavy rains also flooded parts of Dubai International Airport, causing scores of flight delays and cancellations, and brought other cities in the U.A.E. to a standstill.",
+    "contentSnippet": "The heavy rains also flooded parts of Dubai International Airport, causing scores of flight delays and cancellations, and brought other cities in the U.A.E. to a standstill.",
+    "guid": "https://www.nytimes.com/2024/04/17/world/middleeast/dubai-airport-oman-flooding.html",
+    "categories": [
+      {
+        "_": "Floods",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Dubai (United Arab Emirates)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Oman",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "United Arab Emirates",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T01:32:00.000Z"
   }
 ]

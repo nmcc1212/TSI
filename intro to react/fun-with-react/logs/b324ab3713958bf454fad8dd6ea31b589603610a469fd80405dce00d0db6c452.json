@@ -598,5 +598,17 @@
     "contentSnippet": "Article URL: https://bostondynamics.com/blog/electric-new-era-for-atlas/\nComments URL: https://news.ycombinator.com/item?id=40064105\nPoints: 378\n# Comments: 384",
     "guid": "https://news.ycombinator.com/item?id=40064105",
     "isoDate": "2024-04-17T13:12:14.000Z"
+  },
+  {
+    "creator": "winsdk",
+    "title": "Show HN: BiTE – Cross-platform executable viewer and reverse engineering tool",
+    "link": "https://github.com/WINSDK/bite",
+    "pubDate": "Wed, 17 Apr 2024 12:39:49 +0000",
+    "dc:creator": "winsdk",
+    "comments": "https://news.ycombinator.com/item?id=40063803",
+    "content": "\n<p>Hey everyone!<p>I’m excited to share a project I’ve been working on throughout my university studies. It’s called BiTE (<a href=\"https://github.com/WINSDK/bite\">https://github.com/WINSDK/bite</a>) and it's a tool primarily focused on being an executable viewer with reverse engineering capabilities.<p>BiTE supports Windows, MacOS, and Linux, along with their associated executable formats. It’s also capable of parsing and displaying debug information using DWARF/PDB formats, which I hope will be useful even for just comparing codegen.<p>I’ve put a lot of effort into this and it's the first time I'm releasing something like this publicly. Any feedback, bug reports, or feature suggestions would be greatly appreciated!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=40063803\">https://news.ycombinator.com/item?id=40063803</a></p>\n<p>Points: 143</p>\n<p># Comments: 15</p>\n",
+    "contentSnippet": "Hey everyone!\nI’m excited to share a project I’ve been working on throughout my university studies. It’s called BiTE (https://github.com/WINSDK/bite) and it's a tool primarily focused on being an executable viewer with reverse engineering capabilities.\nBiTE supports Windows, MacOS, and Linux, along with their associated executable formats. It’s also capable of parsing and displaying debug information using DWARF/PDB formats, which I hope will be useful even for just comparing codegen.\nI’ve put a lot of effort into this and it's the first time I'm releasing something like this publicly. Any feedback, bug reports, or feature suggestions would be greatly appreciated!\nComments URL: https://news.ycombinator.com/item?id=40063803\nPoints: 143\n# Comments: 15",
+    "guid": "https://news.ycombinator.com/item?id=40063803",
+    "isoDate": "2024-04-17T12:39:49.000Z"
   }
 ]
