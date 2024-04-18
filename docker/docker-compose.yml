@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  news-aggregation:
+    build:
+      context: ./next-app
+    ports:
+      - "3000:3000"
+
+  cacher:
+    build:
+      context: ./cacher
+    ports:
+      - "50111:50111"
+
+  rss-to-json:
+    build:
+      context: ./fun-with-react-rss
+    ports:
+      - "50110:50110"
