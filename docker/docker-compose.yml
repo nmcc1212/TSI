@@ -15,6 +15,6 @@ services:
 
   rss-to-json:
     build:
-      context: ./fun-with-react-rss
+      context: ./rss-to-json
     ports:
       - "50110:50110"
