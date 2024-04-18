@@ -10,6 +10,7 @@ const config: Config = {
     coverageProvider: 'v8',
     testEnvironment: 'jsdom',
     collectCoverage: true,
+    testMatch: ['**/test/**/*.[jt]s?(x)'],
     testResultsProcessor: 'jest-sonar-reporter',
     "reporters": [
         "default",
