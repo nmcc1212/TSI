@@ -7705,5 +7705,217 @@
       }
     ],
     "isoDate": "2024-04-18T09:04:17.000Z"
+  },
+  {
+    "creator": "The New York Times",
+    "title": "Middle East Crisis: E.U. Will Impose New Sanctions on Iran for Attacking Israel",
+    "link": "https://www.nytimes.com/live/2024/04/18/world/iran-israel-gaza-war-news",
+    "pubDate": "Thu, 18 Apr 2024 11:06:08 +0000",
+    "dc:creator": "The New York Times",
+    "content": "The measures were announced as Israel’s allies try to punish Tehran without fueling a wider Middle East war.",
+    "contentSnippet": "The measures were announced as Israel’s allies try to punish Tehran without fueling a wider Middle East war.",
+    "guid": "https://www.nytimes.com/live/2024/04/18/world/iran-israel-gaza-war-news",
+    "isoDate": "2024-04-18T11:06:08.000Z"
+  },
+  {
+    "creator": "Mara Hvistendahl and Lauren Hirsch",
+    "title": "TikTok’s Origin Story: Court Files Show Role of GOP Megadonor Jeff Yass",
+    "link": "https://www.nytimes.com/2024/04/18/business/tiktok-bytedance-jeff-yass.html",
+    "pubDate": "Thu, 18 Apr 2024 10:12:32 +0000",
+    "dc:creator": "Mara Hvistendahl and Lauren Hirsch",
+    "content": "Court records, mistakenly made public, tell a story about the birth of ByteDance, its bumpy road to success and the role of the Republican megadonor Jeff Yass’s firm.",
+    "contentSnippet": "Court records, mistakenly made public, tell a story about the birth of ByteDance, its bumpy road to success and the role of the Republican megadonor Jeff Yass’s firm.",
+    "guid": "https://www.nytimes.com/2024/04/18/business/tiktok-bytedance-jeff-yass.html",
+    "categories": [
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Law and Legislation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United States Politics and Government",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Beijing Bytedance Technology Co Ltd",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Yass, Jeff",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Philadelphia (Pa)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "China",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T10:12:32.000Z"
+  },
+  {
+    "creator": "Carl Zimmer",
+    "title": "W.H.O. Broadens Definition of Airborne Diseases",
+    "link": "https://www.nytimes.com/2024/04/18/health/who-airborne-covid.html",
+    "pubDate": "Thu, 18 Apr 2024 10:00:05 +0000",
+    "dc:creator": "Carl Zimmer",
+    "content": "After a drawn-out global controversy over the coronavirus, the W.H.O. has updated its classification of how pathogens spread through the air.",
+    "contentSnippet": "After a drawn-out global controversy over the coronavirus, the W.H.O. has updated its classification of how pathogens spread through the air.",
+    "guid": "https://www.nytimes.com/2024/04/18/health/who-airborne-covid.html",
+    "categories": [
+      {
+        "_": "your-feed-science",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Coronavirus (2019-nCoV)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "International Relations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Coronavirus Risks and Safety Concerns",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Protective Clothing and Gear",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "World Health Organization",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "your-feed-healthcare",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T10:00:05.000Z"
+  },
+  {
+    "creator": "Mara Hvistendahl",
+    "title": "Takeaways From a Trove of ByteDance Records",
+    "link": "https://www.nytimes.com/2024/04/18/business/bytedance-records-tiktok.html",
+    "pubDate": "Thu, 18 Apr 2024 09:01:12 +0000",
+    "dc:creator": "Mara Hvistendahl",
+    "content": "The records briefly surfaced in a lawsuit involving the Republican megadonor Jeff Yass’s firm.",
+    "contentSnippet": "The records briefly surfaced in a lawsuit involving the Republican megadonor Jeff Yass’s firm.",
+    "guid": "https://www.nytimes.com/2024/04/18/business/bytedance-records-tiktok.html",
+    "categories": [
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Start-ups",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Susquehanna International Group LLP",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "TikTok (ByteDance)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Yass, Jeff",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      },
+      {
+        "_": "Zhang Yiming (1983- )",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:01:12.000Z"
   }
 ]

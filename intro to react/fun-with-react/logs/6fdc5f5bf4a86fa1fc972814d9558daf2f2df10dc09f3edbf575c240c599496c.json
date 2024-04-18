@@ -929,5 +929,45 @@
       "fcc net neutrality"
     ],
     "isoDate": "2024-04-16T20:38:38.000Z"
+  },
+  {
+    "creator": "Benj Edwards",
+    "title": "OpenAI winds down AI image generator that blew minds and forged friendships in 2022",
+    "link": "https://arstechnica.com/?p=2017168",
+    "pubDate": "Thu, 18 Apr 2024 11:00:46 +0000",
+    "content:encoded": "<div id=\"rss-wrap\">\n<figure class=\"intro-image intro-left\">\n  <img src=\"https://cdn.arstechnica.net/wp-content/uploads/2024/04/dalle_hero_2-800x450.jpg\" alt=\"An AI-generated image from DALL-E 2 created with the prompt \" a painting by grant wood of an astronaut couple american gothic style.>\n      <p class=\"caption\" style=\"font-size:0.8em\"><a href=\"https://cdn.arstechnica.net/wp-content/uploads/2024/04/dalle_hero_2.jpg\" class=\"enlarge-link\" data-height=\"675\" data-width=\"1200\">Enlarge</a> <span class=\"sep\">/</span> An AI-generated image from DALL-E 2 created with the prompt \"A painting by Grant Wood of an astronaut couple, american gothic style.\" (credit: <a rel=\"nofollow\" class=\"caption-link\" href=\"https://x.com/AiArtPic/status/1548226438934867968\">AI Pictures That Go Hard / X</a>)</p>  </figure>\n\n\n\n\n\n\n<div><a name=\"page-1\"></a></div>\n<p>When OpenAI's DALL-E 2 <a href=\"https://x.com/OpenAI/status/1511707245536428034\">debuted</a> on April 6, 2022, the idea that a computer could create relatively photorealistic images on demand based on just text descriptions caught a lot of people <a href=\"https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution\">off guard</a>. The launch began an innovative and tumultuous period in AI history, marked by a sense of wonder and a polarizing ethical debate that reverberates in the AI space to this day.</p>\n\n<p>Last week, OpenAI <a href=\"https://help.openai.com/en/articles/4936794-is-dall-e-2-available\">turned off</a> the ability for new customers to purchase generation credits for the web version of DALL-E 2, effectively killing it. From a technological point of view, it's not too surprising that OpenAI recently began winding down support for the service. The 2-year-old image generation model was groundbreaking for its time, but it has since been surpassed by <a href=\"https://arstechnica.com/information-technology/2023/11/from-toy-to-tool-dall-e-3-is-a-wake-up-call-for-visual-artists-and-the-rest-of-us/\">DALL-E 3's</a> higher level of detail, and OpenAI has recently begun rolling out DALL-E 3 <a href=\"https://twitter.com/OpenAI/status/1775569161759985737\">editing capabilities</a>.</p>\n<p>But for a tight-knit group of artists and tech enthusiasts who were there at the start of DALL-E 2, the service's sunset marks the bittersweet end of a period where AI technology briefly felt like a magical portal to boundless creativity. \"The arrival of DALL-E 2 was truly mind-blowing,\" illustrator <a href=\"https://bonfx.com/\">Douglas Bonneville</a> told Ars in an interview. \"There was an exhilarating sense of unlimited freedom in those first days that we all suspected AI was going to unleash. It felt like a liberation from something into something else, but it was never clear exactly what.\"</p></div><p><a href=\"https://arstechnica.com/?p=2017168#p3\">Read 42 remaining paragraphs</a> | <a href=\"https://arstechnica.com/?p=2017168&comments=1\">Comments</a></p>",
+    "content:encodedSnippet": "Enlarge / An AI-generated image from DALL-E 2 created with the prompt \"A painting by Grant Wood of an astronaut couple, american gothic style.\" (credit: AI Pictures That Go Hard / X)\n  \n\n\n\n\n\n\n\nWhen OpenAI's DALL-E 2 debuted on April 6, 2022, the idea that a computer could create relatively photorealistic images on demand based on just text descriptions caught a lot of people off guard. The launch began an innovative and tumultuous period in AI history, marked by a sense of wonder and a polarizing ethical debate that reverberates in the AI space to this day.\nLast week, OpenAI turned off the ability for new customers to purchase generation credits for the web version of DALL-E 2, effectively killing it. From a technological point of view, it's not too surprising that OpenAI recently began winding down support for the service. The 2-year-old image generation model was groundbreaking for its time, but it has since been surpassed by DALL-E 3's higher level of detail, and OpenAI has recently begun rolling out DALL-E 3 editing capabilities.\nBut for a tight-knit group of artists and tech enthusiasts who were there at the start of DALL-E 2, the service's sunset marks the bittersweet end of a period where AI technology briefly felt like a magical portal to boundless creativity. \"The arrival of DALL-E 2 was truly mind-blowing,\" illustrator Douglas Bonneville told Ars in an interview. \"There was an exhilarating sense of unlimited freedom in those first days that we all suspected AI was going to unleash. It felt like a liberation from something into something else, but it was never clear exactly what.\"\n\nRead 42 remaining paragraphs | Comments",
+    "dc:creator": "Benj Edwards",
+    "content": "How a group of friends found themselves at the center of a fierce debate about the future of art.",
+    "contentSnippet": "How a group of friends found themselves at the center of a fierce debate about the future of art.",
+    "guid": "https://arstechnica.com/?p=2017168",
+    "categories": [
+      "AI",
+      "Biz & IT",
+      "Features",
+      "AI copyright",
+      "AI criticism",
+      "AI ethics",
+      "Andy Baio",
+      "art",
+      "ChatGPT",
+      "chatgtp",
+      "dall-e",
+      "DALL-E 2",
+      "DALL-E 3",
+      "Danielle Baskin",
+      "Danielle Fong",
+      "Douglas Bonneville",
+      "LAION",
+      "Lapine",
+      "latent space",
+      "latent space astronauts",
+      "machine learning",
+      "MidJourney",
+      "openai",
+      "RJ Palmer",
+      "Stable Diffusion"
+    ],
+    "isoDate": "2024-04-18T11:00:46.000Z"
   }
 ]
