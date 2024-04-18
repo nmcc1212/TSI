@@ -40,6 +40,18 @@ jobs:
                 oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
                 oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
                 tags: tag:ci
+            - name: Deploy to remote host
+              uses: appleboy/ssh-action@master
+              with:
+                host: ${{ secrets.NEWNEWTITANIUM_IP }}
+                username: ${{ secrets.NEWNEWTITANIUM_USER }}
+                password: ${{ secrets.NEWNEWTITANIUM_PASS }}
+                script: |
+                  cd /home/nial/TSI
+                  git pull
+                  npm install
+                  screen -S TSI -X quit
+                  screen -dmS TSI npm run dev
             - name: run tests
               working-directory: ./next/news-aggregation
               run: npx playwright test
