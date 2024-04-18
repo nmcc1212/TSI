@@ -7917,5 +7917,182 @@
       }
     ],
     "isoDate": "2024-04-18T09:01:12.000Z"
+  },
+  {
+    "creator": "Neil MacFarquhar",
+    "title": "3 Reasons This Country Is a Top ISIS Recruiting Ground",
+    "link": "https://www.nytimes.com/2024/04/18/world/europe/isis-k-tajikistan.html",
+    "pubDate": "Thu, 18 Apr 2024 13:01:24 +0000",
+    "dc:creator": "Neil MacFarquhar",
+    "content": "Hundreds of Tajik men have joined an Islamic State affiliate, analysts say.",
+    "contentSnippet": "Hundreds of Tajik men have joined an Islamic State affiliate, analysts say.",
+    "guid": "https://www.nytimes.com/2024/04/18/world/europe/isis-k-tajikistan.html",
+    "categories": [
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Islamic State in Iraq and Syria (ISIS)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Islamic State Khorasan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Tajikistan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T13:01:24.000Z"
+  },
+  {
+    "creator": "Yan Zhuang",
+    "title": "After Months of Cocaine Washing Ashore, Australian Police Make an Arrest",
+    "link": "https://www.nytimes.com/2024/04/18/world/australia/sydney-cocaine-beaches-arrest.html",
+    "pubDate": "Thu, 18 Apr 2024 11:54:50 +0000",
+    "dc:creator": "Yan Zhuang",
+    "content": "Drug parcels kept showing up on beaches along Australia’s shoreline. Now, the police say they found the man behind the botched shipment.",
+    "contentSnippet": "Drug parcels kept showing up on beaches along Australia’s shoreline. Now, the police say they found the man behind the botched shipment.",
+    "guid": "https://www.nytimes.com/2024/04/18/world/australia/sydney-cocaine-beaches-arrest.html",
+    "categories": [
+      {
+        "_": "Police",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Drug Abuse and Traffic",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Cocaine and Crack Cocaine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Organized Crime",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Sydney (Australia)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T11:54:50.000Z"
+  },
+  {
+    "creator": "Zia ur-Rehman and Christina Goldbaum",
+    "title": "Rainstorms Kill More Than 130 in Afghanistan and Pakistan",
+    "link": "https://www.nytimes.com/2024/04/18/world/asia/afghanistan-pakistan-rain-flooding.html",
+    "pubDate": "Thu, 18 Apr 2024 13:31:15 +0000",
+    "dc:creator": "Zia ur-Rehman and Christina Goldbaum",
+    "content": "Pakistani officials warned of more flooding and heavy rainfall next week, stoking fears of a particularly brutal monsoon season to come.",
+    "contentSnippet": "Pakistani officials warned of more flooding and heavy rainfall next week, stoking fears of a particularly brutal monsoon season to come.",
+    "guid": "https://www.nytimes.com/2024/04/18/world/asia/afghanistan-pakistan-rain-flooding.html",
+    "categories": [
+      {
+        "_": "Rain",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Global Warming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Weather",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Floods",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Deaths (Fatalities)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Monsoons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Developing Countries",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Afghanistan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Baluchistan (Pakistan)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Gwadar (Pakistan)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Khyber-Pakhtunkhwa Province (Pakistan)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Swat (Pakistan)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Pakistan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T13:31:15.000Z"
   }
 ]

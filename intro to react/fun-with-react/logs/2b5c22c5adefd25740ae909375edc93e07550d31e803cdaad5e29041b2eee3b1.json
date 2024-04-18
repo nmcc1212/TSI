@@ -12602,5 +12602,233 @@
       }
     ],
     "isoDate": "2024-04-18T10:41:46.000Z"
+  },
+  {
+    "creator": "Alia Waheed",
+    "title": "The undercover sting that freed more than 100 underage sex workers",
+    "link": "https://www.telegraph.co.uk/global-health/women-and-girls/india-child-prostitution-investigation-underage-sex-workers/",
+    "pubDate": "Thu, 18 Apr 2024 12:46:01 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/global-health/2024/04/18/TELEMMGLPICT000235957369_17134419589770_trans_NvBQzQNjv4BqP-t--XiuvYMJPd4Ncdgt2vm6lpeeyGleclc0qQ0_I34.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Alia Waheed",
+    "content": "<![CDATA[Sixty-one brothels were also shut down as a result of the 11-month long operation into the trafficking and exploitation of girls in India]]>",
+    "contentSnippet": "",
+    "guid": "839fe320-9c6d-38be-8e06-2102e57197c6",
+    "categories": [
+      {
+        "_": "topics:in-the-news/global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/children",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/human-trafficking",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/abuse",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/india",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:places/asia",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:women-and-girls",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:global-health-security",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:news/world-news",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T12:46:01.000Z"
+  },
+  {
+    "creator": "Telegraph Money Reporters",
+    "title": "Join The Telegraph’s ‘How I Spend My Money’ diaries – and find out where your cash really goes",
+    "link": "https://www.telegraph.co.uk/money/consumer-affairs/join-telegraph-how-i-spend-my-money-diaries/",
+    "pubDate": "Thu, 18 Apr 2024 11:18:03 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/money/2024/04/18/TELEMMGLPICT000373262123_17134389966240_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Telegraph Money Reporters",
+    "content": "<![CDATA[Time to gain valuable insights about your spending habits]]>",
+    "contentSnippet": "",
+    "guid": "aa592618-0f1f-3e0a-8148-8b00382498c3",
+    "categories": [
+      {
+        "_": "topics:things/consumer-affairs",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/its-your-money",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/your-money-your-family",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:money",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:special-exclusion",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T11:18:03.000Z"
+  },
+  {
+    "creator": "Tim Robey",
+    "title": "Abigail: Gloriously gory proof that kidnapping Dracula’s daughter is a bad idea",
+    "link": "https://www.telegraph.co.uk/films/0/abigail-review-dracula/",
+    "pubDate": "Thu, 18 Apr 2024 10:28:41 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/films/2024/04/18/TELEMMGLPICT000374276483_17134354141260_trans_NvBQzQNjv4BqE2XjdrYCNd3pnDOjqZKCS3wSCF1R0VweJ7DS2UnVMSQ.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Tim Robey",
+    "content": "<![CDATA[Matilda&rsquo;s Alisha Weir goes impressively off the deep end in this horror-thriller about six criminals who get more than they bargained for]]>",
+    "contentSnippet": "",
+    "guid": "f28758a5-5990-3335-b2a3-dae9b4b8ebda",
+    "categories": [
+      {
+        "_": "topics:things/horror-films",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/dracula",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:film",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:us-content",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "editors:tim-robey",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:review",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T10:28:41.000Z"
+  },
+  {
+    "creator": "Paul McAnulty",
+    "title": "Telegraph Fantasy Football tips: Game Week 33",
+    "link": "https://www.telegraph.co.uk/fantasy-sports/fantasy-football/telegraph-fantasy-football-tips/",
+    "pubDate": "Thu, 18 Apr 2024 09:02:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/Fantasy-football/mateta-edouard-eze-ff.jpg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Paul McAnulty",
+    "content": "<![CDATA[Three very lowly owned selections from the experts at Fantasy Football Hub this week - certain differentials in your mini-leagues]]>",
+    "contentSnippet": "",
+    "guid": "7262c82a-db3a-30b9-a345-3e88700eff16",
+    "categories": [
+      {
+        "_": "commercial:fantasy-sports/fantasy-football",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:apple-news-include",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:fantasy-sports/fantasy-football/fantasy-football-selection-tips",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:02:00.000Z"
   }
 ]
