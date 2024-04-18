@@ -2288,5 +2288,66 @@
       }
     ],
     "isoDate": "2024-04-01T19:15:51.000Z"
+  },
+  {
+    "creator": "Farah Nayeri",
+    "title": "At the Venice Biennale, Ukraine Offers a Bold Show, Two Years Into the Invasion",
+    "link": "https://www.nytimes.com/2024/04/18/arts/design/venice-biennale-ukraine.html",
+    "pubDate": "Thu, 18 Apr 2024 09:04:00 +0000",
+    "dc:creator": "Farah Nayeri",
+    "content": "At the art world’s seminal event, national pavilions offer a place to make a strong statement. Ukraine’s message? “The war is still going on.”",
+    "contentSnippet": "At the art world’s seminal event, national pavilions offer a place to make a strong statement. Ukraine’s message? “The war is still going on.”",
+    "guid": "https://www.nytimes.com/2024/04/18/arts/design/venice-biennale-ukraine.html",
+    "categories": [
+      {
+        "_": "Venice Biennale",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Art",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Russian Invasion of Ukraine (2022)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Civilian Casualties",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Refugees and Displaced Persons",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Ukraine",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Venice (Italy)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:04:00.000Z"
   }
 ]

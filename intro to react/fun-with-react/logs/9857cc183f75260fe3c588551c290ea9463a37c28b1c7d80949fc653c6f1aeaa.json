@@ -3760,5 +3760,102 @@
       }
     ],
     "isoDate": "2024-04-11T09:05:34.000Z"
+  },
+  {
+    "creator": "David Yaffe-Bellany and Matthew Goldstein",
+    "title": "Truth Social Has an Edge as Rival Right-Wing Apps Falter",
+    "link": "https://www.nytimes.com/2024/04/18/technology/truth-social-right-wing-apps.html",
+    "pubDate": "Thu, 18 Apr 2024 09:05:44 +0000",
+    "dc:creator": "David Yaffe-Bellany and Matthew Goldstein",
+    "content": "Donald Trump’s social media platform has outdistanced similar conservative sites such as Parler and Gettr, even as it lags far behind X and others.",
+    "contentSnippet": "Donald Trump’s social media platform has outdistanced similar conservative sites such as Parler and Gettr, even as it lags far behind X and others.",
+    "guid": "https://www.nytimes.com/2024/04/18/technology/truth-social-right-wing-apps.html",
+    "categories": [
+      {
+        "_": "Right-Wing Extremism and Alt-Right",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Conservatism (US Politics)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Computers and the Internet",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Social Media",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Mobile Applications",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Fringe Groups and Movements",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Entrepreneurship",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Gab AI Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Gettr USA Inc",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Parler LLC",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Trump Media & Technology Group",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Truth Social (Social Network)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "X (Formerly Twitter)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Trump, Donald J",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_per"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:05:44.000Z"
   }
 ]

@@ -12506,5 +12506,101 @@
       }
     ],
     "isoDate": "2024-04-18T09:00:00.000Z"
+  },
+  {
+    "creator": "Jeremy Wilson",
+    "title": "UK Sport to axe quarter of staff to slash costs for 2028 Olympics",
+    "link": "https://www.telegraph.co.uk/olympics/2024/04/18/uk-sport-axe-jobs-in-build-up-to-2028-olympics/",
+    "pubDate": "Thu, 18 Apr 2024 09:39:00 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/olympics/2024/04/18/TELEMMGLPICT000374213919_17134327956970_trans_NvBQzQNjv4Bqcb15D5j-aIE0rvtZU-Gw0f4Xpit_DMGvdp2n7FDd82k.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Jeremy Wilson",
+    "content": "<![CDATA[Government funding for the next Olympic cycle is expected to be reduced, potentially jeopardising medal hauls in Milan and Los Angeles]]>",
+    "contentSnippet": "",
+    "guid": "edb528f8-f609-3553-b681-18b496a7f0ac",
+    "categories": [
+      {
+        "_": "topics:events/paris-olympics-2024",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:events/los-angeles-olympics-2028",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:olympics",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:sport",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:39:00.000Z"
+  },
+  {
+    "creator": "Phoebe Smith",
+    "title": "The best sleeping bags of 2024 for cosy camping, tried and tested by an expert on cold nights",
+    "link": "https://www.telegraph.co.uk/recommended/leisure/best-sleeping-bags/",
+    "pubDate": "Thu, 18 Apr 2024 10:41:46 GMT",
+    "enclosure": {
+      "url": "https://www.telegraph.co.uk/content/dam/recommended/2024/04/18/TELEMMGLPICT000374363499_17134329912850_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg",
+      "length": "99",
+      "type": "image/jpeg"
+    },
+    "dc:creator": "Phoebe Smith",
+    "content": "<![CDATA[Adventurer Phoebe Smith tried the best sleeping bags to find the most affordable, the lightest for backpacking and the warmest for camping]]>",
+    "contentSnippet": "",
+    "guid": "82066e15-2729-3bcf-81b7-08833c186078",
+    "categories": [
+      {
+        "_": "topics:things/sleep",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "topics:things/tents",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "structure:recommended/leisure",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "commercial:telegraph-reviews",
+        "$": {
+          "domain": ""
+        }
+      },
+      {
+        "_": "storytype:standard",
+        "$": {
+          "domain": ""
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T10:41:46.000Z"
   }
 ]

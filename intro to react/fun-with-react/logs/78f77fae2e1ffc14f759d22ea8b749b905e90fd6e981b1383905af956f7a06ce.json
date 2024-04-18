@@ -7583,5 +7583,127 @@
       }
     ],
     "isoDate": "2024-04-18T01:32:00.000Z"
+  },
+  {
+    "creator": "Somini Sengupta and Manuela Andreoni",
+    "title": "Drought Pushes Millions Into ‘Acute Hunger’ in Southern Africa",
+    "link": "https://www.nytimes.com/2024/04/18/climate/drought-southern-africa.html",
+    "pubDate": "Thu, 18 Apr 2024 09:07:34 +0000",
+    "dc:creator": "Somini Sengupta and Manuela Andreoni",
+    "content": "The disaster, intensified by El Niño, is devastating communities across several countries, killing crops and livestock and sending food prices soaring.",
+    "contentSnippet": "The disaster, intensified by El Niño, is devastating communities across several countries, killing crops and livestock and sending food prices soaring.",
+    "guid": "https://www.nytimes.com/2024/04/18/climate/drought-southern-africa.html",
+    "categories": [
+      {
+        "_": "Global Warming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Drought",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Disasters and Emergencies",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Food Insecurity",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Zimbabwe",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Malawi",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Zambia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Agriculture and Farming",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "El Nino Southern Oscillation",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Corn",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "United Nations",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:07:34.000Z"
+  },
+  {
+    "creator": "Neil MacFarquhar",
+    "title": "3 Reasons This Obscure Country Is a Top ISIS Recruiting Ground",
+    "link": "https://www.nytimes.com/2024/04/18/world/europe/isis-isis-k-tajikistan.html",
+    "pubDate": "Thu, 18 Apr 2024 09:04:17 +0000",
+    "dc:creator": "Neil MacFarquhar",
+    "content": "Hundreds of Tajik men have joined an Islamic State affiliate, analysts say.",
+    "contentSnippet": "Hundreds of Tajik men have joined an Islamic State affiliate, analysts say.",
+    "guid": "https://www.nytimes.com/2024/04/18/world/europe/isis-isis-k-tajikistan.html",
+    "categories": [
+      {
+        "_": "Terrorism",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/des"
+        }
+      },
+      {
+        "_": "Islamic State in Iraq and Syria (ISIS)",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Islamic State Khorasan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_org"
+        }
+      },
+      {
+        "_": "Tajikistan",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      },
+      {
+        "_": "Russia",
+        "$": {
+          "domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo"
+        }
+      }
+    ],
+    "isoDate": "2024-04-18T09:04:17.000Z"
   }
 ]

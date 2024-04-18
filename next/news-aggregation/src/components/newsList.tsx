@@ -90,9 +90,9 @@ function NewsList(props: Readonly<{
       <div className="mb-4" data-testid="trending-words">
         <h2 className="text-xl font-bold">Trending Topics: {trendingWords.join(', ')}</h2>
       </div>
-      <div className="grid grid-cols-3 gap-10 ml-10 overflow-scroll">
-        {filteredNews.map((item) => (
-          <div data-testid="news-items" key={uuidv4()} >
+      <div data-testid="news-items" className="grid grid-cols-3 gap-10 ml-10 overflow-scroll">
+        {filteredNews.map((item,i) => (
+          <div data-testid={`news-item-${i}`}  key={uuidv4()} >
             <NewsItem item={item} />
           </div>
         ))}

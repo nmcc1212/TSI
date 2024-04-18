@@ -610,5 +610,65 @@
     "contentSnippet": "Hey everyone!\nI’m excited to share a project I’ve been working on throughout my university studies. It’s called BiTE (https://github.com/WINSDK/bite) and it's a tool primarily focused on being an executable viewer with reverse engineering capabilities.\nBiTE supports Windows, MacOS, and Linux, along with their associated executable formats. It’s also capable of parsing and displaying debug information using DWARF/PDB formats, which I hope will be useful even for just comparing codegen.\nI’ve put a lot of effort into this and it's the first time I'm releasing something like this publicly. Any feedback, bug reports, or feature suggestions would be greatly appreciated!\nComments URL: https://news.ycombinator.com/item?id=40063803\nPoints: 143\n# Comments: 15",
     "guid": "https://news.ycombinator.com/item?id=40063803",
     "isoDate": "2024-04-17T12:39:49.000Z"
+  },
+  {
+    "creator": "Luc",
+    "title": "How many bathrooms have Neanderthals in the tile?",
+    "link": "https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/",
+    "pubDate": "Wed, 17 Apr 2024 12:00:32 +0000",
+    "dc:creator": "Luc",
+    "comments": "https://news.ycombinator.com/item?id=40063367",
+    "content": "\n<p>Article URL: <a href=\"https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/\">https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=40063367\">https://news.ycombinator.com/item?id=40063367</a></p>\n<p>Points: 451</p>\n<p># Comments: 210</p>\n",
+    "contentSnippet": "Article URL: https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/\nComments URL: https://news.ycombinator.com/item?id=40063367\nPoints: 451\n# Comments: 210",
+    "guid": "https://news.ycombinator.com/item?id=40063367",
+    "isoDate": "2024-04-17T12:00:32.000Z"
+  },
+  {
+    "creator": "peter_hansteen",
+    "title": "OpenBSD – Coming soon to a -current system near you: parallel raw IP input",
+    "link": "https://www.undeadly.org/cgi?action=article;sid=20240418050520",
+    "pubDate": "Thu, 18 Apr 2024 05:05:54 +0000",
+    "dc:creator": "peter_hansteen",
+    "comments": "https://news.ycombinator.com/item?id=40073139",
+    "content": "\n<p>Article URL: <a href=\"https://www.undeadly.org/cgi?action=article;sid=20240418050520\">https://www.undeadly.org/cgi?action=article;sid=20240418050520</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=40073139\">https://news.ycombinator.com/item?id=40073139</a></p>\n<p>Points: 38</p>\n<p># Comments: 0</p>\n",
+    "contentSnippet": "Article URL: https://www.undeadly.org/cgi?action=article;sid=20240418050520\nComments URL: https://news.ycombinator.com/item?id=40073139\nPoints: 38\n# Comments: 0",
+    "guid": "https://news.ycombinator.com/item?id=40073139",
+    "isoDate": "2024-04-18T05:05:54.000Z"
+  },
+  {
+    "creator": "snvzz",
+    "title": "Lions OS: secure – fast – adaptable",
+    "link": "https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract",
+    "pubDate": "Thu, 18 Apr 2024 03:39:25 +0000",
+    "dc:creator": "snvzz",
+    "comments": "https://news.ycombinator.com/item?id=40072731",
+    "content": "\n<p>Article URL: <a href=\"https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract\">https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=40072731\">https://news.ycombinator.com/item?id=40072731</a></p>\n<p>Points: 40</p>\n<p># Comments: 4</p>\n",
+    "contentSnippet": "Article URL: https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract\nComments URL: https://news.ycombinator.com/item?id=40072731\nPoints: 40\n# Comments: 4",
+    "guid": "https://news.ycombinator.com/item?id=40072731",
+    "isoDate": "2024-04-18T03:39:25.000Z"
+  },
+  {
+    "creator": "todsacerdoti",
+    "title": "RHttp: REPL for HTTP",
+    "link": "https://github.com/1buran/rHttp",
+    "pubDate": "Wed, 17 Apr 2024 21:17:58 +0000",
+    "dc:creator": "todsacerdoti",
+    "comments": "https://news.ycombinator.com/item?id=40070138",
+    "content": "\n<p>Article URL: <a href=\"https://github.com/1buran/rHttp\">https://github.com/1buran/rHttp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=40070138\">https://news.ycombinator.com/item?id=40070138</a></p>\n<p>Points: 33</p>\n<p># Comments: 4</p>\n",
+    "contentSnippet": "Article URL: https://github.com/1buran/rHttp\nComments URL: https://news.ycombinator.com/item?id=40070138\nPoints: 33\n# Comments: 4",
+    "guid": "https://news.ycombinator.com/item?id=40070138",
+    "isoDate": "2024-04-17T21:17:58.000Z"
+  },
+  {
+    "creator": "Anon84",
+    "title": "Solving the minimum cut problem for undirected graphs",
+    "link": "https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/",
+    "pubDate": "Wed, 17 Apr 2024 13:05:14 +0000",
+    "dc:creator": "Anon84",
+    "comments": "https://news.ycombinator.com/item?id=40064027",
+    "content": "\n<p>Article URL: <a href=\"https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/\">https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=40064027\">https://news.ycombinator.com/item?id=40064027</a></p>\n<p>Points: 192</p>\n<p># Comments: 35</p>\n",
+    "contentSnippet": "Article URL: https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/\nComments URL: https://news.ycombinator.com/item?id=40064027\nPoints: 192\n# Comments: 35",
+    "guid": "https://news.ycombinator.com/item?id=40064027",
+    "isoDate": "2024-04-17T13:05:14.000Z"
   }
 ]
