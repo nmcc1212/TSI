@@ -9,7 +9,7 @@ import mongoose from 'mongoose';
 const app = express();
 const port = 50111;
 
-const cors = require('cors');
+import cors from 'cors';
 app.use(cors());
 
 app.use(express.json());

@@ -4,15 +4,15 @@
     <testCase name="NavBar component renders the navbar" duration="24"/>
   </file>
   <file path="/Users/nial/TSI/next/news-aggregation/test/test_newsList.test.js">
-    <testCase name="NewsList renders loading state initially" duration="3"/>
-    <testCase name="NewsList renders news items after data fetching" duration="86"/>
-    <testCase name="NewsList should console.error on failed axios request" duration="8"/>
+    <testCase name="NewsList renders loading state initially" duration="4"/>
+    <testCase name="NewsList renders news items after data fetching" duration="80"/>
+    <testCase name="NewsList should console.error on failed axios request" duration="7"/>
     <testCase name="NewsList should filter news items by search query" duration="7"/>
-    <testCase name="NewsList should set treding words to commoun words" duration="13"/>
+    <testCase name="NewsList should set treding words to commoun words" duration="8"/>
   </file>
   <file path="/Users/nial/TSI/next/news-aggregation/test/test_app.test.js">
-    <testCase name="App component renders App component" duration="33"/>
-    <testCase name="App component navigates to Ukraine News when the route is changed" duration="74"/>
-    <testCase name="App component navigates to World News when the route is changed" duration="44"/>
+    <testCase name="App component renders App component" duration="34"/>
+    <testCase name="App component navigates to Ukraine News when the route is changed" duration="73"/>
+    <testCase name="App component navigates to World News when the route is changed" duration="40"/>
   </file>
 </testExecutions>
