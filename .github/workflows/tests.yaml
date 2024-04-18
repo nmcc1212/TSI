@@ -33,7 +33,7 @@ jobs:
               working-directory: ./next/news-aggregation
               run: sudo npm install
             - name: playright setup
-              run: npx playwright install
+              run: npx playwright install --with-deps
             - name: Tailscale
               uses: tailscale/github-action@v2
               with:
