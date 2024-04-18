@@ -3,7 +3,7 @@ import next from 'next';
 import nextJest from 'next/jest.js';
 
 const createJestConfig = nextJest({
-    dir: './',
+    dir: './test', // Specify the directory containing test files
 });
 
 const config: Config = {

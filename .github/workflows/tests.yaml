@@ -32,6 +32,8 @@ jobs:
             - name: install dependencies
               working-directory: ./next/news-aggregation
               run: sudo npm install
+            - name: playright setup
+              run: npx playwright install
             - name: run tests
               working-directory: ./next/news-aggregation
               run: npx playwright test
