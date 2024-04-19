@@ -27,7 +27,7 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         context: .
-        file: docker/cacher
+        file: docker/cacher/Dockerfile
         push: true
         tags: ghcr.io/nmcc1212/cacher:latest
 
@@ -51,7 +51,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           context: .
-          file: docker/next-app
+          file: docker/next-app/Dockerfile
           push: true
           tags: ghcr.io/nmcc1212/next-app:latest
 
@@ -75,6 +75,6 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           context: .
-          file: docker/rss-to-json
+          file: docker/rss-to-json/Dockerfile
           push: true
           tags: ghcr.io/nmcc1212/rss-to-json:latest
