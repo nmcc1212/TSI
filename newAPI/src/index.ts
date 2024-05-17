@@ -8,6 +8,7 @@ import userRouter from "./routes/userRoutes";
 import loggerMiddleware from "./middlewares/logger";
 import { create } from "domain";
 import http from 'http';
+import { env } from "process";
 
 // const app = express();
 const port = 3101;
@@ -18,12 +19,10 @@ app.use(loggerMiddleware);
 app.use("/posts", postRouter);
 app.use("/users", userRouter);
 
+const mongoUri = env.MONGO_URI || "mongodb://localhost:27017/socialAPI";
+
 async function main() {
-  await mongoose.connect("mongodb://100.125.70.69:27017/socialAPI", {
-    authSource: "admin",
-    user: "root",
-    pass: "password",
-  });
+  await mongoose.connect(mongoUri);
   console.log("Connected to MongoDB");
   createHttpServer();
 }

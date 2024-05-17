@@ -2,13 +2,11 @@
 import bcrypt from "bcrypt";
 import mongoose from "mongoose";
 import User from "./src/schemas/usersSchema";
+import { env } from "process";
 
 async function main() {
-    await mongoose.connect("mongodb://100.125.70.69:27017/socialAPI", {
-      authSource: "admin",
-      user: "root",
-      pass: "password",
-    });
+    const mongoUri = env.MONGO_URI || "mongodb://localhost:27017/socialAPI";
+    await mongoose.connect(mongoUri);
     console.log("Connected to database");
     const users = await User.find();
     for (const user of users) {
