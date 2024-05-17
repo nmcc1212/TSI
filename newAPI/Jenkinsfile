@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    tools {docker "docker"}
+    tools {dockerTool "docker"}
     environment {
         DOCKERHUB_CREDENTIALS = credentials('nial-dockerhub-credentials')
         DOCKERHUB_REPO = 'nial538/newapi-api'
