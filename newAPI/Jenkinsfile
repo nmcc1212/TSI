@@ -14,9 +14,11 @@ pipeline {
         }
 
         stage('Build Docker Image') {
-            steps {
-                script {
-                    dockerImage = docker.build("${DOCKERHUB_REPO}")
+            dir('newAPI') {
+                steps {
+                    script {
+                        dockerImage = docker.build("${DOCKERHUB_REPO}")
+                    }
                 }
             }
         }
