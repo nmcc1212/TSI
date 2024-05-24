@@ -25,7 +25,7 @@ function NewsList(props: Readonly<{
       try {
         setIsLoading(true);
         if (Array.isArray(props.rssFeedUrls)) {
-          const response = await axios.post('http://100.88.40.21:50111/api/fetchNews', {
+          const response = await axios.post('http://localhost:50111/api/fetchNews', {
             // const response = await axios.post('http://100.125.70.69:50111/api/fetchNews', {
             rssFeedUrls: props.rssFeedUrls,
           });
