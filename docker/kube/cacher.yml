@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cacher
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cacher
+  template:
+    metadata:
+      labels:
+        app: cacher
+    spec:
+      containers:
+      - name: cacher
+        image: ghcr.io/nmcc1212/cacher
+        ports:
+        - containerPort: 50111
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cacher
+spec:
+  selector:
+    app: cacher
+  ports:
+  - protocol: TCP
+    port: 50111
+    targetPort: 50111
+  type: LoadBalancer
