@@ -1,19 +1,19 @@
 {
-	"folders": [
-		{
-			"path": "../../.."
-		}
-	],
-	"settings": {
-		"jest.disabledWorkspaceFolders": [
-			"TSI",
-			"TSI",
-			"t3st",
-			"fun-with-react",
-			"tictactoe-done",
-			"intro to ts",
-			"vite-project",
-			"data in JS"
-		]
-	}
+  "folders": [
+    {
+      "path": "../../..",
+    },
+  ],
+  "settings": {
+    "jest.disabledWorkspaceFolders": [
+      "TSI",
+      "TSI",
+      "t3st",
+      "fun-with-react",
+      "tictactoe-done",
+      "intro to ts",
+      "vite-project",
+      "data in JS",
+    ],
+  },
 }

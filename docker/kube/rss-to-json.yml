@@ -13,10 +13,10 @@ spec:
         app: rss-to-json
     spec:
       containers:
-      - name: rss-to-json
-        image: ghcr.io/nmcc1212/rss-to-json
-        ports:
-        - containerPort: 50110
+        - name: rss-to-json
+          image: ghcr.io/nmcc1212/rss-to-json
+          ports:
+            - containerPort: 50110
 
 ---
 apiVersion: v1
@@ -27,7 +27,7 @@ spec:
   selector:
     app: rss-to-json
   ports:
-  - protocol: TCP
-    port: 50110
-    targetPort: 50110
+    - protocol: TCP
+      port: 50110
+      targetPort: 50110
   type: LoadBalancer

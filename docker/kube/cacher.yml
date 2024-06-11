@@ -13,10 +13,10 @@ spec:
         app: cacher
     spec:
       containers:
-      - name: cacher
-        image: ghcr.io/nmcc1212/cacher
-        ports:
-        - containerPort: 50111
+        - name: cacher
+          image: ghcr.io/nmcc1212/cacher
+          ports:
+            - containerPort: 50111
 
 ---
 apiVersion: v1
@@ -27,7 +27,7 @@ spec:
   selector:
     app: cacher
   ports:
-  - protocol: TCP
-    port: 50111
-    targetPort: 50111
+    - protocol: TCP
+      port: 50111
+      targetPort: 50111
   type: LoadBalancer

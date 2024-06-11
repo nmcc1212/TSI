@@ -44,7 +44,7 @@ userRouter.post("/", PostValidation, async (req: Request, res: Response) => {
     "with id: ",
     user.id,
     "and email: ",
-    user.email
+    user.email,
   ),
     "and password: ",
     user.password;
@@ -131,7 +131,7 @@ userRouter.patch(
     }
     const updatedUser = await user.save();
     res.json(updatedUser);
-  }
+  },
 );
 
 const deleteValidation = [
@@ -164,7 +164,7 @@ userRouter.delete(
     }
     await user.deleteOne();
     res.json({ message: "User deleted" });
-  }
+  },
 );
 
 export default userRouter;

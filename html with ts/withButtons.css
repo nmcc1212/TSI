@@ -1,34 +1,42 @@
-body  {
-    background-image: url('https://static.pexels.com/photos/414171/pexels-photo-414171.jpeg');
-  background-size:cover;
-        -webkit-animation: slidein 100s;
-        animation: slidein 100s;
+body {
+  background-image: url("https://static.pexels.com/photos/414171/pexels-photo-414171.jpeg");
+  background-size: cover;
+  -webkit-animation: slidein 100s;
+  animation: slidein 100s;
 
-        -webkit-animation-fill-mode: forwards;
-        animation-fill-mode: forwards;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
 
-        -webkit-animation-iteration-count: infinite;
-        animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
 
-        -webkit-animation-direction: alternate;
-        animation-direction: alternate;              
+  -webkit-animation-direction: alternate;
+  animation-direction: alternate;
 }
 
 @-webkit-keyframes slidein {
-from {background-position: top; background-size:3000px; }
-to {background-position: -100px 0px;background-size:2750px;}
+  from {
+    background-position: top;
+    background-size: 3000px;
+  }
+  to {
+    background-position: -100px 0px;
+    background-size: 2750px;
+  }
 }
 
 @keyframes slidein {
-from {background-position: top;background-size:3000px; }
-to {background-position: -100px 0px;background-size:2750px;}
-
+  from {
+    background-position: top;
+    background-size: 3000px;
+  }
+  to {
+    background-position: -100px 0px;
+    background-size: 2750px;
+  }
 }
 
-
-
-.center
-{
+.center {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -41,14 +49,24 @@ to {background-position: -100px 0px;background-size:2750px;}
   background: rgba(75, 75, 250, 0.3);
   border-radius: 3px;
 }
-.center h1{
-  text-align:center;
-  color:white;
-  font-family: 'Source Code Pro', monospace;
-  text-transform:uppercase;
+.center h1 {
+  text-align: center;
+  color: white;
+  font-family: "Source Code Pro", monospace;
+  text-transform: uppercase;
 }
 .rainbow-text {
-  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  background-image: linear-gradient(
+    to left,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red
+  );
+  -webkit-background-clip: text;
   color: transparent;
 }
 
@@ -91,7 +109,14 @@ li {
   letter-spacing: 5px;
 }
 .rainbow_text_animated {
-  background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+  background: linear-gradient(
+    to right,
+    #6666ff,
+    #0099ff,
+    #00ff00,
+    #ff3399,
+    #6666ff
+  );
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -99,19 +124,19 @@ li {
   background-size: 400% 100%;
 }
 
-
 @keyframes rainbow_animation {
-  0%,100% {
-      background-position: 0 0;
+  0%,
+  100% {
+    background-position: 0 0;
   }
 
   50% {
-      background-position: 100% 0;
+    background-position: 100% 0;
   }
 }
 #myBtn {
   position: absolute;
-} 
+}
 
 #whiteText {
   color: white;

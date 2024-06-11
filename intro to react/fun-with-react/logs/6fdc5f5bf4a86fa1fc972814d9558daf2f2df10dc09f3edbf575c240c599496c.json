@@ -11,10 +11,7 @@
     "content": "The Squid Nebula is a recent discovery, first spotted in 2011.",
     "contentSnippet": "The Squid Nebula is a recent discovery, first spotted in 2011.",
     "guid": "https://arstechnica.com/?p=1978974",
-    "categories": [
-      "Space",
-      "daily telescope"
-    ],
+    "categories": ["Space", "daily telescope"],
     "isoDate": "2023-10-27T12:00:12.000Z"
   },
   {
@@ -80,11 +77,7 @@
     "content": "SBF said he thought loans were legal but didn't fully read FTX terms of service.",
     "contentSnippet": "SBF said he thought loans were legal but didn't fully read FTX terms of service.",
     "guid": "https://arstechnica.com/?p=1979088",
-    "categories": [
-      "Policy",
-      "sam bankman-fried",
-      "sam bankman-fried ftx"
-    ],
+    "categories": ["Policy", "sam bankman-fried", "sam bankman-fried ftx"],
     "isoDate": "2023-10-26T20:54:45.000Z"
   },
   {
@@ -152,11 +145,7 @@
     "content": "Firm drops widely panned idea but still aims to move users \"up our price card.\"",
     "contentSnippet": "Firm drops widely panned idea but still aims to move users \"up our price card.\"",
     "guid": "https://arstechnica.com/?p=1979010",
-    "categories": [
-      "Policy",
-      "t-mobile",
-      "t-mobile plans"
-    ],
+    "categories": ["Policy", "t-mobile", "t-mobile plans"],
     "isoDate": "2023-10-26T18:24:20.000Z"
   },
   {
@@ -171,12 +160,7 @@
     "content": "For now this is early access, but \"most\" customers will get upgraded eventually.",
     "contentSnippet": "For now this is early access, but \"most\" customers will get upgraded eventually.",
     "guid": "https://arstechnica.com/?p=1978969",
-    "categories": [
-      "Google",
-      "Tech",
-      "Google Fiber",
-      "internet speed"
-    ],
+    "categories": ["Google", "Tech", "Google Fiber", "internet speed"],
     "isoDate": "2023-10-26T17:56:54.000Z"
   },
   {
@@ -303,12 +287,7 @@
     "content": "OVC builds re-creations of 1960s Mustangs—we help test a Peter Brock-designed hood.",
     "contentSnippet": "OVC builds re-creations of 1960s Mustangs—we help test a Peter Brock-designed hood.",
     "guid": "https://arstechnica.com/?p=1978858",
-    "categories": [
-      "Cars",
-      "aerodynamics",
-      "Ford Mustang",
-      "Restomod"
-    ],
+    "categories": ["Cars", "aerodynamics", "Ford Mustang", "Restomod"],
     "isoDate": "2023-10-26T14:59:18.000Z"
   },
   {
@@ -323,11 +302,7 @@
     "content": "But an internal combustion engine-powered commercial van is going into production.",
     "contentSnippet": "But an internal combustion engine-powered commercial van is going into production.",
     "guid": "https://arstechnica.com/?p=1978841",
-    "categories": [
-      "Cars",
-      "Tokyo Auto Show",
-      "Toyota"
-    ],
+    "categories": ["Cars", "Tokyo Auto Show", "Toyota"],
     "isoDate": "2023-10-26T14:10:23.000Z"
   },
   {
@@ -364,10 +339,7 @@
     "content": "\"My goal was to highlight the comet's journey.\"",
     "contentSnippet": "\"My goal was to highlight the comet's journey.\"",
     "guid": "https://arstechnica.com/?p=1978811",
-    "categories": [
-      "Space",
-      "daily telescope"
-    ],
+    "categories": ["Space", "daily telescope"],
     "isoDate": "2023-10-26T12:00:08.000Z"
   },
   {
@@ -451,11 +423,7 @@
     "content": "The M11-P is the first camera to integrate Content Credentials.",
     "contentSnippet": "The M11-P is the first camera to integrate Content Credentials.",
     "guid": "https://arstechnica.com/?p=1979140",
-    "categories": [
-      "AI",
-      "Tech",
-      "cameras"
-    ],
+    "categories": ["AI", "Tech", "cameras"],
     "isoDate": "2023-10-27T13:58:53.000Z"
   },
   {
@@ -470,13 +438,7 @@
     "content": "There's no way to opt out, leading artists to believe Meta's system is badly broken.",
     "contentSnippet": "There's no way to opt out, leading artists to believe Meta's system is badly broken.",
     "guid": "https://arstechnica.com/?p=1979173",
-    "categories": [
-      "AI",
-      "copyright",
-      "LLM",
-      "meta",
-      "syndication"
-    ],
+    "categories": ["AI", "copyright", "LLM", "meta", "syndication"],
     "isoDate": "2023-10-27T13:38:52.000Z"
   },
   {
@@ -514,10 +476,7 @@
     "content": "Between 2001 and 2020, there was an average of 3 cases per year. Last year's tally was 24.",
     "contentSnippet": "Between 2001 and 2020, there was an average of 3 cases per year. Last year's tally was 24.",
     "guid": "https://arstechnica.com/?p=2018117",
-    "categories": [
-      "Health",
-      "Science"
-    ],
+    "categories": ["Health", "Science"],
     "isoDate": "2024-04-17T22:26:59.000Z"
   },
   {
@@ -554,9 +513,7 @@
     "content": "All-electric, 360-degree joints give the new Atlas plenty of inhuman movements. ",
     "contentSnippet": "All-electric, 360-degree joints give the new Atlas plenty of inhuman movements.",
     "guid": "https://arstechnica.com/?p=2017478",
-    "categories": [
-      "Tech"
-    ],
+    "categories": ["Tech"],
     "isoDate": "2024-04-17T21:08:17.000Z"
   },
   {
@@ -571,10 +528,7 @@
     "content": "Former OpenAI researcher once predicted a 50 percent chance of AI killing all of us. ",
     "contentSnippet": "Former OpenAI researcher once predicted a 50 percent chance of AI killing all of us.",
     "guid": "https://arstechnica.com/?p=2017927",
-    "categories": [
-      "AI",
-      "Policy"
-    ],
+    "categories": ["AI", "Policy"],
     "isoDate": "2024-04-17T20:30:43.000Z"
   },
   {
@@ -665,10 +619,7 @@
     "content": "Tesla board calls June 13 shareholder vote on Musk's pay and move to Texas.",
     "contentSnippet": "Tesla board calls June 13 shareholder vote on Musk's pay and move to Texas.",
     "guid": "https://arstechnica.com/?p=2017920",
-    "categories": [
-      "Policy",
-      "tesla elon musk"
-    ],
+    "categories": ["Policy", "tesla elon musk"],
     "isoDate": "2024-04-17T17:52:18.000Z"
   },
   {
@@ -773,10 +724,7 @@
     "content": "3 million Honda Accords and CR-Vs are fitted with Collision Mitigation Braking System.",
     "contentSnippet": "3 million Honda Accords and CR-Vs are fitted with Collision Mitigation Braking System.",
     "guid": "https://arstechnica.com/?p=2017732",
-    "categories": [
-      "Cars",
-      "honda"
-    ],
+    "categories": ["Cars", "honda"],
     "isoDate": "2024-04-17T13:57:47.000Z"
   },
   {
@@ -791,12 +739,7 @@
     "content": "Data centers are becoming a bottleneck for AI development.",
     "contentSnippet": "Data centers are becoming a bottleneck for AI development.",
     "guid": "https://arstechnica.com/?p=2017729",
-    "categories": [
-      "AI",
-      "data centers",
-      "electricity",
-      "syndication"
-    ],
+    "categories": ["AI", "data centers", "electricity", "syndication"],
     "isoDate": "2024-04-17T13:55:37.000Z"
   },
   {
@@ -811,12 +754,7 @@
     "content": "The update will first roll out to cars with Google Maps built-in.",
     "contentSnippet": "The update will first roll out to cars with Google Maps built-in.",
     "guid": "https://arstechnica.com/?p=2017708",
-    "categories": [
-      "Cars",
-      "Google",
-      "Electric vehicles",
-      "google maps"
-    ],
+    "categories": ["Cars", "Google", "Electric vehicles", "google maps"],
     "isoDate": "2024-04-17T13:06:13.000Z"
   },
   {
@@ -924,10 +862,7 @@
     "content": "FCC plan rejected request to ban what agency calls \"positive\" discrimination.",
     "contentSnippet": "FCC plan rejected request to ban what agency calls \"positive\" discrimination.",
     "guid": "https://arstechnica.com/?p=2017518",
-    "categories": [
-      "Policy",
-      "fcc net neutrality"
-    ],
+    "categories": ["Policy", "fcc net neutrality"],
     "isoDate": "2024-04-16T20:38:38.000Z"
   },
   {

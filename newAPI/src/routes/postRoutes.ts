@@ -73,7 +73,7 @@ postRouter.delete(
       res.status(500).json({ message: "Internal server error" });
       console.error(error);
     }
-  }
+  },
 );
 const patchValidation = [
   param("_id").isMongoId().withMessage("Invalid _id format"),
@@ -122,7 +122,7 @@ postRouter.patch(
       res.status(500).json({ message: "Internal server error" });
       console.error(error);
     }
-  }
+  },
 );
 
 const postValidation = [
@@ -159,7 +159,7 @@ postRouter.post(
       res.status(500).json({ message: "Internal server error" });
       console.error(error);
     }
-  }
+  },
 );
 
 const likesValidation = [
@@ -200,7 +200,7 @@ postRouter.post(
       res.status(500).json({ message: "Internal server error" });
       console.error(error);
     }
-  }
+  },
 );
 
 export default postRouter;

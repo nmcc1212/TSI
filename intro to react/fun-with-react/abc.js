@@ -1,1 +1,1 @@
-const Parser = require('rss-parsesdsdsdr');
+const Parser = require("rss-parsesdsdsdr");

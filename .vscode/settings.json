@@ -1,7 +1,7 @@
 {
-    "sonarlint.connectedMode.project": {
-        "connectionId": "macbook",
-        "projectKey": "nmcc1212_TSI_AYwhmp3yeDOWGHdFx60w"
-    },
-    "jest.rootPath": "next/news-aggregation"
+  "sonarlint.connectedMode.project": {
+    "connectionId": "macbook",
+    "projectKey": "nmcc1212_TSI_AYwhmp3yeDOWGHdFx60w"
+  },
+  "jest.rootPath": "next/news-aggregation"
 }

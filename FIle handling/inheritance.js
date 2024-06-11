@@ -1,47 +1,49 @@
 // class human has properties age and name
 class Human {
-    constructor(age, name) {
-        this.age = age;
-        this.name = name;
-    }
+  constructor(age, name) {
+    this.age = age;
+    this.name = name;
+  }
 
-    displayInfo() {
-        console.log(`Name: ${this.name}, Age: ${this.age}`);
-    }
+  displayInfo() {
+    console.log(`Name: ${this.name}, Age: ${this.age}`);
+  }
 }
 
 // class trainer inherits from class human
 class Trainer extends Human {
-    constructor(age, name, subject) {
-        super(age, name);
-        this.subject = subject;
-    }
+  constructor(age, name, subject) {
+    super(age, name);
+    this.subject = subject;
+  }
 
-    displayInfo() {
-        super.displayInfo();
-        console.log(`Subject: ${this.subject}`);
-    }
+  displayInfo() {
+    super.displayInfo();
+    console.log(`Subject: ${this.subject}`);
+  }
 
-    conductTraining() {
-        console.log(`${this.name} is conducting a training session on ${this.subject}.`);
-    }
+  conductTraining() {
+    console.log(
+      `${this.name} is conducting a training session on ${this.subject}.`,
+    );
+  }
 }
 
 // class consultant inherits from class human
 class Consultant extends Human {
-    constructor(age, name, company) {
-        super(age, name);
-        this.company = company;
-    }
+  constructor(age, name, company) {
+    super(age, name);
+    this.company = company;
+  }
 
-    displayInfo() {
-        super.displayInfo();
-        console.log(`Company: ${this.company}`);
-    }
+  displayInfo() {
+    super.displayInfo();
+    console.log(`Company: ${this.company}`);
+  }
 
-    provideConsultation() {
-        console.log(`${this.name} is providing consultation for ${this.company}.`);
-    }
+  provideConsultation() {
+    console.log(`${this.name} is providing consultation for ${this.company}.`);
+  }
 }
 
 // Example usage:

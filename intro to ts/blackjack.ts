@@ -3,7 +3,10 @@ import promptSync from "prompt-sync";
 const prompt = promptSync();
 
 class Card {
-  constructor(public value: number, public suit: string) {}
+  constructor(
+    public value: number,
+    public suit: string,
+  ) {}
 }
 
 class Deck {
@@ -73,20 +76,20 @@ class Player {
         card.value === 1
           ? "A"
           : card.value === 11
-          ? "J"
-          : card.value === 12
-          ? "Q"
-          : card.value === 13
-          ? "K"
-          : card.value.toString();
+            ? "J"
+            : card.value === 12
+              ? "Q"
+              : card.value === 13
+                ? "K"
+                : card.value.toString();
       const suit =
         card.suit === "hearts"
           ? "\x1b[31m♥\x1b[0m"
           : card.suit === "diamonds"
-          ? "\x1b[31m♦\x1b[0m"
-          : card.suit === "spades"
-          ? "♠"
-          : "♣";
+            ? "\x1b[31m♦\x1b[0m"
+            : card.suit === "spades"
+              ? "♠"
+              : "♣";
       lines[0] += "┌─────────┐ ";
       lines[1] += `│${rank.padEnd(2)}       │ `;
       lines[2] += "│         │ ";
@@ -149,7 +152,7 @@ class Blackjack {
     console.log(
       `Your hand:\n${this.player.asciiVersionOfHand()}Total: ${
         this.player.score
-      }`
+      }`,
     );
     while (!this.isGameOver) {
       if (this.player.score < 21) {
@@ -159,7 +162,7 @@ class Blackjack {
           console.log(
             `Your hand:\n${this.player.asciiVersionOfHand()}Total: ${
               this.player.score
-            }`
+            }`,
           );
         } else if (input === "s") {
           break;

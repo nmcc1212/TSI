@@ -1,17 +1,16 @@
-import './App.css';
-import Example from './notApp.js'
-import buttonResponse from './buttonAlert.js'
-import LogoToggle from './logoToggle.js'
-import Counter from './counter.js'
-
+import "./App.css";
+import Example from "./notApp.js";
+import buttonResponse from "./buttonAlert.js";
+import LogoToggle from "./logoToggle.js";
+import Counter from "./counter.js";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Example/>
-        <LogoToggle/>
-        <Counter/>
+        <Example />
+        <LogoToggle />
+        <Counter />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -24,7 +23,6 @@ function App() {
         >
           Learn React
         </a>
-        
       </header>
     </div>
   );

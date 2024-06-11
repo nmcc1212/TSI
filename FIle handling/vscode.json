@@ -1,31 +1,31 @@
 {
-    "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
-    "editor.inlineSuggest.enabled": true,
-    "git.enableSmartCommit": true,
-    "github.copilot.enable": {
-        "*": true,
-        "plaintext": true,
-        "markdown": false,
-        "scminput": false,
-        "yaml": false
-    },
-    "yaml.schemas": {
-        "file:///Users/nial/.vscode/extensions/docsmsft.docs-yaml-1.0.1/dist/toc.schema.json": "/toc\\.yml/i"
-    },
-    "diffEditor.ignoreTrimWhitespace": false,
-    "[python]": {
-        "editor.formatOnType": true
-    },
-    "workbench.colorTheme": "Shades of Purple",
-    "liveServer.settings.donotShowInfoMsg": true,
-    "debug.javascript.defaultRuntimeExecutable": {
-        "pwa-node": "node"
-    },
-    "liveServer.settings.donotVerifyTags": true,
-    "telemetry.telemetryLevel": "off",
-    "redhat.telemetry.enabled": false,
-    "gitlens.telemetry.enabled": false,
-    "docsYaml.telemetry.enableTelemetry": false,
-    "code-runner.enableAppInsights": false,
-    "files.autoSave": "onFocusChange"
+  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+  "editor.inlineSuggest.enabled": true,
+  "git.enableSmartCommit": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": false,
+    "scminput": false,
+    "yaml": false
+  },
+  "yaml.schemas": {
+    "file:///Users/nial/.vscode/extensions/docsmsft.docs-yaml-1.0.1/dist/toc.schema.json": "/toc\\.yml/i"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "workbench.colorTheme": "Shades of Purple",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "debug.javascript.defaultRuntimeExecutable": {
+    "pwa-node": "node"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "telemetry.telemetryLevel": "off",
+  "redhat.telemetry.enabled": false,
+  "gitlens.telemetry.enabled": false,
+  "docsYaml.telemetry.enableTelemetry": false,
+  "code-runner.enableAppInsights": false,
+  "files.autoSave": "onFocusChange"
 }

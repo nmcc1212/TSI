@@ -6,26 +6,23 @@ type Props = {
 };
 
 const NavBar = ({ sendQueryToParent }: Props) => {
-    const [query, setQuery] = useState("");
-  
-    const sendQuery = () => {
-      sendQueryToParent(query);
-    };
-  
-    const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-      const newQuery = event.target.value;
-      setQuery(newQuery);
-      sendQueryToParent(newQuery);
-    };
+  const [query, setQuery] = useState("");
+
+  const sendQuery = () => {
+    sendQueryToParent(query);
+  };
+
+  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const newQuery = event.target.value;
+    setQuery(newQuery);
+    sendQueryToParent(newQuery);
+  };
 
   return (
     <div className="">
       <nav className="border-blue-200 bg-blue-200 dark:bg-blue-200 dark:border-blue-200">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-center mx-auto p-4">
-          <div
-            className="hidden w-full md:block md:w-auto"
-            id="navbar-default"
-          >
+          <div className="hidden w-full md:block md:w-auto" id="navbar-default">
             <ul className="h-5 font-medium flex flex-col p-4 md:p-3 items-center mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
               <li>
                 <Link
